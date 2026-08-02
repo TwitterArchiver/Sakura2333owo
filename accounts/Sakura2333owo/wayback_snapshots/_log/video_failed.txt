@@ -7,7 +7,6 @@ https://video.twimg.com/ext_tw_video/1825870696729530368/pu/vid/avc1/720x1280/67
 https://video.twimg.com/ext_tw_video/1829913366573563910/pu/vid/avc1/720x1270/5tc21FFh0G7wr1bW.mp4?tag=12
 https://video.twimg.com/ext_tw_video/1794673796122873856/pu/vid/avc1/720x1280/IRLO3gfqNUBB98GW.mp4?tag=12
 https://video.twimg.com/ext_tw_video/1865049079740534784/pu/vid/avc1/720x1280/2N1KjVZmnaHj22TD.mp4?tag=12
-https://video.twimg.com/ext_tw_video/1856847886686060544/pu/vid/avc1/720x1280/mOqZtTrDmdoxuapK.mp4?tag=12
 https://video.twimg.com/tweet_video/Ge7yqjBbYAAxN1G.mp4
 https://video.twimg.com/ext_tw_video/1878470973567250432/pu/vid/avc1/590x1280/NoVjWOC69ftyyyR-.mp4?tag=12
 https://video.twimg.com/ext_tw_video/1870181814071107584/pu/vid/avc1/590x1280/173oGDjxH54xtv3I.mp4?tag=12
@@ -16,7 +15,6 @@ https://video.twimg.com/ext_tw_video/1888224923027685376/pu/vid/avc1/840x720/G1H
 https://video.twimg.com/ext_tw_video/1883524430242185216/pu/vid/avc1/720x1280/YVV0hV6JNBLfzpLN.mp4?tag=12
 https://video.twimg.com/tweet_video/GjpVJMCaIAIynem.mp4
 https://video.twimg.com/ext_tw_video/1883521123394150401/pu/vid/avc1/720x1280/T0hjOVKc4_siw0u4.mp4?tag=12
-https://video.twimg.com/amplify_video/1891169286238216192/vid/avc1/720x844/3KPkgMKhyiMl9jcE.mp4?tag=14
 https://video.twimg.com/amplify_video/1914952841699188737/vid/avc1/720x1280/BlMUepC9W7mOExQZ.mp4?tag=14
 https://video.twimg.com/amplify_video/1929225198068477952/vid/avc1/720x1280/GhLBrgM5ArEgUtbD.mp4
 https://video.twimg.com/amplify_video/1936664530538369024/vid/avc1/720x1280/u7LKjncqTkmOrrFR.mp4
@@ -44,3 +42,5 @@ https://video.twimg.com/amplify_video/2009355916106211328/vid/avc1/1136x720/7697
 https://video.twimg.com/amplify_video/1979042299851005952/vid/avc1/590x1280/jA-8bWpYkJzQg5w_.mp4
 https://video.twimg.com/amplify_video/1979042299737780224/vid/avc1/590x1280/MNxUA1koN0AQspL6.mp4
 https://video.twimg.com/amplify_video/1979010262712655872/vid/avc1/590x1280/k_eiu9XFM965z519.mp4
+https://video.twimg.com/ext_tw_video/1794674154865926145/pu/vid/avc1/720x1280/YBMogHATh6pAyNDV.mp4?tag=12
+https://video.twimg.com/ext_tw_video/1791408699740942336/pu/vid/avc1/668x1188/KZSPPJ_WfGViGYbj.mp4?tag=12
