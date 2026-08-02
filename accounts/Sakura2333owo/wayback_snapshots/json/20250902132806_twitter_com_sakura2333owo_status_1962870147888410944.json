@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962870068389519360",
+        "3_1962870068418957312",
+        "3_1962870068381175808"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1962870147888410944",
+    "created_at": "2025-09-02T13:28:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T14:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962870147888410944"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OSPZSR2cPa",
+          "end": 25,
+          "expanded_url": "https://x.com/sakura2333owo/status/1962870147888410944/photo/1",
+          "media_key": "3_1962870068389519360",
+          "start": 2,
+          "url": "https://t.co/OSPZSR2cPa"
+        },
+        {
+          "display_url": "pic.x.com/OSPZSR2cPa",
+          "end": 25,
+          "expanded_url": "https://x.com/sakura2333owo/status/1962870147888410944/photo/1",
+          "media_key": "3_1962870068418957312",
+          "start": 2,
+          "url": "https://t.co/OSPZSR2cPa"
+        },
+        {
+          "display_url": "pic.x.com/OSPZSR2cPa",
+          "end": 25,
+          "expanded_url": "https://x.com/sakura2333owo/status/1962870147888410944/photo/1",
+          "media_key": "3_1962870068381175808",
+          "start": 2,
+          "url": "https://t.co/OSPZSR2cPa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962870147888410944",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😢 https://t.co/OSPZSR2cPa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962870068389519360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz2D7W6aoAA0iU8.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962870068418957312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz2D7XBb0AATqU_.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962870068381175808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz2D7W4bUAAjpra.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962870068389519360",
+            "3_1962870068418957312",
+            "3_1962870068381175808"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1962870147888410944",
+        "created_at": "2025-09-02T13:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T14:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962870147888410944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OSPZSR2cPa",
+              "end": 25,
+              "expanded_url": "https://x.com/sakura2333owo/status/1962870147888410944/photo/1",
+              "media_key": "3_1962870068389519360",
+              "start": 2,
+              "url": "https://t.co/OSPZSR2cPa"
+            },
+            {
+              "display_url": "pic.x.com/OSPZSR2cPa",
+              "end": 25,
+              "expanded_url": "https://x.com/sakura2333owo/status/1962870147888410944/photo/1",
+              "media_key": "3_1962870068418957312",
+              "start": 2,
+              "url": "https://t.co/OSPZSR2cPa"
+            },
+            {
+              "display_url": "pic.x.com/OSPZSR2cPa",
+              "end": 25,
+              "expanded_url": "https://x.com/sakura2333owo/status/1962870147888410944/photo/1",
+              "media_key": "3_1962870068381175808",
+              "start": 2,
+              "url": "https://t.co/OSPZSR2cPa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962870147888410944",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😢 https://t.co/OSPZSR2cPa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "我些许累了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34671,
+          "following_count": 280,
+          "like_count": 7317,
+          "listed_count": 64,
+          "media_count": 1118,
+          "tweet_count": 5063
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

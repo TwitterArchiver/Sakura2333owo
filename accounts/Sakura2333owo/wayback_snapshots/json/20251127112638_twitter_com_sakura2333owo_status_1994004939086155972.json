@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1993995975770419578",
+    "created_at": "2025-11-27T11:26:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T12:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994004939086155972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1720762152158687232",
+          "start": 0,
+          "username": "Andy3091936561"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994004939086155972",
+    "in_reply_to_user_id": "1720762152158687232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994001904033210770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Andy3091936561 打错了！是很想！！哈哈哈不过谢谢你啊啊啊我要是能和喜欢的角色一样那我要开心的哭了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1993995975770419578",
+        "created_at": "2025-11-27T11:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T12:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994004939086155972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1720762152158687232",
+              "start": 0,
+              "username": "Andy3091936561"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994004939086155972",
+        "in_reply_to_user_id": "1720762152158687232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994001904033210770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Andy3091936561 打错了！是很想！！哈哈哈不过谢谢你啊啊啊我要是能和喜欢的角色一样那我要开心的哭了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720762152158687232",
+        "conversation_id": "1993995975770419578",
+        "created_at": "2025-11-27T11:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T12:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994001904033210770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994001904033210770",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993999188020109490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 哈哈，你可以把很像去掉了，你已經是了👍👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36387,
+          "following_count": 283,
+          "like_count": 7424,
+          "listed_count": 74,
+          "media_count": 1146,
+          "tweet_count": 5198
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T11:17:37.000Z",
+        "description": "",
+        "id": "1720762152158687232",
+        "name": "其灼其華",
+        "pinned_tweet_id": "1850784273193902591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753069590622740480/UqWnDrqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 1275,
+          "like_count": 28807,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 8699
+        },
+        "username": "Andy3091936561",
+        "verified": false
+      }
+    ]
+  }
+}

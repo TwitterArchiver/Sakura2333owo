@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1942234609455899081",
+    "created_at": "2025-07-07T18:39:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T19:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942292392327188670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1495662254544789506",
+          "start": 0,
+          "username": "Aloevce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942292392327188670",
+    "in_reply_to_user_id": "1495662254544789506",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942234609455899081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aloevce 分手厨房"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1942234609455899081",
+        "created_at": "2025-07-07T18:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T19:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942292392327188670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942292392327188670",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942234609455899081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 分手厨房"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1942234609455899081",
+        "created_at": "2025-07-07T14:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T15:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942234609455899081"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942234609455899081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 402,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来点steam游戏推荐 双人的也行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆自撮り/雑垢/絵/東方project/les ★鼠类预警⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32891,
+          "following_count": 275,
+          "like_count": 7176,
+          "listed_count": 53,
+          "media_count": 1074,
+          "tweet_count": 4874
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "岁月静好",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19118,
+          "following_count": 2383,
+          "like_count": 55557,
+          "listed_count": 21,
+          "media_count": 6147,
+          "tweet_count": 21520
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

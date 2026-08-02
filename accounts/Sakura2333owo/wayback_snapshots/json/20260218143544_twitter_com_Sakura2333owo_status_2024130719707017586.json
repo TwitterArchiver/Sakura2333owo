@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "2024068848216166457",
+    "created_at": "2026-02-18T14:35:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T15:35:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024130719707017586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1842716966399930368",
+          "start": 0,
+          "username": "mokimoPP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024130719707017586",
+    "in_reply_to_user_id": "1842716966399930368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024105774235148646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mokimoPP 嘿嘿谢谢你！( ˃̶̤́ ꒳ ˂̶̤̀ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "2024068848216166457",
+        "created_at": "2026-02-18T14:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024130719707017586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842716966399930368",
+              "start": 0,
+              "username": "mokimoPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024130719707017586",
+        "in_reply_to_user_id": "1842716966399930368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024105774235148646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mokimoPP 嘿嘿谢谢你！( ˃̶̤́ ꒳ ˂̶̤̀ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842716966399930368",
+        "conversation_id": "2024068848216166457",
+        "created_at": "2026-02-18T12:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T13:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024105774235148646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "Sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024105774235148646",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024068848216166457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura2333owo 嗯哼，今天居然是猫猫国王的生日！破壳日快乐！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི 🩵☁️💤All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38565,
+          "following_count": 301,
+          "like_count": 8047,
+          "listed_count": 82,
+          "media_count": 1188,
+          "tweet_count": 5432
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "Sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-06T00:02:42.000Z",
+        "description": "猫猫只是对世界充满好奇罢了。",
+        "id": "1842716966399930368",
+        "name": "闲话猫咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003061792021655552/q_Aa_KbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 4,
+          "like_count": 1232,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 2281
+        },
+        "username": "mokimoPP",
+        "verified": false
+      }
+    ]
+  }
+}

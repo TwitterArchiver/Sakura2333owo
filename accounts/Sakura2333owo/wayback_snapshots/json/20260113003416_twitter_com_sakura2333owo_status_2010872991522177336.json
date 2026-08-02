@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "2010872991522177336",
+    "created_at": "2026-01-13T00:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T01:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010872991522177336"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2010872991522177336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在被窝里还没起床居然迷迷糊糊和女神说上了话。。懵懵的好开心o(╥﹏╥)o\n我就酱紫捂着脑袋在被窝里咯咯乐（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "2010872991522177336",
+        "created_at": "2026-01-13T00:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T01:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010872991522177336"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010872991522177336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在被窝里还没起床居然迷迷糊糊和女神说上了话。。懵懵的好开心o(╥﹏╥)o\n我就酱紫捂着脑袋在被窝里咯咯乐（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37835,
+          "following_count": 297,
+          "like_count": 7751,
+          "listed_count": 81,
+          "media_count": 1176,
+          "tweet_count": 5352
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": true
+      }
+    ]
+  }
+}

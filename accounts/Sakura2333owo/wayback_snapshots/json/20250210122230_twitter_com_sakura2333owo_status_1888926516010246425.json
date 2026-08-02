@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1888926516010246425",
+    "created_at": "2025-02-10T12:22:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T13:22:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888926516010246425"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aichijiandanxy…",
+          "end": 158,
+          "expanded_url": "https://twitter.com/aichijiandanxyz/status/1888843689092698237",
+          "start": 135,
+          "url": "https://t.co/tpKiAYadqj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888926516010246425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888843689092698237",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就是这样，我曾经承受的、经历的、不可原谅的、都在长大以后他们突然的关心中被掩盖了。他们现在开始爱我了 我说实话我觉得现在家里的氛围好多了  但是以前的事会忘记吗？不会。很奇怪很微妙的感觉  但是日子就这样过着，至少现在还不错，甚至突然的爱有点受宠若惊，我也在爱他们。 https://t.co/tpKiAYadqj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1888926516010246425",
+        "created_at": "2025-02-10T12:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T13:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888926516010246425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aichijiandanxy…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/aichijiandanxyz/status/1888843689092698237",
+              "start": 135,
+              "url": "https://t.co/tpKiAYadqj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888926516010246425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888843689092698237",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就是这样，我曾经承受的、经历的、不可原谅的、都在长大以后他们突然的关心中被掩盖了。他们现在开始爱我了 我说实话我觉得现在家里的氛围好多了  但是以前的事会忘记吗？不会。很奇怪很微妙的感觉  但是日子就这样过着，至少现在还不错，甚至突然的爱有点受宠若惊，我也在爱他们。 https://t.co/tpKiAYadqj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421851995355369477",
+        "conversation_id": "1888843689092698237",
+        "created_at": "2025-02-10T06:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T07:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888843689092698237"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1888843689092698237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 27755,
+          "like_count": 416,
+          "quote_count": 5,
+          "reply_count": 70,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "长大了发现爸爸妈妈开始爱自己了，有人懂这种感觉吗，好难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27954,
+          "following_count": 277,
+          "like_count": 6832,
+          "listed_count": 40,
+          "media_count": 984,
+          "tweet_count": 4468
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T15:15:33.000Z",
+        "description": "贱人更是滚开！\n@eggyyybaby\nvpn⬇️\n#煎蛋不想说话就唱歌吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 26,
+                "tag": "煎蛋不想说话就唱歌吧"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "eggyyybaby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=3mkaPReT",
+                "start": 0,
+                "url": "https://t.co/UzTTlXSUsc"
+              }
+            ]
+          }
+        },
+        "id": "1421851995355369477",
+        "location": "🍳",
+        "name": "煎蛋棉被",
+        "pinned_tweet_id": "1844974218825400809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872686726290051072/nuqOX38I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19417,
+          "following_count": 391,
+          "like_count": 145632,
+          "listed_count": 67,
+          "media_count": 5875,
+          "tweet_count": 62874
+        },
+        "url": "https://t.co/UzTTlXSUsc",
+        "username": "Aichijiandanxyz",
+        "verified": false
+      }
+    ]
+  }
+}

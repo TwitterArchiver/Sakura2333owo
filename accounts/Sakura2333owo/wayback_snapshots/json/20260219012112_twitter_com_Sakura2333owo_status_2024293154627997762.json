@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "2024139437618221339",
+    "created_at": "2026-02-19T01:21:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T02:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024293154627997762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1843277296150466561",
+          "start": 0,
+          "username": "_nomedia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024293154627997762",
+    "in_reply_to_user_id": "1843277296150466561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024163791794294974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_nomedia 我早就冲过了  因为充后没啥好处就不续了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "2024139437618221339",
+        "created_at": "2026-02-19T01:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T02:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024293154627997762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1843277296150466561",
+              "start": 0,
+              "username": "_nomedia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024293154627997762",
+        "in_reply_to_user_id": "1843277296150466561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024163791794294974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_nomedia 我早就冲过了  因为充后没啥好处就不续了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843277296150466561",
+        "conversation_id": "2024139437618221339",
+        "created_at": "2026-02-18T16:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T17:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024163791794294974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "Sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024163791794294974",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 815,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024139437618221339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura2333owo 想赚钱吗？你们得先充钱，比马化腾还贪？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི 🩵☁️💤All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38585,
+          "following_count": 301,
+          "like_count": 8047,
+          "listed_count": 82,
+          "media_count": 1188,
+          "tweet_count": 5435
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "Sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T13:13:36.000Z",
+        "description": "🌲支持政府+给政府做事的那些人天天干害人害己」事，X审核员也愚，我们追随耶稣的与佛门的天天救人，他们倒好为钱色官位害人+阻止人类文明与科技发展，古代就有好多天后才发作的慢药💉副作用（主要作用）💉什么疫苗都不要打💉还迷信政府与政客要被带到阴间去。🌲🐉🌲天灭开始，就发27个贴等这个万恶末法时代结束后再继续发吧",
+        "id": "1843277296150466561",
+        "name": "根治绝症瘫痪失明中毒…",
+        "pinned_tweet_id": "1843600428002681280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998448461004353536/l3KF4Z6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 8,
+          "like_count": 32215,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 2028
+        },
+        "username": "_nomedia",
+        "verified": false
+      }
+    ]
+  }
+}

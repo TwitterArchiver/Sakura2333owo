@@ -1,0 +1,121 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1793075454234255361",
+        "3_1793075454238478336"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1793075462631248039",
+    "created_at": "2024-05-22T00:24:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T01:24:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1793075462631248039"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/om1t56uqLh",
+          "end": 171,
+          "expanded_url": "https://twitter.com/sakura2333owo/status/1793075462631248039/photo/1",
+          "media_key": "3_1793075454234255361",
+          "start": 148,
+          "url": "https://t.co/om1t56uqLh"
+        },
+        {
+          "display_url": "pic.twitter.com/om1t56uqLh",
+          "end": 171,
+          "expanded_url": "https://twitter.com/sakura2333owo/status/1793075462631248039/photo/1",
+          "media_key": "3_1793075454238478336",
+          "start": 148,
+          "url": "https://t.co/om1t56uqLh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793075462631248039",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "家里那边爸爸做手术也不好意思要钱…我就只能自己兼职并且已经兼职两个月了…发现时薪八元还只能干半天的工资根本做不了生活费…我这周学校出去考察所有花销学校也不报销 路费餐饮门票也是花的自己的钱……由于是在入不敷出只能这样了…૮( ᵕ̩̩ - ᵕ̩̩ c)ა…抱歉大家 我发现我真的不能自己撑活自己。 https://t.co/om1t56uqLh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1793075462631248039].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1793075462631248039",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1793075462631248039"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_1793075454234255361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOJIoCEa4AEYluN.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1793075454238478336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOJIoCFbUAAv2oW.jpg",
+        "width": 1152
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "悲伤十字街",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787419388439900160/lBWZ8WuN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16125,
+          "following_count": 246,
+          "like_count": 5660,
+          "listed_count": 33,
+          "tweet_count": 2983
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

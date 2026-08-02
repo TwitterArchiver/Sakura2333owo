@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1871041568683290647",
+    "created_at": "2024-12-23T03:58:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-23T04:58:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871042679762735165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871042679762735165",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871041568683290647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 压抑是大部分家庭常态"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1871041568683290647",
+        "created_at": "2024-12-23T03:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T04:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871042679762735165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871042679762735165",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871041568683290647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 压抑是大部分家庭常态"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499709348616241155",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1293297579778699264",
+              "name": "Variety TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293297579778699264",
+              "name": "Variety TV"
+            }
+          }
+        ],
+        "conversation_id": "1871041568683290647",
+        "created_at": "2024-12-23T03:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T04:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871041568683290647"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1871041568683290647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "以前一直觉得家里很压抑，但是说不上哪里不对劲，总之我们家几乎没有什么欢声笑语，以前初中的时候同学和我说她和妈妈一起追综艺的时候，我便感觉非常羡慕。\n或许是家里太安静而压抑，父母讲话经常拌嘴从而发展成吵架，父亲不会表达自己的情感，他把他生活压力全部以零零碎碎的言语来输出在家人身上。\n直到养了猫，柴郡像是给我们家人的关系编织了一个网，自从养猫后和家人的关系慢慢变好了很多......哪怕猫在家里捣乱，父母也能因为他的调皮而笑出声，真好。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前一直觉得家里很压抑，但是说不上哪里不对劲，总之我们家几乎没有什么欢声笑语，以前初中的时候同学和我说她和妈妈一起追综艺的时候，我便感觉非常羡慕。\n或许是家里太安静而压抑，父母讲话经常拌嘴从而发展成吵架，父亲不会表达自己的情感，他把他生活压力全部以零零碎碎的言语来输出在家人身上。…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24449,
+          "following_count": 269,
+          "like_count": 6516,
+          "listed_count": 40,
+          "media_count": 908,
+          "tweet_count": 4125
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "/FF14重度玩家/喜欢碎碎念/非常喜欢各种猫/水手服控/坐标南方/🚪68/🪜自用梯子：https://t.co/DW6ufDaBlY /",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "get.suzi03.xyz/#/register?cod…",
+                "end": 67,
+                "expanded_url": "https://get.suzi03.xyz/#/register?code=U8x8snvo",
+                "start": 44,
+                "url": "https://t.co/DW6ufDaBlY"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "923m",
+        "name": "爱礼",
+        "pinned_tweet_id": "1870340780147315013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36990,
+          "following_count": 895,
+          "like_count": 21449,
+          "listed_count": 44,
+          "media_count": 1642,
+          "tweet_count": 23246
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

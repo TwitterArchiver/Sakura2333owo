@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1999454657815728558",
+    "created_at": "2025-12-13T10:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T11:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999795127221698856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1489125536807157762",
+          "start": 0,
+          "username": "DarkHustla"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999795127221698856",
+    "in_reply_to_user_id": "1489125536807157762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999743768904499427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DarkHustla 横幅的意思是家长的话 我就是走艺术的 当时家长都反对觉得走文化课更好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1999454657815728558",
+        "created_at": "2025-12-13T10:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T11:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999795127221698856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1489125536807157762",
+              "start": 0,
+              "username": "DarkHustla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999795127221698856",
+        "in_reply_to_user_id": "1489125536807157762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999743768904499427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DarkHustla 横幅的意思是家长的话 我就是走艺术的 当时家长都反对觉得走文化课更好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489125536807157762",
+        "conversation_id": "1999454657815728558",
+        "created_at": "2025-12-13T07:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T08:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999743768904499427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999743768904499427",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999454657815728558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 学艺术不如走文化课是什么鬼，作者是不是不知道中下游高中长期依靠美术生，乃至鼓励学生转美术生来用他们的数据填充自己的一本率和本科率"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37058,
+          "following_count": 286,
+          "like_count": 7531,
+          "listed_count": 76,
+          "media_count": 1158,
+          "tweet_count": 5267
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-03T06:36:22.000Z",
+        "description": "劳保，魔怔人，Anti-Liberalist\n蔡洋的同志，马西埃主义的接班人\n光谱下半区没一个五谷的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCdMxq…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCdMxqg99TgqhFxFpUJfFnDw",
+                "start": 0,
+                "url": "https://t.co/vv1nEVny2Q"
+              }
+            ]
+          }
+        },
+        "id": "1489125536807157762",
+        "location": "马拉博，赤道几内亚",
+        "name": "Madman Killa🇬🇶",
+        "pinned_tweet_id": "1957990546062078078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637524298062757888/j5wDe5jR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 924,
+          "like_count": 42596,
+          "listed_count": 8,
+          "media_count": 122,
+          "tweet_count": 6234
+        },
+        "url": "https://t.co/vv1nEVny2Q",
+        "username": "DarkHustla",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1819298126320357889",
+    "created_at": "2024-08-03T02:39:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T03:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819563824649064876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1315758533271384064",
+          "start": 0,
+          "username": "usadapeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819563824649064876",
+    "in_reply_to_user_id": "1315758533271384064",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819298126320357889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@usadapeko Who cares what they think?It's not their room. Why do they care so much?They have a little too much control over other people's rooms.😹No one cares about them. They look like nosy clowns who are jealous of your abilities."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1819298126320357889",
+        "created_at": "2024-08-03T02:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T03:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819563824649064876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1315758533271384064",
+              "start": 0,
+              "username": "usadapeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819563824649064876",
+        "in_reply_to_user_id": "1315758533271384064",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819298126320357889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@usadapeko Who cares what they think?It's not their room. Why do they care so much?They have a little too much control over other people's rooms.😹No one cares about them. They look like nosy clowns who are jealous of your abilities."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819298119164837888"
+          ]
+        },
+        "author_id": "1315758533271384064",
+        "conversation_id": "1819298126320357889",
+        "created_at": "2024-08-02T09:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T10:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819298126320357889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/qP5dN6SB83",
+              "end": 28,
+              "expanded_url": "https://twitter.com/usadapeko/status/1819298126320357889/photo/1",
+              "media_key": "3_1819298119164837888",
+              "start": 5,
+              "url": "https://t.co/qP5dN6SB83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819298126320357889",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 547,
+          "impression_count": 118202,
+          "like_count": 6631,
+          "quote_count": 79,
+          "reply_count": 63,
+          "retweet_count": 268
+        },
+        "reply_settings": "everyone",
+        "text": "wow! https://t.co/qP5dN6SB83"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18447,
+          "following_count": 248,
+          "like_count": 6068,
+          "listed_count": 35,
+          "tweet_count": 3333
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-12T20:57:41.000Z",
+        "description": "nyanyanyaにゃにゃにゃ^ᴗ.ᴗ^♡ mainly on ig",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mycheririn",
+                "end": 23,
+                "expanded_url": "http://instagram.com/mycheririn",
+                "start": 0,
+                "url": "https://t.co/oVJFSgktUm"
+              }
+            ]
+          }
+        },
+        "id": "1315758533271384064",
+        "location": "🐈‍⬛🐈🎶",
+        "name": "鬱たん",
+        "pinned_tweet_id": "1815406795286073388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772291694412910592/PQXRay7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2543,
+          "following_count": 584,
+          "like_count": 21678,
+          "listed_count": 9,
+          "tweet_count": 9676
+        },
+        "url": "https://t.co/oVJFSgktUm",
+        "username": "usadapeko",
+        "verified": false
+      }
+    ]
+  }
+}

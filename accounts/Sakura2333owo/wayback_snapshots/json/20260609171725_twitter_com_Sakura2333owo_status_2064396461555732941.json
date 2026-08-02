@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "2063915806401192339",
+    "created_at": "2026-06-09T17:17:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T18:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064396461555732941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1858727254345281536",
+          "start": 0,
+          "username": "NNNullptr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064396461555732941",
+    "in_reply_to_user_id": "1858727254345281536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063915806401192339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NNNullptr 刚注册时一定要保持地区时间文字都和vpn地区一段时间  稳定后就可以随便发随便用了 ( ˘ω˘ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "2063915806401192339",
+        "created_at": "2026-06-09T17:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064396461555732941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "NNNullptr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064396461555732941",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063915806401192339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NNNullptr 刚注册时一定要保持地区时间文字都和vpn地区一段时间  稳定后就可以随便发随便用了 ( ˘ω˘ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2063915806401192339",
+        "created_at": "2026-06-08T09:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063915806401192339"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063915806401192339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 562,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我tiktok账号被封了，而且申诉也没法通过，你们都是怎么保证账号不被封的😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི 🩵☁️💤All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37538,
+          "following_count": 298,
+          "like_count": 8009,
+          "listed_count": 81,
+          "media_count": 1198,
+          "tweet_count": 5502
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "Sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 172,
+          "like_count": 6692,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 960
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1833178309263527936"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tea",
+          "id": "850450940213592064",
+          "name": "Tea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1792595821940113408",
+          "name": "Matcha"
+        }
+      }
+    ],
+    "conversation_id": "1833178396161105927",
+    "created_at": "2024-09-09T16:19:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-09T17:19:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1833178396161105927"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wc8jwmemsx",
+          "end": 42,
+          "expanded_url": "https://twitter.com/sakura2333owo/status/1833178396161105927/video/1",
+          "media_key": "7_1833178309263527936",
+          "start": 19,
+          "url": "https://t.co/WC8jWMEMSX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833178396161105927",
+    "lang": "tl",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🐼🎋🍵Chinese Kungfu☆ https://t.co/WC8jWMEMSX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19166,
+        "height": 1280,
+        "media_key": "7_1833178309263527936",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1833178309263527936/pu/img/tqDjbe61XrY7yRNt.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1833178309263527936/pu/vid/avc1/320x568/G7b4-kE_bdq55PSZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1833178309263527936/pu/vid/avc1/480x852/OB1H0_cooK57HEHx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1833178309263527936/pu/vid/avc1/720x1280/8ltrAyWBwLTa0Dql.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1833178309263527936/pu/pl/4TucyRA-3sMHiuPh.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1833178309263527936"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "1833178396161105927",
+        "created_at": "2024-09-09T16:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T17:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833178396161105927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wc8jwmemsx",
+              "end": 42,
+              "expanded_url": "https://twitter.com/sakura2333owo/status/1833178396161105927/video/1",
+              "media_key": "7_1833178309263527936",
+              "start": 19,
+              "url": "https://t.co/WC8jWMEMSX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833178396161105927",
+        "lang": "tl",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🐼🎋🍵Chinese Kungfu☆ https://t.co/WC8jWMEMSX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21036,
+          "following_count": 252,
+          "like_count": 6249,
+          "listed_count": 39,
+          "tweet_count": 3575
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

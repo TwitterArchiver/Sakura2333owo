@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1933935745531830729",
+    "created_at": "2025-06-16T11:04:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T12:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934567786858360963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1758428820045189120",
+          "start": 0,
+          "username": "YuSuQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934567786858360963",
+    "in_reply_to_user_id": "1758428820045189120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934543345755587026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuSuQAQ 我们这边是16个币到20个币玩一次  一次免费给一个盘 然后靠对战能不能打下来好盘 主要靠出好盘的概率 加上这种超级明星类的不好收服和遇到 (ˆ  ̳, ̫ , ̳ˆ)\""
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1933935745531830729",
+        "created_at": "2025-06-16T11:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T12:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934567786858360963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1758428820045189120",
+              "start": 0,
+              "username": "YuSuQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934567786858360963",
+        "in_reply_to_user_id": "1758428820045189120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934543345755587026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuSuQAQ 我们这边是16个币到20个币玩一次  一次免费给一个盘 然后靠对战能不能打下来好盘 主要靠出好盘的概率 加上这种超级明星类的不好收服和遇到 (ˆ  ̳, ̫ , ̳ˆ)\""
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758428820045189120",
+        "conversation_id": "1933935745531830729",
+        "created_at": "2025-06-16T09:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T10:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934543345755587026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934543345755587026",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933935745531830729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 这个很贵吗，我是圈外人，不懂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆自撮り/雑垢/絵/東方project/les ★老鼠预警⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32278,
+          "following_count": 274,
+          "like_count": 7168,
+          "listed_count": 49,
+          "media_count": 1069,
+          "tweet_count": 4855
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T09:51:25.000Z",
+        "description": "喜欢碎碎念（想要朋友😢），主玩明日方舟，是老年痴，有好听的日电推荐给我听🥰",
+        "id": "1758428820045189120",
+        "name": "想死的一条鱼",
+        "pinned_tweet_id": "1930297850535239986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912608912848891904/kWg8aRN-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 291,
+          "like_count": 1341,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 3096
+        },
+        "username": "YuSuQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Body Art",
+          "id": "854712713510965248",
+          "name": "Body art"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Tattoo",
+          "id": "854694311216136192",
+          "name": "Tattoos"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tattoo",
+          "id": "854694311216136192",
+          "name": "Tattoos"
+        }
+      }
+    ],
+    "conversation_id": "1862882431646511139",
+    "created_at": "2024-11-30T18:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T19:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862925487791919152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1392452107450474499",
+          "start": 0,
+          "username": "_infinity_xxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862925487791919152",
+    "in_reply_to_user_id": "1392452107450474499",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862882431646511139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_infinity_xxx 手の甲のポチャマのタトゥーが萌えすぎる！💙🐧՞ ̳o̴̶̷̤  ̫ o̴̶̷̤ ̳՞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Body Art",
+              "id": "854712713510965248",
+              "name": "Body art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          }
+        ],
+        "conversation_id": "1862882431646511139",
+        "created_at": "2024-11-30T18:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T19:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862925487791919152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1392452107450474499",
+              "start": 0,
+              "username": "_infinity_xxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862925487791919152",
+        "in_reply_to_user_id": "1392452107450474499",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862882431646511139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_infinity_xxx 手の甲のポチャマのタトゥーが萌えすぎる！💙🐧՞ ̳o̴̶̷̤  ̫ o̴̶̷̤ ̳՞"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862882426000695298"
+          ]
+        },
+        "author_id": "1392452107450474499",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Body Art",
+              "id": "854712713510965248",
+              "name": "Body art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          }
+        ],
+        "conversation_id": "1862882431646511139",
+        "created_at": "2024-11-30T15:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T16:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862882431646511139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uRnjR7eHim",
+              "end": 33,
+              "expanded_url": "https://x.com/_infinity_xxx/status/1862882431646511139/photo/1",
+              "media_key": "3_1862882426000695298",
+              "start": 10,
+              "url": "https://t.co/uRnjR7eHim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862882431646511139",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2553,
+          "like_count": 105,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "ワイのタトゥーみて https://t.co/uRnjR7eHim"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23441,
+          "following_count": 269,
+          "like_count": 6301,
+          "listed_count": 36,
+          "media_count": 828,
+          "tweet_count": 3883
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-12T12:10:45.000Z",
+        "description": "鍵垢@_Infinity_ooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "_Infinity_ooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aomaru319",
+                "end": 23,
+                "expanded_url": "https://lit.link/aomaru319",
+                "start": 0,
+                "url": "https://t.co/qKE42KNqt3"
+              }
+            ]
+          }
+        },
+        "id": "1392452107450474499",
+        "location": "💤💤💤",
+        "name": "あおまる",
+        "pinned_tweet_id": "1779810848036516333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848307505883148288/o5T7CD9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14033,
+          "following_count": 310,
+          "like_count": 2923,
+          "listed_count": 29,
+          "media_count": 5094,
+          "tweet_count": 22038
+        },
+        "url": "https://t.co/qKE42KNqt3",
+        "username": "_infinity_xxx",
+        "verified": true
+      }
+    ]
+  }
+}

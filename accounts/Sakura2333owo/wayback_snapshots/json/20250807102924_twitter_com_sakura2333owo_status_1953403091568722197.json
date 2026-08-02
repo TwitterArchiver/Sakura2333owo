@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1953329534595678452",
+    "created_at": "2025-08-07T10:29:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T11:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953403091568722197"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 13,
+          "normalized_text": "碧优蒂",
+          "probability": 0.4242,
+          "start": 11,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1622206198358642689",
+          "start": 0,
+          "username": "narinini1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953403091568722197",
+    "in_reply_to_user_id": "1622206198358642689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953329534595678452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@narinini1 碧优蒂的世界"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1953329534595678452",
+        "created_at": "2025-08-07T10:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T11:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953403091568722197"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "碧优蒂",
+              "probability": 0.4242,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1622206198358642689",
+              "start": 0,
+              "username": "narinini1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953403091568722197",
+        "in_reply_to_user_id": "1622206198358642689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953329534595678452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@narinini1 碧优蒂的世界"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622206198358642689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1953329534595678452",
+        "created_at": "2025-08-07T05:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T06:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953329534595678452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sakura2333owo/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/sakura2333owo/status/1953013962062045667",
+              "start": 11,
+              "url": "https://t.co/DLM2EoQ4SP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953329534595678452",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953013962062045667",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "이거먼겜임???ㅠㅠ https://t.co/DLM2EoQ4SP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆自撮り/雑垢/絵/東方project/les ★鼠类预警⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34589,
+          "following_count": 277,
+          "like_count": 7292,
+          "listed_count": 63,
+          "media_count": 1095,
+          "tweet_count": 4956
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T12:11:17.000Z",
+        "description": "니가흘린눈물이~~~~마법의주문이되어~~~~너의여린마음을~~~자라나게할거야~~~~~~~~",
+        "id": "1622206198358642689",
+        "name": "나리니",
+        "pinned_tweet_id": "1952005284286926912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934286053340536832/QZWu3dzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 373,
+          "like_count": 40439,
+          "listed_count": 0,
+          "media_count": 801,
+          "tweet_count": 14024
+        },
+        "username": "narinini1",
+        "verified": false
+      }
+    ]
+  }
+}

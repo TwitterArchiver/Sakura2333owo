@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1992958988510810158",
+    "created_at": "2025-11-26T04:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T05:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993542721978659090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1568912603786919937",
+          "start": 0,
+          "username": "jialubuhuilu78"
+        },
+        {
+          "end": 25,
+          "id": "1901339878966636544",
+          "start": 16,
+          "username": "tteokki9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993542721978659090",
+    "in_reply_to_user_id": "1568912603786919937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993314608258728194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jialubuhuilu78 @tteokki9 是的！我后来大学买的就是这个新包装  她貌似是用的老包装 但是感觉是差不多的味道！可恶的是我当时买不久就弄丢了！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1404,
+        "media_key": "3_1993314604622266368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6mtEmYbwAAN-63.jpg",
+        "width": 812
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1992958988510810158",
+        "created_at": "2025-11-26T04:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T05:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993542721978659090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1568912603786919937",
+              "start": 0,
+              "username": "jialubuhuilu78"
+            },
+            {
+              "end": 25,
+              "id": "1901339878966636544",
+              "start": 16,
+              "username": "tteokki9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993542721978659090",
+        "in_reply_to_user_id": "1568912603786919937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993314608258728194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jialubuhuilu78 @tteokki9 是的！我后来大学买的就是这个新包装  她貌似是用的老包装 但是感觉是差不多的味道！可恶的是我当时买不久就弄丢了！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993314604622266368"
+          ]
+        },
+        "author_id": "1568912603786919937",
+        "conversation_id": "1992958988510810158",
+        "created_at": "2025-11-25T13:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993314608258728194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            },
+            {
+              "end": 24,
+              "id": "1901339878966636544",
+              "start": 15,
+              "username": "tteokki9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s9Xkchky39",
+              "end": 54,
+              "expanded_url": "https://x.com/jialubuhuilu78/status/1993314608258728194/photo/1",
+              "media_key": "3_1993314604622266368",
+              "start": 31,
+              "url": "https://t.co/s9Xkchky39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993314608258728194",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993276530542493998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo @tteokki9 是这款吗？ https://t.co/s9Xkchky39"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "不知腐鼠成滋味，猜意鹓雏竟未休。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36257,
+          "following_count": 282,
+          "like_count": 7397,
+          "listed_count": 74,
+          "media_count": 1143,
+          "tweet_count": 5179
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-11T10:41:39.000Z",
+        "description": "伪娘s雌堕中欢迎私信骚扰                \n                                 🚪52   tg：https://t.co/CxooBXuFUj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+447401489188",
+                "end": 94,
+                "expanded_url": "https://t.me/+447401489188",
+                "start": 71,
+                "url": "https://t.co/CxooBXuFUj"
+              }
+            ]
+          }
+        },
+        "id": "1568912603786919937",
+        "location": "0431",
+        "name": "佳璐不会撸",
+        "pinned_tweet_id": "1825786650686796173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987470166763130880/rjPMLSLI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 323,
+          "like_count": 1915,
+          "listed_count": 3,
+          "media_count": 476,
+          "tweet_count": 966
+        },
+        "username": "jialubuhuilu78",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T18:28:59.000Z",
+        "description": "可以叫我小叽叽^o^ 嫌我坏你走！你赶紧走！｜私信只回有意思的和过🚪口令｜",
+        "id": "1901339878966636544",
+        "location": "🚪188/520/1314…",
+        "name": "椰叽",
+        "pinned_tweet_id": "1984659027478102138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978562699706707968/ZBtaBVTY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 127,
+          "like_count": 2193,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1058
+        },
+        "username": "tteokki9",
+        "verified": false
+      }
+    ]
+  }
+}

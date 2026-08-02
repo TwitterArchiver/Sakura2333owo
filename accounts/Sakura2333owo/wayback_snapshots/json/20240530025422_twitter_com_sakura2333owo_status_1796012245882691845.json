@@ -1,0 +1,99 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1796012245882691845",
+    "created_at": "2024-05-30T02:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-30T03:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1796012245882691845"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1796012245882691845",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我最讨厌别人觉得我肯定好有钱 好多人都觉得我有那么多手办又是当up主一定很有钱吧 但是手办是我不吃不喝好几天生活费省得；因为都是老ip所以很多都是捡的低价漏 只是布局的满当的一些。当up主我也不接广我也不推销根本不赚钱啊…在b站发过视频的应该都知道叔叔现在的创作激励都缩水成什么样了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1796012245882691845",
+        "created_at": "2024-05-30T02:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T03:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796012245882691845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1796012245882691845",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我最讨厌别人觉得我肯定好有钱 好多人都觉得我有那么多手办又是当up主一定很有钱吧 但是手办是我不吃不喝好几天生活费省得；因为都是老ip所以很多都是捡的低价漏 只是布局的满当的一些。当up主我也不接广我也不推销根本不赚钱啊…在b站发过视频的应该都知道叔叔现在的创作激励都缩水成什么样了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "悲伤十字街",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1793075462631248039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787419388439900160/lBWZ8WuN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16062,
+          "following_count": 242,
+          "like_count": 5664,
+          "listed_count": 33,
+          "tweet_count": 2996
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

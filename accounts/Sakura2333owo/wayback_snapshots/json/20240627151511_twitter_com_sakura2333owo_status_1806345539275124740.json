@@ -1,0 +1,104 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1806345529439494144"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1806345539275124740",
+    "created_at": "2024-06-27T15:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T16:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1806345539275124740"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/zSx1fVQXov",
+          "end": 34,
+          "expanded_url": "https://twitter.com/sakura2333owo/status/1806345539275124740/photo/1",
+          "media_key": "3_1806345529439494144",
+          "start": 11,
+          "url": "https://t.co/zSx1fVQXov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806345539275124740",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我被室友脚臭哭了TT https://t.co/zSx1fVQXov"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1806345539275124740].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1806345539275124740",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1806345539275124740"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1715,
+        "media_key": "3_1806345529439494144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRFtsEfbIAA7YfH.jpg",
+        "width": 1124
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "刮风这天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796586719439155200/QWB8hbfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15738,
+          "following_count": 245,
+          "like_count": 5757,
+          "listed_count": 33,
+          "tweet_count": 3062
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1977583391563538598",
+    "created_at": "2025-10-13T05:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T06:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977600201247674675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1911378821476954112",
+          "start": 0,
+          "username": "Ayanami97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977600201247674675",
+    "in_reply_to_user_id": "1911378821476954112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977589348309869014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayanami97 这真的很有趣！可惜我不常出门 平常我就是对手机说话 比如刷到了小猫摔倒 就会对着说『你好笨啊』刷到了教学视频『我早就知道了』换衣服的时候 我总感觉我的收纳盒或者手机或者是一瓶饮料在看我 我就要用东西把他们盖住才能安心 有时我总感觉家里的摆件或者挂布觉得自己很无聊 可是我不想给他们换位置"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1977583391563538598",
+        "created_at": "2025-10-13T05:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T06:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977600201247674675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1911378821476954112",
+              "start": 0,
+              "username": "Ayanami97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977600201247674675",
+        "in_reply_to_user_id": "1911378821476954112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977589348309869014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanami97 这真的很有趣！可惜我不常出门 平常我就是对手机说话 比如刷到了小猫摔倒 就会对着说『你好笨啊』刷到了教学视频『我早就知道了』换衣服的时候 我总感觉我的收纳盒或者手机或者是一瓶饮料在看我 我就要用东西把他们盖住才能安心 有时我总感觉家里的摆件或者挂布觉得自己很无聊 可是我不想给他们换位置"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911378821476954112",
+        "conversation_id": "1977583391563538598",
+        "created_at": "2025-10-13T04:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T05:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977589348309869014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977589348309869014",
+        "in_reply_to_user_id": "1911378821476954112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977588495473582202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 散步会对路边的小猫小狗说你好，撞到路灯会说真是抱歉，记得和前女友散步时她偶尔会可爱的吐槽我，你在和谁打招呼呀？看不见的什么人吗？还是自己的幻想女友？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི雑垢/自撮り/絵/𝒜𝓃𝒾𝓂ℯ𝒸ℴ𝓇ℯ𓊇ྀི",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉—貓貓國",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34508,
+          "following_count": 283,
+          "like_count": 7303,
+          "listed_count": 67,
+          "media_count": 1128,
+          "tweet_count": 5135
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T11:20:08.000Z",
+        "description": "イム、時々作家ですか？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/prms89pBtH",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/prms89pBtH",
+                "start": 0,
+                "url": "https://t.co/LnUjIoe7BS"
+              }
+            ]
+          }
+        },
+        "id": "1911378821476954112",
+        "location": "新宿",
+        "name": "エバレッツ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911378987957321728/dJ-cVJsU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 376,
+          "like_count": 1874,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 161
+        },
+        "url": "https://t.co/LnUjIoe7BS",
+        "username": "Ayanami97",
+        "verified": false
+      }
+    ]
+  }
+}

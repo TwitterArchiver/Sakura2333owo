@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1834882296773824512"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1834882331511079130",
+    "created_at": "2024-09-14T09:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-14T10:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1834882331511079130"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n42aarundz",
+          "end": 44,
+          "expanded_url": "https://twitter.com/sakura2333owo/status/1834882331511079130/video/1",
+          "media_key": "7_1834882296773824512",
+          "start": 21,
+          "url": "https://t.co/n42AArundZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834882331511079130",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "宅女，变身。(ˆ ̳.  ̫ . ̳ˆ) https://t.co/n42AArundZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11466,
+        "height": 1280,
+        "media_key": "7_1834882296773824512",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1834882296773824512/pu/img/gTJlJbGiNzAkYVx4.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1834882296773824512/pu/vid/avc1/320x568/qwZfktvfvuM_NkmU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1834882296773824512/pu/vid/avc1/480x852/Kx1po8ExTDU5bDAg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1834882296773824512/pu/vid/avc1/720x1280/uc5P3m4m0nnNgEjV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1834882296773824512/pu/pl/pbxULdynPEoeMjgb.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1834882296773824512"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1834882331511079130",
+        "created_at": "2024-09-14T09:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T10:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834882331511079130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n42aarundz",
+              "end": 44,
+              "expanded_url": "https://twitter.com/sakura2333owo/status/1834882331511079130/video/1",
+              "media_key": "7_1834882296773824512",
+              "start": 21,
+              "url": "https://t.co/n42AArundZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834882331511079130",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宅女，变身。(ˆ ̳.  ̫ . ̳ˆ) https://t.co/n42AArundZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21167,
+          "following_count": 253,
+          "like_count": 6271,
+          "listed_count": 38,
+          "tweet_count": 3597
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

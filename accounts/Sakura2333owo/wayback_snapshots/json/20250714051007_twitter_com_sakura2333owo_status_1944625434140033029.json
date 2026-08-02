@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1943677543980191813",
+    "created_at": "2025-07-14T05:10:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T06:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944625434140033029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1418919914409242631",
+          "start": 0,
+          "username": "88BExUpvIQ7sOC8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944625434140033029",
+    "in_reply_to_user_id": "1418919914409242631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943798026658885745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@88BExUpvIQ7sOC8 …哭……完全没有精力……我现在已经睡到杂物上了 虽然有点咯 ᖰ•᎔•₎ᖳ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1943677543980191813",
+        "created_at": "2025-07-14T05:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T06:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944625434140033029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1418919914409242631",
+              "start": 0,
+              "username": "88BExUpvIQ7sOC8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944625434140033029",
+        "in_reply_to_user_id": "1418919914409242631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943798026658885745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@88BExUpvIQ7sOC8 …哭……完全没有精力……我现在已经睡到杂物上了 虽然有点咯 ᖰ•᎔•₎ᖳ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418919914409242631",
+        "conversation_id": "1943677543980191813",
+        "created_at": "2025-07-11T22:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T23:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943798026658885745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943798026658885745",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943677543980191813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 在地上垫一块布，把东西都推到垫了布的地上堆着，把床空出来，或者喝点咖啡加上魔爪强行开机自己然后起来收拾房间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆自撮り/雑垢/絵/東方project/les ★鼠类预警⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34115,
+          "following_count": 277,
+          "like_count": 7215,
+          "listed_count": 58,
+          "media_count": 1078,
+          "tweet_count": 4890
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T13:04:14.000Z",
+        "description": "我没有文化，说话比较粗俗",
+        "id": "1418919914409242631",
+        "location": "Tsuen Wan District, Hong Kong",
+        "name": "いくら",
+        "pinned_tweet_id": "1732002153747890630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687315775793831936/vWjoGNuy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1965,
+          "following_count": 762,
+          "like_count": 16752,
+          "listed_count": 9,
+          "media_count": 838,
+          "tweet_count": 3859
+        },
+        "username": "88BExUpvIQ7sOC8",
+        "verified": false
+      }
+    ]
+  }
+}

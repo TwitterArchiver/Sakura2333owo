@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1969284068044128256"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1969284153842536688",
+    "created_at": "2025-09-20T06:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T07:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969284153842536688"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "本人仅此一个账号！进群私信此号为准 欢迎新老粉丝入群观赏个人资源收集系列稀有合集纯分享，可v好友门槛300元 💌",
+          "display_url": "t.me/skyq837",
+          "end": 39,
+          "expanded_url": "http://t.me/skyq837",
+          "start": 16,
+          "status": 200,
+          "title": "k老师",
+          "unwound_url": "https://t.me/skyq837",
+          "url": "https://t.co/ENT8ZVFGtZ"
+        },
+        {
+          "display_url": "pic.x.com/eW12zgMjHa",
+          "end": 110,
+          "expanded_url": "https://x.com/sakura2333owo/status/1969284153842536688/video/1",
+          "media_key": "13_1969284068044128256",
+          "start": 87,
+          "url": "https://t.co/eW12zgMjHa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969284153842536688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "限🆓时福利🌹🌹🌹💕\n凭此截图戳号https://t.co/ENT8ZVFGtZ\n进群即可观看所有的预览完整版视频，仅限粉丝。暗号；猫猫\n上方🔝预览群永久更新观看所有视频资源 https://t.co/eW12zgMjHa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15600,
+        "height": 1280,
+        "media_key": "13_1969284068044128256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1969284068044128256/img/KyT8rySMF_TEi8Hh.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969284068044128256/vid/avc1/320x568/RzFV9-4WQZvU57VA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969284068044128256/vid/avc1/480x852/tApqdHnrp1eUcjSK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969284068044128256/vid/avc1/720x1280/-pvXUWyH3qYB7_k_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1969284068044128256/pl/uX6tPJ0U5WJ5z4IW.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1969284068044128256"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1969284153842536688",
+        "created_at": "2025-09-20T06:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T07:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969284153842536688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "本人仅此一个账号！进群私信此号为准 欢迎新老粉丝入群观赏个人资源收集系列稀有合集纯分享，可v好友门槛300元 💌",
+              "display_url": "t.me/skyq837",
+              "end": 39,
+              "expanded_url": "http://t.me/skyq837",
+              "start": 16,
+              "status": 200,
+              "title": "k老师",
+              "unwound_url": "https://t.me/skyq837",
+              "url": "https://t.co/ENT8ZVFGtZ"
+            },
+            {
+              "display_url": "pic.x.com/eW12zgMjHa",
+              "end": 110,
+              "expanded_url": "https://x.com/sakura2333owo/status/1969284153842536688/video/1",
+              "media_key": "13_1969284068044128256",
+              "start": 87,
+              "url": "https://t.co/eW12zgMjHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969284153842536688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "限🆓时福利🌹🌹🌹💕\n凭此截图戳号https://t.co/ENT8ZVFGtZ\n进群即可观看所有的预览完整版视频，仅限粉丝。暗号；猫猫\n上方🔝预览群永久更新观看所有视频资源 https://t.co/eW12zgMjHa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "我些许是累了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "主页推广真假自辩 ",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34706,
+          "following_count": 283,
+          "like_count": 7310,
+          "listed_count": 67,
+          "media_count": 1120,
+          "tweet_count": 5079
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

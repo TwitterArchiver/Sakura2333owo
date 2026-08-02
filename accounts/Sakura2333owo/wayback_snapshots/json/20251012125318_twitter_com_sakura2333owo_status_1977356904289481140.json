@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1977017767376437398",
+    "created_at": "2025-10-12T12:53:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T13:53:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977356904289481140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1925588968969838592",
+          "start": 0,
+          "username": "yojiroOvO060614"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977356904289481140",
+    "in_reply_to_user_id": "1925588968969838592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977352403188924429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yojiroOvO060614 就是我最近发的😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1977017767376437398",
+        "created_at": "2025-10-12T12:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T13:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977356904289481140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1925588968969838592",
+              "start": 0,
+              "username": "yojiroOvO060614"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977356904289481140",
+        "in_reply_to_user_id": "1925588968969838592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977352403188924429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yojiroOvO060614 就是我最近发的😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1925588968969838592",
+        "conversation_id": "1977017767376437398",
+        "created_at": "2025-10-12T12:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T13:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977352403188924429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977352403188924429",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977017767376437398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 哪家店啊夏夏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི雑垢/自撮り/絵/𝒜𝓃𝒾𝓂ℯ𝒸ℴ𝓇ℯ☆𓊇ྀི",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉—貓貓國",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34504,
+          "following_count": 283,
+          "like_count": 7297,
+          "listed_count": 67,
+          "media_count": 1128,
+          "tweet_count": 5121
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-22T16:26:09.000Z",
+        "description": "",
+        "id": "1925588968969838592",
+        "name": ":P",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977093275090837506/YVbTIzB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 23,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 81
+        },
+        "username": "yojiroOvO060614",
+        "verified": false
+      }
+    ]
+  }
+}

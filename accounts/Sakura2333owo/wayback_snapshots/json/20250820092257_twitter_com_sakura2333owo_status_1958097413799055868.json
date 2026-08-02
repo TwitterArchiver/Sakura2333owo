@@ -1,0 +1,525 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Mine Yoshizaki (吉崎観音)",
+          "id": "1088893221223129089",
+          "name": "Mine Yoshizaki (吉崎観音)"
+        }
+      }
+    ],
+    "conversation_id": "1958097413799055868",
+    "created_at": "2025-08-20T09:22:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T10:22:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958097413799055868"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "◤　　　　　　　　　　　　　　◥",
+          "probability": 0.8137,
+          "start": 18,
+          "type": "Other"
+        },
+        {
+          "end": 37,
+          "normalized_text": "　　#",
+          "probability": 0.6098,
+          "start": 35,
+          "type": "Other"
+        },
+        {
+          "end": 42,
+          "normalized_text": "ケロロ軍曹",
+          "probability": 0.4557,
+          "start": 38,
+          "type": "Other"
+        },
+        {
+          "end": 114,
+          "normalized_text": "ケロロ軍曹",
+          "probability": 0.7434,
+          "start": 110,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 37,
+          "tag": "ケロロ軍曹"
+        },
+        {
+          "end": 133,
+          "start": 128,
+          "tag": "吉崎観音"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1762018716139835392",
+          "start": 3,
+          "username": "keroro_anime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958097413799055868",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80444
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940576230715396226",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @keroro_anime: ◤　　　　　　　　　　　　　　◥\n　　#ケロロ軍曹 劇場版最新作\n　　　2026年夏、公開決定！\n◣　　　　　　　　　　　　　　◢\n\n──  超特報映像解禁！ ──\n\n2026年夏に『ケロロ軍曹』が帰ってくる🐸\n\n原作：#吉崎観音\n脚本・総監…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30030,
+        "height": 1080,
+        "media_key": "13_1940351568684994560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1940351568684994560/img/n_n3EPiO-Nwq0waD.jpg",
+        "public_metrics": {
+          "view_count": 3186840
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1940351568684994560/pl/6tON8XoJggHiQC4h.m3u8?v=722"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940351568684994560/vid/avc1/1920x1080/neDZj-qLtWTerC8J.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940351568684994560/vid/avc1/640x360/GyyasVsDwtATqi5k.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940351568684994560/vid/avc1/1280x720/59eiewGszG1s-8nO.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940351568684994560/vid/avc1/480x270/VygS4DwcbRakoVd8.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Mine Yoshizaki (吉崎観音)",
+              "id": "1088893221223129089",
+              "name": "Mine Yoshizaki (吉崎観音)"
+            }
+          }
+        ],
+        "conversation_id": "1958097413799055868",
+        "created_at": "2025-08-20T09:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T10:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958097413799055868"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "◤　　　　　　　　　　　　　　◥",
+              "probability": 0.8137,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 37,
+              "normalized_text": "　　#",
+              "probability": 0.6098,
+              "start": 35,
+              "type": "Other"
+            },
+            {
+              "end": 42,
+              "normalized_text": "ケロロ軍曹",
+              "probability": 0.4557,
+              "start": 38,
+              "type": "Other"
+            },
+            {
+              "end": 114,
+              "normalized_text": "ケロロ軍曹",
+              "probability": 0.7434,
+              "start": 110,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 37,
+              "tag": "ケロロ軍曹"
+            },
+            {
+              "end": 133,
+              "start": 128,
+              "tag": "吉崎観音"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1762018716139835392",
+              "start": 3,
+              "username": "keroro_anime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958097413799055868",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80444
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940576230715396226",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @keroro_anime: ◤　　　　　　　　　　　　　　◥\n　　#ケロロ軍曹 劇場版最新作\n　　　2026年夏、公開決定！\n◣　　　　　　　　　　　　　　◢\n\n──  超特報映像解禁！ ──\n\n2026年夏に『ケロロ軍曹』が帰ってくる🐸\n\n原作：#吉崎観音\n脚本・総監…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1940351568684994560"
+          ]
+        },
+        "author_id": "1762018716139835392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Mine Yoshizaki (吉崎観音)",
+              "id": "1088893221223129089",
+              "name": "Mine Yoshizaki (吉崎観音)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339381554087223297",
+              "name": "Character design"
+            }
+          }
+        ],
+        "conversation_id": "1940576230715396226",
+        "created_at": "2025-07-03T01:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T02:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940576230715396226"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "◤　　　　　　　　　　　　　　◥ 　　#ケロロ軍曹",
+              "probability": 0.2955,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 96,
+              "normalized_text": "ケロロ軍曹",
+              "probability": 0.7304,
+              "start": 92,
+              "type": "Other"
+            },
+            {
+              "end": 136,
+              "normalized_text": "追崎史敏",
+              "probability": 0.3982,
+              "start": 133,
+              "type": "Person"
+            },
+            {
+              "end": 152,
+              "normalized_text": "小池智史",
+              "probability": 0.9727,
+              "start": 149,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 19,
+              "tag": "ケロロ軍曹"
+            },
+            {
+              "end": 115,
+              "start": 110,
+              "tag": "吉崎観音"
+            },
+            {
+              "end": 128,
+              "start": 123,
+              "tag": "福田雄一"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SJlOfVuYOV",
+              "end": 176,
+              "expanded_url": "https://x.com/keroro_anime/status/1940576230715396226/video/1",
+              "media_key": "13_1940351568684994560",
+              "start": 153,
+              "url": "https://t.co/SJlOfVuYOV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940576230715396226",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 19,
+                "tag": "ケロロ軍曹"
+              },
+              {
+                "end": 115,
+                "start": 110,
+                "tag": "吉崎観音"
+              },
+              {
+                "end": 128,
+                "start": 123,
+                "tag": "福田雄一"
+              },
+              {
+                "end": 176,
+                "start": 172,
+                "tag": "ano"
+              },
+              {
+                "end": 182,
+                "start": 179,
+                "tag": "粗品"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bn-pictures.co.jp/keroro-anime/m…",
+                "end": 233,
+                "expanded_url": "https://www.bn-pictures.co.jp/keroro-anime/movie/",
+                "start": 210,
+                "url": "https://t.co/RE2joC8N0b"
+              }
+            ]
+          },
+          "text": "◤　　　　　　　　　　　　　　◥\n　　#ケロロ軍曹 劇場版最新作\n　　　2026年夏、公開決定！\n◣　　　　　　　　　　　　　　◢\n\n──  超特報映像解禁！ ──\n\n2026年夏に『ケロロ軍曹』が帰ってくる🐸\n\n原作：#吉崎観音\n脚本・総監督：#福田雄一\n監督：追崎史敏\nキャラクターデザイン：小池智史\n\n「また帰ってきたケロッ！とマーチ」 #ano & #粗品\n\n公式サイトもOPEN！\nぜひチェックしてください✅\nhttps://t.co/RE2joC8N0b"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15714,
+          "impression_count": 18523412,
+          "like_count": 202168,
+          "quote_count": 18671,
+          "reply_count": 752,
+          "retweet_count": 80444
+        },
+        "reply_settings": "everyone",
+        "text": "◤　　　　　　　　　　　　　　◥\n　　#ケロロ軍曹 劇場版最新作\n　　　2026年夏、公開決定！\n◣　　　　　　　　　　　　　　◢\n\n──  超特報映像解禁！ ──\n\n2026年夏に『ケロロ軍曹』が帰ってくる🐸\n\n原作：#吉崎観音\n脚本・総監督：#福田雄一\n監督：追崎史敏\nキャラクターデザイン：小池智史 https://t.co/SJlOfVuYOV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆自撮り/雑垢/絵/東方project/les ★鼠类预警⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34672,
+          "following_count": 278,
+          "like_count": 7287,
+          "listed_count": 62,
+          "media_count": 1105,
+          "tweet_count": 4996
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T07:36:29.000Z",
+        "description": "アニメ『ケロロ軍曹』公式アカウントであります！\n劇場版最新作2026年夏公開決定！\nフォローよろしくであります✨\n原作アカウント➡@keroro_PR\nYouTube➡ https://t.co/aEDWzj3Lr3　\nケロロファンクラブ➡ https://t.co/MiVKNYbtCl\n#ケロロ軍曹",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 151,
+                "start": 145,
+                "tag": "ケロロ軍曹"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "keroro_PR"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@keroro",
+                "end": 108,
+                "expanded_url": "https://www.youtube.com/@keroro",
+                "start": 85,
+                "url": "https://t.co/aEDWzj3Lr3"
+              },
+              {
+                "display_url": "kerorofc.com",
+                "end": 144,
+                "expanded_url": "https://www.kerorofc.com/",
+                "start": 121,
+                "url": "https://t.co/MiVKNYbtCl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bn-pictures.co.jp/keroro-anime/",
+                "end": 23,
+                "expanded_url": "https://www.bn-pictures.co.jp/keroro-anime/",
+                "start": 0,
+                "url": "https://t.co/mivQU131pe"
+              }
+            ]
+          }
+        },
+        "id": "1762018716139835392",
+        "location": "日向家地下",
+        "name": "アニメ『ケロロ軍曹』公式",
+        "pinned_tweet_id": "1940576230715396226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771338652561653760/8x5nwtw-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131132,
+          "following_count": 18,
+          "like_count": 4,
+          "listed_count": 198,
+          "media_count": 579,
+          "tweet_count": 1112
+        },
+        "url": "https://t.co/mivQU131pe",
+        "username": "keroro_anime",
+        "verified": true
+      }
+    ]
+  }
+}

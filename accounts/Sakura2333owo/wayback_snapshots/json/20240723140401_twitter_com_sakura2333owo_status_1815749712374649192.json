@@ -1,0 +1,184 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1815749712374649192",
+    "created_at": "2024-07-23T14:04:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-23T15:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1815749712374649192"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sakura2333owo/…",
+          "end": 159,
+          "expanded_url": "https://twitter.com/sakura2333owo/status/1815717012926333101",
+          "start": 136,
+          "url": "https://t.co/4mdxPdDht2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815749712374649192",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815717012926333101",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎呀对不起大家可能会让你们恨铁不成钢啦  我发疯吵架在家里是没用的…家里人都知道我被逼的有精神病也不在乎 我家里环境就这样了 可能会有人懂吧 就是他们思维已经定型了没办法改变了 怎么说都是你的错 我能做的都做过了 只能熬过去毕业赶紧逃跑吧૮( ᵕ̩̩ - ᵕ̩̩ c)ა https://t.co/4mdxPdDht2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1815749712374649192",
+        "created_at": "2024-07-23T14:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T15:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815749712374649192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sakura2333owo/…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/sakura2333owo/status/1815717012926333101",
+              "start": 136,
+              "url": "https://t.co/4mdxPdDht2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815749712374649192",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815717012926333101",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎呀对不起大家可能会让你们恨铁不成钢啦  我发疯吵架在家里是没用的…家里人都知道我被逼的有精神病也不在乎 我家里环境就这样了 可能会有人懂吧 就是他们思维已经定型了没办法改变了 怎么说都是你的错 我能做的都做过了 只能熬过去毕业赶紧逃跑吧૮( ᵕ̩̩ - ᵕ̩̩ c)ა https://t.co/4mdxPdDht2"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1815717002046291968",
+            "3_1815717002042036225"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1815717012926333101",
+        "created_at": "2024-07-23T11:54:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T12:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815717012926333101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/8f9Mp9QZOv",
+              "end": 38,
+              "expanded_url": "https://twitter.com/sakura2333owo/status/1815717012926333101/photo/1",
+              "media_key": "3_1815717002046291968",
+              "start": 15,
+              "url": "https://t.co/8f9Mp9QZOv"
+            },
+            {
+              "display_url": "pic.twitter.com/8f9Mp9QZOv",
+              "end": 38,
+              "expanded_url": "https://twitter.com/sakura2333owo/status/1815717012926333101/photo/1",
+              "media_key": "3_1815717002042036225",
+              "start": 15,
+              "url": "https://t.co/8f9Mp9QZOv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815717012926333101",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4269,
+          "like_count": 101,
+          "quote_count": 3,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟家里人打架了  被弟弟打了 https://t.co/8f9Mp9QZOv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les /★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812714143595569152/EWUbT6nt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16184,
+          "following_count": 244,
+          "like_count": 5846,
+          "listed_count": 34,
+          "tweet_count": 3211
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

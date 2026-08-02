@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1830285978436808898",
+    "created_at": "2024-09-02T11:51:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-02T12:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830574338606784787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1472816697996361728",
+          "start": 0,
+          "username": "liwen79906166"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830574338606784787",
+    "in_reply_to_user_id": "1472816697996361728",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830425945917796448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liwen79906166 我不爱喝水TT 感觉我应该是不喝水夏天燥热复发了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1830285978436808898",
+        "created_at": "2024-09-02T11:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T12:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830574338606784787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1472816697996361728",
+              "start": 0,
+              "username": "liwen79906166"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830574338606784787",
+        "in_reply_to_user_id": "1472816697996361728",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830425945917796448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwen79906166 我不爱喝水TT 感觉我应该是不喝水夏天燥热复发了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472816697996361728",
+        "conversation_id": "1830285978436808898",
+        "created_at": "2024-09-02T02:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T03:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830425945917796448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830425945917796448",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830285978436808898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 去医院开点消炎药吧宝宝，多喝点水😢我之前也是，现在喝少了水就会痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20462,
+          "following_count": 250,
+          "like_count": 6277,
+          "listed_count": 38,
+          "tweet_count": 3538
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-20T06:30:48.000Z",
+        "description": "请不要伤害我……我只是个喜欢分享日常生活的小女孩",
+        "id": "1472816697996361728",
+        "name": "ldkami♡",
+        "pinned_tweet_id": "1787925931476336801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795865511084933120/rpIDAvJ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 67,
+          "like_count": 851,
+          "listed_count": 0,
+          "tweet_count": 736
+        },
+        "username": "liwen79906166",
+        "verified": false
+      }
+    ]
+  }
+}

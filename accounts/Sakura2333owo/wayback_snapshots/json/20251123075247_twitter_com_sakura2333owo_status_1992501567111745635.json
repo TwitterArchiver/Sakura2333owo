@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1992500316777177571",
+    "created_at": "2025-11-23T07:52:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T08:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992501567111745635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1692496445239119872",
+          "start": 0,
+          "username": "bilibili_Love2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992501567111745635",
+    "in_reply_to_user_id": "1692496445239119872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992500316777177571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bilibili_Love2 小女孩们都很可爱但是大家细腻的心思难免会有些敏感 这些琐碎情绪需要有人轻抚  如果我微不足道的言论也能给别人带来帮助或者能用得上的建议  那我也荣幸至极了(⸝⸝⸝⸝˘ ꒳​˘)˘꒳​˘⸝⸝⸝)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1992500316777177571",
+        "created_at": "2025-11-23T07:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T08:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992501567111745635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1692496445239119872",
+              "start": 0,
+              "username": "bilibili_Love2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992501567111745635",
+        "in_reply_to_user_id": "1692496445239119872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992500316777177571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bilibili_Love2 小女孩们都很可爱但是大家细腻的心思难免会有些敏感 这些琐碎情绪需要有人轻抚  如果我微不足道的言论也能给别人带来帮助或者能用得上的建议  那我也荣幸至极了(⸝⸝⸝⸝˘ ꒳​˘)˘꒳​˘⸝⸝⸝)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692496445239119872",
+        "conversation_id": "1992500316777177571",
+        "created_at": "2025-11-23T07:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T08:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992500316777177571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sakura2333owo/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/sakura2333owo/status/1992494601790525780",
+              "start": 27,
+              "url": "https://t.co/IayQB6C40y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992500316777177571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 206,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992494601790525780",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎，我每次都能看到夏夏给好多人暖评，感觉被天使拯救了 https://t.co/IayQB6C40y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35857,
+          "following_count": 281,
+          "like_count": 7372,
+          "listed_count": 70,
+          "media_count": 1143,
+          "tweet_count": 5168
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T11:19:40.000Z",
+        "description": "纯绿🚪188（朋友圈）\n520（线下资格）888/1888/5200\n只回口令（45cm/166kg）\n双相/重焦/重强 （联考高考备考中）",
+        "id": "1692496445239119872",
+        "name": "^_^",
+        "pinned_tweet_id": "1977154720415596993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965733396883308544/eKohBJiA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2297,
+          "following_count": 56,
+          "like_count": 1534,
+          "listed_count": 5,
+          "media_count": 9,
+          "tweet_count": 152
+        },
+        "username": "bilibili_Love2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1856847886686060544"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1856847926909157882",
+    "created_at": "2024-11-13T23:53:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T00:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1856847926909157882"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T4mZO4ogfg",
+          "end": 48,
+          "expanded_url": "https://x.com/sakura2333owo/status/1856847926909157882/video/1",
+          "media_key": "7_1856847886686060544",
+          "start": 25,
+          "url": "https://t.co/T4mZO4ogfg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856847926909157882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "✌️😈黑发舒适区回归(ˆ ̳.  ̫ . ̳ˆ) https://t.co/T4mZO4ogfg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10250,
+        "height": 1280,
+        "media_key": "7_1856847886686060544",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1856847886686060544/pu/img/ZBfUJEFcFfhrwhUp.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1856847886686060544/pu/vid/avc1/320x568/XoN9iESOWjQOkIJD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1856847886686060544/pu/vid/avc1/480x852/mfnwJIH7xwit-Acv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1856847886686060544/pu/vid/avc1/720x1280/mOqZtTrDmdoxuapK.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1856847886686060544/pu/pl/nKa5auLTKhwDqjDS.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1856847886686060544"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1856847926909157882",
+        "created_at": "2024-11-13T23:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T00:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856847926909157882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T4mZO4ogfg",
+              "end": 48,
+              "expanded_url": "https://x.com/sakura2333owo/status/1856847926909157882/video/1",
+              "media_key": "7_1856847886686060544",
+              "start": 25,
+              "url": "https://t.co/T4mZO4ogfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856847926909157882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "✌️😈黑发舒适区回归(ˆ ̳.  ̫ . ̳ˆ) https://t.co/T4mZO4ogfg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22935,
+          "following_count": 261,
+          "like_count": 6286,
+          "listed_count": 36,
+          "tweet_count": 3820
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

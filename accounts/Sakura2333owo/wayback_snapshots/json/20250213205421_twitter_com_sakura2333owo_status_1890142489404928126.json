@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890142479330209795"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1890142489404928126",
+    "created_at": "2025-02-13T20:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T21:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890142489404928126"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0aYcGKRLro",
+          "end": 74,
+          "expanded_url": "https://x.com/sakura2333owo/status/1890142489404928126/photo/1",
+          "media_key": "3_1890142479330209795",
+          "start": 51,
+          "url": "https://t.co/0aYcGKRLro"
+        },
+        {
+          "display_url": "x.com/_infinity_xxx/…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/_infinity_xxx/status/1889710915269890468",
+          "start": 75,
+          "url": "https://t.co/ZVjrIMpNRl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890142489404928126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889710915269890468",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "蓝头发四年了从来没有人和我cp发色( ˘ω˘ )  唯一一张红蓝合照还是和knkᐡ´т ‧̫ т ᐡ https://t.co/0aYcGKRLro https://t.co/ZVjrIMpNRl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1016,
+        "media_key": "3_1890142479330209795",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gjsikg9acAMbyXY.jpg",
+        "width": 1016
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890142479330209795"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1890142489404928126",
+        "created_at": "2025-02-13T20:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T21:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890142489404928126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0aYcGKRLro",
+              "end": 74,
+              "expanded_url": "https://x.com/sakura2333owo/status/1890142489404928126/photo/1",
+              "media_key": "3_1890142479330209795",
+              "start": 51,
+              "url": "https://t.co/0aYcGKRLro"
+            },
+            {
+              "display_url": "x.com/_infinity_xxx/…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/_infinity_xxx/status/1889710915269890468",
+              "start": 75,
+              "url": "https://t.co/ZVjrIMpNRl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890142489404928126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889710915269890468",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蓝头发四年了从来没有人和我cp发色( ˘ω˘ )  唯一一张红蓝合照还是和knkᐡ´т ‧̫ т ᐡ https://t.co/0aYcGKRLro https://t.co/ZVjrIMpNRl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889710889890451457"
+          ]
+        },
+        "author_id": "1392452107450474499",
+        "conversation_id": "1889710915269890468",
+        "created_at": "2025-02-12T16:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T17:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889710915269890468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qdSE3Q74oP",
+              "end": 31,
+              "expanded_url": "https://x.com/_infinity_xxx/status/1889710915269890468/photo/1",
+              "media_key": "3_1889710889890451457",
+              "start": 8,
+              "url": "https://t.co/qdSE3Q74oP"
+            },
+            {
+              "display_url": "x.com/kanakosama0223…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/kanakosama0223/status/1882424632671953091",
+              "start": 32,
+              "url": "https://t.co/8w7EMs9WgN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889710915269890468",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 52458,
+          "like_count": 406,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882424632671953091",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "おれたちみたい https://t.co/qdSE3Q74oP https://t.co/8w7EMs9WgN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28039,
+          "following_count": 275,
+          "like_count": 6851,
+          "listed_count": 42,
+          "media_count": 988,
+          "tweet_count": 4486
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-12T12:10:45.000Z",
+        "description": "@_Infinity_zzz ⸜ ♡ ⸝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "_Infinity_zzz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aomaru319",
+                "end": 23,
+                "expanded_url": "https://lit.link/aomaru319",
+                "start": 0,
+                "url": "https://t.co/qKE42KNqt3"
+              }
+            ]
+          }
+        },
+        "id": "1392452107450474499",
+        "location": "💤💤💤",
+        "name": "あおまる",
+        "pinned_tweet_id": "1779810848036516333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848307505883148288/o5T7CD9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15664,
+          "following_count": 254,
+          "like_count": 3059,
+          "listed_count": 29,
+          "media_count": 5440,
+          "tweet_count": 23390
+        },
+        "url": "https://t.co/qKE42KNqt3",
+        "username": "_infinity_xxx",
+        "verified": true
+      }
+    ]
+  }
+}

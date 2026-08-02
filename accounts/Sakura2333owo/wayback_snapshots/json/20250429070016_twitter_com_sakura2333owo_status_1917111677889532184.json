@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1916840851256557764",
+    "created_at": "2025-04-29T07:00:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T08:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917111677889532184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1560044491121209344",
+          "start": 0,
+          "username": "akiko_yami2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917111677889532184",
+    "in_reply_to_user_id": "1560044491121209344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916840851256557764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akiko_yami2 ！！！超贵的啊！！！(՞⸝⸝o̴̶̷̥᷅ ⌑ o̴̶̷̥᷅⸝⸝՞)"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1916840851256557764].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1916840851256557764",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1916840851256557764"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1916840851256557764",
+        "created_at": "2025-04-29T07:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T08:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917111677889532184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560044491121209344",
+              "start": 0,
+              "username": "akiko_yami2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917111677889532184",
+        "in_reply_to_user_id": "1560044491121209344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916840851256557764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akiko_yami2 ！！！超贵的啊！！！(՞⸝⸝o̴̶̷̥᷅ ⌑ o̴̶̷̥᷅⸝⸝՞)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "我在这里养了一只果然翁冂( ＞﹏＜˵) ソーナンス~☆自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31823,
+          "following_count": 270,
+          "like_count": 7194,
+          "listed_count": 53,
+          "media_count": 1041,
+          "tweet_count": 4787
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T23:22:56.000Z",
+        "description": "ただ個人的雑垢ので憂鬱て無意味の言葉が多い。AKIKO/KIKIです(・｀ω´・)🦋現役蝶々の魔女。16歳16歳16歳だ(永遠に) …‼️リスカ自傷‼️‼️怖いならご注意\n日常写真▶ @KiMajoy_kiki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "KiMajoy_kiki"
+              }
+            ]
+          }
+        },
+        "id": "1560044491121209344",
+        "location": "魔女之村第118号人偶当铺🧙キキのことを忘れないでね",
+        "name": "KIKI🦋蝶の魔女",
+        "pinned_tweet_id": "1904952233286054359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904953637467779072/E1PMWcWY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 10805,
+          "following_count": 270,
+          "like_count": 11593,
+          "listed_count": 19,
+          "media_count": 527,
+          "tweet_count": 4138
+        },
+        "username": "akiko_yami2",
+        "verified": false
+      }
+    ]
+  }
+}

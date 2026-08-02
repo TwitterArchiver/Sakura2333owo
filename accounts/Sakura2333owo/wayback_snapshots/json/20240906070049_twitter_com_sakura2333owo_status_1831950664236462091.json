@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1831950651447787520",
+        "3_1831950651309658112"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1831950664236462091",
+    "created_at": "2024-09-06T07:00:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-06T08:00:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1831950664236462091"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xtgix1cijl",
+          "end": 35,
+          "expanded_url": "https://twitter.com/sakura2333owo/status/1831950664236462091/photo/1",
+          "media_key": "3_1831950651447787520",
+          "start": 12,
+          "url": "https://t.co/XTGix1CIJl"
+        },
+        {
+          "display_url": "pic.x.com/xtgix1cijl",
+          "end": 35,
+          "expanded_url": "https://twitter.com/sakura2333owo/status/1831950664236462091/photo/1",
+          "media_key": "3_1831950651309658112",
+          "start": 12,
+          "url": "https://t.co/XTGix1CIJl"
+        },
+        {
+          "display_url": "x.com/sakura2333owo/…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/sakura2333owo/status/1831943695257751724",
+          "start": 36,
+          "url": "https://t.co/KEpm8yAWeV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831950664236462091",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831943695257751724",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我女朋友已帮我解决🐀💧 https://t.co/XTGix1CIJl https://t.co/KEpm8yAWeV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1703,
+        "media_key": "3_1831950651447787520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWxlaVGXQAAyfgr.jpg",
+        "width": 1124
+      },
+      {
+        "height": 1660,
+        "media_key": "3_1831950651309658112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWxlaUlbkAAXU3g.jpg",
+        "width": 1123
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831950651447787520",
+            "3_1831950651309658112"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1831950664236462091",
+        "created_at": "2024-09-06T07:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T08:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831950664236462091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xtgix1cijl",
+              "end": 35,
+              "expanded_url": "https://twitter.com/sakura2333owo/status/1831950664236462091/photo/1",
+              "media_key": "3_1831950651447787520",
+              "start": 12,
+              "url": "https://t.co/XTGix1CIJl"
+            },
+            {
+              "display_url": "pic.x.com/xtgix1cijl",
+              "end": 35,
+              "expanded_url": "https://twitter.com/sakura2333owo/status/1831950664236462091/photo/1",
+              "media_key": "3_1831950651309658112",
+              "start": 12,
+              "url": "https://t.co/XTGix1CIJl"
+            },
+            {
+              "display_url": "x.com/sakura2333owo/…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/sakura2333owo/status/1831943695257751724",
+              "start": 36,
+              "url": "https://t.co/KEpm8yAWeV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831950664236462091",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831943695257751724",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我女朋友已帮我解决🐀💧 https://t.co/XTGix1CIJl https://t.co/KEpm8yAWeV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1831943695257751724",
+        "created_at": "2024-09-06T06:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T07:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831943695257751724"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1831943695257751724",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "biuzi专业课老师( ง ᵒ̌皿ᵒ̌)ง⁼³₌₃嫌弃我毕设选题报告ppt太多  见人 我细心给你全方位从前景到落实的介绍你还不领情  全班就我做的这么全面🐀 坏老师坏老师 biuzi biuzi biuzi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20687,
+          "following_count": 251,
+          "like_count": 6290,
+          "listed_count": 36,
+          "tweet_count": 3566
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

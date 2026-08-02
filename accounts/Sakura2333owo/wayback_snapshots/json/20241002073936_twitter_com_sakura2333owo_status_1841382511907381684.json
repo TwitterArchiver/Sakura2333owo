@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1841334071148065204",
+    "created_at": "2024-10-02T07:39:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-02T08:39:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841382511907381684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1811812787058016257",
+          "start": 0,
+          "username": "kanakosama0223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841382511907381684",
+    "in_reply_to_user_id": "1811812787058016257",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841334071148065204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanakosama0223 甜蜜蜜(´o̴̶̷̤ㅂo̴̶̷̤`)99999"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1841334071148065204",
+        "created_at": "2024-10-02T07:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T08:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841382511907381684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811812787058016257",
+              "start": 0,
+              "username": "kanakosama0223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841382511907381684",
+        "in_reply_to_user_id": "1811812787058016257",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841334071148065204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanakosama0223 甜蜜蜜(´o̴̶̷̤ㅂo̴̶̷̤`)99999"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841334064743366656"
+          ]
+        },
+        "author_id": "1811812787058016257",
+        "conversation_id": "1841334071148065204",
+        "created_at": "2024-10-02T04:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T05:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841334071148065204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EmVp7taesZ",
+              "end": 32,
+              "expanded_url": "https://x.com/kanakosama0223/status/1841334071148065204/photo/1",
+              "media_key": "3_1841334064743366656",
+              "start": 9,
+              "url": "https://t.co/EmVp7taesZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841334071148065204",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1878,
+          "like_count": 121,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "my girl💗 https://t.co/EmVp7taesZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22551,
+          "following_count": 256,
+          "like_count": 6272,
+          "listed_count": 39,
+          "tweet_count": 3687
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T17:20:27.000Z",
+        "description": "07餐券女 kanako的六代目 🚪288",
+        "id": "1811812787058016257",
+        "location": "小老鼠墓地🪦",
+        "name": "草莓水烟枪🍓",
+        "pinned_tweet_id": "1828825210201710749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836842350813081600/kGzd5lsC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3586,
+          "following_count": 63,
+          "like_count": 1812,
+          "listed_count": 1,
+          "tweet_count": 950
+        },
+        "username": "kanakosama0223",
+        "verified": false
+      }
+    ]
+  }
+}

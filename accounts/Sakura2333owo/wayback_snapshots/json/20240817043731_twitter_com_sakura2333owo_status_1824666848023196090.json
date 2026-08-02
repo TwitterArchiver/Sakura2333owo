@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1824666848023196090",
+    "created_at": "2024-08-17T04:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T05:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1824666848023196090"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yusanyyy8/stat…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/yusanyyy8/status/1824461406617636915",
+          "start": 61,
+          "url": "https://t.co/zDXR9UgyJY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824666848023196090",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824461406617636915",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "点了 思考了一下我感觉可能是真的现实中是姐 导致我对别人叫我姐姐一点星宇都没有 第一反应就是当姐好累好绝望(='_'=) https://t.co/zDXR9UgyJY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1824666848023196090",
+        "created_at": "2024-08-17T04:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T05:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824666848023196090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yusanyyy8/stat…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/yusanyyy8/status/1824461406617636915",
+              "start": 61,
+              "url": "https://t.co/zDXR9UgyJY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824666848023196090",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824461406617636915",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "点了 思考了一下我感觉可能是真的现实中是姐 导致我对别人叫我姐姐一点星宇都没有 第一反应就是当姐好累好绝望(='_'=) https://t.co/zDXR9UgyJY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650760116918943744",
+        "conversation_id": "1824461406617636915",
+        "created_at": "2024-08-16T15:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T16:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824461406617636915"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1824461406617636915",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1269,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "我和我妹待久了我就好烦被人叫姐姐 这是什么职责惩罚吗 好累 我不想照顾别人了 为什么要逼迫我承担 好累 (ᇂ_ᇂ|||)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19046,
+          "following_count": 249,
+          "like_count": 6214,
+          "listed_count": 36,
+          "tweet_count": 3445
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T07:14:30.000Z",
+        "description": "酷儿/我只希望自己是一只很萌的仓鼠(╥﹏╥)\n@NANnan868",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "NANnan868"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yusanyyy8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yusanyyy8",
+                "start": 0,
+                "url": "https://t.co/1aIiKMVfgb"
+              }
+            ]
+          }
+        },
+        "id": "1650760116918943744",
+        "location": "連線世界",
+        "name": "✟击穿紫罗兰💉",
+        "pinned_tweet_id": "1824093098575909118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818185912175718400/fDeonhMQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2732,
+          "following_count": 770,
+          "like_count": 34633,
+          "listed_count": 4,
+          "tweet_count": 12305
+        },
+        "url": "https://t.co/1aIiKMVfgb",
+        "username": "yusanyyy8",
+        "verified": false
+      }
+    ]
+  }
+}

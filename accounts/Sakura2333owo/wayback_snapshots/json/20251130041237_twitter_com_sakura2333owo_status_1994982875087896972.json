@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1994974577244729443",
+    "created_at": "2025-11-30T04:12:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T05:12:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994982875087896972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1691752296093532160",
+          "start": 0,
+          "username": "deliesi145179"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994982875087896972",
+    "in_reply_to_user_id": "1691752296093532160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994976153128636584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@deliesi145179 我这边就是每天和女朋友聊天打打游戏 日常也都是和她分享 有的时候忽然想觉得太有趣太可爱了好想分享给别人又不知道分享给谁 大家都有更好的朋友 和网友唯一的互动就是暖评 我这不常联系忽然分享给人家一条又感觉很奇怪 要是发群聊大家也都有更熟悉的小团体 唉有种和谁都不熟的感觉 干什么都尴尴尬尬的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1994974577244729443",
+        "created_at": "2025-11-30T04:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T05:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994982875087896972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1691752296093532160",
+              "start": 0,
+              "username": "deliesi145179"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994982875087896972",
+        "in_reply_to_user_id": "1691752296093532160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994976153128636584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@deliesi145179 我这边就是每天和女朋友聊天打打游戏 日常也都是和她分享 有的时候忽然想觉得太有趣太可爱了好想分享给别人又不知道分享给谁 大家都有更好的朋友 和网友唯一的互动就是暖评 我这不常联系忽然分享给人家一条又感觉很奇怪 要是发群聊大家也都有更熟悉的小团体 唉有种和谁都不熟的感觉 干什么都尴尴尬尬的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691752296093532160",
+        "conversation_id": "1994974577244729443",
+        "created_at": "2025-11-30T03:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T04:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994976153128636584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994976153128636584",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994974577244729443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 好像确实有这种事情正在发生，我明天上下班，睡觉，除了和网友吹水就基本没有交流了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36965,
+          "following_count": 284,
+          "like_count": 7473,
+          "listed_count": 74,
+          "media_count": 1148,
+          "tweet_count": 5220
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-16T10:02:57.000Z",
+        "description": "黑夜化作细雨潺潺而下，疯神顷刻坠入人间",
+        "id": "1691752296093532160",
+        "name": "暴喰",
+        "pinned_tweet_id": "1787737729700364581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760772910028124160/gWCxtYr8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 2299,
+          "like_count": 40,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 991
+        },
+        "username": "deliesi145179",
+        "verified": false
+      }
+    ]
+  }
+}

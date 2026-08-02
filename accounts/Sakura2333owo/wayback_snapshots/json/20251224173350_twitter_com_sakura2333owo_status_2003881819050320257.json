@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "2003601556156100706",
+    "created_at": "2025-12-24T17:33:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T18:33:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003881819050320257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2000826943206555649",
+          "start": 0,
+          "username": "pingapingu002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003881819050320257",
+    "in_reply_to_user_id": "2000826943206555649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003601556156100706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pingapingu002 以前我用的这个手机… ！但是拍照真的不好看！ ᴛㅅᴛ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2003601551232012288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G844_sybEAAp0qg.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003601552054071296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G844_v2asAA-YFZ.jpg",
+        "width": 931
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2003601553442410496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G844_1BbEAAv9YE.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "2003601556156100706",
+        "created_at": "2025-12-24T17:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T18:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003881819050320257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000826943206555649",
+              "start": 0,
+              "username": "pingapingu002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003881819050320257",
+        "in_reply_to_user_id": "2000826943206555649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003601556156100706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pingapingu002 以前我用的这个手机… ！但是拍照真的不好看！ ᴛㅅᴛ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003601551232012288",
+            "3_2003601552054071296",
+            "3_2003601553442410496"
+          ]
+        },
+        "author_id": "2000826943206555649",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2003601556156100706",
+        "created_at": "2025-12-23T23:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T00:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003601556156100706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z9PtJgUsVB",
+              "end": 69,
+              "expanded_url": "https://x.com/pingapingu002/status/2003601556156100706/photo/1",
+              "media_key": "3_2003601551232012288",
+              "start": 46,
+              "url": "https://t.co/z9PtJgUsVB"
+            },
+            {
+              "display_url": "pic.x.com/z9PtJgUsVB",
+              "end": 69,
+              "expanded_url": "https://x.com/pingapingu002/status/2003601556156100706/photo/1",
+              "media_key": "3_2003601552054071296",
+              "start": 46,
+              "url": "https://t.co/z9PtJgUsVB"
+            },
+            {
+              "display_url": "pic.x.com/z9PtJgUsVB",
+              "end": 69,
+              "expanded_url": "https://x.com/pingapingu002/status/2003601556156100706/photo/1",
+              "media_key": "3_2003601553442410496",
+              "start": 46,
+              "url": "https://t.co/z9PtJgUsVB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003601556156100706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 33199,
+          "like_count": 190,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "最近沉迷买一些手机，发现美图的联名手机都漂亮的离谱。。。前置好像也很nb，我要购入一台试试 https://t.co/z9PtJgUsVB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37027,
+          "following_count": 285,
+          "like_count": 7572,
+          "listed_count": 77,
+          "media_count": 1172,
+          "tweet_count": 5321
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-16T07:15:27.000Z",
+        "description": "旧的号封了旧手机卖了，真的好多互关找不到了，互关你们私我一下我慢慢回关，我怕这个号也炸了。。。",
+        "id": "2000826943206555649",
+        "location": "码粒纳帮我注册了新号码粒纳好",
+        "name": "睡觉睡觉困困困2.0",
+        "pinned_tweet_id": "2003843366426234896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003163752800354307/w-eF7K_7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 52,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 64
+        },
+        "username": "pingapingu002",
+        "verified": false
+      }
+    ]
+  }
+}

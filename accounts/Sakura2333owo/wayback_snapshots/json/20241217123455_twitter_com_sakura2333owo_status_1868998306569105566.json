@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1868572392253251640",
+    "created_at": "2024-12-17T12:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T13:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868998306569105566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1811812787058016257",
+          "start": 0,
+          "username": "kanakosama0223"
+        },
+        {
+          "end": 24,
+          "id": "1495662254544789506",
+          "start": 16,
+          "username": "Aloevce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868998306569105566",
+    "in_reply_to_user_id": "1811812787058016257",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868993302793797651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanakosama0223 @Aloevce 🙀🙀🙀🙀🙀🙀🙀🙀🙀🙀🙀🙀🙀🙀🙀🙀🙀😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1868572392253251640",
+        "created_at": "2024-12-17T12:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T13:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868998306569105566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811812787058016257",
+              "start": 0,
+              "username": "kanakosama0223"
+            },
+            {
+              "end": 24,
+              "id": "1495662254544789506",
+              "start": 16,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868998306569105566",
+        "in_reply_to_user_id": "1811812787058016257",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868993302793797651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanakosama0223 @Aloevce 🙀🙀🙀🙀🙀🙀🙀🙀🙀🙀🙀🙀🙀🙀🙀🙀🙀😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811812787058016257",
+        "conversation_id": "1868572392253251640",
+        "created_at": "2024-12-17T12:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T13:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868993302793797651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868993302793797651",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868572392253251640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 陈威😱😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24003,
+          "following_count": 269,
+          "like_count": 6473,
+          "listed_count": 39,
+          "media_count": 875,
+          "tweet_count": 4060
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T17:20:27.000Z",
+        "description": "07餐券女 kanako的六代目 🚪288",
+        "id": "1811812787058016257",
+        "location": "小老鼠墓地🪦",
+        "name": "草莓水烟枪🍓",
+        "pinned_tweet_id": "1828825210201710749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858913436249583616/x_qvP_nV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6095,
+          "following_count": 74,
+          "like_count": 2754,
+          "listed_count": 6,
+          "media_count": 356,
+          "tweet_count": 1643
+        },
+        "username": "kanakosama0223",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "404 No Found\n\n❓:https://t.co/EE8B1ewVqa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aloevce",
+                "end": 39,
+                "expanded_url": "https://ngl.link/aloevce",
+                "start": 16,
+                "url": "https://t.co/EE8B1ewVqa"
+              }
+            ]
+          }
+        },
+        "id": "1495662254544789506",
+        "location": "闪焰王牌",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1865076713211699392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17674,
+          "following_count": 2348,
+          "like_count": 53679,
+          "listed_count": 20,
+          "media_count": 5495,
+          "tweet_count": 19737
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "2047260511860117959",
+    "created_at": "2026-04-23T10:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T11:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047263097157730456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1893321456458870784",
+          "start": 0,
+          "username": "c5ntol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047263097157730456",
+    "in_reply_to_user_id": "1893321456458870784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047260653757542804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c5ntol 可能还是彩色"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "2047260511860117959",
+        "created_at": "2026-04-23T10:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047263097157730456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1893321456458870784",
+              "start": 0,
+              "username": "c5ntol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047263097157730456",
+        "in_reply_to_user_id": "1893321456458870784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047260653757542804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c5ntol 可能还是彩色"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893321456458870784",
+        "conversation_id": "2047260511860117959",
+        "created_at": "2026-04-23T10:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047260653757542804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "Sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047260653757542804",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047260511860117959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura2333owo 你选了什么颜色？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི 🩵☁️💤All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37428,
+          "following_count": 299,
+          "like_count": 8038,
+          "listed_count": 78,
+          "media_count": 1192,
+          "tweet_count": 5464
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "Sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T15:26:34.000Z",
+        "description": "雑多／アニメ、漫画、ようつべ／腐姫夢／絵とヵ@and_si2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "and_si2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/c5ntol?igsh=dW…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/c5ntol?igsh=dW41cDJlbmVoaHN6&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/nsTk7qcQwl"
+              }
+            ]
+          }
+        },
+        "id": "1893321456458870784",
+        "location": "アニメとヵ",
+        "name": "飢餓歴史絵巻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929856188881231872/britpPBM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 576,
+          "like_count": 28690,
+          "listed_count": 1,
+          "media_count": 223,
+          "tweet_count": 10367
+        },
+        "url": "https://t.co/nsTk7qcQwl",
+        "username": "c5ntol",
+        "verified": false
+      }
+    ]
+  }
+}

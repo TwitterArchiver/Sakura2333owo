@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Ongoing News Stories like 'Brexit'",
+          "id": "123",
+          "name": "Ongoing News Story"
+        },
+        "entity": {
+          "id": "1220701888179359745",
+          "name": "COVID-19"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1220701888179359745",
+          "name": "COVID-19"
+        }
+      }
+    ],
+    "conversation_id": "1818562673761751411",
+    "created_at": "2024-07-31T09:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-31T10:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818574158814699813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1052542133519826945",
+          "start": 0,
+          "username": "matsuri_kksk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818574158814699813",
+    "in_reply_to_user_id": "1052542133519826945",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818573936885653914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@matsuri_kksk 🙀宝宝咱不冲了不行吗  明天就要血流成河了 小心下面感染🐁"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1818573936885653914].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1818573936885653914",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1818573936885653914"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          }
+        ],
+        "conversation_id": "1818562673761751411",
+        "created_at": "2024-07-31T09:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T10:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818574158814699813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1052542133519826945",
+              "start": 0,
+              "username": "matsuri_kksk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818574158814699813",
+        "in_reply_to_user_id": "1052542133519826945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818573936885653914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@matsuri_kksk 🙀宝宝咱不冲了不行吗  明天就要血流成河了 小心下面感染🐁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les /★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17664,
+          "following_count": 246,
+          "like_count": 6046,
+          "listed_count": 35,
+          "tweet_count": 3296
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-17T12:49:34.000Z",
+        "description": "僕を見つめないで",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sigure.jp",
+                "end": 23,
+                "expanded_url": "http://www.sigure.jp",
+                "start": 0,
+                "url": "https://t.co/f7iyZxc29U"
+              }
+            ]
+          }
+        },
+        "id": "1052542133519826945",
+        "name": "🏮夏色まつり ガチ恋勢🏮",
+        "pinned_tweet_id": "1811669298873770443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803097561840115712/dHYNwmHd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 908,
+          "like_count": 70582,
+          "listed_count": 8,
+          "tweet_count": 31369
+        },
+        "url": "https://t.co/f7iyZxc29U",
+        "username": "matsuri_kksk",
+        "verified": false
+      }
+    ]
+  }
+}

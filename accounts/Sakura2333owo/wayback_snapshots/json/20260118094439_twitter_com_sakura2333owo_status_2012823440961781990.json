@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "2012820338208580056",
+    "created_at": "2026-01-18T09:44:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T10:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012823440961781990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1823230506139574272",
+          "start": 0,
+          "username": "naku_sushi_ebi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012823440961781990",
+    "in_reply_to_user_id": "1823230506139574272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012820712403161577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naku_sushi_ebi 我形容不上来 我这些年总是在想怎么能完美的杀掉某个人 一直一直想 在脑袋里做笔记 怎么谋杀能完美又漂亮 各种死法和后果\n如果我现在杀掉会怎么样\n如果我用这个杀掉怎么样\n如果我用这个掩埋会怎么样 \n如果我用这个分尸会怎么样\n这几年这人在我的脑袋里变着花样的死\n反反复复天天没事就想这些了好讨厌啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "2012820338208580056",
+        "created_at": "2026-01-18T09:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T10:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012823440961781990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1823230506139574272",
+              "start": 0,
+              "username": "naku_sushi_ebi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012823440961781990",
+        "in_reply_to_user_id": "1823230506139574272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012820712403161577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naku_sushi_ebi 我形容不上来 我这些年总是在想怎么能完美的杀掉某个人 一直一直想 在脑袋里做笔记 怎么谋杀能完美又漂亮 各种死法和后果\n如果我现在杀掉会怎么样\n如果我用这个杀掉怎么样\n如果我用这个掩埋会怎么样 \n如果我用这个分尸会怎么样\n这几年这人在我的脑袋里变着花样的死\n反反复复天天没事就想这些了好讨厌啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823230506139574272",
+        "conversation_id": "2012820338208580056",
+        "created_at": "2026-01-18T09:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T10:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012820712403161577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012820712403161577",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012820338208580056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 就随便咬个人或者什么东西吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37880,
+          "following_count": 297,
+          "like_count": 7819,
+          "listed_count": 78,
+          "media_count": 1177,
+          "tweet_count": 5369
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T05:30:12.000Z",
+        "description": "ごきげんよう。マゾで変態です。趣味で絵を描いてます。 🔥🐊",
+        "id": "1823230506139574272",
+        "location": "凍てつく大地",
+        "name": "ぐう〜たらvulder☆",
+        "pinned_tweet_id": "2005128122736447888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999720301148667911/bg6VdEHR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 907,
+          "like_count": 9408,
+          "listed_count": 0,
+          "media_count": 826,
+          "tweet_count": 2078
+        },
+        "username": "naku_sushi_ebi",
+        "verified": false
+      }
+    ]
+  }
+}

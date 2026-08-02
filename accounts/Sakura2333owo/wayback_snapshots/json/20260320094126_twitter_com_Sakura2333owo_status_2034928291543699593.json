@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "2034902338583110059",
+    "created_at": "2026-03-20T09:41:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T10:41:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034928291543699593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1849136559855185920",
+          "start": 0,
+          "username": "chocolate_7749"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034928291543699593",
+    "in_reply_to_user_id": "1849136559855185920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034918912169836968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chocolate_7749 有一部分这个原因 我感觉我对出门的感受很复杂  出门很累 而且外面没有安全感 好可怕好害怕 很熟悉又陌生 感觉是一群现在的人在以前的地方 很讨厌路人虽然我根本不认识人家但是就是看到很烦对不起 但是搁一两个月出来吸一口新鲜空气很舒服 可是每次出门回来都好累好累浑身痛 需要躺床上一天才能回能量"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "2034902338583110059",
+        "created_at": "2026-03-20T09:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T10:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034928291543699593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849136559855185920",
+              "start": 0,
+              "username": "chocolate_7749"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034928291543699593",
+        "in_reply_to_user_id": "1849136559855185920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034918912169836968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chocolate_7749 有一部分这个原因 我感觉我对出门的感受很复杂  出门很累 而且外面没有安全感 好可怕好害怕 很熟悉又陌生 感觉是一群现在的人在以前的地方 很讨厌路人虽然我根本不认识人家但是就是看到很烦对不起 但是搁一两个月出来吸一口新鲜空气很舒服 可是每次出门回来都好累好累浑身痛 需要躺床上一天才能回能量"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849136559855185920",
+        "conversation_id": "2034902338583110059",
+        "created_at": "2026-03-20T09:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T10:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034918912169836968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "Sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034918912169836968",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034902338583110059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura2333owo 我以前不喜欢出门是因为害怕别人的目光，我以我的这种例子来的话。就是想象我是路人，比如穿羽绒服的是一个路人小女孩，我会对她有不礼貌的看法或者意见吗？ 不会，我不会在意，那么换回来，别人会在意我吗？不会。我只要做好自己就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི 🩵☁️💤All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38244,
+          "following_count": 300,
+          "like_count": 8037,
+          "listed_count": 81,
+          "media_count": 1191,
+          "tweet_count": 5443
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "Sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T17:11:41.000Z",
+        "description": "|社恐｜生病修养不常上线｜喜欢蓝色｜间歇失眠｜简繁中 English русский язык но не много｜究极复杂成分｜乙女向 ｜不定期焦虑发作｜infp｜UTC+8｜20｜bjd doll｜",
+        "id": "1849136559855185920",
+        "location": "221B Baker Street",
+        "name": "ʚ BitterTea ɞ",
+        "pinned_tweet_id": "1931984486998389247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922319908219564032/AZSN8wZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 191,
+          "like_count": 1499,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 744
+        },
+        "username": "chocolate_7749",
+        "verified": false
+      }
+    ]
+  }
+}

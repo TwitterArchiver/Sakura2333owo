@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1996973325323849962",
+    "created_at": "2025-12-06T09:21:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T10:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997235036316381455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1737800333324435457",
+          "start": 0,
+          "username": "senlin____"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997235036316381455",
+    "in_reply_to_user_id": "1737800333324435457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997196905978515742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senlin____ 和描述一下理想型不矛盾啊……我这个就是纯欣赏美少年长相 内心还是专心于女朋友的🫶🩵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1996973325323849962",
+        "created_at": "2025-12-06T09:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T10:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997235036316381455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1737800333324435457",
+              "start": 0,
+              "username": "senlin____"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997235036316381455",
+        "in_reply_to_user_id": "1737800333324435457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997196905978515742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senlin____ 和描述一下理想型不矛盾啊……我这个就是纯欣赏美少年长相 内心还是专心于女朋友的🫶🩵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737800333324435457",
+        "conversation_id": "1996973325323849962",
+        "created_at": "2025-12-06T06:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T07:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997196905978515742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997196905978515742",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996973325323849962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 不是喜欢女生吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36949,
+          "following_count": 287,
+          "like_count": 7516,
+          "listed_count": 74,
+          "media_count": 1150,
+          "tweet_count": 5241
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-21T11:42:24.000Z",
+        "description": "欢迎光临",
+        "id": "1737800333324435457",
+        "location": "chiang mai",
+        "name": "森林",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972231398955302913/CN1eadwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 42,
+          "like_count": 11939,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 379
+        },
+        "username": "senlin____",
+        "verified": false
+      }
+    ]
+  }
+}

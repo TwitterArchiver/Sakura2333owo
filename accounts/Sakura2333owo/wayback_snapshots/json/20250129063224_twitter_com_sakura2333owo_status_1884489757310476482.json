@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1884487895404449836",
+    "created_at": "2025-01-29T06:32:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T07:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884489757310476482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1811812787058016257",
+          "start": 0,
+          "username": "kanakosama0223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884489757310476482",
+    "in_reply_to_user_id": "1811812787058016257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884489254186934456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanakosama0223 我谢谢她啊给我变成南通天菜了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1884487895404449836",
+        "created_at": "2025-01-29T06:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T07:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884489757310476482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811812787058016257",
+              "start": 0,
+              "username": "kanakosama0223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884489757310476482",
+        "in_reply_to_user_id": "1811812787058016257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884489254186934456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanakosama0223 我谢谢她啊给我变成南通天菜了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884489241067151362"
+          ]
+        },
+        "author_id": "1811812787058016257",
+        "conversation_id": "1884487895404449836",
+        "created_at": "2025-01-29T06:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T07:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884489254186934456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pgZLky3KQu",
+              "end": 49,
+              "expanded_url": "https://x.com/kanakosama0223/status/1884489254186934456/photo/1",
+              "media_key": "3_1884489241067151362",
+              "start": 26,
+              "url": "https://t.co/pgZLky3KQu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884489254186934456",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884487895404449836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 要谢就谢你女朋友吧😈 https://t.co/pgZLky3KQu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25516,
+          "following_count": 272,
+          "like_count": 6744,
+          "listed_count": 41,
+          "media_count": 968,
+          "tweet_count": 4359
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T17:20:27.000Z",
+        "description": "IG：kanako_0223ff 07餐券女 kanako的六代目 🚪288 @nemurikamisama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 39,
+                "username": "nemurikamisama"
+              }
+            ]
+          }
+        },
+        "id": "1811812787058016257",
+        "location": "小老鼠墓地🪦",
+        "name": "草莓水烟枪🍓",
+        "pinned_tweet_id": "1828825210201710749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884267612382846976/6Dg3YvkK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10801,
+          "following_count": 76,
+          "like_count": 3945,
+          "listed_count": 13,
+          "media_count": 433,
+          "tweet_count": 2359
+        },
+        "username": "kanakosama0223",
+        "verified": false
+      }
+    ]
+  }
+}

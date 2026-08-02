@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "2048721623684162046",
+    "created_at": "2026-04-27T11:11:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T12:11:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048721623684162046"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sakura2333owo/…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/sakura2333owo/status/2048664362899161441",
+          "start": 51,
+          "url": "https://t.co/DdfDRpC2HP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048721623684162046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048664362899161441",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉 因为签了保密协议 合作的甲方也是碰也碰不得的大名鼎鼎的某资本家app  要不我必须狠狠发推文吐槽 https://t.co/DdfDRpC2HP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "2048721623684162046",
+        "created_at": "2026-04-27T11:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048721623684162046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sakura2333owo/…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/sakura2333owo/status/2048664362899161441",
+              "start": 51,
+              "url": "https://t.co/DdfDRpC2HP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048721623684162046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048664362899161441",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉 因为签了保密协议 合作的甲方也是碰也碰不得的大名鼎鼎的某资本家app  要不我必须狠狠发推文吐槽 https://t.co/DdfDRpC2HP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "2048664362899161441",
+        "created_at": "2026-04-27T07:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048664362899161441"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048664362899161441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 592,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我到底动了哪个资本家的蛋糕 甲方你为什么要这么对我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི 🩵☁️💤All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37709,
+          "following_count": 299,
+          "like_count": 8036,
+          "listed_count": 80,
+          "media_count": 1193,
+          "tweet_count": 5471
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "Sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

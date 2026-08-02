@@ -1,0 +1,101 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1830577613468995852",
+    "created_at": "2024-09-02T12:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-02T13:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1830577613468995852"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1830577613468995852",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在学校吃饭会很发愁( ･᷄-･᷅ )因为我食量很小…但是食堂和店铺的饭量都很大啊喂…至少一份对于我来说够我吃两天了(   𖦹ᯅ𖦹 )但是我对于吃不完饭会觉得很罪恶很浪费…所以就算吃饱也会努力的往肚里塞食物\n仿佛告诉食物「我已经努力过了！」来没有那么多的罪恶感(／. _.＼)\n（最后的结果是胃疼哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1830577613468995852",
+        "created_at": "2024-09-02T12:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T13:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830577613468995852"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1830577613468995852",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在学校吃饭会很发愁( ･᷄-･᷅ )因为我食量很小…但是食堂和店铺的饭量都很大啊喂…至少一份对于我来说够我吃两天了(   𖦹ᯅ𖦹 )但是我对于吃不完饭会觉得很罪恶很浪费…所以就算吃饱也会努力的往肚里塞食物\n仿佛告诉食物「我已经努力过了！」来没有那么多的罪恶感(／. _.＼)\n（最后的结果是胃疼哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20462,
+          "following_count": 251,
+          "like_count": 6279,
+          "listed_count": 37,
+          "tweet_count": 3539
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

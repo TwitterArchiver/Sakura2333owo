@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1993599228464214123",
+    "created_at": "2025-11-26T08:54:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T09:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993604342943760757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1803849149248360448",
+          "start": 0,
+          "username": "itsmesakiisept"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993604342943760757",
+    "in_reply_to_user_id": "1803849149248360448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993603006802067935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itsmesakiisept 这辈子这点脑袋瓜全用在鼓捣没用小东西上了！:;(∩´﹏`∩);:"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1993599228464214123",
+        "created_at": "2025-11-26T08:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T09:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993604342943760757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1803849149248360448",
+              "start": 0,
+              "username": "itsmesakiisept"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993604342943760757",
+        "in_reply_to_user_id": "1803849149248360448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993603006802067935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsmesakiisept 这辈子这点脑袋瓜全用在鼓捣没用小东西上了！:;(∩´﹏`∩);:"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803849149248360448",
+        "conversation_id": "1993599228464214123",
+        "created_at": "2025-11-26T08:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T09:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993603006802067935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993603006802067935",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993599228464214123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 女神痛机都这么萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "不知腐鼠成滋味，猜意鹓雏竟未休。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36256,
+          "following_count": 282,
+          "like_count": 7399,
+          "listed_count": 74,
+          "media_count": 1143,
+          "tweet_count": 5180
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T17:55:34.000Z",
+        "description": "只想做一个才华横溢的有钱年轻女孩 ｜小赦赦重度依赖/.｜已有龟@mmuuucc0 @BB40304",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "mmuuucc0"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "username": "BB40304"
+              }
+            ]
+          }
+        },
+        "id": "1803849149248360448",
+        "name": "煮豆燃豆7",
+        "pinned_tweet_id": "1984420889035673887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919363700756213761/d0FjzVLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2375,
+          "following_count": 189,
+          "like_count": 47878,
+          "listed_count": 10,
+          "media_count": 63,
+          "tweet_count": 9287
+        },
+        "username": "itsmesakiisept",
+        "verified": false
+      }
+    ]
+  }
+}

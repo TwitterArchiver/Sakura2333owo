@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1829844542146969773",
+    "created_at": "2024-09-01T05:00:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-01T06:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830108434144059508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1096085270338785281",
+          "start": 0,
+          "username": "ruxjex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830108434144059508",
+    "in_reply_to_user_id": "1096085270338785281",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830085031550972338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruxjex 送给我的是置换😿寄拍都要寄回去的😣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1829844542146969773",
+        "created_at": "2024-09-01T05:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T06:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830108434144059508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1096085270338785281",
+              "start": 0,
+              "username": "ruxjex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830108434144059508",
+        "in_reply_to_user_id": "1096085270338785281",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830085031550972338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruxjex 送给我的是置换😿寄拍都要寄回去的😣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1096085270338785281",
+        "conversation_id": "1829844542146969773",
+        "created_at": "2024-09-01T03:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T04:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830085031550972338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830085031550972338",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829844542146969773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 寄拍的衣服不都是送给你的嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20306,
+          "following_count": 249,
+          "like_count": 6247,
+          "listed_count": 37,
+          "tweet_count": 3515
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-14T16:34:27.000Z",
+        "description": "小道消息传播者、不成熟建议提供者 高强度上网，不用睡觉。dyor",
+        "id": "1096085270338785281",
+        "name": "Hanmao",
+        "pinned_tweet_id": "1792214477376782459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794293002485297153/Ksyec7dO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 260,
+          "like_count": 366,
+          "listed_count": 1,
+          "tweet_count": 1235
+        },
+        "username": "ruxjex",
+        "verified": true
+      }
+    ]
+  }
+}

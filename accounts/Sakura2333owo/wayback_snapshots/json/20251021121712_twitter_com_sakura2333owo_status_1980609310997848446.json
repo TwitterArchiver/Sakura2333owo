@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1980608707747512320"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1980609310997848446",
+    "created_at": "2025-10-21T12:17:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T13:17:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980609310997848446"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uZlCojqwwj",
+          "end": 44,
+          "expanded_url": "https://x.com/sakura2333owo/status/1980609310997848446/video/1",
+          "media_key": "13_1980608707747512320",
+          "start": 21,
+          "url": "https://t.co/uZlCojqwwj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980609310997848446",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "死宅の秋冬最强吃法໒( ᓀ ‸ ᓂ )७ https://t.co/uZlCojqwwj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30133,
+        "height": 720,
+        "media_key": "13_1980608707747512320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1980608707747512320/img/DocKzvz6ih-8HX0_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980608707747512320/vid/avc1/480x270/8KXqxkFMd7nI2zrt.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980608707747512320/vid/avc1/640x360/0er2baf0e1OBsxk2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980608707747512320/vid/avc1/1280x720/uAIKYqxL_KLLLH7V.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1980608707747512320/pl/EJHKB45zY3cD-4f_.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1980608707747512320"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1980609310997848446",
+        "created_at": "2025-10-21T12:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T13:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980609310997848446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uZlCojqwwj",
+              "end": 44,
+              "expanded_url": "https://x.com/sakura2333owo/status/1980609310997848446/video/1",
+              "media_key": "13_1980608707747512320",
+              "start": 21,
+              "url": "https://t.co/uZlCojqwwj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980609310997848446",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死宅の秋冬最强吃法໒( ᓀ ‸ ᓂ )७ https://t.co/uZlCojqwwj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽𝒜𝓃𝒾𝓂ℯ𝒸ℴ𝓇ℯ❤︎𓊇ྀི",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉—貓貓國",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34560,
+          "following_count": 284,
+          "like_count": 7305,
+          "listed_count": 67,
+          "media_count": 1136,
+          "tweet_count": 5153
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

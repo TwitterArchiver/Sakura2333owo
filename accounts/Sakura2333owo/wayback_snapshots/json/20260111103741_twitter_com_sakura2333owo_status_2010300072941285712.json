@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "2010296518851580084",
+    "created_at": "2026-01-11T10:37:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T11:37:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010300072941285712"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 102,
+          "normalized_text": "yuka酱",
+          "probability": 0.3173,
+          "start": 98,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1893321456458870784",
+          "start": 0,
+          "username": "c5ntol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010300072941285712",
+    "in_reply_to_user_id": "1893321456458870784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010296786276307027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c5ntol 何度もこの投稿を上げ直してしまって本当にごめんなさい。\nちょっとしたズレや、揃っていないところが気になってしまって……何回も修正していました…(  ˃_˂ഃ )\nでも、その間ずっとyuka酱がいいねしてくれているのに気づいて、とても感動しました"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "2010296518851580084",
+        "created_at": "2026-01-11T10:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T11:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010300072941285712"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 102,
+              "normalized_text": "yuka酱",
+              "probability": 0.3173,
+              "start": 98,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1893321456458870784",
+              "start": 0,
+              "username": "c5ntol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010300072941285712",
+        "in_reply_to_user_id": "1893321456458870784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010296786276307027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c5ntol 何度もこの投稿を上げ直してしまって本当にごめんなさい。\nちょっとしたズレや、揃っていないところが気になってしまって……何回も修正していました…(  ˃_˂ഃ )\nでも、その間ずっとyuka酱がいいねしてくれているのに気づいて、とても感動しました"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893321456458870784",
+        "conversation_id": "2010296518851580084",
+        "created_at": "2026-01-11T10:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T11:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010296786276307027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010296786276307027",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010296518851580084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo すごいかわいい^&gt; ·̫ &lt;^⭐️♩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37397,
+          "following_count": 297,
+          "like_count": 7725,
+          "listed_count": 81,
+          "media_count": 1174,
+          "tweet_count": 5332
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-22T15:26:34.000Z",
+        "description": "雑／絵とヵ@and_si2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "and_si2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/c5ntol?igsh=dW…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/c5ntol?igsh=dW41cDJlbmVoaHN6&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/nsTk7qcQwl"
+              }
+            ]
+          }
+        },
+        "id": "1893321456458870784",
+        "location": "アニメとヵ",
+        "name": "飢餓歴史絵巻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929856188881231872/britpPBM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 474,
+          "like_count": 21826,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 8317
+        },
+        "url": "https://t.co/nsTk7qcQwl",
+        "username": "c5ntol",
+        "verified": false
+      }
+    ]
+  }
+}

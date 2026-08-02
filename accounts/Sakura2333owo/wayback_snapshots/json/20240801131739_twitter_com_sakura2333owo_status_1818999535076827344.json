@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1818993043070136477",
+    "created_at": "2024-08-01T13:17:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-01T14:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818999535076827344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1418890051430268930",
+          "start": 0,
+          "username": "codoku4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818999535076827344",
+    "in_reply_to_user_id": "1418890051430268930",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818993043070136477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@codoku4 粉丝多没什么用 生活照常不变"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1818993043070136477",
+        "created_at": "2024-08-01T13:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T14:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818999535076827344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1418890051430268930",
+              "start": 0,
+              "username": "codoku4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818999535076827344",
+        "in_reply_to_user_id": "1418890051430268930",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818993043070136477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codoku4 粉丝多没什么用 生活照常不变"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418890051430268930",
+        "conversation_id": "1818993043070136477",
+        "created_at": "2024-08-01T12:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T13:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818993043070136477"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1818993043070136477",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女友说粉丝多的人自残就像有钱人得抑郁症一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18259,
+          "following_count": 247,
+          "like_count": 6063,
+          "listed_count": 35,
+          "tweet_count": 3314
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T11:05:40.000Z",
+        "description": "积极亢奋的血液咕嘟咕嘟喷涌而出！！你好！我是未来著名插画家咕嘟，希望被你喜欢。",
+        "id": "1418890051430268930",
+        "location": "猫砂盆",
+        "name": "咕嘟",
+        "pinned_tweet_id": "1815217891069104183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785889007525822464/EsIdvuMi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 27,
+          "like_count": 13138,
+          "listed_count": 1,
+          "tweet_count": 347
+        },
+        "username": "codoku4",
+        "verified": false
+      }
+    ]
+  }
+}

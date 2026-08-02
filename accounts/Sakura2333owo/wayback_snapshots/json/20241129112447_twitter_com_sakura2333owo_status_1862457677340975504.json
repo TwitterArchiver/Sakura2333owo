@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1862457460126048256"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1862457677340975504",
+    "created_at": "2024-11-29T11:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T12:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1862457677340975504"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hAHr0v9pGC",
+          "end": 39,
+          "expanded_url": "https://x.com/sakura2333owo/status/1862457677340975504/video/1",
+          "media_key": "7_1862457460126048256",
+          "start": 16,
+          "url": "https://t.co/hAHr0v9pGC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862457677340975504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天  笑死我了└(^O^)┐ https://t.co/hAHr0v9pGC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30666,
+        "height": 1280,
+        "media_key": "7_1862457460126048256",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1862457460126048256/pu/img/vFDH1f8f4HAXC4-D.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1862457460126048256/pu/vid/avc1/320x568/qHWZcnfU9TLqeu25.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1862457460126048256/pu/vid/avc1/480x852/cAQ9IgDimKQXv4I1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1862457460126048256/pu/vid/avc1/720x1280/gyUFJtFT_tUE810m.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1862457460126048256/pu/pl/MYBjdvl5gwKbOmJ1.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1862457460126048256"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1862457677340975504",
+        "created_at": "2024-11-29T11:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T12:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862457677340975504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hAHr0v9pGC",
+              "end": 39,
+              "expanded_url": "https://x.com/sakura2333owo/status/1862457677340975504/video/1",
+              "media_key": "7_1862457460126048256",
+              "start": 16,
+              "url": "https://t.co/hAHr0v9pGC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862457677340975504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天  笑死我了└(^O^)┐ https://t.co/hAHr0v9pGC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23309,
+          "following_count": 269,
+          "like_count": 6300,
+          "listed_count": 37,
+          "media_count": 826,
+          "tweet_count": 3871
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

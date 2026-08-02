@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1880556591742849367",
+    "created_at": "2025-01-18T12:41:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T13:41:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880596486049988672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1842716966399930368",
+          "start": 0,
+          "username": "mokimoPP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880596486049988672",
+    "in_reply_to_user_id": "1842716966399930368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880574072624705837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mokimoPP 已经很久很久没有看过电视了…其实我很爱看电视…我爱看以前那些频道不是现在这些点播  全是会员真的要命了૮₍ ⸝⸝•̥𖥦•̥⸝⸝ ₎ა"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1880556591742849367",
+        "created_at": "2025-01-18T12:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T13:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880596486049988672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842716966399930368",
+              "start": 0,
+              "username": "mokimoPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880596486049988672",
+        "in_reply_to_user_id": "1842716966399930368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880574072624705837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mokimoPP 已经很久很久没有看过电视了…其实我很爱看电视…我爱看以前那些频道不是现在这些点播  全是会员真的要命了૮₍ ⸝⸝•̥𖥦•̥⸝⸝ ₎ა"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842716966399930368",
+        "conversation_id": "1880556591742849367",
+        "created_at": "2025-01-18T11:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T12:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880574072624705837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880574072624705837",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880556591742849367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 让我想想优乐美奶茶是什么时候退出荧幕（广告）的……（不对，自己好像也很近没有看电视了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24970,
+          "following_count": 273,
+          "like_count": 6620,
+          "listed_count": 41,
+          "media_count": 949,
+          "tweet_count": 4275
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-06T00:02:42.000Z",
+        "description": "看:日常和瑟瑟。\n宅:电动、游戏、音乐和番剧。",
+        "id": "1842716966399930368",
+        "name": "没脑袋猫咪",
+        "pinned_tweet_id": "1868576090308112812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868842463039033344/gYO75Fzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 6,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 479
+        },
+        "username": "mokimoPP",
+        "verified": false
+      }
+    ]
+  }
+}

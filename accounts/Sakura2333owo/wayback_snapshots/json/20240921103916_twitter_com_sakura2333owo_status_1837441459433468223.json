@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1837008869706584139",
+    "created_at": "2024-09-21T10:39:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T11:39:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837441459433468223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1779791531614126080",
+          "start": 0,
+          "username": "huazhi99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837441459433468223",
+    "in_reply_to_user_id": "1779791531614126080",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837439548755964200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huazhi99 我没有报价的 大部分都是不给钱只给衣服😞😞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1837008869706584139",
+        "created_at": "2024-09-21T10:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T11:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837441459433468223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1779791531614126080",
+              "start": 0,
+              "username": "huazhi99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837441459433468223",
+        "in_reply_to_user_id": "1779791531614126080",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837439548755964200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huazhi99 我没有报价的 大部分都是不给钱只给衣服😞😞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779791531614126080",
+        "conversation_id": "1837008869706584139",
+        "created_at": "2024-09-21T10:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T11:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837439548755964200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837439548755964200",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837419268918726703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 500都没有的话那一单不是100都没有😅😅哥们好惨（偷笑一下😏）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22421,
+          "following_count": 255,
+          "like_count": 6300,
+          "listed_count": 39,
+          "tweet_count": 3644
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T08:39:13.000Z",
+        "description": "好无聊。。。",
+        "id": "1779791531614126080",
+        "name": "山茶花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779791665877942272/IxMmXr85_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 85,
+          "like_count": 27,
+          "listed_count": 0,
+          "tweet_count": 67
+        },
+        "username": "huazhi99",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1825870544211955712"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1825870600239460370",
+    "created_at": "2024-08-20T12:20:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-20T13:20:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1825870600239460370"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iqb85nzcgf",
+          "end": 37,
+          "expanded_url": "https://twitter.com/sakura2333owo/status/1825870600239460370/video/1",
+          "media_key": "7_1825870544211955712",
+          "start": 14,
+          "url": "https://t.co/iqB85NzcGF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825870600239460370",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "∑(°口°๑)威严满…满？ https://t.co/iqB85NzcGF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20000,
+        "height": 1280,
+        "media_key": "7_1825870544211955712",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1825870544211955712/pu/img/8atXxpNM-5p7W2UN.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1825870544211955712/pu/vid/avc1/320x568/U4kdJobw1Mx2VccL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1825870544211955712/pu/vid/avc1/480x852/80vOY5CJ7Il0kuHS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1825870544211955712/pu/vid/avc1/720x1280/Ya1gqrBJm-ZAhLS2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1825870544211955712/pu/pl/GY4IecaqXDCSWlA3.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1825870544211955712"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1825870600239460370",
+        "created_at": "2024-08-20T12:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T13:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825870600239460370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iqb85nzcgf",
+              "end": 37,
+              "expanded_url": "https://twitter.com/sakura2333owo/status/1825870600239460370/video/1",
+              "media_key": "7_1825870544211955712",
+              "start": 14,
+              "url": "https://t.co/iqB85NzcGF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825870600239460370",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "∑(°口°๑)威严满…满？ https://t.co/iqB85NzcGF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19592,
+          "following_count": 249,
+          "like_count": 6231,
+          "listed_count": 36,
+          "tweet_count": 3470
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

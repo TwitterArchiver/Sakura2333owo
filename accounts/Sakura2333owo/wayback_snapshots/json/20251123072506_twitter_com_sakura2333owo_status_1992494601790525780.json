@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1992417292744008001",
+    "created_at": "2025-11-23T07:25:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T08:25:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992494601790525780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1801841843837276163",
+          "start": 0,
+          "username": "icraveoflove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992494601790525780",
+    "in_reply_to_user_id": "1801841843837276163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992417292744008001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@icraveoflove 外网这边都不太吃墙内的痘印红薯风格 不用太内耗宝宝 如果想要做照片号的话可以试试寻找适合自己的风格然后钻研下去！！加油！( ꐦ•᷄ὤ•᷅)و"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1992417292744008001",
+        "created_at": "2025-11-23T07:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T08:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992494601790525780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1801841843837276163",
+              "start": 0,
+              "username": "icraveoflove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992494601790525780",
+        "in_reply_to_user_id": "1801841843837276163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992417292744008001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@icraveoflove 外网这边都不太吃墙内的痘印红薯风格 不用太内耗宝宝 如果想要做照片号的话可以试试寻找适合自己的风格然后钻研下去！！加油！( ꐦ•᷄ὤ•᷅)و"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801841843837276163",
+        "conversation_id": "1992417292744008001",
+        "created_at": "2025-11-23T02:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T03:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992417292744008001"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992417292744008001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 31931,
+          "like_count": 130,
+          "quote_count": 3,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我的照片都很高质但从来没靠自拍火过…凭什么啊推上一群丑逼随手一拍都这么火"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1984186644141158737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35856,
+          "following_count": 281,
+          "like_count": 7372,
+          "listed_count": 70,
+          "media_count": 1143,
+          "tweet_count": 5167
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T04:59:14.000Z",
+        "description": "ig : esinenard  @raxx945",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "raxx945"
+              }
+            ]
+          }
+        },
+        "id": "1801841843837276163",
+        "location": "22",
+        "name": "esinenard",
+        "pinned_tweet_id": "1953140157432901668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991918524072177665/yHsTY2hb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13134,
+          "following_count": 180,
+          "like_count": 2026,
+          "listed_count": 20,
+          "media_count": 106,
+          "tweet_count": 1268
+        },
+        "username": "icraveoflove",
+        "verified": false
+      }
+    ]
+  }
+}

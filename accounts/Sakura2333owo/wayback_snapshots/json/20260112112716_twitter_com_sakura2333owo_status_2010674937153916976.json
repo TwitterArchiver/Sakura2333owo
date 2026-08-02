@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "2010371315652514017",
+    "created_at": "2026-01-12T11:27:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T12:27:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010674937153916976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620792340897054720",
+          "start": 0,
+          "username": "Orange007Orange"
+        },
+        {
+          "end": 28,
+          "id": "965583779380129792",
+          "start": 17,
+          "username": "mario_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010674937153916976",
+    "in_reply_to_user_id": "1620792340897054720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010507344065499388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Orange007Orange @mario_2333 哦NO！我这两天一直沉迷发这种推文！果咩那塞！【土下座Orz】"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "2010371315652514017",
+        "created_at": "2026-01-12T11:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T12:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010674937153916976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620792340897054720",
+              "start": 0,
+              "username": "Orange007Orange"
+            },
+            {
+              "end": 28,
+              "id": "965583779380129792",
+              "start": 17,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010674937153916976",
+        "in_reply_to_user_id": "1620792340897054720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010507344065499388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange007Orange @mario_2333 哦NO！我这两天一直沉迷发这种推文！果咩那塞！【土下座Orz】"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620792340897054720",
+        "conversation_id": "2010371315652514017",
+        "created_at": "2026-01-12T00:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T01:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010507344065499388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "965583779380129792",
+              "start": 0,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010507344065499388",
+        "in_reply_to_user_id": "965583779380129792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 356,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010371315652514017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mario_2333 我不管但是我不想看到这样的推文了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37744,
+          "following_count": 297,
+          "like_count": 7742,
+          "listed_count": 81,
+          "media_count": 1176,
+          "tweet_count": 5338
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-01T14:33:23.000Z",
+        "description": "请问你今天要来一个🍊吗｜无性别或者性别是🍊｜精神状态二极管｜⚠️鉴证滚贴脸飞老冯｜随便发发｜偶有r17内容｜陌生人私信不常看",
+        "id": "1620792340897054720",
+        "name": "melatonin🍊",
+        "pinned_tweet_id": "1935274813045571758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999106399805083650/DrI6Ej65_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 673,
+          "like_count": 54147,
+          "listed_count": 6,
+          "media_count": 637,
+          "tweet_count": 19720
+        },
+        "username": "Orange007Orange",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我🥰 | 想和大家成为好朋友，会温暖对待每个友善的人🥳 | 愿我们能从彼此的话语中获得力量(。•ω•。)ノ♡ | CC BY-NC 4.0 | 对目前可能的高延迟回复非常抱歉还请耐心等等😖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://t.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/pjgtS8ArcV"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "location": "UTC+1",
+        "name": "🍭Mario🐈",
+        "pinned_tweet_id": "1904681321374376434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2994,
+          "following_count": 255,
+          "like_count": 34491,
+          "listed_count": 17,
+          "media_count": 744,
+          "tweet_count": 10630
+        },
+        "url": "https://t.co/pjgtS8ArcV",
+        "username": "mario_2333",
+        "verified": false
+      }
+    ]
+  }
+}

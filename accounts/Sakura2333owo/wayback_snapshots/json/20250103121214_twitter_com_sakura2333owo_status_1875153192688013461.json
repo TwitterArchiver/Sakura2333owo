@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1875153192688013461",
+    "created_at": "2025-01-03T12:12:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T13:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1875153192688013461"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sakura2333owo/…",
+          "end": 169,
+          "expanded_url": "https://twitter.com/sakura2333owo/status/1875074444227649957",
+          "start": 146,
+          "url": "https://t.co/kiqbRrha9J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875153192688013461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875074444227649957",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本人终于意识到我抚慰情绪的方式就是疯狂养宠物  我发现我离开宠物简直活不了 从小到大我一直都是有宠物相伴 我必须需要宠物陪伴我缓解情绪或者算是一个精神依靠  \n当然我对他们都非常负责 我对待宠物就像我的孩子亲人一样 比对我自己上心，如果他们有天离开以后 我可能以后会想申请一只真正的抚慰犬。 https://t.co/kiqbRrha9J"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1875153192688013461",
+        "created_at": "2025-01-03T12:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T13:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875153192688013461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sakura2333owo/…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/sakura2333owo/status/1875074444227649957",
+              "start": 146,
+              "url": "https://t.co/kiqbRrha9J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875153192688013461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875074444227649957",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本人终于意识到我抚慰情绪的方式就是疯狂养宠物  我发现我离开宠物简直活不了 从小到大我一直都是有宠物相伴 我必须需要宠物陪伴我缓解情绪或者算是一个精神依靠  \n当然我对他们都非常负责 我对待宠物就像我的孩子亲人一样 比对我自己上心，如果他们有天离开以后 我可能以后会想申请一只真正的抚慰犬。 https://t.co/kiqbRrha9J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1875074348723421184",
+            "3_1875074348723400704"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1875074444227649957",
+        "created_at": "2025-01-03T06:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T07:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875074444227649957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QQRvEy5t2e",
+              "end": 169,
+              "expanded_url": "https://x.com/sakura2333owo/status/1875074444227649957/video/1",
+              "media_key": "7_1875074348723421184",
+              "start": 146,
+              "url": "https://t.co/QQRvEy5t2e"
+            },
+            {
+              "display_url": "pic.x.com/QQRvEy5t2e",
+              "end": 169,
+              "expanded_url": "https://x.com/sakura2333owo/status/1875074444227649957/video/1",
+              "media_key": "3_1875074348723400704",
+              "start": 146,
+              "url": "https://t.co/QQRvEy5t2e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875074444227649957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 988,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我养五只猫又养两只老鼠但是我非常严格的管控它们两边的:\n绝对不会让他们在同一个房间见面 并且我穿两件衣服 抱猫的时候穿一件外套  摸老鼠的时候换另一件T恤 怕老鼠闻到味道会害怕 每次摸完猫都用洗手液猛洗手我感觉手都要洗秃噜皮了  喂食的时候比较搞笑 喂完猫后再抓一把猫粮放鼠盆里就开吃了 https://t.co/QQRvEy5t2e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24521,
+          "following_count": 268,
+          "like_count": 6525,
+          "listed_count": 40,
+          "media_count": 914,
+          "tweet_count": 4157
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

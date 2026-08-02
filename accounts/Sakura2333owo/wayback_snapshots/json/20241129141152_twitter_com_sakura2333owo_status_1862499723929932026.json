@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1862499723929932026",
+    "created_at": "2024-11-29T14:11:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T15:11:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1862499723929932026"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sakura2333owo/…",
+          "end": 132,
+          "expanded_url": "https://twitter.com/sakura2333owo/status/1862498277536714822",
+          "start": 109,
+          "url": "https://t.co/73fnAUW1Lx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862499723929932026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862498277536714822",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好吧我说实话其实我推广衣服都会藏起来不好看的地方( ˘ω˘ )还会在衣服后面夹夹子…因为很少有版型合适的…… 大部分都需要夹个夹子收身一下……\n而且大部分衣服都很依赖配饰配全身的那种( ˘ω˘ )不然单看像图一羽绒服 https://t.co/73fnAUW1Lx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1862499723929932026",
+        "created_at": "2024-11-29T14:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T15:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862499723929932026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sakura2333owo/…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/sakura2333owo/status/1862498277536714822",
+              "start": 109,
+              "url": "https://t.co/73fnAUW1Lx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862499723929932026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862498277536714822",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好吧我说实话其实我推广衣服都会藏起来不好看的地方( ˘ω˘ )还会在衣服后面夹夹子…因为很少有版型合适的…… 大部分都需要夹个夹子收身一下……\n而且大部分衣服都很依赖配饰配全身的那种( ˘ω˘ )不然单看像图一羽绒服 https://t.co/73fnAUW1Lx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862498256300679169",
+            "3_1862498256338497536"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1862498277536714822",
+        "created_at": "2024-11-29T14:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T15:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862498277536714822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sBpDZjauDo",
+              "end": 80,
+              "expanded_url": "https://x.com/sakura2333owo/status/1862498277536714822/photo/1",
+              "media_key": "3_1862498256300679169",
+              "start": 57,
+              "url": "https://t.co/sBpDZjauDo"
+            },
+            {
+              "display_url": "pic.x.com/sBpDZjauDo",
+              "end": 80,
+              "expanded_url": "https://x.com/sakura2333owo/status/1862498277536714822/photo/1",
+              "media_key": "3_1862498256338497536",
+              "start": 57,
+              "url": "https://t.co/sBpDZjauDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862498277536714822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求求不要再让我接到这么奇怪设计版型的衣服推广了…… 我绞尽脑汁搭配饰把丑的地方遮遮掩掩也很累的……(='_'=) https://t.co/sBpDZjauDo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23313,
+          "following_count": 269,
+          "like_count": 6300,
+          "listed_count": 37,
+          "media_count": 827,
+          "tweet_count": 3873
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

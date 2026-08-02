@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1919379136700719206",
+    "created_at": "2025-05-06T07:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T08:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919660849850896894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1287639356002377728",
+          "start": 0,
+          "username": "ConnorLeyawiin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919660849850896894",
+    "in_reply_to_user_id": "1287639356002377728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919551027856212345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ConnorLeyawiin 哈哈其实是我补发根补一半回来了！ 现在已经变回全头蓝精灵了&gt;ㅅ&lt;"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1919379136700719206",
+        "created_at": "2025-05-06T07:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T08:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919660849850896894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1287639356002377728",
+              "start": 0,
+              "username": "ConnorLeyawiin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919660849850896894",
+        "in_reply_to_user_id": "1287639356002377728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919551027856212345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ConnorLeyawiin 哈哈其实是我补发根补一半回来了！ 现在已经变回全头蓝精灵了&gt;ㅅ&lt;"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1287639356002377728",
+        "conversation_id": "1919379136700719206",
+        "created_at": "2025-05-06T00:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T01:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919551027856212345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919551027856212345",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919379136700719206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 老大买点卡洛美的固色洗发水和固色发膜养养罢，咱一头白毛都保持半年了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31953,
+          "following_count": 272,
+          "like_count": 7203,
+          "listed_count": 52,
+          "media_count": 1044,
+          "tweet_count": 4803
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-27T06:42:07.000Z",
+        "description": "質疑陰暗逼，理解陰暗逼，成為陰暗逼。",
+        "id": "1287639356002377728",
+        "location": "Skyrim",
+        "name": "Connor🍫⭐️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601697513324838912/UUhNUj24_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 110,
+          "like_count": 11839,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 267
+        },
+        "username": "ConnorLeyawiin",
+        "verified": false
+      }
+    ]
+  }
+}

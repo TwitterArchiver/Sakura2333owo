@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1965970556790198404",
+    "created_at": "2025-09-12T02:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T03:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966326699068702737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1582271338206490624",
+          "start": 0,
+          "username": "zhong80881337"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966326699068702737",
+    "in_reply_to_user_id": "1582271338206490624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966158269187281169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhong80881337 我想了一下你是说那个置顶吗  那个是假的（ 我接一天赚推广费的！文案和主页都暗示了大家不要信……我都没下载tg hhhhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1965970556790198404",
+        "created_at": "2025-09-12T02:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T03:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966326699068702737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1582271338206490624",
+              "start": 0,
+              "username": "zhong80881337"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966326699068702737",
+        "in_reply_to_user_id": "1582271338206490624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966158269187281169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhong80881337 我想了一下你是说那个置顶吗  那个是假的（ 我接一天赚推广费的！文案和主页都暗示了大家不要信……我都没下载tg hhhhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1582271338206490624",
+        "conversation_id": "1965970556790198404",
+        "created_at": "2025-09-11T15:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T16:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966158269187281169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966158269187281169",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965972423330902139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 我先问问你那tg频道什么情况"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "置顶自辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "主页推广真假自辩 ",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1965964341464969319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34738,
+          "following_count": 279,
+          "like_count": 7316,
+          "listed_count": 67,
+          "media_count": 1120,
+          "tweet_count": 5072
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-18T07:24:29.000Z",
+        "description": "一个猫猫/抹茶控ing，有时分享日常，也可以找我打游戏",
+        "id": "1582271338206490624",
+        "location": "Uruk",
+        "name": "漫画屋里的Zz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958526676759187457/TZueLWbU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 80,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 29
+        },
+        "username": "zhong80881337",
+        "verified": false
+      }
+    ]
+  }
+}

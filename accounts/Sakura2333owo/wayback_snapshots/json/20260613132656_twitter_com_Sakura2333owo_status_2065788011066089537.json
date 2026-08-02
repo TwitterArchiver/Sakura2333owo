@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2065787879964684288"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "2065788011066089537",
+    "created_at": "2026-06-13T13:26:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:26:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065788011066089537"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RP94rRNwxv",
+          "end": 42,
+          "expanded_url": "https://x.com/Sakura2333owo/status/2065788011066089537/video/1",
+          "media_key": "13_2065787879964684288",
+          "start": 19,
+          "url": "https://t.co/RP94rRNwxv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065788011066089537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "房间太黑了 识别不到美颜 别骂我TT https://t.co/RP94rRNwxv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14952,
+        "height": 1280,
+        "media_key": "13_2065787879964684288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065787879964684288/img/zYw_hh43xWFEYuu9.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065787879964684288/vid/avc1/320x604/dXota_UJ1Ox2kcdC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065787879964684288/vid/avc1/480x906/BEzzcy8To3FtH41S.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065787879964684288/vid/avc1/678x1280/i5FzDTFPSi5KVHEp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065787879964684288/pl/IEuziRv6vFStQtok.m3u8"
+          }
+        ],
+        "width": 678
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065787879964684288"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "2065788011066089537",
+        "created_at": "2026-06-13T13:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065788011066089537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RP94rRNwxv",
+              "end": 42,
+              "expanded_url": "https://x.com/Sakura2333owo/status/2065788011066089537/video/1",
+              "media_key": "13_2065787879964684288",
+              "start": 19,
+              "url": "https://t.co/RP94rRNwxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065788011066089537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "房间太黑了 识别不到美颜 别骂我TT https://t.co/RP94rRNwxv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི 🩵☁️💤All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37482,
+          "following_count": 298,
+          "like_count": 7988,
+          "listed_count": 80,
+          "media_count": 1200,
+          "tweet_count": 5506
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "Sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

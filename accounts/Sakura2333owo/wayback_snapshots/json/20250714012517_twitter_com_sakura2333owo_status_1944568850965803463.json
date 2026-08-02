@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1944418732224172226",
+    "created_at": "2025-07-14T01:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T02:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944568850965803463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1914916693593485313",
+          "start": 0,
+          "username": "Aruiiur"
+        },
+        {
+          "end": 17,
+          "id": "1433678976564662273",
+          "start": 9,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944568850965803463",
+    "in_reply_to_user_id": "1914916693593485313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944426696796667946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aruiiur @hsn8086 想起来之前花店打工连着母亲节520521的日子…手都撸花撸秃噜皮了还是一小时八块……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1944418732224172226",
+        "created_at": "2025-07-14T01:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T02:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944568850965803463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1914916693593485313",
+              "start": 0,
+              "username": "Aruiiur"
+            },
+            {
+              "end": 17,
+              "id": "1433678976564662273",
+              "start": 9,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944568850965803463",
+        "in_reply_to_user_id": "1914916693593485313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944426696796667946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aruiiur @hsn8086 想起来之前花店打工连着母亲节520521的日子…手都撸花撸秃噜皮了还是一小时八块……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914916693593485313",
+        "conversation_id": "1944418732224172226",
+        "created_at": "2025-07-13T16:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T17:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944426696796667946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944426696796667946",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 27367,
+          "like_count": 322,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944418732224172226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 这是真的会哭啊啊啊我之前蜜雪兼职恰逢秋天第一杯奶茶。那天直接给我干哭了。我还是一小时10块钱的小时工😭😭😭一天累死累活干了快2k杯 他妈逼就赚了110"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆自撮り/雑垢/絵/東方project/les ★鼠类预警⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34112,
+          "following_count": 276,
+          "like_count": 7215,
+          "listed_count": 58,
+          "media_count": 1078,
+          "tweet_count": 4888
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T05:39:04.000Z",
+        "description": "碎碎碎碎碎念!!!",
+        "id": "1914916693593485313",
+        "name": "唧唧爆",
+        "pinned_tweet_id": "1940017300603597244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939668394472845312/EhxwA5yE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 41,
+          "like_count": 882,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 2010
+        },
+        "username": "Aruiiur",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1938548630870458380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84118,
+          "following_count": 971,
+          "like_count": 42069,
+          "listed_count": 191,
+          "media_count": 13491,
+          "tweet_count": 20213
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

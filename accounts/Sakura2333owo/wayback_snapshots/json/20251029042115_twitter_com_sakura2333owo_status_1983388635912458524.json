@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983388617918861312"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1983388635912458524",
+    "created_at": "2025-10-29T04:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T05:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983388635912458524"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FR4KCbio8K",
+          "end": 57,
+          "expanded_url": "https://x.com/sakura2333owo/status/1983388635912458524/photo/1",
+          "media_key": "3_1983388617918861312",
+          "start": 34,
+          "url": "https://t.co/FR4KCbio8K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983388635912458524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好难过一直哭，控制不住的一直哭，好难过，我就跟妈妈打电话我想妈妈 https://t.co/FR4KCbio8K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 379,
+        "media_key": "3_1983388617918861312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ZpcIabUAAEfjr.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983388617918861312"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1983388635912458524",
+        "created_at": "2025-10-29T04:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T05:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983388635912458524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FR4KCbio8K",
+              "end": 57,
+              "expanded_url": "https://x.com/sakura2333owo/status/1983388635912458524/photo/1",
+              "media_key": "3_1983388617918861312",
+              "start": 34,
+              "url": "https://t.co/FR4KCbio8K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983388635912458524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好难过一直哭，控制不住的一直哭，好难过，我就跟妈妈打电话我想妈妈 https://t.co/FR4KCbio8K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉—貓貓國",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35768,
+          "following_count": 283,
+          "like_count": 7312,
+          "listed_count": 68,
+          "media_count": 1144,
+          "tweet_count": 5178
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

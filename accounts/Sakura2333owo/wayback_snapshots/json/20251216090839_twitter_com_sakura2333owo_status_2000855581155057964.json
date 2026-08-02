@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "2000585847557800221",
+    "created_at": "2025-12-16T09:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T10:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000855581155057964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1963605793577865217",
+          "start": 0,
+          "username": "kami2234523"
+        },
+        {
+          "end": 26,
+          "id": "1052542133519826945",
+          "start": 13,
+          "username": "matsuri_kksk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000855581155057964",
+    "in_reply_to_user_id": "1963605793577865217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000681848934973813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kami2234523 @matsuri_kksk 那天我还陪她通宵 而且我还要大清早考四级 \n结果太困了起床起了n次 干脆直接不去了 睡死过去了 😿"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2000681848934973813].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2000681848934973813",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2000681848934973813"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "2000585847557800221",
+        "created_at": "2025-12-16T09:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T10:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000855581155057964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1963605793577865217",
+              "start": 0,
+              "username": "kami2234523"
+            },
+            {
+              "end": 26,
+              "id": "1052542133519826945",
+              "start": 13,
+              "username": "matsuri_kksk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000855581155057964",
+        "in_reply_to_user_id": "1963605793577865217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000681848934973813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami2234523 @matsuri_kksk 那天我还陪她通宵 而且我还要大清早考四级 \n结果太困了起床起了n次 干脆直接不去了 睡死过去了 😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37060,
+          "following_count": 286,
+          "like_count": 7531,
+          "listed_count": 76,
+          "media_count": 1161,
+          "tweet_count": 5279
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-04T14:11:25.000Z",
+        "description": "非人類\n大賬號@kami07322",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "kami07322"
+              }
+            ]
+          }
+        },
+        "id": "1963605793577865217",
+        "location": "虛幻裡世界",
+        "name": "不眠日",
+        "pinned_tweet_id": "1979569615044059382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996056918134263808/fSlcl4E3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 23,
+          "like_count": 833,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 643
+        },
+        "username": "kami2234523",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-17T12:49:34.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Daniu",
+                "end": 23,
+                "expanded_url": "https://lit.link/Daniu",
+                "start": 0,
+                "url": "https://t.co/Av8dsYusws"
+              }
+            ]
+          }
+        },
+        "id": "1052542133519826945",
+        "name": "🏮夏色まつり ガチ恋勢🏮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978364207444930560/kq-UigM-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1453,
+          "following_count": 919,
+          "like_count": 74887,
+          "listed_count": 7,
+          "media_count": 1688,
+          "tweet_count": 37293
+        },
+        "url": "https://t.co/Av8dsYusws",
+        "username": "matsuri_kksk",
+        "verified": false
+      }
+    ]
+  }
+}

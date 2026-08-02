@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cell phones",
+          "id": "848920700073123840",
+          "name": "Cell Phones"
+        }
+      }
+    ],
+    "conversation_id": "1863787888049312199",
+    "created_at": "2024-12-03T05:36:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T06:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863819572492849481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1392452107450474499",
+          "start": 0,
+          "username": "_infinity_xxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863819572492849481",
+    "in_reply_to_user_id": "1392452107450474499",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863787888049312199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_infinity_xxx そうだったのか……どうりで昔の写真をシェアしてるわけだ…T_T抱っこあおまる💙……私の携帯電話のカメラも壊れたことがあります。その時間は本当に大変でした。大丈夫ですよ！あなたが新しい携帯を交換するのを待って、最新のあおまるかわいい写真を共有することができます(៸៸᳐⦁⩊⦁៸៸᳐ )੭ ﾞ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          }
+        ],
+        "conversation_id": "1863787888049312199",
+        "created_at": "2024-12-03T05:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T06:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863819572492849481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1392452107450474499",
+              "start": 0,
+              "username": "_infinity_xxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863819572492849481",
+        "in_reply_to_user_id": "1392452107450474499",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863787888049312199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_infinity_xxx そうだったのか……どうりで昔の写真をシェアしてるわけだ…T_T抱っこあおまる💙……私の携帯電話のカメラも壊れたことがあります。その時間は本当に大変でした。大丈夫ですよ！あなたが新しい携帯を交換するのを待って、最新のあおまるかわいい写真を共有することができます(៸៸᳐⦁⩊⦁៸៸᳐ )੭ ﾞ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1392452107450474499",
+        "conversation_id": "1863787888049312199",
+        "created_at": "2024-12-03T03:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T04:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863787888049312199"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1863787888049312199",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1055,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "おれが最近の写真載せないのはインカメが壊れてるから、地元にいるから出かける機会がないから、です。自撮りできないんです"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23457,
+          "following_count": 269,
+          "like_count": 6310,
+          "listed_count": 36,
+          "media_count": 831,
+          "tweet_count": 3891
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-12T12:10:45.000Z",
+        "description": "鍵垢@_Infinity_ooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "_Infinity_ooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aomaru319",
+                "end": 23,
+                "expanded_url": "https://lit.link/aomaru319",
+                "start": 0,
+                "url": "https://t.co/qKE42KNqt3"
+              }
+            ]
+          }
+        },
+        "id": "1392452107450474499",
+        "location": "💤💤💤",
+        "name": "あおまる",
+        "pinned_tweet_id": "1779810848036516333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848307505883148288/o5T7CD9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14072,
+          "following_count": 310,
+          "like_count": 2936,
+          "listed_count": 29,
+          "media_count": 5124,
+          "tweet_count": 22149
+        },
+        "url": "https://t.co/qKE42KNqt3",
+        "username": "_infinity_xxx",
+        "verified": true
+      }
+    ]
+  }
+}

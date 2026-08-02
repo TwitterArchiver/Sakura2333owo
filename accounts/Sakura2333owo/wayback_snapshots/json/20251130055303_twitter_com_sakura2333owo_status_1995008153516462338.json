@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1994974577244729443",
+    "created_at": "2025-11-30T05:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T06:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995008153516462338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1893321456458870784",
+          "start": 0,
+          "username": "c5ntol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995008153516462338",
+    "in_reply_to_user_id": "1893321456458870784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994994120541311473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c5ntol 応援してくれてありがとう…！私はずっとあなたに気づいていますよ！友達になるなら、とても喜んでいます！♡(ᵒ̴̶̷̥́-ᵒ̴̶̷̣̥̀)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1994974577244729443",
+        "created_at": "2025-11-30T05:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T06:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995008153516462338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1893321456458870784",
+              "start": 0,
+              "username": "c5ntol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995008153516462338",
+        "in_reply_to_user_id": "1893321456458870784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994994120541311473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c5ntol 応援してくれてありがとう…！私はずっとあなたに気づいていますよ！友達になるなら、とても喜んでいます！♡(ᵒ̴̶̷̥́-ᵒ̴̶̷̣̥̀)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893321456458870784",
+        "conversation_id": "1994974577244729443",
+        "created_at": "2025-11-30T04:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T05:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994994120541311473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994994120541311473",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994974577244729443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 我是日本人，但很想和你聊聊天。\n现在正在用翻译工具把日语翻成中文。\n我一直关注着 X、Rednote 和 Instagram。\n你真的很可爱，我非常憧憬你！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36968,
+          "following_count": 284,
+          "like_count": 7473,
+          "listed_count": 74,
+          "media_count": 1148,
+          "tweet_count": 5223
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T15:26:34.000Z",
+        "description": "雑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@__si2_o?_r=1&…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@__si2_o?_r=1&_t=ZS-91TUkSAy3YA",
+                "start": 0,
+                "url": "https://t.co/Ds97PxELVI"
+              }
+            ]
+          }
+        },
+        "id": "1893321456458870784",
+        "location": "アニメとヵ",
+        "name": "飢餓歴史絵巻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929856188881231872/britpPBM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 428,
+          "like_count": 19199,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 7451
+        },
+        "url": "https://t.co/Ds97PxELVI",
+        "username": "c5ntol",
+        "verified": false
+      }
+    ]
+  }
+}

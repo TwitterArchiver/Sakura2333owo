@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876501576657072128",
+        "3_1876501576652849152"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1876501587155353980",
+    "created_at": "2025-01-07T05:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T06:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1876501587155353980"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/f6YKpfdfBK",
+          "end": 153,
+          "expanded_url": "https://x.com/sakura2333owo/status/1876501587155353980/photo/1",
+          "media_key": "3_1876501576657072128",
+          "start": 130,
+          "url": "https://t.co/f6YKpfdfBK"
+        },
+        {
+          "display_url": "pic.x.com/f6YKpfdfBK",
+          "end": 153,
+          "expanded_url": "https://x.com/sakura2333owo/status/1876501587155353980/photo/1",
+          "media_key": "3_1876501576652849152",
+          "start": 130,
+          "url": "https://t.co/f6YKpfdfBK"
+        },
+        {
+          "display_url": "x.com/8964ll/status/…",
+          "end": 177,
+          "expanded_url": "https://twitter.com/8964ll/status/1876422174460027205",
+          "start": 154,
+          "url": "https://t.co/LNRHlu0Nkz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876501587155353980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876422174460027205",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去找knk玩都是knk掏的钱 她给我买的高铁车票 也送了我很多礼物😞 我和knk认识快三年了 她是南方的 去年二月份她突然来到了北方 我们两个都特别激动于是临时的赶紧面基  其中吃饭车票都是knk掏的钱 我全程都特别不好意思 \n请您了解一下再分享您所谓的瓜 https://t.co/f6YKpfdfBK https://t.co/LNRHlu0Nkz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1876501576657072128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgqsPeka8AAWJWP.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1876501576652849152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgqsPejagAAVX4E.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876501576657072128",
+            "3_1876501576652849152"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1876501587155353980",
+        "created_at": "2025-01-07T05:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T06:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876501587155353980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f6YKpfdfBK",
+              "end": 153,
+              "expanded_url": "https://x.com/sakura2333owo/status/1876501587155353980/photo/1",
+              "media_key": "3_1876501576657072128",
+              "start": 130,
+              "url": "https://t.co/f6YKpfdfBK"
+            },
+            {
+              "display_url": "pic.x.com/f6YKpfdfBK",
+              "end": 153,
+              "expanded_url": "https://x.com/sakura2333owo/status/1876501587155353980/photo/1",
+              "media_key": "3_1876501576652849152",
+              "start": 130,
+              "url": "https://t.co/f6YKpfdfBK"
+            },
+            {
+              "display_url": "x.com/8964ll/status/…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/8964ll/status/1876422174460027205",
+              "start": 154,
+              "url": "https://t.co/LNRHlu0Nkz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876501587155353980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876422174460027205",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去找knk玩都是knk掏的钱 她给我买的高铁车票 也送了我很多礼物😞 我和knk认识快三年了 她是南方的 去年二月份她突然来到了北方 我们两个都特别激动于是临时的赶紧面基  其中吃饭车票都是knk掏的钱 我全程都特别不好意思 \n请您了解一下再分享您所谓的瓜 https://t.co/f6YKpfdfBK https://t.co/LNRHlu0Nkz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876422166121738240",
+            "3_1876422166130126848",
+            "3_1876422166130122752",
+            "3_1876422166125871104"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1876422174460027205",
+        "created_at": "2025-01-07T00:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T01:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876422174460027205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TQNF6gAOxc",
+              "end": 72,
+              "expanded_url": "https://x.com/8964LL/status/1876422174460027205/photo/1",
+              "media_key": "3_1876422166121738240",
+              "start": 49,
+              "url": "https://t.co/TQNF6gAOxc"
+            },
+            {
+              "display_url": "pic.x.com/TQNF6gAOxc",
+              "end": 72,
+              "expanded_url": "https://x.com/8964LL/status/1876422174460027205/photo/1",
+              "media_key": "3_1876422166130126848",
+              "start": 49,
+              "url": "https://t.co/TQNF6gAOxc"
+            },
+            {
+              "display_url": "pic.x.com/TQNF6gAOxc",
+              "end": 72,
+              "expanded_url": "https://x.com/8964LL/status/1876422174460027205/photo/1",
+              "media_key": "3_1876422166130122752",
+              "start": 49,
+              "url": "https://t.co/TQNF6gAOxc"
+            },
+            {
+              "display_url": "pic.x.com/TQNF6gAOxc",
+              "end": 72,
+              "expanded_url": "https://x.com/8964LL/status/1876422174460027205/photo/1",
+              "media_key": "3_1876422166125871104",
+              "start": 49,
+              "url": "https://t.co/TQNF6gAOxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876422174460027205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3889,
+          "like_count": 59,
+          "quote_count": 5,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "原本不想把这个发出来的，但是有些人说觉得knk没有瓜，要感谢就感谢那个人吧～你的朋友给予你的奖励 https://t.co/TQNF6gAOxc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24589,
+          "following_count": 270,
+          "like_count": 6541,
+          "listed_count": 40,
+          "media_count": 917,
+          "tweet_count": 4173
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "最高の魔女の修学中 ｜これも私ですか。、? ：@yamikawayihime ｜Eng ok 日本語OK 中文OK｜女宝不用给门槛，想和我互fo的女孩直接私信我好吗好的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "yamikawayihime"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki/zh/index",
+                "end": 23,
+                "expanded_url": "https://www.overdose.wiki/zh/index",
+                "start": 0,
+                "url": "https://t.co/ONmfmZktbg"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1846618745810440364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876474239660036096/k2JSK1k1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2418,
+          "following_count": 590,
+          "like_count": 4704,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 3342
+        },
+        "url": "https://t.co/ONmfmZktbg",
+        "username": "8964LL",
+        "verified": false
+      }
+    ]
+  }
+}

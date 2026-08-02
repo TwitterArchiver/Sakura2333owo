@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1838044664865370223",
+    "created_at": "2024-09-23T03:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-23T04:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838057669703376917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1531832937095671808",
+          "start": 0,
+          "username": "LiuGabriel93"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838057669703376917",
+    "in_reply_to_user_id": "1531832937095671808",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838047464827359646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiuGabriel93 就是头麻麻的 天旋地转的晕还有点恶心 我也不知道是不是 ᴛㅅᴛ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1838044664865370223",
+        "created_at": "2024-09-23T03:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T04:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838057669703376917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1531832937095671808",
+              "start": 0,
+              "username": "LiuGabriel93"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838057669703376917",
+        "in_reply_to_user_id": "1531832937095671808",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838047464827359646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuGabriel93 就是头麻麻的 天旋地转的晕还有点恶心 我也不知道是不是 ᴛㅅᴛ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531832937095671808",
+        "conversation_id": "1838044664865370223",
+        "created_at": "2024-09-23T02:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T03:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838047464827359646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838047464827359646",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838045976407183525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 可以查一下是不是眩晕症。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22428,
+          "following_count": 255,
+          "like_count": 6301,
+          "listed_count": 39,
+          "tweet_count": 3665
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T03:00:15.000Z",
+        "description": "Strategic Analyst covering Gaming & Gaming Publishing. \nTweet about gaming scenarios (basically whinings), mainly GRCN. All views mine.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ambmiu.substack.com",
+                "end": 23,
+                "expanded_url": "https://ambmiu.substack.com/",
+                "start": 0,
+                "url": "https://t.co/4P2jNrcqq5"
+              }
+            ]
+          }
+        },
+        "id": "1531832937095671808",
+        "location": "Beijing",
+        "name": "Gabriel Liu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1531833098366701568/oZ-08o3X_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 126,
+          "like_count": 234,
+          "listed_count": 9,
+          "tweet_count": 362
+        },
+        "url": "https://t.co/4P2jNrcqq5",
+        "username": "LiuGabriel93",
+        "verified": false
+      }
+    ]
+  }
+}

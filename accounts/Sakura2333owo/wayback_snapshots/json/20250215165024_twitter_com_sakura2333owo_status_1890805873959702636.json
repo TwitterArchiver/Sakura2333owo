@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1890794899051556976",
+    "created_at": "2025-02-15T16:50:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T17:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890805873959702636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "752515940122787840",
+          "start": 0,
+          "username": "Hoshino_tomoyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890805873959702636",
+    "in_reply_to_user_id": "752515940122787840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890801640023683128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hoshino_tomoyo 谢谢你……能被喜欢是我的荣幸！也非常激动被关注了这么久！谢谢你……！！好幸福好开心……(♡&gt;///&lt;)要天天开心哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1890794899051556976",
+        "created_at": "2025-02-15T16:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T17:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890805873959702636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "752515940122787840",
+              "start": 0,
+              "username": "Hoshino_tomoyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890805873959702636",
+        "in_reply_to_user_id": "752515940122787840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890801640023683128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshino_tomoyo 谢谢你……能被喜欢是我的荣幸！也非常激动被关注了这么久！谢谢你……！！好幸福好开心……(♡&gt;///&lt;)要天天开心哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "752515940122787840",
+        "conversation_id": "1890794899051556976",
+        "created_at": "2025-02-15T16:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T17:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890801640023683128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890801640023683128",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890800402007761118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo ！桜夏老师回复我了\n我一直都是您的粉丝( ；´Д｀)\n您在噼里啪啦上的视频我有一直在看 在默默支持您(*^^*)\n您真的超级萌 我追星成功了55"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28404,
+          "following_count": 276,
+          "like_count": 6880,
+          "listed_count": 43,
+          "media_count": 986,
+          "tweet_count": 4508
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-11T14:52:36.000Z",
+        "description": "可互fo 和我说说话 。私信一定会回… 24岁 不是学生 寡b话废",
+        "id": "752515940122787840",
+        "location": "Hokkaido",
+        "name": "Hoshino。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890775429893758976/wMwS_Y-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 164,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 123
+        },
+        "username": "Hoshino_tomoyo",
+        "verified": false
+      }
+    ]
+  }
+}

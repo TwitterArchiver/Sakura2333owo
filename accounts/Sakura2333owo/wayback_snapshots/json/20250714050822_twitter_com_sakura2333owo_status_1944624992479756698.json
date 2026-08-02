@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1944624992479756698",
+    "created_at": "2025-07-14T05:08:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T06:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944624992479756698"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sakura2333owo/…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/sakura2333owo/status/1943677543980191813",
+          "start": 21,
+          "url": "https://t.co/pIrvY9OmmD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944624992479756698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943677543980191813",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁替我洗头 收拾房间 我现在房间更乱了。 https://t.co/pIrvY9OmmD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1944624992479756698",
+        "created_at": "2025-07-14T05:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T06:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944624992479756698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sakura2333owo/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/sakura2333owo/status/1943677543980191813",
+              "start": 21,
+              "url": "https://t.co/pIrvY9OmmD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944624992479756698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943677543980191813",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁替我洗头 收拾房间 我现在房间更乱了。 https://t.co/pIrvY9OmmD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1943677543980191813",
+        "created_at": "2025-07-11T14:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T15:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943677543980191813"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943677543980191813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3509,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的房间特别乱 没有地方睡觉的那种 我真是疯了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆自撮り/雑垢/絵/東方project/les ★鼠类预警⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34115,
+          "following_count": 277,
+          "like_count": 7215,
+          "listed_count": 58,
+          "media_count": 1078,
+          "tweet_count": 4889
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1865010544593494016",
+        "3_1865010545042296835"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1865010567146307988",
+    "created_at": "2024-12-06T12:29:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-06T13:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1865010567146307988"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZGWEXBpHj3",
+          "end": 58,
+          "expanded_url": "https://x.com/sakura2333owo/status/1865010567146307988/video/1",
+          "media_key": "7_1865010544593494016",
+          "start": 35,
+          "url": "https://t.co/ZGWEXBpHj3"
+        },
+        {
+          "display_url": "pic.x.com/ZGWEXBpHj3",
+          "end": 58,
+          "expanded_url": "https://x.com/sakura2333owo/status/1865010567146307988/video/1",
+          "media_key": "3_1865010545042296835",
+          "start": 35,
+          "url": "https://t.co/ZGWEXBpHj3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865010567146307988",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "✌︎︎ (  ᐡᴗ  ̫ ᴗᐡ)还好在东北可以玩Pokémon Go https://t.co/ZGWEXBpHj3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3700,
+        "height": 1280,
+        "media_key": "7_1865010544593494016",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1865010544593494016/pu/img/0H4d59M91YpCcwD3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1865010544593494016/pu/vid/avc1/320x694/UxDv7ON5QZCDJsSg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1865010544593494016/pu/vid/avc1/480x1040/9fbOa_CE-6-bxNf1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1865010544593494016/pu/vid/avc1/590x1280/DlISUQw6T-ec_IXT.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1865010544593494016/pu/pl/qHkGxN5-cHUV69uq.m3u8?tag=12"
+          }
+        ],
+        "width": 590
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1865010545042296835",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeHZNZ-akAMv9dH.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1865010544593494016",
+            "3_1865010545042296835"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1865010567146307988",
+        "created_at": "2024-12-06T12:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T13:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865010567146307988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZGWEXBpHj3",
+              "end": 58,
+              "expanded_url": "https://x.com/sakura2333owo/status/1865010567146307988/video/1",
+              "media_key": "7_1865010544593494016",
+              "start": 35,
+              "url": "https://t.co/ZGWEXBpHj3"
+            },
+            {
+              "display_url": "pic.x.com/ZGWEXBpHj3",
+              "end": 58,
+              "expanded_url": "https://x.com/sakura2333owo/status/1865010567146307988/video/1",
+              "media_key": "3_1865010545042296835",
+              "start": 35,
+              "url": "https://t.co/ZGWEXBpHj3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865010567146307988",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "✌︎︎ (  ᐡᴗ  ̫ ᴗᐡ)还好在东北可以玩Pokémon Go https://t.co/ZGWEXBpHj3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23565,
+          "following_count": 268,
+          "like_count": 6341,
+          "listed_count": 37,
+          "media_count": 838,
+          "tweet_count": 3930
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

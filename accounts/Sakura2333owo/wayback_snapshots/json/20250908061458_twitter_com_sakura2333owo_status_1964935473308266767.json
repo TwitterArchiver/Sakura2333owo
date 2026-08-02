@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964933438970253312"
+      ],
+      "media_source_tweet_id": [
+        "1964933461615255697"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1964935473308266767",
+    "created_at": "2025-09-08T06:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T07:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964935473308266767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1508447794537070595",
+          "start": 3,
+          "username": "sakura2333owo"
+        }
+      ],
+      "urls": [
+        {
+          "description": "素质低的勿扰",
+          "display_url": "t.me/skyq520",
+          "end": 50,
+          "expanded_url": "http://t.me/skyq520",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/1963869813945589760/xkxidHZk?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1963869813945589760/xkxidHZk?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 27,
+          "status": 200,
+          "title": "冰灵公主",
+          "unwound_url": "https://t.me/skyq520",
+          "url": "https://t.co/6Ito3j1vbd"
+        },
+        {
+          "display_url": "pic.x.com/8f8MWSFEfE",
+          "end": 106,
+          "expanded_url": "https://x.com/sakura2333owo/status/1964933461615255697/photo/1",
+          "media_key": "3_1964933438970253312",
+          "start": 83,
+          "url": "https://t.co/8f8MWSFEfE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964935473308266767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964933461615255697",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @sakura2333owo: 凭此屏截图戳：👿https://t.co/6Ito3j1vbd\n进群即可观看所有的完整版不收任何门槛视频，仅限粉丝。暗号：猫咪 https://t.co/8f8MWSFEfE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1964933438970253312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0TYjVUb0AAAbi1.jpg",
+        "width": 1524
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964933438970253312"
+          ],
+          "media_source_tweet_id": [
+            "1964933461615255697"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1964935473308266767",
+        "created_at": "2025-09-08T06:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T07:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964935473308266767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1508447794537070595",
+              "start": 3,
+              "username": "sakura2333owo"
+            }
+          ],
+          "urls": [
+            {
+              "description": "素质低的勿扰",
+              "display_url": "t.me/skyq520",
+              "end": 50,
+              "expanded_url": "http://t.me/skyq520",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/1963869813945589760/xkxidHZk?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1963869813945589760/xkxidHZk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 27,
+              "status": 200,
+              "title": "冰灵公主",
+              "unwound_url": "https://t.me/skyq520",
+              "url": "https://t.co/6Ito3j1vbd"
+            },
+            {
+              "display_url": "pic.x.com/8f8MWSFEfE",
+              "end": 106,
+              "expanded_url": "https://x.com/sakura2333owo/status/1964933461615255697/photo/1",
+              "media_key": "3_1964933438970253312",
+              "start": 83,
+              "url": "https://t.co/8f8MWSFEfE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964935473308266767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964933461615255697",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @sakura2333owo: 凭此屏截图戳：👿https://t.co/6Ito3j1vbd\n进群即可观看所有的完整版不收任何门槛视频，仅限粉丝。暗号：猫咪 https://t.co/8f8MWSFEfE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964933438970253312"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1964933461615255697",
+        "created_at": "2025-09-08T06:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T07:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964933461615255697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "素质低的勿扰",
+              "display_url": "t.me/skyq520",
+              "end": 31,
+              "expanded_url": "http://t.me/skyq520",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/1963869813945589760/xkxidHZk?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1963869813945589760/xkxidHZk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 8,
+              "status": 200,
+              "title": "冰灵公主",
+              "unwound_url": "https://t.me/skyq520",
+              "url": "https://t.co/6Ito3j1vbd"
+            },
+            {
+              "display_url": "pic.x.com/8f8MWSFEfE",
+              "end": 87,
+              "expanded_url": "https://x.com/sakura2333owo/status/1964933461615255697/photo/1",
+              "media_key": "3_1964933438970253312",
+              "start": 64,
+              "url": "https://t.co/8f8MWSFEfE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964933461615255697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 185,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "凭此屏截图戳：👿https://t.co/6Ito3j1vbd\n进群即可观看所有的完整版不收任何门槛视频，仅限粉丝。暗号：猫咪 https://t.co/8f8MWSFEfE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "如果我接推广了 就证明我没有钱了接点坏东西吃饭了，至于里面的内容是不是真的你们懂哈 （会有人信吗？(='_'=) 聪明宝宝们自辩 ！（疯狂暗示",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1964933461615255697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34733,
+          "following_count": 278,
+          "like_count": 7316,
+          "listed_count": 67,
+          "media_count": 1118,
+          "tweet_count": 5066
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

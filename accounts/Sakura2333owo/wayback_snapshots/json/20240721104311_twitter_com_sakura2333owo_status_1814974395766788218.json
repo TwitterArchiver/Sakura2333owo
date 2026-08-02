@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1814658072239087872",
+    "created_at": "2024-07-21T10:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-21T11:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814974395766788218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1766469608100511744",
+          "start": 0,
+          "username": "zhushijiu196764"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814974395766788218",
+    "in_reply_to_user_id": "1766469608100511744",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814940824058400847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhushijiu196764 b站这条冷的像尸体……૮( ᵕ̩̩ - ᵕ̩̩ c)ა"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1814658072239087872",
+        "created_at": "2024-07-21T10:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-21T11:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814974395766788218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1766469608100511744",
+              "start": 0,
+              "username": "zhushijiu196764"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814974395766788218",
+        "in_reply_to_user_id": "1766469608100511744",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814940824058400847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhushijiu196764 b站这条冷的像尸体……૮( ᵕ̩̩ - ᵕ̩̩ c)ა"
+      },
+      {
+        "attachments": {},
+        "author_id": "1766469608100511744",
+        "conversation_id": "1814658072239087872",
+        "created_at": "2024-07-21T08:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-21T09:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814940824058400847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814940824058400847",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814658072239087872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 好抽象 确定不发一下b站吗 我有预料会大火"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les /★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812714143595569152/EWUbT6nt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15753,
+          "following_count": 244,
+          "like_count": 5818,
+          "listed_count": 33,
+          "tweet_count": 3192
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T14:22:53.000Z",
+        "description": "",
+        "id": "1766469608100511744",
+        "name": "zhushijiu",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 25,
+          "like_count": 72,
+          "listed_count": 0,
+          "tweet_count": 24
+        },
+        "username": "zhushijiu196764",
+        "verified": false
+      }
+    ]
+  }
+}

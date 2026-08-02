@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1907680891654324690",
+    "created_at": "2025-04-03T06:27:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T07:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907681455226106126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1460481746601127936",
+          "start": 0,
+          "username": "Randolph58926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907681455226106126",
+    "in_reply_to_user_id": "1460481746601127936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907681274480746958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Randolph58926 大学生活全被疫情封控了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1907680891654324690",
+        "created_at": "2025-04-03T06:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T07:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907681455226106126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1460481746601127936",
+              "start": 0,
+              "username": "Randolph58926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907681455226106126",
+        "in_reply_to_user_id": "1460481746601127936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907681274480746958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Randolph58926 大学生活全被疫情封控了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1460481746601127936",
+        "conversation_id": "1907680891654324690",
+        "created_at": "2025-04-03T06:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T07:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907681274480746958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907681274480746958",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907680891654324690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 同一届，我还没咋出去玩，过没有狠狠的用学生证半价买门票就要毕业了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31864,
+          "following_count": 269,
+          "like_count": 7138,
+          "listed_count": 54,
+          "media_count": 1019,
+          "tweet_count": 4691
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-16T05:36:06.000Z",
+        "description": "der~",
+        "id": "1460481746601127936",
+        "name": "拿云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1460482325968744448/3Vldiqmv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 441,
+          "like_count": 1396,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 240
+        },
+        "username": "Randolph58926",
+        "verified": false
+      }
+    ]
+  }
+}

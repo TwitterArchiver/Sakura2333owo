@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1854027834702086144"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1854028373938569520",
+    "created_at": "2024-11-06T05:09:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T06:09:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1854028373938569520"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7uq3PUKxh2",
+          "end": 52,
+          "expanded_url": "https://x.com/sakura2333owo/status/1854028373938569520/video/1",
+          "media_key": "7_1854027834702086144",
+          "start": 29,
+          "url": "https://t.co/7uq3PUKxh2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854028373938569520",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "咱儿地道熊猫妹就该跳这个✌︎︎ (  ᐡᴗ  ̫ ᴗᐡ) https://t.co/7uq3PUKxh2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29983,
+        "height": 1280,
+        "media_key": "7_1854027834702086144",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1854027834702086144/pu/img/mppcaf80UNhrsoWw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1854027834702086144/pu/vid/avc1/320x568/XZy2G-XLnNuq2xQQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1854027834702086144/pu/vid/avc1/480x852/KKhnBnvUkO3Y9Y36.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1854027834702086144/pu/vid/avc1/720x1280/BdWGuePopHsTsTTj.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1854027834702086144/pu/pl/hrY29j9KGREj5IzA.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1854027834702086144"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1854028373938569520",
+        "created_at": "2024-11-06T05:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T06:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854028373938569520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7uq3PUKxh2",
+              "end": 52,
+              "expanded_url": "https://x.com/sakura2333owo/status/1854028373938569520/video/1",
+              "media_key": "7_1854027834702086144",
+              "start": 29,
+              "url": "https://t.co/7uq3PUKxh2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854028373938569520",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咱儿地道熊猫妹就该跳这个✌︎︎ (  ᐡᴗ  ̫ ᴗᐡ) https://t.co/7uq3PUKxh2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22515,
+          "following_count": 261,
+          "like_count": 6268,
+          "listed_count": 36,
+          "tweet_count": 3763
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

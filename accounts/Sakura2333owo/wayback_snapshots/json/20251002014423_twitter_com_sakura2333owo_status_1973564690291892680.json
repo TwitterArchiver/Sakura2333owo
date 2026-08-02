@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1973564477279969719",
+    "created_at": "2025-10-02T01:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T02:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973564690291892680"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1973564690291892680",
+    "in_reply_to_user_id": "1508447794537070595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973564477279969719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我还没坐站在车头 尴尬死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1973564466668380161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2OCbREaIAEFAmI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1973564466605465600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2OCbQ1aIAAqWBP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1973564477279969719",
+        "created_at": "2025-10-02T01:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T02:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973564690291892680"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973564690291892680",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973564477279969719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我还没坐站在车头 尴尬死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973564466668380161",
+            "3_1973564466605465600"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1973564477279969719",
+        "created_at": "2025-10-02T01:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T02:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973564477279969719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5wXiOdOuKl",
+              "end": 69,
+              "expanded_url": "https://x.com/sakura2333owo/status/1973564477279969719/photo/1",
+              "media_key": "3_1973564466668380161",
+              "start": 46,
+              "url": "https://t.co/5wXiOdOuKl"
+            },
+            {
+              "display_url": "pic.x.com/5wXiOdOuKl",
+              "end": 69,
+              "expanded_url": "https://x.com/sakura2333owo/status/1973564477279969719/photo/1",
+              "media_key": "3_1973564466605465600",
+              "start": 46,
+              "url": "https://t.co/5wXiOdOuKl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973564477279969719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从镇上坐车去市里 结果一上车全是赶集的老头老太太  本人往那一站就身败名裂了( ˘ω˘ ) https://t.co/5wXiOdOuKl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "我些许是累了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "主页推广真假自辩 ",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34665,
+          "following_count": 283,
+          "like_count": 7309,
+          "listed_count": 67,
+          "media_count": 1126,
+          "tweet_count": 5104
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

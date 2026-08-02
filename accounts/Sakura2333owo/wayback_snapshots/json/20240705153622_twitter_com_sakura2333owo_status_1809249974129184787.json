@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1806134817198661849",
+    "created_at": "2024-07-05T15:36:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-05T16:36:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809249974129184787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1515208933236826114",
+          "start": 0,
+          "username": "paradox02111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809249974129184787",
+    "in_reply_to_user_id": "1515208933236826114",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806134817198661849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paradox02111 说过好几次了 没办法吐槽不得🤷‍♂️  有的是一点建议都听不进去  小心敏感肌体质一听就应激说你顺人审美捆绑🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1806134817198661849",
+        "created_at": "2024-07-05T15:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T16:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809249974129184787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1515208933236826114",
+              "start": 0,
+              "username": "paradox02111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809249974129184787",
+        "in_reply_to_user_id": "1515208933236826114",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806134817198661849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paradox02111 说过好几次了 没办法吐槽不得🤷‍♂️  有的是一点建议都听不进去  小心敏感肌体质一听就应激说你顺人审美捆绑🙀"
+      },
+      {
+        "attachments": {},
+        "author_id": "1515208933236826114",
+        "conversation_id": "1806134817198661849",
+        "created_at": "2024-06-27T01:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T02:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806134817198661849"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1806134817198661849",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉男娘只要身材没太夸张然后好好收拾收拾研究下化妆发型穿搭真的怎么着都不会太丑，。有的底子好的甚至都不用怎么化妆嗯但是感觉其中大部分都做不到这些假发也不好好梳顺了衣服穿个白丝配个廉价格裙jk妆也不化还想着圈老头的钱，我真没得说了，。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "刮风这天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796586719439155200/QWB8hbfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15707,
+          "following_count": 245,
+          "like_count": 5772,
+          "listed_count": 33,
+          "tweet_count": 3071
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-16T06:02:28.000Z",
+        "description": "精神年齢3歳児，I AM 当当",
+        "id": "1515208933236826114",
+        "name": "parAdoX",
+        "pinned_tweet_id": "1786408638606946681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800089111140986880/3lBx8leN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 334,
+          "like_count": 6835,
+          "listed_count": 0,
+          "tweet_count": 1137
+        },
+        "username": "paradox02111",
+        "verified": false
+      }
+    ]
+  }
+}

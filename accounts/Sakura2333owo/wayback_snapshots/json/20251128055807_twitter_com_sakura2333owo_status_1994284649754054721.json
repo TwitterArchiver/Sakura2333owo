@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1994284649754054721",
+    "created_at": "2025-11-28T05:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T06:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994284649754054721"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1994284649754054721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "dd个线下的哥哥{\n男大弟弟来m\n附近万达广场的来吗a\n我是真人 有线下吗y\n姐姐缺人疼；\n你好 约吗 想找炮友约爱e\n床搭子滴滴\n墨迹的勿扰懂的看m\n🤒\n🍎ྀི😽\n🍋🌊.（🌀🍀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1994284649754054721",
+        "created_at": "2025-11-28T05:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T06:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994284649754054721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994284649754054721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "dd个线下的哥哥{\n男大弟弟来m\n附近万达广场的来吗a\n我是真人 有线下吗y\n姐姐缺人疼；\n你好 约吗 想找炮友约爱e\n床搭子滴滴\n墨迹的勿扰懂的看m\n🤒\n🍎ྀི😽\n🍋🌊.（🌀🍀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36754,
+          "following_count": 283,
+          "like_count": 7432,
+          "listed_count": 74,
+          "media_count": 1148,
+          "tweet_count": 5207
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

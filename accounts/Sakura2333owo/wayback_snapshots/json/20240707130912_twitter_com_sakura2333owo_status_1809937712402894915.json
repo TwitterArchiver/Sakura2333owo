@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1809919947533119652",
+    "created_at": "2024-07-07T13:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-07T14:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809937712402894915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1471166953419014146",
+          "start": 0,
+          "username": "XIII001017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809937712402894915",
+    "in_reply_to_user_id": "1471166953419014146",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809919947533119652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XIII001017 宝宝不要啊 那种大概率就是签合同然后让你做和一开始介绍完全不一样的直播 你不想干就是违约然后让你赔偿天价违约金 赔不起就只能硬着头皮每天逆天直播🙀🙀🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1809919947533119652",
+        "created_at": "2024-07-07T13:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-07T14:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809937712402894915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1471166953419014146",
+              "start": 0,
+              "username": "XIII001017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809937712402894915",
+        "in_reply_to_user_id": "1471166953419014146",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809919947533119652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIII001017 宝宝不要啊 那种大概率就是签合同然后让你做和一开始介绍完全不一样的直播 你不想干就是违约然后让你赔偿天价违约金 赔不起就只能硬着头皮每天逆天直播🙀🙀🙀"
+      },
+      {
+        "attachments": {},
+        "author_id": "1471166953419014146",
+        "conversation_id": "1809919947533119652",
+        "created_at": "2024-07-07T11:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-07T12:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809919947533119652"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1809919947533119652",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们知道吗 我在boss饥不择食了 我都开始咨询团播了你知道吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "刮风这天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796586719439155200/QWB8hbfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15695,
+          "following_count": 245,
+          "like_count": 5779,
+          "listed_count": 33,
+          "tweet_count": 3087
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-15T17:15:29.000Z",
+        "description": "",
+        "id": "1471166953419014146",
+        "name": "みどΣ(￣。￣ﾉ)ﾉ....",
+        "pinned_tweet_id": "1774476012518363497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771912679919362048/T3dIANdE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9181,
+          "following_count": 119,
+          "like_count": 11218,
+          "listed_count": 23,
+          "tweet_count": 4345
+        },
+        "username": "XIII001017",
+        "verified": false
+      }
+    ]
+  }
+}

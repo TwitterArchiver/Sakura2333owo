@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1855107855491514563",
+    "created_at": "2024-11-09T17:08:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T18:08:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855296310049734812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1710585348005515264",
+          "start": 0,
+          "username": "oblivious190"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855296310049734812",
+    "in_reply_to_user_id": "1710585348005515264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855115561698836548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oblivious190 经典……！T_T"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1855107855491514563",
+        "created_at": "2024-11-09T17:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T18:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855296310049734812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1710585348005515264",
+              "start": 0,
+              "username": "oblivious190"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855296310049734812",
+        "in_reply_to_user_id": "1710585348005515264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855115561698836548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oblivious190 经典……！T_T"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710585348005515264",
+        "conversation_id": "1855107855491514563",
+        "created_at": "2024-11-09T05:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T06:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855115561698836548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855115561698836548",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855107855491514563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 飞向他的床"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22694,
+          "following_count": 261,
+          "like_count": 6282,
+          "listed_count": 37,
+          "tweet_count": 3801
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-07T09:18:32.000Z",
+        "description": "远远遥望",
+        "id": "1710585348005515264",
+        "location": "🚪52好友位",
+        "name": "槻",
+        "pinned_tweet_id": "1824804383634432399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842407770961903616/_bW4hn_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3654,
+          "following_count": 191,
+          "like_count": 6819,
+          "listed_count": 4,
+          "tweet_count": 4591
+        },
+        "username": "oblivious190",
+        "verified": false
+      }
+    ]
+  }
+}

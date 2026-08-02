@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "2002691716869161379",
+    "created_at": "2025-12-22T03:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T04:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002938691585740928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "741970602",
+          "start": 0,
+          "username": "gracewang512"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002938691585740928",
+    "in_reply_to_user_id": "741970602",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002691716869161379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gracewang512 なぜ心虚になって投稿を削除したのですか？あなたのプロフィール内の投稿写真はすべて、別の中国人ブロガーのものですよね。これ以上、他人の写真を盗用して投稿するのはやめてください。該当する投稿を削除し、自分が盗用者であるという声明を出してください。🫶🩵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2002691708795195392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8r9f5lbkAAi38i.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "2002691716869161379",
+        "created_at": "2025-12-22T03:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T04:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002938691585740928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "741970602",
+              "start": 0,
+              "username": "gracewang512"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002938691585740928",
+        "in_reply_to_user_id": "741970602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002691716869161379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gracewang512 なぜ心虚になって投稿を削除したのですか？あなたのプロフィール内の投稿写真はすべて、別の中国人ブロガーのものですよね。これ以上、他人の写真を盗用して投稿するのはやめてください。該当する投稿を削除し、自分が盗用者であるという声明を出してください。🫶🩵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002691708795195392"
+          ]
+        },
+        "author_id": "741970602",
+        "conversation_id": "2002691716869161379",
+        "created_at": "2025-12-21T10:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T11:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002691716869161379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oo8jvJaWg9",
+              "end": 43,
+              "expanded_url": "https://x.com/gracewang512/status/2002691716869161379/photo/1",
+              "media_key": "3_2002691708795195392",
+              "start": 20,
+              "url": "https://t.co/Oo8jvJaWg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002691716869161379",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 20121,
+          "like_count": 1428,
+          "quote_count": 2,
+          "reply_count": 45,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "知らないこと、全部教えてくれませんか？ https://t.co/Oo8jvJaWg9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37068,
+          "following_count": 285,
+          "like_count": 7567,
+          "listed_count": 76,
+          "media_count": 1165,
+          "tweet_count": 5307
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": true
+      },
+      {
+        "created_at": "2012-08-07T02:33:34.000Z",
+        "description": "HU\nフォロワー限定→@Kawaii_20067",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "Kawaii_20067"
+              }
+            ]
+          }
+        },
+        "id": "741970602",
+        "name": "ゆみ",
+        "pinned_tweet_id": "2001589697227960627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973678697887748096/RnZ50hEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7473,
+          "following_count": 0,
+          "like_count": 522,
+          "listed_count": 5,
+          "media_count": 15,
+          "tweet_count": 94
+        },
+        "username": "gracewang512",
+        "verified": false
+      }
+    ]
+  }
+}

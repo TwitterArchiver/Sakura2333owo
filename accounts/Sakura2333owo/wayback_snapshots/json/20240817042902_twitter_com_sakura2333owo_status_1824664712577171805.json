@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1824664712577171805",
+    "created_at": "2024-08-17T04:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T05:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1824664712577171805"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ririca520/stat…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/ririca520/status/1824490854385349092",
+          "start": 17,
+          "url": "https://t.co/IB3BfttM7O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824664712577171805",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824490854385349092",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "玩玩(ˆ ̳.  ̫ . ̳ˆ) https://t.co/IB3BfttM7O"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1824664712577171805",
+        "created_at": "2024-08-17T04:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T05:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824664712577171805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ririca520/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/ririca520/status/1824490854385349092",
+              "start": 17,
+              "url": "https://t.co/IB3BfttM7O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824664712577171805",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824490854385349092",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "玩玩(ˆ ̳.  ̫ . ̳ˆ) https://t.co/IB3BfttM7O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824490850979573761"
+          ]
+        },
+        "author_id": "1607922536133656577",
+        "conversation_id": "1824490854385349092",
+        "created_at": "2024-08-16T16:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T17:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824490854385349092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1olsdysp6",
+              "end": 23,
+              "expanded_url": "https://twitter.com/Ririca520/status/1824490854385349092/photo/1",
+              "media_key": "3_1824490850979573761",
+              "start": 0,
+              "url": "https://t.co/g1OLsdySp6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824490854385349092",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 762,
+          "like_count": 20,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/g1OLsdySp6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19046,
+          "following_count": 249,
+          "like_count": 6213,
+          "listed_count": 36,
+          "tweet_count": 3444
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-28T02:13:13.000Z",
+        "description": "ツンデレ毒舌｜海外在住｜喜欢古典｜偶尔参加演奏会和比赛｜🎹@Mizukileau🌙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "Mizukileau"
+              }
+            ]
+          }
+        },
+        "id": "1607922536133656577",
+        "location": "Arasaka Tower, Night City",
+        "name": "姌",
+        "pinned_tweet_id": "1723879681668067340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824541600455786496/dyd6Mv3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4942,
+          "following_count": 507,
+          "like_count": 58638,
+          "listed_count": 15,
+          "tweet_count": 4100
+        },
+        "username": "Ririca520",
+        "verified": false
+      }
+    ]
+  }
+}

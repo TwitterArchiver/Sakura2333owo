@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1962908657617637376"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1962909108950167990",
+    "created_at": "2025-09-02T16:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T17:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962909108950167990"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/z6sdmI91Lv",
+          "end": 85,
+          "expanded_url": "https://x.com/sakura2333owo/status/1962909108950167990/video/1",
+          "media_key": "13_1962908657617637376",
+          "start": 62,
+          "url": "https://t.co/z6sdmI91Lv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962909108950167990",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "☆ ∧__∧\n =ฅᐢ ᵕ ᐢฅ=   新しい日記帳を買いました！\n　(　⠀ )\n　 ⠀v v\n⠀　 川\n⠀  ((　)) https://t.co/z6sdmI91Lv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10268,
+        "height": 1280,
+        "media_key": "13_1962908657617637376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1962908657617637376/img/HKiJTBuU6oxHhJeL.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962908657617637376/vid/avc1/320x568/HqJExLQjPnaHf_DT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962908657617637376/vid/avc1/480x852/yA9HCWFiEB7Dv62h.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962908657617637376/vid/avc1/720x1280/nyVFP_24PxwIF8En.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1962908657617637376/pl/SqNSeJ3ht0MCIQmw.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1962908657617637376"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1962909108950167990",
+        "created_at": "2025-09-02T16:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T17:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962909108950167990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z6sdmI91Lv",
+              "end": 85,
+              "expanded_url": "https://x.com/sakura2333owo/status/1962909108950167990/video/1",
+              "media_key": "13_1962908657617637376",
+              "start": 62,
+              "url": "https://t.co/z6sdmI91Lv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962909108950167990",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "☆ ∧__∧\n =ฅᐢ ᵕ ᐢฅ=   新しい日記帳を買いました！\n　(　⠀ )\n　 ⠀v v\n⠀　 川\n⠀  ((　)) https://t.co/z6sdmI91Lv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "我些许累了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34685,
+          "following_count": 280,
+          "like_count": 7318,
+          "listed_count": 65,
+          "media_count": 1119,
+          "tweet_count": 5065
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

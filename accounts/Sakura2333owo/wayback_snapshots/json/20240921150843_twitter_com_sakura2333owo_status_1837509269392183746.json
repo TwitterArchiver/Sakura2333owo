@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1837397139108114812",
+    "created_at": "2024-09-21T15:08:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T16:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837509269392183746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1612690486669750272",
+          "start": 0,
+          "username": "please73005218"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837509269392183746",
+    "in_reply_to_user_id": "1612690486669750272",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837502949763043425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@please73005218 阿梓喵的杯子~~ㅇㅅㅇ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1837397139108114812",
+        "created_at": "2024-09-21T15:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T16:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837509269392183746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1612690486669750272",
+              "start": 0,
+              "username": "please73005218"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837509269392183746",
+        "in_reply_to_user_id": "1612690486669750272",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837502949763043425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@please73005218 阿梓喵的杯子~~ㅇㅅㅇ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612690486669750272",
+        "conversation_id": "1837397139108114812",
+        "created_at": "2024-09-21T14:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T15:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837502949763043425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837502949763043425",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837397139108114812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 这个杯子好眼熟啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22431,
+          "following_count": 255,
+          "like_count": 6300,
+          "listed_count": 39,
+          "tweet_count": 3649
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T05:59:36.000Z",
+        "description": "欢迎有礼貌的宝宝萌来找我玩",
+        "id": "1612690486669750272",
+        "location": "距离你5.2km",
+        "name": "XXXXXXL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750981435165749248/lLB47Zry_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 222,
+          "like_count": 1312,
+          "listed_count": 0,
+          "tweet_count": 217
+        },
+        "username": "please73005218",
+        "verified": false
+      }
+    ]
+  }
+}

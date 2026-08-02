@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1842104916594327554",
+        "3_1842104916594327552"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1842104944775815302",
+    "created_at": "2024-10-04T07:30:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-04T08:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1842104944775815302"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jOoD89o8ch",
+          "end": 35,
+          "expanded_url": "https://x.com/sakura2333owo/status/1842104944775815302/photo/1",
+          "media_key": "16_1842104916594327554",
+          "start": 12,
+          "url": "https://t.co/jOoD89o8ch"
+        },
+        {
+          "display_url": "pic.x.com/jOoD89o8ch",
+          "end": 35,
+          "expanded_url": "https://x.com/sakura2333owo/status/1842104944775815302/photo/1",
+          "media_key": "3_1842104916594327552",
+          "start": 12,
+          "url": "https://t.co/jOoD89o8ch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842104944775815302",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我和我女朋友每天就这样 https://t.co/jOoD89o8ch"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1842104944775815302].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1842104944775815302",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1842104944775815302"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_1842104916594327554",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GZB4qWibAAI0BCj.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GZB4qWibAAI0BCj.mp4"
+          }
+        ],
+        "width": 360
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1842104916594327552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZB4qWibAAAObdl.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22531,
+          "following_count": 256,
+          "like_count": 6272,
+          "listed_count": 39,
+          "tweet_count": 3691
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1880888471340061060",
+    "created_at": "2025-01-19T08:08:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T09:08:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880890124864786705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1495662254544789506",
+          "start": 0,
+          "username": "Aloevce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880890124864786705",
+    "in_reply_to_user_id": "1495662254544789506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880888471340061060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aloevce 应该分开有段时间了  ins的情侣快拍删了很长时间……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1880888471340061060",
+        "created_at": "2025-01-19T08:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T09:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880890124864786705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880890124864786705",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880888471340061060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 应该分开有段时间了  ins的情侣快拍删了很长时间……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "1880888471340061060",
+        "created_at": "2025-01-19T08:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T09:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880888471340061060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_infinity_xxx/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/_infinity_xxx/status/1879821725908811904",
+              "start": 10,
+              "url": "https://t.co/MZ9xMGMgVh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880888471340061060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879821725908811904",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "青丸怎么刚结就离🙀 https://t.co/MZ9xMGMgVh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24999,
+          "following_count": 273,
+          "like_count": 6621,
+          "listed_count": 41,
+          "media_count": 949,
+          "tweet_count": 4280
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1879847418914881656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17826,
+          "following_count": 2372,
+          "like_count": 54122,
+          "listed_count": 20,
+          "media_count": 5638,
+          "tweet_count": 20138
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

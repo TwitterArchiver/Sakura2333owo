@@ -1,0 +1,585 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296381531510849536",
+          "name": "New Years Eve\t"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      }
+    ],
+    "conversation_id": "2006380017656516671",
+    "created_at": "2025-12-31T16:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T17:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006406191438770513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1695032829384818688",
+          "start": 0,
+          "username": "NANIMONO_neru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006406191438770513",
+    "in_reply_to_user_id": "1695032829384818688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {},
+      "text": "新年最初のツイートが、ねるるの天使みたいな笑顔だなんて……˰̮⛻̴⃠︣⸝⸝̼⸝֪⛻̴⃠︣𛰨幸せすぎて死んじゃいそう~★！\nこんなに可愛い天使に祝福してもらえたら、今年一年ずっと幸せでいられる気がする！٩(˃̶͈̀௰˂̶͈́)وねるるも新しい一年、どうか体に気をつけて、万事うまくいきますように。\n☆いつまでも幸せでいてね ☆🍀🩵"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006380017656516671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NANIMONO_neru 新年最初のツイートが、ねるるの天使みたいな笑顔だなんて……˰̮⛻̴⃠︣⸝⸝̼⸝֪⛻̴⃠︣𛰨幸せすぎて死んじゃいそう~★！\nこんなに可愛い天使に祝福してもらえたら、今年一年ずっと幸せでいられる気がする！٩(˃̶͈̀௰˂̶͈́)وねるるも新しい一年、どうか体に気をつけて、万事うまくいきますように。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2006380002728955904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gX-3MbUAAHYQw.jpg",
+        "width": 2728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2006380017656516671",
+        "created_at": "2025-12-31T16:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T17:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006406191438770513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1695032829384818688",
+              "start": 0,
+              "username": "NANIMONO_neru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006406191438770513",
+        "in_reply_to_user_id": "1695032829384818688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "新年最初のツイートが、ねるるの天使みたいな笑顔だなんて……˰̮⛻̴⃠︣⸝⸝̼⸝֪⛻̴⃠︣𛰨幸せすぎて死んじゃいそう~★！\nこんなに可愛い天使に祝福してもらえたら、今年一年ずっと幸せでいられる気がする！٩(˃̶͈̀௰˂̶͈́)وねるるも新しい一年、どうか体に気をつけて、万事うまくいきますように。\n☆いつまでも幸せでいてね ☆🍀🩵"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006380017656516671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NANIMONO_neru 新年最初のツイートが、ねるるの天使みたいな笑顔だなんて……˰̮⛻̴⃠︣⸝⸝̼⸝֪⛻̴⃠︣𛰨幸せすぎて死んじゃいそう~★！\nこんなに可愛い天使に祝福してもらえたら、今年一年ずっと幸せでいられる気がする！٩(˃̶͈̀௰˂̶͈́)وねるるも新しい一年、どうか体に気をつけて、万事うまくいきますように。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006380002728955904"
+          ]
+        },
+        "author_id": "1695032829384818688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2006380017656516671",
+        "created_at": "2025-12-31T15:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T16:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006380017656516671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3CNauGOB1p",
+              "end": 100,
+              "expanded_url": "https://x.com/NANIMONO_neru/status/2006380017656516671/photo/1",
+              "media_key": "3_2006380002728955904",
+              "start": 77,
+              "url": "https://t.co/3CNauGOB1p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006380017656516671",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5654,
+          "like_count": 567,
+          "quote_count": 11,
+          "reply_count": 46,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "新年あけましておめでとうございます！\n2026年もたくさんすやすやしてたくさんみんなを幸せにするために頑張ります✊🏻🩵\n今年もよろしくお願いします☁️💤 https://t.co/3CNauGOB1p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36932,
+          "following_count": 295,
+          "like_count": 7669,
+          "listed_count": 78,
+          "media_count": 1170,
+          "tweet_count": 5328
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-25T11:18:35.000Z",
+        "description": "NANIMONO（@NANIMONO_idol） 水色担当┊︎すやすや天使┊︎ファンマーク☁️💤 ┊︎タイのハーフでバイリンガル🇹🇭┊︎八重歯で口がωです ┊︎色んなSNSはこちら▶︎ https://t.co/xaopCb0fCy #すやすや天使ねるる #寝る子は育つよねるる",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 127,
+                "start": 117,
+                "tag": "すやすや天使ねるる"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "tag": "寝る子は育つよねるる"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "NANIMONO_idol"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/neruruzZ",
+                "end": 116,
+                "expanded_url": "https://lit.link/neruruzZ",
+                "start": 93,
+                "url": "https://t.co/xaopCb0fCy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nanimono-official.com/#/",
+                "end": 23,
+                "expanded_url": "https://nanimono-official.com/#/",
+                "start": 0,
+                "url": "https://t.co/6NjMe6Vghy"
+              }
+            ]
+          }
+        },
+        "id": "1695032829384818688",
+        "location": "OTONA CHILD.",
+        "name": "輪廻ねる",
+        "pinned_tweet_id": "2006375102490034250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005220554257969152/eqbN7F_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20246,
+          "following_count": 152,
+          "like_count": 26373,
+          "listed_count": 169,
+          "media_count": 160,
+          "tweet_count": 3426
+        },
+        "url": "https://t.co/6NjMe6Vghy",
+        "username": "NANIMONO_neru",
+        "verified": true
+      }
+    ]
+  }
+}

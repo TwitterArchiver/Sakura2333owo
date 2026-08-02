@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1960198869528252417"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1960198965963673959",
+    "created_at": "2025-08-26T04:33:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T05:33:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960198965963673959"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JGaqXfSvEt",
+          "end": 61,
+          "expanded_url": "https://x.com/sakura2333owo/status/1960198965963673959/video/1",
+          "media_key": "13_1960198869528252417",
+          "start": 38,
+          "url": "https://t.co/JGaqXfSvEt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960198965963673959",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "(৹ᵒ̴̶̷᷄ ᴗ ᵒ̴̶̷᷅৹)再冷漠的女人看到这个视频都会露出笑容…… https://t.co/JGaqXfSvEt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8523,
+        "height": 1280,
+        "media_key": "13_1960198869528252417",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1960198869528252417/img/V6gNJqX0y4eONIou.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960198869528252417/vid/avc1/320x568/TCcX5LHVg2cgP0cF.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960198869528252417/vid/avc1/480x852/74YLI1Cy3JM26fD4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960198869528252417/vid/avc1/720x1280/vyNmlm4w5SwzCEfV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1960198869528252417/pl/k5z3X7nA25bBpzbY.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1960198869528252417"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1960198965963673959",
+        "created_at": "2025-08-26T04:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T05:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960198965963673959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JGaqXfSvEt",
+              "end": 61,
+              "expanded_url": "https://x.com/sakura2333owo/status/1960198965963673959/video/1",
+              "media_key": "13_1960198869528252417",
+              "start": 38,
+              "url": "https://t.co/JGaqXfSvEt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960198965963673959",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "(৹ᵒ̴̶̷᷄ ᴗ ᵒ̴̶̷᷅৹)再冷漠的女人看到这个视频都会露出笑容…… https://t.co/JGaqXfSvEt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆自撮り/雑垢/絵/東方project/les ★鼠类预警⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34719,
+          "following_count": 279,
+          "like_count": 7297,
+          "listed_count": 62,
+          "media_count": 1112,
+          "tweet_count": 5019
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

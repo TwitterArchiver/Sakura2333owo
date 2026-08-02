@@ -1,0 +1,128 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1806493266566942720"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1806493305397743647",
+    "created_at": "2024-06-28T01:02:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T02:02:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1806493305397743647"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/gjBuJ5MPpi",
+          "end": 44,
+          "expanded_url": "https://twitter.com/sakura2333owo/status/1806493305397743647/video/1",
+          "media_key": "7_1806493266566942720",
+          "start": 21,
+          "url": "https://t.co/gjBuJ5MPpi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806493305397743647",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自己操作激光雕刻 打败90％的推油✌️😾 https://t.co/gjBuJ5MPpi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1806493305397743647].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1806493305397743647",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1806493305397743647"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7000,
+        "height": 1280,
+        "media_key": "7_1806493266566942720",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1806493266566942720/pu/img/4kWan7xWrnUj3jtF.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1806493266566942720/pu/vid/avc1/320x568/rTNYTy0zmYUtozOq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1806493266566942720/pu/vid/avc1/480x852/4KW-b55YV_0CO0Qx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1806493266566942720/pu/vid/avc1/720x1280/cRJX8Q1baPFX7r4t.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1806493266566942720/pu/pl/WLJpZ01u_CtOphlL.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "刮风这天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796586719439155200/QWB8hbfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15822,
+          "following_count": 245,
+          "like_count": 5762,
+          "listed_count": 33,
+          "tweet_count": 3064
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Spa and Medical Spa",
+          "id": "855066047157649408",
+          "name": "Spas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Spa Bathing",
+          "id": "855073024814469120",
+          "name": "Spa Bathing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Spa Bathing",
+          "id": "855073024814469120",
+          "name": "Spa Bathing"
+        }
+      }
+    ],
+    "conversation_id": "1909498352036905139",
+    "created_at": "2025-04-08T09:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T10:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909543415022600222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1599125227786608655",
+          "start": 0,
+          "username": "realeco_77"
+        },
+        {
+          "end": 24,
+          "id": "1467368317258248192",
+          "start": 12,
+          "username": "loolzaozmin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909543415022600222",
+    "in_reply_to_user_id": "1599125227786608655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909500735559208970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realeco_77 @loolzaozmin 我前几天出去玩去住的火车站旁边的洗浴中心 一天连洗带泡温泉40块钱 五层楼还包早餐 ！！&gt;ㅅ&lt;"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          }
+        ],
+        "conversation_id": "1909498352036905139",
+        "created_at": "2025-04-08T09:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T10:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909543415022600222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1599125227786608655",
+              "start": 0,
+              "username": "realeco_77"
+            },
+            {
+              "end": 24,
+              "id": "1467368317258248192",
+              "start": 12,
+              "username": "loolzaozmin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909543415022600222",
+        "in_reply_to_user_id": "1599125227786608655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909500735559208970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realeco_77 @loolzaozmin 我前几天出去玩去住的火车站旁边的洗浴中心 一天连洗带泡温泉40块钱 五层楼还包早餐 ！！&gt;ㅅ&lt;"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599125227786608655",
+        "conversation_id": "1909498352036905139",
+        "created_at": "2025-04-08T06:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T07:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909500735559208970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1467368317258248192",
+              "start": 0,
+              "username": "loolzaozmin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909500735559208970",
+        "in_reply_to_user_id": "1467368317258248192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1506,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909498352036905139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loolzaozmin 真的有50块的民宿吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31845,
+          "following_count": 269,
+          "like_count": 7180,
+          "listed_count": 54,
+          "media_count": 1025,
+          "tweet_count": 4716
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T19:35:49.000Z",
+        "description": "不爱看就滚出去",
+        "id": "1599125227786608655",
+        "location": "🚪88/288",
+        "name": "苦桃",
+        "pinned_tweet_id": "1907447266241290338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904098488276885504/-Zz1utRc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3390,
+          "following_count": 275,
+          "like_count": 15406,
+          "listed_count": 5,
+          "media_count": 817,
+          "tweet_count": 9795
+        },
+        "username": "realeco_77",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T05:40:54.000Z",
+        "description": "",
+        "id": "1467368317258248192",
+        "location": "门 188 6666  接线下纯绿",
+        "name": "小藻",
+        "pinned_tweet_id": "1762362069909987403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879431026067521536/DL95lh-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14439,
+          "following_count": 197,
+          "like_count": 705,
+          "listed_count": 20,
+          "media_count": 168,
+          "tweet_count": 404
+        },
+        "username": "loolzaozmin",
+        "verified": false
+      }
+    ]
+  }
+}

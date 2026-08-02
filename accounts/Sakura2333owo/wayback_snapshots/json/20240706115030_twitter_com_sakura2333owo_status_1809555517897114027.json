@@ -1,0 +1,99 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1809555517897114027",
+    "created_at": "2024-07-06T11:50:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-06T12:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1809555517897114027"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1809555517897114027",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "无意间和别人聊到了苹果安卓手机拍照的问题🐀我觉得苹果手机拍照色调比较生动好看  安卓拍照是比较像相机高清那种感觉（？ 感觉现在的安卓拍出来还是蛮专业的但是脸会有一种美颜的感觉…苹果是拍出来像网图能出头像的感觉…不知道你们能有没有能懂的……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1809555517897114027",
+        "created_at": "2024-07-06T11:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T12:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809555517897114027"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1809555517897114027",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无意间和别人聊到了苹果安卓手机拍照的问题🐀我觉得苹果手机拍照色调比较生动好看  安卓拍照是比较像相机高清那种感觉（？ 感觉现在的安卓拍出来还是蛮专业的但是脸会有一种美颜的感觉…苹果是拍出来像网图能出头像的感觉…不知道你们能有没有能懂的……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "刮风这天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796586719439155200/QWB8hbfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15761,
+          "following_count": 245,
+          "like_count": 5772,
+          "listed_count": 33,
+          "tweet_count": 3078
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

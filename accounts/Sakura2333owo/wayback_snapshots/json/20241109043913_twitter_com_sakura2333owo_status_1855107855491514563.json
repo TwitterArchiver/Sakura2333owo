@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1855107855491514563",
+    "created_at": "2024-11-09T04:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T05:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1855107855491514563"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yangzixingfu/s…",
+          "end": 100,
+          "expanded_url": "https://twitter.com/yangzixingfu/status/1854908433092558860",
+          "start": 77,
+          "url": "https://t.co/Ue9YTZOYAd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855107855491514563",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854908433092558860",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不过有一说一  90 00以前也是嗑药自残  其中还有段时间因为CK沈柯的影响 导致挺多青少年割腕刻字(='_'=) \n\n（欸这还有人记的吗 算时涙了吧 https://t.co/Ue9YTZOYAd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1855107855491514563",
+        "created_at": "2024-11-09T04:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T05:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855107855491514563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yangzixingfu/s…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/yangzixingfu/status/1854908433092558860",
+              "start": 77,
+              "url": "https://t.co/Ue9YTZOYAd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855107855491514563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854908433092558860",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过有一说一  90 00以前也是嗑药自残  其中还有段时间因为CK沈柯的影响 导致挺多青少年割腕刻字(='_'=) \n\n（欸这还有人记的吗 算时涙了吧 https://t.co/Ue9YTZOYAd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807349006508691456",
+        "conversation_id": "1854908433092558860",
+        "created_at": "2024-11-08T15:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T16:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854908433092558860"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854908433092558860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 11766,
+          "like_count": 114,
+          "quote_count": 5,
+          "reply_count": 21,
+          "retweet_count": 7
+        },
+        "reply_settings": "following",
+        "text": "为什么现在10后都开始玩推特自残了…？这个世界彻底完蛋了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22659,
+          "following_count": 261,
+          "like_count": 6267,
+          "listed_count": 36,
+          "tweet_count": 3787
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T09:42:46.000Z",
+        "description": "小小怏@yangzihuozhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "yangzihuozhe"
+              }
+            ]
+          }
+        },
+        "id": "1807349006508691456",
+        "location": "🚪128/288/520/1314…",
+        "name": "样子",
+        "pinned_tweet_id": "1846674919767396539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819795586591412224/ydzNoxI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4235,
+          "following_count": 186,
+          "like_count": 2164,
+          "listed_count": 7,
+          "tweet_count": 725
+        },
+        "username": "Yangzixingfu",
+        "verified": false
+      }
+    ]
+  }
+}

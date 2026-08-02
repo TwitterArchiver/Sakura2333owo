@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958736616102748160"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1958736626382717064",
+    "created_at": "2025-08-22T03:42:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T04:42:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958736626382717064"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2dlCclz2vK",
+          "end": 163,
+          "expanded_url": "https://x.com/sakura2333owo/status/1958736626382717064/photo/1",
+          "media_key": "3_1958736616102748160",
+          "start": 140,
+          "url": "https://t.co/2dlCclz2vK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958736626382717064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不知道有没有推u也吃过，这是我从小最喜欢喝的雪糕……(ᵕ ᵕ̩̩)在我小学雪糕还都是五角、高级雪糕一元的年代…它居然卖四五块钱(;_;) 但是好吃到我愿意攒几天的零钱买一杯(৹ᵒ̴̶̷᷄ ᴗ ᵒ̴̶̷᷅৹)…\n刚得知居然去年就停产了…我前几天还特意去雪糕批发市场找它我要哭了…… https://t.co/2dlCclz2vK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1958736616102748160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy7UkxNa4AAPcty.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958736616102748160"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1958736626382717064",
+        "created_at": "2025-08-22T03:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T04:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958736626382717064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2dlCclz2vK",
+              "end": 163,
+              "expanded_url": "https://x.com/sakura2333owo/status/1958736626382717064/photo/1",
+              "media_key": "3_1958736616102748160",
+              "start": 140,
+              "url": "https://t.co/2dlCclz2vK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958736626382717064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道有没有推u也吃过，这是我从小最喜欢喝的雪糕……(ᵕ ᵕ̩̩)在我小学雪糕还都是五角、高级雪糕一元的年代…它居然卖四五块钱(;_;) 但是好吃到我愿意攒几天的零钱买一杯(৹ᵒ̴̶̷᷄ ᴗ ᵒ̴̶̷᷅৹)…\n刚得知居然去年就停产了…我前几天还特意去雪糕批发市场找它我要哭了…… https://t.co/2dlCclz2vK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆自撮り/雑垢/絵/東方project/les ★鼠类预警⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34734,
+          "following_count": 278,
+          "like_count": 7287,
+          "listed_count": 63,
+          "media_count": 1108,
+          "tweet_count": 5003
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

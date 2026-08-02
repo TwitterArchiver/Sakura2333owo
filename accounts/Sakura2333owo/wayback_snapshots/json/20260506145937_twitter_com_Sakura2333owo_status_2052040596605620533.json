@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "2052040596605620533",
+    "created_at": "2026-05-06T14:59:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T15:59:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052040596605620533"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/taiqing01/stat…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/taiqing01/status/2051705691380015470",
+          "start": 29,
+          "url": "https://t.co/L73aEhojTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052040596605620533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051705691380015470",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁能告诉我推特到底多少粉算网红🙀我一直以为得六位数起步… https://t.co/L73aEhojTT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "2052040596605620533",
+        "created_at": "2026-05-06T14:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052040596605620533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/taiqing01/stat…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/taiqing01/status/2051705691380015470",
+              "start": 29,
+              "url": "https://t.co/L73aEhojTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052040596605620533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051705691380015470",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁能告诉我推特到底多少粉算网红🙀我一直以为得六位数起步… https://t.co/L73aEhojTT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919025883157082112",
+        "conversation_id": "2051705691380015470",
+        "created_at": "2026-05-05T16:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T17:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051705691380015470"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051705691380015470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 44315,
+          "like_count": 392,
+          "quote_count": 17,
+          "reply_count": 61,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "X最美好的一点是可以让很多建模一般的人体验当小网红的乐趣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི 🩵☁️💤All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37733,
+          "following_count": 299,
+          "like_count": 8023,
+          "listed_count": 81,
+          "media_count": 1198,
+          "tweet_count": 5488
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "Sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T13:46:49.000Z",
+        "description": "有女友诶，感情也很稳定， 水瓶男的胡言乱语也能理解吧，对一切都充满好奇。直接又很恶劣。",
+        "id": "1919025883157082112",
+        "location": "在您3km内",
+        "name": "爱喝姜撞奶",
+        "pinned_tweet_id": "1919402881205026839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945375773545680897/aM9G-Ye5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 34,
+          "like_count": 5615,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 1823
+        },
+        "username": "taiqing01",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987915428904198144",
+        "3_1987915428921028608"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1987914216783986757",
+    "created_at": "2025-11-10T16:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T17:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987915452664914077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1858727254345281536",
+          "start": 0,
+          "username": "yusanyyy8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6UNx5eZLMj",
+          "end": 48,
+          "expanded_url": "https://x.com/sakura2333owo/status/1987915452664914077/photo/1",
+          "media_key": "3_1987915428904198144",
+          "start": 25,
+          "url": "https://t.co/6UNx5eZLMj"
+        },
+        {
+          "display_url": "pic.x.com/6UNx5eZLMj",
+          "end": 48,
+          "expanded_url": "https://x.com/sakura2333owo/status/1987915452664914077/photo/1",
+          "media_key": "3_1987915428921028608",
+          "start": 25,
+          "url": "https://t.co/6UNx5eZLMj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987915452664914077",
+    "in_reply_to_user_id": "1858727254345281536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987914594334228492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yusanyyy8 素的！(๑•̀ㅂ•́)و✧ https://t.co/6UNx5eZLMj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1149,
+        "media_key": "3_1987915428904198144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Z-jNdaYAA1Pay.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1149,
+        "media_key": "3_1987915428921028608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Z-jNhbMAAUnhm.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987915428904198144",
+            "3_1987915428921028608"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987914216783986757",
+        "created_at": "2025-11-10T16:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T17:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987915452664914077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "yusanyyy8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6UNx5eZLMj",
+              "end": 48,
+              "expanded_url": "https://x.com/sakura2333owo/status/1987915452664914077/photo/1",
+              "media_key": "3_1987915428904198144",
+              "start": 25,
+              "url": "https://t.co/6UNx5eZLMj"
+            },
+            {
+              "display_url": "pic.x.com/6UNx5eZLMj",
+              "end": 48,
+              "expanded_url": "https://x.com/sakura2333owo/status/1987915452664914077/photo/1",
+              "media_key": "3_1987915428921028608",
+              "start": 25,
+              "url": "https://t.co/6UNx5eZLMj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987915452664914077",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987914594334228492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yusanyyy8 素的！(๑•̀ㅂ•́)و✧ https://t.co/6UNx5eZLMj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "1987914216783986757",
+        "created_at": "2025-11-10T16:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T17:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987914594334228492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987914594334228492",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987914216783986757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 好多桌宠，是桌宠吗！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉—貓貓國",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1984186644141158737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35870,
+          "following_count": 281,
+          "like_count": 7365,
+          "listed_count": 68,
+          "media_count": 1143,
+          "tweet_count": 5171
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "我是南酱小南南老师，↙下面是我的博客网站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/eTavjpxeDT"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "null",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982465790377881600/aqTvptSd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 77,
+          "like_count": 3900,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 856
+        },
+        "url": "https://t.co/eTavjpxeDT",
+        "username": "yusanyyy8",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981275022204248064"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1981275033650769992",
+    "created_at": "2025-10-23T08:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T09:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981275033650769992"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fVzcN1C9Yz",
+          "end": 88,
+          "expanded_url": "https://x.com/sakura2333owo/status/1981275033650769992/photo/1",
+          "media_key": "3_1981275022204248064",
+          "start": 65,
+          "url": "https://t.co/fVzcN1C9Yz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981275033650769992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "换了个新睫毛…看款式还觉得还挺好…一上眼发现巨大巨长离谱死了 眼睛上像长了五条腿  拍照发条差评又发现拍照挺好看  我真服了…… https://t.co/fVzcN1C9Yz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1981275022204248064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G37nIqzWoAAPmCq.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981275022204248064"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1981275033650769992",
+        "created_at": "2025-10-23T08:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T09:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981275033650769992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fVzcN1C9Yz",
+              "end": 88,
+              "expanded_url": "https://x.com/sakura2333owo/status/1981275033650769992/photo/1",
+              "media_key": "3_1981275022204248064",
+              "start": 65,
+              "url": "https://t.co/fVzcN1C9Yz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981275033650769992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "换了个新睫毛…看款式还觉得还挺好…一上眼发现巨大巨长离谱死了 眼睛上像长了五条腿  拍照发条差评又发现拍照挺好看  我真服了…… https://t.co/fVzcN1C9Yz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉—貓貓國",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34666,
+          "following_count": 284,
+          "like_count": 7307,
+          "listed_count": 68,
+          "media_count": 1139,
+          "tweet_count": 5158
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

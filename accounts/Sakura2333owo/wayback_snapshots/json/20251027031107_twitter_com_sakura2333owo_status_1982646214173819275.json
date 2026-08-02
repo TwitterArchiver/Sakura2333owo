@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1982602138196090956",
+    "created_at": "2025-10-27T03:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T04:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982646214173819275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "989792932533223424",
+          "start": 0,
+          "username": "Kinodar_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982646214173819275",
+    "in_reply_to_user_id": "989792932533223424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982629424773415265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kinodar_ 有什么推荐的牌子嘛( ´•̥×•̥` )我在国内可以在网上购买！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1982602138196090956",
+        "created_at": "2025-10-27T03:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T04:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982646214173819275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "989792932533223424",
+              "start": 0,
+              "username": "Kinodar_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982646214173819275",
+        "in_reply_to_user_id": "989792932533223424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982629424773415265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kinodar_ 有什么推荐的牌子嘛( ´•̥×•̥` )我在国内可以在网上购买！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "989792932533223424",
+        "conversation_id": "1982602138196090956",
+        "created_at": "2025-10-27T02:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T03:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982629424773415265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982629424773415265",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982602138196090956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 去日本超市，买料理用的调料还是挺重要的\n\n料理酒2大勺、味醂2大勺，日式甘口酱油2大勺，砂糖0.5-1大勺，具体就看你口味\n\n把所有调味料放入平底锅，中火加热\n沸腾后稍微搅拌，中火继续煮至变稠即可\n注意别煮过头／焦掉，否则会有苦味\n\n我觉得口味区别主要还是因为国内的调料口味和日本用惯的稍有区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉—貓貓國",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34657,
+          "following_count": 284,
+          "like_count": 7301,
+          "listed_count": 68,
+          "media_count": 1141,
+          "tweet_count": 5172
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-27T09:06:39.000Z",
+        "description": "男/已婚/38岁 日记推",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kinodarz.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://kinodarz.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/DtKsP3eOBk"
+              }
+            ]
+          }
+        },
+        "id": "989792932533223424",
+        "location": "Shanghai",
+        "name": "Kinodar",
+        "pinned_tweet_id": "1688373772225818624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1674684426016677889/4ziJHXk1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 115,
+          "like_count": 12996,
+          "listed_count": 8,
+          "media_count": 1743,
+          "tweet_count": 8010
+        },
+        "url": "https://t.co/DtKsP3eOBk",
+        "username": "Kinodar_",
+        "verified": false
+      }
+    ]
+  }
+}

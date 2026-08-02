@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1922383880683712512"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1922378695513121255",
+    "created_at": "2025-05-13T20:10:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T21:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922383942042128449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2352670369",
+          "start": 0,
+          "username": "purgatoryden"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/owb9dH46on",
+          "end": 61,
+          "expanded_url": "https://x.com/sakura2333owo/status/1922383942042128449/photo/1",
+          "media_key": "16_1922383880683712512",
+          "start": 38,
+          "url": "https://t.co/owb9dH46on"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922383942042128449",
+    "in_reply_to_user_id": "2352670369",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922381978059284833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@purgatoryden ⸝⸝ ᳐ʚ̴̶̷̷ ‧̫ ʚ̴̶̷̷ ᳐⸝⸝♡ https://t.co/owb9dH46on"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "16_1922383880683712512",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gq2t9EoW8AA6NEs.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gq2t9EoW8AA6NEs.mp4"
+          }
+        ],
+        "width": 480
+      },
+      {
+        "height": 737,
+        "media_key": "3_1922381971264573441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq2sN7fXEAERbU_.jpg",
+        "width": 707
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1922383880683712512"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1922378695513121255",
+        "created_at": "2025-05-13T20:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T21:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922383942042128449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2352670369",
+              "start": 0,
+              "username": "purgatoryden"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/owb9dH46on",
+              "end": 61,
+              "expanded_url": "https://x.com/sakura2333owo/status/1922383942042128449/photo/1",
+              "media_key": "16_1922383880683712512",
+              "start": 38,
+              "url": "https://t.co/owb9dH46on"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922383942042128449",
+        "in_reply_to_user_id": "2352670369",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922381978059284833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@purgatoryden ⸝⸝ ᳐ʚ̴̶̷̷ ‧̫ ʚ̴̶̷̷ ᳐⸝⸝♡ https://t.co/owb9dH46on"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922381971264573441"
+          ]
+        },
+        "author_id": "2352670369",
+        "conversation_id": "1922378695513121255",
+        "created_at": "2025-05-13T20:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T21:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922381978059284833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WPf6LFaJJx",
+              "end": 55,
+              "expanded_url": "https://x.com/purgatoryden/status/1922381978059284833/photo/1",
+              "media_key": "3_1922381971264573441",
+              "start": 32,
+              "url": "https://t.co/WPf6LFaJJx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922381978059284833",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922378695513121255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo Mimikyu spotted! https://t.co/WPf6LFaJJx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31925,
+          "following_count": 271,
+          "like_count": 7200,
+          "listed_count": 51,
+          "media_count": 1052,
+          "tweet_count": 4826
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-20T03:51:01.000Z",
+        "description": "🍬 Hiya I'm Liza and depression is my repression 🍬\n\nVirgo♍️\n\nBlood type A🩸\n\nBirthstone Sapphire💎\n\nAge 28💐",
+        "id": "2352670369",
+        "location": "Purgatory",
+        "name": "❤️ Flip Flan Flonne❤️",
+        "pinned_tweet_id": "1690526480948686849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662293302182305793/oJwLY_2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 5361,
+          "like_count": 19155,
+          "listed_count": 1,
+          "media_count": 2398,
+          "tweet_count": 35878
+        },
+        "username": "purgatoryden",
+        "verified": false
+      }
+    ]
+  }
+}

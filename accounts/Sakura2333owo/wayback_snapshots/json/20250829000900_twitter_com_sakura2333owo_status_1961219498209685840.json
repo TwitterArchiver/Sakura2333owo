@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1961082349283922372",
+    "created_at": "2025-08-29T00:09:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T01:09:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961219498209685840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1950521580288884736",
+          "start": 0,
+          "username": "AmeKam10623"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961219498209685840",
+    "in_reply_to_user_id": "1950521580288884736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961135028299309195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmeKam10623 老大你怎么又重生了(  ˃_˂ഃ )……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1961082349283922372",
+        "created_at": "2025-08-29T00:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T01:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961219498209685840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1950521580288884736",
+              "start": 0,
+              "username": "AmeKam10623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961219498209685840",
+        "in_reply_to_user_id": "1950521580288884736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961135028299309195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeKam10623 老大你怎么又重生了(  ˃_˂ഃ )……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950521580288884736",
+        "conversation_id": "1961082349283922372",
+        "created_at": "2025-08-28T18:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T19:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961135028299309195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961135028299309195",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961082349283922372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 樱夏酱…我是ame，我换新号了T T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆自撮り/雑垢/絵/東方project/les ★鼠类预警⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34718,
+          "following_count": 280,
+          "like_count": 7300,
+          "listed_count": 62,
+          "media_count": 1113,
+          "tweet_count": 5034
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T11:39:27.000Z",
+        "description": "花沢あめ/花泽雨ame 再多了解我一点吧",
+        "id": "1950521580288884736",
+        "location": "🚪199/288/388/520/1314",
+        "name": "†急支血浆†",
+        "pinned_tweet_id": "1956656944619696412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953031902992175104/BS0-iCNw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2295,
+          "following_count": 69,
+          "like_count": 86,
+          "listed_count": 6,
+          "media_count": 24,
+          "tweet_count": 113
+        },
+        "username": "AmeKam10623",
+        "verified": false
+      }
+    ]
+  }
+}

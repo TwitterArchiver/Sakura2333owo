@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1955923591801004118",
+    "created_at": "2025-08-14T09:59:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T10:59:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955932315110268940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1052542133519826945",
+          "start": 0,
+          "username": "matsuri_kksk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955932315110268940",
+    "in_reply_to_user_id": "1052542133519826945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955931615315812808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@matsuri_kksk 玩了一天，内裤质量非常好，与卖家描述一致，孩子们都特别喜欢吃，吃过都睡着了，版型也很好，每次炒菜都会放几滴，用起来和真人差不多，很舒服。很满意的一次体验。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1955923591801004118",
+        "created_at": "2025-08-14T09:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T10:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955932315110268940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1052542133519826945",
+              "start": 0,
+              "username": "matsuri_kksk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955932315110268940",
+        "in_reply_to_user_id": "1052542133519826945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955931615315812808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@matsuri_kksk 玩了一天，内裤质量非常好，与卖家描述一致，孩子们都特别喜欢吃，吃过都睡着了，版型也很好，每次炒菜都会放几滴，用起来和真人差不多，很舒服。很满意的一次体验。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1052542133519826945",
+        "conversation_id": "1955923591801004118",
+        "created_at": "2025-08-14T09:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T10:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955931615315812808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955931615315812808",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955931521753473169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 你个疯子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆自撮り/雑垢/絵/東方project/les ★鼠类预警⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34571,
+          "following_count": 278,
+          "like_count": 7284,
+          "listed_count": 63,
+          "media_count": 1099,
+          "tweet_count": 4976
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-17T12:49:34.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Daniu",
+                "end": 23,
+                "expanded_url": "https://lit.link/Daniu",
+                "start": 0,
+                "url": "https://t.co/Av8dsYtUGU"
+              }
+            ]
+          }
+        },
+        "id": "1052542133519826945",
+        "name": "🏮夏色まつり ガチ恋勢🏮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927233847369875456/ML5Y_RXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 920,
+          "like_count": 74509,
+          "listed_count": 7,
+          "media_count": 1609,
+          "tweet_count": 36477
+        },
+        "url": "https://t.co/Av8dsYtUGU",
+        "username": "matsuri_kksk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2050962802433724417"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "2050962976111497698",
+    "created_at": "2026-05-03T15:37:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T16:37:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050962976111497698"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AdSku7Al51",
+          "end": 39,
+          "expanded_url": "https://x.com/Sakura2333owo/status/2050962976111497698/video/1",
+          "media_key": "13_2050962802433724417",
+          "start": 16,
+          "url": "https://t.co/AdSku7Al51"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050962976111497698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已化作一颗舍利子( ˘ω˘ ) https://t.co/AdSku7Al51"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18953,
+        "height": 1280,
+        "media_key": "13_2050962802433724417",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050962802433724417/img/NJdZcQrp5pz_EBoh.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050962802433724417/vid/avc1/320x568/6PeLedLQRcLBMGoS.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050962802433724417/vid/avc1/480x852/4Am8d9BTNp6c42nI.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050962802433724417/vid/avc1/720x1280/mq360z_mOQKr35fX.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050962802433724417/pl/mIxpye0GAMF1hBl3.m3u8?tag=27"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050962802433724417"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "2050962976111497698",
+        "created_at": "2026-05-03T15:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T16:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050962976111497698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AdSku7Al51",
+              "end": 39,
+              "expanded_url": "https://x.com/Sakura2333owo/status/2050962976111497698/video/1",
+              "media_key": "13_2050962802433724417",
+              "start": 16,
+              "url": "https://t.co/AdSku7Al51"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050962976111497698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已化作一颗舍利子( ˘ω˘ ) https://t.co/AdSku7Al51"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི 🩵☁️💤All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37695,
+          "following_count": 299,
+          "like_count": 8024,
+          "listed_count": 81,
+          "media_count": 1196,
+          "tweet_count": 5484
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "Sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1876501865984372916",
+    "created_at": "2025-01-07T06:14:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T07:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876512749897072920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1732356232290222080",
+          "start": 0,
+          "username": "8964LL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876512749897072920",
+    "in_reply_to_user_id": "1732356232290222080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876501865984372916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964LL 大家不要吵了天啊……我只是回复一下聊天记录里面的那个人  因为此图是在你这里的 所以我引用的你推文回复 如果有给你带来麻烦 我这边深表歉意 \n但是图中人所述有关我的部分我感觉与事实有误解并带来不良影响 所以我与他反驳 为避免带来更多麻烦 您也可以给我对方账号信息 我单独与对方沟通"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1876501865984372916",
+        "created_at": "2025-01-07T06:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T07:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876512749897072920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964LL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876512749897072920",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876501865984372916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964LL 大家不要吵了天啊……我只是回复一下聊天记录里面的那个人  因为此图是在你这里的 所以我引用的你推文回复 如果有给你带来麻烦 我这边深表歉意 \n但是图中人所述有关我的部分我感觉与事实有误解并带来不良影响 所以我与他反驳 为避免带来更多麻烦 您也可以给我对方账号信息 我单独与对方沟通"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1876501865984372916",
+        "created_at": "2025-01-07T05:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T06:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876501865984372916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/matsuri_kksk/s…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/matsuri_kksk/status/1876487890102063388",
+              "start": 83,
+              "url": "https://t.co/ipIUjDpTqE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876501865984372916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 652,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876487890102063388",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在打工赚钱也是良好美德了吗？0个人评价樱夏我甚至不知道她是谁，卖屁股你是张口就来，我操你说的难道不是knk吗和yx比起来knk就是你说的只会卖屁股找金主啊哈哈哈哈 https://t.co/ipIUjDpTqE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24590,
+          "following_count": 270,
+          "like_count": 6544,
+          "listed_count": 40,
+          "media_count": 920,
+          "tweet_count": 4182
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "最高の魔女の修学中 ｜これも私ですか。、? ：@yamikawayihime ｜Eng ok 日本語OK 中文OK｜女宝不用给门槛，想和我互fo的女孩直接私信我好吗好的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "yamikawayihime"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki/zh/index",
+                "end": 23,
+                "expanded_url": "https://www.overdose.wiki/zh/index",
+                "start": 0,
+                "url": "https://t.co/ONmfmZktbg"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1846618745810440364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876474239660036096/k2JSK1k1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2419,
+          "following_count": 590,
+          "like_count": 4717,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 3371
+        },
+        "url": "https://t.co/ONmfmZktbg",
+        "username": "8964LL",
+        "verified": false
+      }
+    ]
+  }
+}

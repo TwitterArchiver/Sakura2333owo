@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1993261282036949221",
+    "created_at": "2025-11-25T10:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T11:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993273425042067471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1052542133519826945",
+          "start": 0,
+          "username": "matsuri_kksk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993273425042067471",
+    "in_reply_to_user_id": "1052542133519826945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993261282036949221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@matsuri_kksk 有没有客观的人分析评理一下"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1993261282036949221].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1993261282036949221",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1993261282036949221"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1993261282036949221",
+        "created_at": "2025-11-25T10:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T11:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993273425042067471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1052542133519826945",
+              "start": 0,
+              "username": "matsuri_kksk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993273425042067471",
+        "in_reply_to_user_id": "1052542133519826945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993261282036949221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@matsuri_kksk 有没有客观的人分析评理一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36255,
+          "following_count": 282,
+          "like_count": 7396,
+          "listed_count": 74,
+          "media_count": 1143,
+          "tweet_count": 5178
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-17T12:49:34.000Z",
+        "description": "考不考虑一下183男大的我😊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Daniu",
+                "end": 23,
+                "expanded_url": "https://lit.link/Daniu",
+                "start": 0,
+                "url": "https://t.co/rcqAUR8wau"
+              }
+            ]
+          }
+        },
+        "id": "1052542133519826945",
+        "name": "🏮夏色まつり ガチ恋勢🏮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978364207444930560/kq-UigM-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1453,
+          "following_count": 919,
+          "like_count": 74854,
+          "listed_count": 7,
+          "media_count": 1671,
+          "tweet_count": 37096
+        },
+        "url": "https://t.co/rcqAUR8wau",
+        "username": "matsuri_kksk",
+        "verified": false
+      }
+    ]
+  }
+}

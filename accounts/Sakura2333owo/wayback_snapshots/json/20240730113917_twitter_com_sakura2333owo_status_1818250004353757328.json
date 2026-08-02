@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1818247813580607761",
+    "created_at": "2024-07-30T11:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-30T12:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818250004353757328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1396033240033480710",
+          "start": 0,
+          "username": "Hamburger_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818250004353757328",
+    "in_reply_to_user_id": "1396033240033480710",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818248239533207734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hamburger_QAQ 嘿嘿！！多多互动！贴贴！՞ ̳o̴̶̷̤  ̫ o̴̶̷̤ ̳՞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1818247813580607761",
+        "created_at": "2024-07-30T11:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T12:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818250004353757328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1396033240033480710",
+              "start": 0,
+              "username": "Hamburger_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818250004353757328",
+        "in_reply_to_user_id": "1396033240033480710",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818248239533207734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hamburger_QAQ 嘿嘿！！多多互动！贴贴！՞ ̳o̴̶̷̤  ̫ o̴̶̷̤ ̳՞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1396033240033480710",
+        "conversation_id": "1818247813580607761",
+        "created_at": "2024-07-30T11:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T12:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818248239533207734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818248239533207734",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818247813580607761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 请和我互动( T_T)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les /★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17365,
+          "following_count": 246,
+          "like_count": 6005,
+          "listed_count": 34,
+          "tweet_count": 3262
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-22T09:20:58.000Z",
+        "description": "06高三｜人格类型是IMSB｜友正常人雷傻逼｜底力极低阴油人｜情绪垃圾桶&鸡毛蒜皮记录",
+        "id": "1396033240033480710",
+        "name": "汉堡包",
+        "pinned_tweet_id": "1681097305150337025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1614629145962745868/yCeK596A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 281,
+          "like_count": 6991,
+          "listed_count": 3,
+          "tweet_count": 3930
+        },
+        "username": "Hamburger_QAQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1811689774023082341",
+    "created_at": "2024-07-12T09:11:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-12T10:11:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1811689774023082341"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1811689774023082341",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我爸妈骗了我 他们根本不会给我换手机 哄我回家再换只是给我一个盼头缓缓 我强撑着一学期用到了放假结果告诉我根本不会给我换手机  好难过 既然这样为什么还要给我盼头。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1811689774023082341",
+        "created_at": "2024-07-12T09:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T10:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811689774023082341"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1811689774023082341",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爸妈骗了我 他们根本不会给我换手机 哄我回家再换只是给我一个盼头缓缓 我强撑着一学期用到了放假结果告诉我根本不会给我换手机  好难过 既然这样为什么还要给我盼头。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ  浑身都是病别管我了/自撮り/雑垢/絵/les /★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810898686534373380/-xKvFUbn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15721,
+          "following_count": 244,
+          "like_count": 5792,
+          "listed_count": 33,
+          "tweet_count": 3123
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

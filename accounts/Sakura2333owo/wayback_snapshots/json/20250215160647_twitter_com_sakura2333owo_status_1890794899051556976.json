@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890794886502453248"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1890794899051556976",
+    "created_at": "2025-02-15T16:06:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T17:06:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890794899051556976"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BMxpragLsg",
+          "end": 52,
+          "expanded_url": "https://x.com/sakura2333owo/status/1890794899051556976/photo/1",
+          "media_key": "3_1890794886502453248",
+          "start": 29,
+          "url": "https://t.co/BMxpragLsg"
+        },
+        {
+          "display_url": "x.com/sakura2333owo/…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/sakura2333owo/status/1890749422880899105",
+          "start": 53,
+          "url": "https://t.co/RRhhbKGWSx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890794899051556976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890749422880899105",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我悄悄的给小底发了一长串的消息于是逃跑了 ( ˘ω˘ ) https://t.co/BMxpragLsg https://t.co/RRhhbKGWSx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 659,
+        "media_key": "3_1890794886502453248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj1z7nEakAA-gzM.jpg",
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890794886502453248"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1890794899051556976",
+        "created_at": "2025-02-15T16:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T17:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890794899051556976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BMxpragLsg",
+              "end": 52,
+              "expanded_url": "https://x.com/sakura2333owo/status/1890794899051556976/photo/1",
+              "media_key": "3_1890794886502453248",
+              "start": 29,
+              "url": "https://t.co/BMxpragLsg"
+            },
+            {
+              "display_url": "x.com/sakura2333owo/…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/sakura2333owo/status/1890749422880899105",
+              "start": 53,
+              "url": "https://t.co/RRhhbKGWSx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890794899051556976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890749422880899105",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我悄悄的给小底发了一长串的消息于是逃跑了 ( ˘ω˘ ) https://t.co/BMxpragLsg https://t.co/RRhhbKGWSx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890749413158797312"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1890749422880899105",
+        "created_at": "2025-02-15T13:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T14:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890749422880899105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9XjSic5uAd",
+              "end": 111,
+              "expanded_url": "https://x.com/sakura2333owo/status/1890749422880899105/photo/1",
+              "media_key": "3_1890749413158797312",
+              "start": 88,
+              "url": "https://t.co/9XjSic5uAd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890749422880899105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1425,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小底……关注我了…我要升天了……我何德何能……ヾ(༎ຶД༎ຶ)ﾉ\" 我看到消息的时候心脏都激动的漏了一拍……喜欢了很多年的底……夏幸福哭了。( ๑o̴̶̷᷄﹏o̴̶̷̥᷅๑) https://t.co/9XjSic5uAd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28371,
+          "following_count": 276,
+          "like_count": 6878,
+          "listed_count": 45,
+          "media_count": 986,
+          "tweet_count": 4505
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2020883211744944129"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      }
+    ],
+    "conversation_id": "2020883321350447126",
+    "created_at": "2026-02-09T15:31:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T16:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020883321350447126"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7QjGZbkx93",
+          "end": 47,
+          "expanded_url": "https://x.com/Sakura2333owo/status/2020883321350447126/video/1",
+          "media_key": "13_2020883211744944129",
+          "start": 24,
+          "url": "https://t.co/7QjGZbkx93"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020883321350447126",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "٩(˃̶͈̀௰˂̶͈́)وうちらが噂のウマ娘！ https://t.co/7QjGZbkx93"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2020883321350447126].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2020883321350447126",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2020883321350447126"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9466,
+        "height": 1274,
+        "media_key": "13_2020883211744944129",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020883211744944129/img/Uk24VDASx5vH8O1X.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020883211744944129/vid/avc1/320x566/ptgnyGf0xK2pbVdH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020883211744944129/vid/avc1/480x848/HJbdMo0TQTKgZeXW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020883211744944129/vid/avc1/720x1274/YAlfYnZCy0-Dwlsl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020883211744944129/pl/5gSN8jrZTUrure3O.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི 🩵☁️💤All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38513,
+          "following_count": 301,
+          "like_count": 7943,
+          "listed_count": 82,
+          "media_count": 1186,
+          "tweet_count": 5417
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "Sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

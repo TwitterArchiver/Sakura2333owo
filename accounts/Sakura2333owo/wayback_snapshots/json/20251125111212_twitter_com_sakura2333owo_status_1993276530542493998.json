@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1992958988510810158",
+    "created_at": "2025-11-25T11:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T12:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993276530542493998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1901339878966636544",
+          "start": 0,
+          "username": "tteokki9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993276530542493998",
+    "in_reply_to_user_id": "1901339878966636544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992958988510810158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tteokki9 高中的时候一位女同学用的是Dove的椰子味护手霜 只要她一涂 整整一排都香香的~ 后来大学2年时实在忍不住 毕业多年又加了好友特意问了一下 她告诉我牌子后立刻去买了…！𐔌՞⁔т · т⁔՞𐦯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1992958988510810158",
+        "created_at": "2025-11-25T11:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T12:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993276530542493998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1901339878966636544",
+              "start": 0,
+              "username": "tteokki9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993276530542493998",
+        "in_reply_to_user_id": "1901339878966636544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992958988510810158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tteokki9 高中的时候一位女同学用的是Dove的椰子味护手霜 只要她一涂 整整一排都香香的~ 后来大学2年时实在忍不住 毕业多年又加了好友特意问了一下 她告诉我牌子后立刻去买了…！𐔌՞⁔т · т⁔՞𐦯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901339878966636544",
+        "conversation_id": "1992958988510810158",
+        "created_at": "2025-11-24T14:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T15:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992958988510810158"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992958988510810158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 32645,
+          "like_count": 167,
+          "quote_count": 0,
+          "reply_count": 162,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "谁家的护手霜好用求推荐闺蜜们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36256,
+          "following_count": 282,
+          "like_count": 7396,
+          "listed_count": 74,
+          "media_count": 1143,
+          "tweet_count": 5179
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T18:28:59.000Z",
+        "description": "可以叫我小叽叽^o^ 嫌我坏你走！你赶紧走！｜私信只回有意思的和过🚪口令｜",
+        "id": "1901339878966636544",
+        "location": "🚪188/520/1314…",
+        "name": "椰叽",
+        "pinned_tweet_id": "1984659027478102138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978562699706707968/ZBtaBVTY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 127,
+          "like_count": 2200,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1058
+        },
+        "username": "tteokki9",
+        "verified": false
+      }
+    ]
+  }
+}

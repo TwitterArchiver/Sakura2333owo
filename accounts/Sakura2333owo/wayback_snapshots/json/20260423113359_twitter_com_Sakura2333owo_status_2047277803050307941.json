@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "2047260511860117959",
+    "created_at": "2026-04-23T11:33:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T12:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047277803050307941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1899661778029813760",
+          "start": 0,
+          "username": "yaju114514homo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047277803050307941",
+    "in_reply_to_user_id": "1899661778029813760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047264024740716857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaju114514homo 我也想 我的耳朵也辛苦了 我总是忘记给它带好耳钉 总是快长死了捅破"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "2047260511860117959",
+        "created_at": "2026-04-23T11:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047277803050307941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1899661778029813760",
+              "start": 0,
+              "username": "yaju114514homo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047277803050307941",
+        "in_reply_to_user_id": "1899661778029813760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047264024740716857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaju114514homo 我也想 我的耳朵也辛苦了 我总是忘记给它带好耳钉 总是快长死了捅破"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899661778029813760",
+        "conversation_id": "2047260511860117959",
+        "created_at": "2026-04-23T10:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047264024740716857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "Sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047264024740716857",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047260511860117959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura2333owo 我又想穿孔了，我的耳朵辛苦了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི 🩵☁️💤All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37429,
+          "following_count": 299,
+          "like_count": 8038,
+          "listed_count": 78,
+          "media_count": 1192,
+          "tweet_count": 5465
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "Sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T03:21:09.000Z",
+        "description": "これは剛志です。芋と呼べる。私は🇨🇳広東に住んでいます。黒竜江出身、平成15年生まれ。趣味：ウマ娘、ガンダム、野球、私は日本語を勉強しています",
+        "id": "1899661778029813760",
+        "name": "三宅 剛志（王刚）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045512241022414849/2ZiypEan_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 289,
+          "like_count": 3521,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 2740
+        },
+        "username": "yaju114514homo",
+        "verified": false
+      }
+    ]
+  }
+}

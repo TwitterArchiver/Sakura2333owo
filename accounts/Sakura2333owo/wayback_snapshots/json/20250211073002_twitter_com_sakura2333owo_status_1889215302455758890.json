@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1888973964732772538",
+    "created_at": "2025-02-11T07:30:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T08:30:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889215302455758890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1362999356119375876",
+          "start": 0,
+          "username": "neko_nayyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889215302455758890",
+    "in_reply_to_user_id": "1362999356119375876",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889094928061644941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neko_nayyy 哎呀是金色的花枝！好萌啊……想亲(  ˃_˂ഃ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1888973964732772538",
+        "created_at": "2025-02-11T07:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T08:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889215302455758890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1362999356119375876",
+              "start": 0,
+              "username": "neko_nayyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889215302455758890",
+        "in_reply_to_user_id": "1362999356119375876",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889094928061644941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko_nayyy 哎呀是金色的花枝！好萌啊……想亲(  ˃_˂ഃ )"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889094921858301952"
+          ]
+        },
+        "author_id": "1362999356119375876",
+        "conversation_id": "1888973964732772538",
+        "created_at": "2025-02-10T23:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T00:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889094928061644941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lb4a5kp649",
+              "end": 104,
+              "expanded_url": "https://x.com/neko_nayyy/status/1889094928061644941/photo/1",
+              "media_key": "3_1889094921858301952",
+              "start": 81,
+              "url": "https://t.co/lb4a5kp649"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889094928061644941",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888973964732772538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 超可爱的眼睛也大大的！小肚肚也很干净扎实养的一定很好( ¤̴̶̷̤́ ‧̫̮ ¤̴̶̷̤̀ ) ✧\n分享一下我女友的鼠子的激萌睡颜 https://t.co/lb4a5kp649"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27976,
+          "following_count": 277,
+          "like_count": 6842,
+          "listed_count": 42,
+          "media_count": 985,
+          "tweet_count": 4477
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-20T05:35:54.000Z",
+        "description": "世上最大笑話 混歐美坑但不會英文( ◜︎◡︎◝︎ )",
+        "id": "1362999356119375876",
+        "name": "喵奈neko nay🎀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882236162083033088/XmA0J1cn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 1289,
+          "like_count": 20417,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 2494
+        },
+        "username": "neko_nayyy",
+        "verified": false
+      }
+    ]
+  }
+}

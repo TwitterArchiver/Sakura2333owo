@@ -1,0 +1,230 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1815717012926333101",
+    "created_at": "2024-07-23T14:18:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-23T15:18:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815753247241765117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701426110083563520",
+          "start": 0,
+          "username": "kingwalker33428"
+        },
+        {
+          "end": 25,
+          "id": "1156931126243602433",
+          "start": 17,
+          "username": "AlesShi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815753247241765117",
+    "in_reply_to_user_id": "1701426110083563520",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815751992733802973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kingwalker33428 @AlesShi 我早就和他划清界限了😞 我平时就是锁在房间里打游戏玩手机电脑  他会主动聊闲 生活中处处针对我 比如吃饭的时候路过的时候会用很恶心的话训斥我数落我针对我  就是躲也躲不过  他主动恶心人 ૮( ᵕ̩̩ - ᵕ̩̩ c)ა"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1815717012926333101",
+        "created_at": "2024-07-23T14:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T15:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815753247241765117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701426110083563520",
+              "start": 0,
+              "username": "kingwalker33428"
+            },
+            {
+              "end": 25,
+              "id": "1156931126243602433",
+              "start": 17,
+              "username": "AlesShi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815753247241765117",
+        "in_reply_to_user_id": "1701426110083563520",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815751992733802973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kingwalker33428 @AlesShi 我早就和他划清界限了😞 我平时就是锁在房间里打游戏玩手机电脑  他会主动聊闲 生活中处处针对我 比如吃饭的时候路过的时候会用很恶心的话训斥我数落我针对我  就是躲也躲不过  他主动恶心人 ૮( ᵕ̩̩ - ᵕ̩̩ c)ა"
+      },
+      {
+        "attachments": {},
+        "author_id": "1701426110083563520",
+        "conversation_id": "1815717012926333101",
+        "created_at": "2024-07-23T14:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T15:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815751992733802973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            },
+            {
+              "end": 23,
+              "id": "1156931126243602433",
+              "start": 15,
+              "username": "AlesShi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815751992733802973",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815750213560344710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo @AlesShi 但是你这伤势不轻，总不能再让他伤害你吧😭。就连成年男人都忍不了十三四岁的男孩，如果这个年纪的男生什么话都听不进去，那就和他划清界线，看见他就转头走。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les /★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812714143595569152/EWUbT6nt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16186,
+          "following_count": 244,
+          "like_count": 5848,
+          "listed_count": 34,
+          "tweet_count": 3214
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T02:43:02.000Z",
+        "description": "人生已经如此艰难，有些事情就不必再拆穿",
+        "id": "1701426110083563520",
+        "location": "西瓜星球",
+        "name": "西瓜watermelon",
+        "pinned_tweet_id": "1811004801788109221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763442556304871424/lwKg_qub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 503,
+          "like_count": 13324,
+          "listed_count": 0,
+          "tweet_count": 6220
+        },
+        "username": "kingwalker33428",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-01T14:14:10.000Z",
+        "description": "不要介绍太多 English ok/ 日本語N6",
+        "id": "1156931126243602433",
+        "name": "UNSC-114514🇯🇵🇺🇸 🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1501958562393858050/pHScGjOr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 417,
+          "like_count": 2197,
+          "listed_count": 0,
+          "tweet_count": 707
+        },
+        "username": "AlesShi",
+        "verified": false
+      }
+    ]
+  }
+}

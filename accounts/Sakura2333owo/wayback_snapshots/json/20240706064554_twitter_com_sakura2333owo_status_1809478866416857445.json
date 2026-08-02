@@ -1,0 +1,99 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1809478866416857445",
+    "created_at": "2024-07-06T06:45:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-06T07:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1809478866416857445"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1809478866416857445",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有点明白为什么反派看到充满阳光正义热血得刺眼的主角不顺眼了…车上一眼就能看出来是新生三五成群出去特种兵旅游的好热闹好纯真好元气……但是好吵啊好吵啊好吵啊好蠢啊好蠢啊好蠢啊不要张牙舞爪了不要再说烂梗了不要打扰别人了🐀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1809478866416857445",
+        "created_at": "2024-07-06T06:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T07:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809478866416857445"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1809478866416857445",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点明白为什么反派看到充满阳光正义热血得刺眼的主角不顺眼了…车上一眼就能看出来是新生三五成群出去特种兵旅游的好热闹好纯真好元气……但是好吵啊好吵啊好吵啊好蠢啊好蠢啊好蠢啊不要张牙舞爪了不要再说烂梗了不要打扰别人了🐀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "刮风这天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796586719439155200/QWB8hbfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15780,
+          "following_count": 245,
+          "like_count": 5772,
+          "listed_count": 33,
+          "tweet_count": 3073
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

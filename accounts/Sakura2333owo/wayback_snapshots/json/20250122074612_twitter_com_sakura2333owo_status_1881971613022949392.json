@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1881845572849831946",
+    "created_at": "2025-01-22T07:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T08:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881971613022949392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2596381225",
+          "start": 0,
+          "username": "vir_coconut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881971613022949392",
+    "in_reply_to_user_id": "2596381225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881845572849831946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vir_coconut 记忆里高中那时候特别流行aj   班里的死装男买完潮牌后一天到晚就盯着别人鞋看…我一直穿的都是妈妈随便买的杂牌运动鞋 ……他们有的时候就会故意问我：「你鞋是什么牌子的啊」 导致那时候特自卑——"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1881845572849831946",
+        "created_at": "2025-01-22T07:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T08:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881971613022949392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2596381225",
+              "start": 0,
+              "username": "vir_coconut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881971613022949392",
+        "in_reply_to_user_id": "2596381225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881845572849831946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vir_coconut 记忆里高中那时候特别流行aj   班里的死装男买完潮牌后一天到晚就盯着别人鞋看…我一直穿的都是妈妈随便买的杂牌运动鞋 ……他们有的时候就会故意问我：「你鞋是什么牌子的啊」 导致那时候特自卑——"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2596381225",
+        "conversation_id": "1881845572849831946",
+        "created_at": "2025-01-21T23:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T00:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881845572849831946"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881845572849831946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3785,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我初中还把吃饭的钱存起来在那个拼多多买假万斯穿 因为我同学都穿的是有牌子的鞋 然后我穿的是菜市场买的那个三十五的波鞋🌚结果后面被同学发现我穿假货天天拿我当乐子耍我玩 我就闹自杀和我妈妈说我要转学 转学后被同学猥亵 我就剃光头又转学回去🌚🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25010,
+          "following_count": 273,
+          "like_count": 6633,
+          "listed_count": 41,
+          "media_count": 956,
+          "tweet_count": 4298
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-30T13:25:34.000Z",
+        "description": "男/mtx🚪188/520/1314",
+        "id": "2596381225",
+        "name": "小椰",
+        "pinned_tweet_id": "1881446744409727396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835173741841838080/ns-MpSMw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5376,
+          "following_count": 147,
+          "like_count": 1639,
+          "listed_count": 14,
+          "media_count": 128,
+          "tweet_count": 1149
+        },
+        "username": "vir_coconut",
+        "verified": false
+      }
+    ]
+  }
+}

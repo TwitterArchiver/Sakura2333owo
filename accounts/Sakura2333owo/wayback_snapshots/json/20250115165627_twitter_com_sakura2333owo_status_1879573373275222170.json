@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1879571242841514415",
+    "created_at": "2025-01-15T16:56:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-15T17:56:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879573373275222170"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1879573373275222170",
+    "in_reply_to_user_id": "1508447794537070595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879571242841514415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "国人就是爱转一些美少女自拍/美少女COS/美少女整活照片   加上含糊不清的文案让别人以为这是你or你女友  哎呦下面叮咣评论一堆「啊啊好可爱的宝宝」「好漂亮好喜欢」或者满屏黄腔了还不赶紧澄清一下你图片源于网络  还在这里配合演戏  不是人家原po认识你吗知道人家的图被你意淫发帖不标明吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1879571242841514415",
+        "created_at": "2025-01-15T16:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T17:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879573373275222170"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879573373275222170",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879571242841514415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "国人就是爱转一些美少女自拍/美少女COS/美少女整活照片   加上含糊不清的文案让别人以为这是你or你女友  哎呦下面叮咣评论一堆「啊啊好可爱的宝宝」「好漂亮好喜欢」或者满屏黄腔了还不赶紧澄清一下你图片源于网络  还在这里配合演戏  不是人家原po认识你吗知道人家的图被你意淫发帖不标明吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1879571242841514415",
+        "created_at": "2025-01-15T16:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T17:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879571242841514415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879571242841514415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这件事我每年都要翻出来骂一遍: 为什么推特人总喜欢拿图发帖不标明出处啊  国人也是外国人也是… 还爱用一些含糊不清的文案误导别人  让别人以为是你的图。评论区评论也不直面回答 回复的好像就跟你的图一样，不逼问到头上就不大大方方的标明原po，你们是真分享图还是拿别人的图蹭流量啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24888,
+          "following_count": 269,
+          "like_count": 6578,
+          "listed_count": 41,
+          "media_count": 937,
+          "tweet_count": 4236
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

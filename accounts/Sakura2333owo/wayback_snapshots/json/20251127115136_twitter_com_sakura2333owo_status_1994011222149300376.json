@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994011182412513280"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1993599228464214123",
+    "created_at": "2025-11-27T11:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T12:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994011222149300376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1976325379880366080",
+          "start": 0,
+          "username": "UuTuT00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0ekHfV6KF6",
+          "end": 66,
+          "expanded_url": "https://x.com/sakura2333owo/status/1994011222149300376/photo/1",
+          "media_key": "3_1994011182412513280",
+          "start": 43,
+          "url": "https://t.co/0ekHfV6KF6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994011222149300376",
+    "in_reply_to_user_id": "1508447794537070595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993599228464214123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UuTuT00  宝宝你开了权限所以我只能艾特回复了！(♡&gt;///&lt;) https://t.co/0ekHfV6KF6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1994011182412513280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wmmw3awAAc4cn.jpg",
+        "width": 472
+      },
+      {
+        "duration_ms": 22115,
+        "height": 720,
+        "media_key": "13_1993599078987669504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1993599078987669504/img/nCAaC5U8qVBp_H9n.jpg",
+        "public_metrics": {
+          "view_count": 22121
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993599078987669504/vid/avc1/426x270/bUq0ix_E_zhxhXRi.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993599078987669504/vid/avc1/568x360/3fvBigCEdJQmJJ7x.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993599078987669504/vid/avc1/1136x720/dg0aBV-mp4sKTHmq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1993599078987669504/pl/N-qWS7T-L6XQmt-M.m3u8?v=cfc"
+          }
+        ],
+        "width": 1136
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994011182412513280"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1993599228464214123",
+        "created_at": "2025-11-27T11:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T12:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994011222149300376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1976325379880366080",
+              "start": 0,
+              "username": "UuTuT00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ekHfV6KF6",
+              "end": 66,
+              "expanded_url": "https://x.com/sakura2333owo/status/1994011222149300376/photo/1",
+              "media_key": "3_1994011182412513280",
+              "start": 43,
+              "url": "https://t.co/0ekHfV6KF6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994011222149300376",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993599228464214123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UuTuT00  宝宝你开了权限所以我只能艾特回复了！(♡&gt;///&lt;) https://t.co/0ekHfV6KF6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1993599078987669504"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1993599228464214123",
+        "created_at": "2025-11-26T08:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T09:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993599228464214123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C1Da81fOlI",
+              "end": 80,
+              "expanded_url": "https://x.com/sakura2333owo/status/1993599228464214123/video/1",
+              "media_key": "13_1993599078987669504",
+              "start": 57,
+              "url": "https://t.co/C1Da81fOlI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993599228464214123",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 640,
+          "impression_count": 58428,
+          "like_count": 4772,
+          "quote_count": 32,
+          "reply_count": 23,
+          "retweet_count": 537
+        },
+        "reply_settings": "everyone",
+        "text": "陪我久经沙场四年的小痛机( ⸝⸝⸝ʚ̴̶̷̆ωʚ̴̶̷̆⸝⸝)以前拍照用的设备就是它啦(｣ -᷅ ̫̈-᷄ )｣ https://t.co/C1Da81fOlI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36387,
+          "following_count": 283,
+          "like_count": 7424,
+          "listed_count": 74,
+          "media_count": 1147,
+          "tweet_count": 5199
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T16:34:35.000Z",
+        "description": "",
+        "id": "1976325379880366080",
+        "name": "T^T",
+        "pinned_tweet_id": "1991556534426644875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993361222008233984/XnlUz1Pg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 32,
+          "like_count": 250,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "UuTuT00",
+        "verified": false
+      }
+    ]
+  }
+}

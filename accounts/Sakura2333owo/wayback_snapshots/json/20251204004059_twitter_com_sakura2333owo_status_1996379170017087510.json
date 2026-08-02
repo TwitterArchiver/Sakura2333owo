@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1996162157097230707",
+    "created_at": "2025-12-04T00:40:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T01:40:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996379170017087510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1744961946863247360",
+          "start": 0,
+          "username": "9sNcy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996379170017087510",
+    "in_reply_to_user_id": "1744961946863247360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996162157097230707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9sNcy 不打敏感何意味…？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1257,
+        "media_key": "3_1996162150524669952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7PK5lgaUAASD1D.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1996162157097230707",
+        "created_at": "2025-12-04T00:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T01:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996379170017087510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1744961946863247360",
+              "start": 0,
+              "username": "9sNcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996379170017087510",
+        "in_reply_to_user_id": "1744961946863247360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996162157097230707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9sNcy 不打敏感何意味…？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996162150524669952"
+          ]
+        },
+        "author_id": "1744961946863247360",
+        "conversation_id": "1996162157097230707",
+        "created_at": "2025-12-03T10:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T11:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996162157097230707"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "依旧",
+              "probability": 0.244,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JNE3AibSV5",
+              "end": 27,
+              "expanded_url": "https://x.com/9sNcy/status/1996162157097230707/photo/1",
+              "media_key": "3_1996162150524669952",
+              "start": 4,
+              "url": "https://t.co/JNE3AibSV5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996162157097230707",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10032,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 137,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧。 https://t.co/JNE3AibSV5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37006,
+          "following_count": 284,
+          "like_count": 7493,
+          "listed_count": 74,
+          "media_count": 1148,
+          "tweet_count": 5229
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-10T05:58:58.000Z",
+        "description": "很懒UuuU",
+        "id": "1744961946863247360",
+        "location": "⁺✞ʚ睡觉重度依赖ɞ✟₊",
+        "name": "Kiu",
+        "pinned_tweet_id": "1951921388362842242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992254476145876992/W6bF2VLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 106,
+          "like_count": 2728,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 556
+        },
+        "username": "9sNcy",
+        "verified": false
+      }
+    ]
+  }
+}

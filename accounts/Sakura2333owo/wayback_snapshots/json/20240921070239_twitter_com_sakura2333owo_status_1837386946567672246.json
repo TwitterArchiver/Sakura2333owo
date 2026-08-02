@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1837008869706584139",
+    "created_at": "2024-09-21T07:02:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T08:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837386946567672246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1779791531614126080",
+          "start": 0,
+          "username": "huazhi99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837386946567672246",
+    "in_reply_to_user_id": "1779791531614126080",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837364157064302681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huazhi99 我接的大部分都是走淘宝 有的是店家代付  有的是直接发货 有的是我需要先拍😞 一般都是直接送拍 比较少寄回去的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1837008869706584139",
+        "created_at": "2024-09-21T07:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T08:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837386946567672246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1779791531614126080",
+              "start": 0,
+              "username": "huazhi99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837386946567672246",
+        "in_reply_to_user_id": "1779791531614126080",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837364157064302681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huazhi99 我接的大部分都是走淘宝 有的是店家代付  有的是直接发货 有的是我需要先拍😞 一般都是直接送拍 比较少寄回去的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837364154442960896"
+          ]
+        },
+        "author_id": "1779791531614126080",
+        "conversation_id": "1837008869706584139",
+        "created_at": "2024-09-21T05:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T06:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837364157064302681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ta8oh4x6lw",
+              "end": 180,
+              "expanded_url": "https://twitter.com/huazhi99/status/1837364157064302681/photo/1",
+              "media_key": "3_1837364154442960896",
+              "start": 157,
+              "url": "https://t.co/Ta8oh4x6lW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837364157064302681",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837351913823887623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 淘宝寄拍我没咋了解过，感觉这种寄拍顺便让你再刷一下自己的销售额😅  我自己专业做账号的，小红书，抖音，得物几个平台极少还要我自己买了退款的。不然成本太高了，商家炸单自己就亏大了。都是商家把东西寄给我，拍完再寄回去，或者直接送拍。有不少不走平台只用微信的都是中间商，宝子可以注意一下。 https://t.co/Ta8oh4x6lW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22415,
+          "following_count": 255,
+          "like_count": 6300,
+          "listed_count": 39,
+          "tweet_count": 3640
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T08:39:13.000Z",
+        "description": "好无聊。。。",
+        "id": "1779791531614126080",
+        "name": "山茶花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779791665877942272/IxMmXr85_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 85,
+          "like_count": 27,
+          "listed_count": 0,
+          "tweet_count": 64
+        },
+        "username": "huazhi99",
+        "verified": false
+      }
+    ]
+  }
+}

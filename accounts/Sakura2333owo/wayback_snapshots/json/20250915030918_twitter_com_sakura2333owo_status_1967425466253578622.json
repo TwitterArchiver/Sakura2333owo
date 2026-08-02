@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1967178592359686253",
+    "created_at": "2025-09-15T03:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T04:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967425466253578622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1736032823520497664",
+          "start": 0,
+          "username": "xkI5CewrKL84161"
+        },
+        {
+          "end": 29,
+          "id": "1747931023277502465",
+          "start": 17,
+          "username": "damatte8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967425466253578622",
+    "in_reply_to_user_id": "1736032823520497664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967192890364608927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xkI5CewrKL84161 @damatte8964 十年前初中那会右美还叫美沙片  od还叫嗑药和飘了… 那时候磕药的比现在的猛多了…但是对药物一直没有管控  就觉得孩子是吃药吃多了吃飘了 \n以至于现在右美管控很多家长都不知道 我咳嗽的要命我妈还让我去药店买点美沙片吃……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1967178592359686253",
+        "created_at": "2025-09-15T03:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T04:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967425466253578622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1736032823520497664",
+              "start": 0,
+              "username": "xkI5CewrKL84161"
+            },
+            {
+              "end": 29,
+              "id": "1747931023277502465",
+              "start": 17,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967425466253578622",
+        "in_reply_to_user_id": "1736032823520497664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967192890364608927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xkI5CewrKL84161 @damatte8964 十年前初中那会右美还叫美沙片  od还叫嗑药和飘了… 那时候磕药的比现在的猛多了…但是对药物一直没有管控  就觉得孩子是吃药吃多了吃飘了 \n以至于现在右美管控很多家长都不知道 我咳嗽的要命我妈还让我去药店买点美沙片吃……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736032823520497664",
+        "conversation_id": "1967178592359686253",
+        "created_at": "2025-09-14T11:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T12:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967192890364608927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967192890364608927",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1783,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967178592359686253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damatte8964 你现在可以od了，初中你可以吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "我些许是累了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "主页推广真假自辩 ",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34760,
+          "following_count": 283,
+          "like_count": 7315,
+          "listed_count": 67,
+          "media_count": 1119,
+          "tweet_count": 5074
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T14:37:42.000Z",
+        "description": "東山恵里沙推し",
+        "id": "1736032823520497664",
+        "name": "猫酱喝煤油",
+        "pinned_tweet_id": "1958165276547293669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965090145834807296/B6kSxc-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 535,
+          "like_count": 5698,
+          "listed_count": 10,
+          "media_count": 2399,
+          "tweet_count": 11760
+        },
+        "username": "xkI5CewrKL84161",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ*我活不起了🚪99/198/520，可以陪你聊天和你玩游戏。愚痴垢@mofumofuyewo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "mofumofuyewo"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "location": "Tokyo-to, Japan",
+        "name": "小咪之家",
+        "pinned_tweet_id": "1866766840078164028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929548470274367488/QK72McBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34317,
+          "following_count": 800,
+          "like_count": 7268,
+          "listed_count": 41,
+          "media_count": 212,
+          "tweet_count": 2558
+        },
+        "username": "damatte8964",
+        "verified": true
+      }
+    ]
+  }
+}

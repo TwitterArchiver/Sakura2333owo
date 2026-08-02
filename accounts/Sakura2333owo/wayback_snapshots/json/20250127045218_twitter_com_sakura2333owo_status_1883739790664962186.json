@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1883739790664962186",
+    "created_at": "2025-01-27T04:52:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T05:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883739790664962186"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1883739790664962186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想起来几年前在拼嘟嘟买过廉价袜子🧦  但素本人忘记备注款式了……结果老板给我打了好多个电话（因为是外地的以为是诈骗我就给挂了果咩内  但是打了太多次就接了一下 那边传来了温柔的阿姨声音：「哎呀妹妹呦你是不是忘记给袜子备注啦 你看一下阿姨给你发的消息 谢谢你啦」\n嘿嘿 人好好的阿姨 好开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1883739790664962186",
+        "created_at": "2025-01-27T04:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T05:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883739790664962186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883739790664962186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想起来几年前在拼嘟嘟买过廉价袜子🧦  但素本人忘记备注款式了……结果老板给我打了好多个电话（因为是外地的以为是诈骗我就给挂了果咩内  但是打了太多次就接了一下 那边传来了温柔的阿姨声音：「哎呀妹妹呦你是不是忘记给袜子备注啦 你看一下阿姨给你发的消息 谢谢你啦」\n嘿嘿 人好好的阿姨 好开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25397,
+          "following_count": 275,
+          "like_count": 6689,
+          "listed_count": 41,
+          "media_count": 964,
+          "tweet_count": 4329
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

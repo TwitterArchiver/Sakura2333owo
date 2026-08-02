@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1887533788168917159",
+    "created_at": "2025-02-07T16:02:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T17:02:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887894681834676719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1829191158238720004",
+          "start": 0,
+          "username": "shicaicaiaaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887894681834676719",
+    "in_reply_to_user_id": "1829191158238720004",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887776570565402811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shicaicaiaaaa www之前在抖音也发了(  ˃_˂ഃ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1887533788168917159",
+        "created_at": "2025-02-07T16:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T17:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887894681834676719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829191158238720004",
+              "start": 0,
+              "username": "shicaicaiaaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887894681834676719",
+        "in_reply_to_user_id": "1829191158238720004",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887776570565402811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shicaicaiaaaa www之前在抖音也发了(  ˃_˂ഃ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829191158238720004",
+        "conversation_id": "1887533788168917159",
+        "created_at": "2025-02-07T08:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T09:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887776570565402811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887776570565402811",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 475,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887533788168917159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 感觉在抖音刷到过 好萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26450,
+          "following_count": 275,
+          "like_count": 6790,
+          "listed_count": 40,
+          "media_count": 981,
+          "tweet_count": 4439
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T16:16:37.000Z",
+        "description": "山东在校女高/反差m/已过布尔玛验证/过🚪可验证详情请私信/问完过不过说一声/碎碎念@wocaonimalegggg 只有两个号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 42,
+                "username": "wocaonimalegggg"
+              }
+            ]
+          }
+        },
+        "id": "1829191158238720004",
+        "location": "🚪99/168/333/520/1314/5200",
+        "name": "菜菜呀",
+        "pinned_tweet_id": "1858095026678722653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830126595270717440/IAyMVDHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73346,
+          "following_count": 108,
+          "like_count": 577,
+          "listed_count": 207,
+          "media_count": 70,
+          "tweet_count": 527
+        },
+        "username": "shicaicaiaaaa",
+        "verified": false
+      }
+    ]
+  }
+}

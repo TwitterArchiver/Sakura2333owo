@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1879772704997601419",
+    "created_at": "2025-01-16T06:08:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T07:08:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1879772704997601419"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kawaisoumenher…",
+          "end": 169,
+          "expanded_url": "https://twitter.com/kawaisoumenhera/status/1879659801862676774",
+          "start": 146,
+          "url": "https://t.co/Z5hb1yJqeC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879772704997601419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879659801862676774",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这哪来的大哥啊谁来领走一下 咋这么能断章取义挑拨离间啊 我自己的图被盗的推特ins小红书抖音pin上到处传大家都有目共睹啊 我自己都管不过来了而且我就是吐槽现状 早在我20年被盗图时就说了  那时候你的大号又在何方呢 \n抱歉啊我玩自媒体十多年了 我不靠推特赚钱也不靠推特发展 感谢您的费心😌 https://t.co/Z5hb1yJqeC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1879772704997601419",
+        "created_at": "2025-01-16T06:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T07:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879772704997601419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kawaisoumenher…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/kawaisoumenhera/status/1879659801862676774",
+              "start": 146,
+              "url": "https://t.co/Z5hb1yJqeC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879772704997601419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879659801862676774",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这哪来的大哥啊谁来领走一下 咋这么能断章取义挑拨离间啊 我自己的图被盗的推特ins小红书抖音pin上到处传大家都有目共睹啊 我自己都管不过来了而且我就是吐槽现状 早在我20年被盗图时就说了  那时候你的大号又在何方呢 \n抱歉啊我玩自媒体十多年了 我不靠推特赚钱也不靠推特发展 感谢您的费心😌 https://t.co/Z5hb1yJqeC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879448573999452160",
+        "conversation_id": "1879659801862676774",
+        "created_at": "2025-01-15T22:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T23:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879659801862676774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sakura2333owo/…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/sakura2333owo/status/1879571242841514415",
+              "start": 93,
+              "url": "https://t.co/OWIzd3Y0LC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879659801862676774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 329,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879571242841514415",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小妹妹自從自殘照片被盜過一次之後，只要發生這種事，就會裝作幫朋友說話，其實把自己的不滿都發洩出來，以前被盜圖怎麼沒見你說？\n\n不自殘就混不進她們漂亮賣b女的圈子，其實人家沒想過帶你玩。 https://t.co/OWIzd3Y0LC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24903,
+          "following_count": 270,
+          "like_count": 6584,
+          "listed_count": 41,
+          "media_count": 937,
+          "tweet_count": 4238
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T08:40:42.000Z",
+        "description": "",
+        "id": "1879448573999452160",
+        "name": "重生之我用朋友的賣身錢出去玩",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 6
+        },
+        "username": "KawaisouMenhera",
+        "verified": false
+      }
+    ]
+  }
+}

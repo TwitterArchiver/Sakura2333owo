@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1946169192367161690",
+    "created_at": "2025-07-18T11:29:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T12:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946170489107620201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1052542133519826945",
+          "start": 0,
+          "username": "matsuri_kksk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946170489107620201",
+    "in_reply_to_user_id": "1052542133519826945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 90,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946169192367161690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@matsuri_kksk 我不也是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1946169192367161690",
+        "created_at": "2025-07-18T11:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T12:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946170489107620201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1052542133519826945",
+              "start": 0,
+              "username": "matsuri_kksk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946170489107620201",
+        "in_reply_to_user_id": "1052542133519826945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946169192367161690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@matsuri_kksk 我不也是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1052542133519826945",
+        "conversation_id": "1946169192367161690",
+        "created_at": "2025-07-18T11:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T12:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946169192367161690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/horizon_tem/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/horizon_tem/status/1945913824735092765",
+              "start": 31,
+              "url": "https://t.co/FfX7S3y04H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946169192367161690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 231,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945913824735092765",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢我的女朋友让我知道就算自己没有特长没有钱没有脸也可以被爱 https://t.co/FfX7S3y04H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆自撮り/雑垢/絵/東方project/les ★鼠类预警⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34133,
+          "following_count": 278,
+          "like_count": 7235,
+          "listed_count": 59,
+          "media_count": 1080,
+          "tweet_count": 4896
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-17T12:49:34.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Daniu",
+                "end": 23,
+                "expanded_url": "https://lit.link/Daniu",
+                "start": 0,
+                "url": "https://t.co/Av8dsYtUGU"
+              }
+            ]
+          }
+        },
+        "id": "1052542133519826945",
+        "name": "🏮夏色まつり ガチ恋勢🏮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927233847369875456/ML5Y_RXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1457,
+          "following_count": 919,
+          "like_count": 74492,
+          "listed_count": 7,
+          "media_count": 1579,
+          "tweet_count": 36267
+        },
+        "url": "https://t.co/Av8dsYtUGU",
+        "username": "matsuri_kksk",
+        "verified": false
+      }
+    ]
+  }
+}

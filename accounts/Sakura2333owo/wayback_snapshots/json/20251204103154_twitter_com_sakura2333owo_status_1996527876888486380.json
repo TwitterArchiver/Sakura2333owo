@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1996527586357432650",
+    "created_at": "2025-12-04T10:31:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T11:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996527876888486380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1552439937198587904",
+          "start": 0,
+          "username": "kikiyoshi_2233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996527876888486380",
+    "in_reply_to_user_id": "1552439937198587904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996527749222342993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kikiyoshi_2233 小镇没有外卖……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1996527586357432650",
+        "created_at": "2025-12-04T10:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T11:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996527876888486380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1552439937198587904",
+              "start": 0,
+              "username": "kikiyoshi_2233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996527876888486380",
+        "in_reply_to_user_id": "1552439937198587904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996527749222342993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikiyoshi_2233 小镇没有外卖……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552439937198587904",
+        "conversation_id": "1996527586357432650",
+        "created_at": "2025-12-04T10:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T11:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996527749222342993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996527749222342993",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996527586357432650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 叫外卖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36994,
+          "following_count": 284,
+          "like_count": 7496,
+          "listed_count": 74,
+          "media_count": 1148,
+          "tweet_count": 5234
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-27T23:45:26.000Z",
+        "description": "个人博客：https://t.co/fGVztYtBQS。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kikiyoshi.blogspot.com",
+                "end": 28,
+                "expanded_url": "https://kikiyoshi.blogspot.com/",
+                "start": 5,
+                "url": "https://t.co/fGVztYtBQS"
+              }
+            ]
+          }
+        },
+        "id": "1552439937198587904",
+        "name": "ききよし",
+        "pinned_tweet_id": "1601216467860873216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773164373248479232/xSR3ZxIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3649,
+          "following_count": 2575,
+          "like_count": 296634,
+          "listed_count": 23,
+          "media_count": 1914,
+          "tweet_count": 37287
+        },
+        "username": "kikiyoshi_2233",
+        "verified": true
+      }
+    ]
+  }
+}

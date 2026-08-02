@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995715472399237120"
+      ],
+      "media_source_tweet_id": [
+        "1995715487452352892"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1995716087564931220",
+    "created_at": "2025-12-02T04:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T05:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995716087564931220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1747931023277502465",
+          "start": 3,
+          "username": "kami07322"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SoAAgwSBoh",
+          "end": 44,
+          "expanded_url": "https://x.com/kami07322/status/1995715487452352892/photo/1",
+          "media_key": "3_1995715472399237120",
+          "start": 21,
+          "url": "https://t.co/SoAAgwSBoh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995716087564931220",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995715487452352892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kami07322: 神無須多言 https://t.co/SoAAgwSBoh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1832,
+        "media_key": "3_1995715472399237120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7I0pf0bgAAEJq4.jpg",
+        "width": 1379
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995715472399237120"
+          ],
+          "media_source_tweet_id": [
+            "1995715487452352892"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1995716087564931220",
+        "created_at": "2025-12-02T04:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T05:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995716087564931220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1747931023277502465",
+              "start": 3,
+              "username": "kami07322"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SoAAgwSBoh",
+              "end": 44,
+              "expanded_url": "https://x.com/kami07322/status/1995715487452352892/photo/1",
+              "media_key": "3_1995715472399237120",
+              "start": 21,
+              "url": "https://t.co/SoAAgwSBoh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995716087564931220",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995715487452352892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kami07322: 神無須多言 https://t.co/SoAAgwSBoh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995715472399237120"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "conversation_id": "1995715487452352892",
+        "created_at": "2025-12-02T04:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T05:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995715487452352892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SoAAgwSBoh",
+              "end": 29,
+              "expanded_url": "https://x.com/kami07322/status/1995715487452352892/photo/1",
+              "media_key": "3_1995715472399237120",
+              "start": 6,
+              "url": "https://t.co/SoAAgwSBoh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995715487452352892",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "神無須多言 https://t.co/SoAAgwSBoh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36985,
+          "following_count": 284,
+          "like_count": 7488,
+          "listed_count": 74,
+          "media_count": 1148,
+          "tweet_count": 5226
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了",
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987087156876394496/ExfVA909_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33633,
+          "following_count": 20,
+          "like_count": 7515,
+          "listed_count": 36,
+          "media_count": 162,
+          "tweet_count": 2722
+        },
+        "username": "kami07322",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2052013783976218624"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "2052014378048995721",
+    "created_at": "2026-05-06T13:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T14:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052014378048995721"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4bOqufA4Yq",
+          "end": 42,
+          "expanded_url": "https://x.com/Sakura2333owo/status/2052014378048995721/video/1",
+          "media_key": "13_2052013783976218624",
+          "start": 19,
+          "url": "https://t.co/4bOqufA4Yq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052014378048995721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "窝趣！最意想不到梦幻联动的一集^ω^ https://t.co/4bOqufA4Yq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9866,
+        "height": 1280,
+        "media_key": "13_2052013783976218624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052013783976218624/img/xa67DEsqYm8I-NNJ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052013783976218624/vid/avc1/320x568/R8HpC1_kVcTsFOV3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052013783976218624/vid/avc1/480x852/E0sE0iJMu9UEIhCU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052013783976218624/vid/avc1/720x1280/-uKjBxeBkUxKnWgO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052013783976218624/pl/DOMC5j69UWTelfif.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052013783976218624"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "2052014378048995721",
+        "created_at": "2026-05-06T13:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052014378048995721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4bOqufA4Yq",
+              "end": 42,
+              "expanded_url": "https://x.com/Sakura2333owo/status/2052014378048995721/video/1",
+              "media_key": "13_2052013783976218624",
+              "start": 19,
+              "url": "https://t.co/4bOqufA4Yq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052014378048995721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "窝趣！最意想不到梦幻联动的一集^ω^ https://t.co/4bOqufA4Yq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི 🩵☁️💤All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37737,
+          "following_count": 299,
+          "like_count": 8022,
+          "listed_count": 81,
+          "media_count": 1198,
+          "tweet_count": 5486
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "Sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

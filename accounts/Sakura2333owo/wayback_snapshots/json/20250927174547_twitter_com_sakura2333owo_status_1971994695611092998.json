@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971994683485442053"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1971983190324900240",
+    "created_at": "2025-09-27T17:45:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T18:45:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971994695611092998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1900575453787865088",
+          "start": 0,
+          "username": "ssh1389972"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BCgKdDChOw",
+          "end": 78,
+          "expanded_url": "https://x.com/sakura2333owo/status/1971994695611092998/photo/1",
+          "media_key": "3_1971994683485442053",
+          "start": 55,
+          "url": "https://t.co/BCgKdDChOw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971994695611092998",
+    "in_reply_to_user_id": "1900575453787865088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971990037752696916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ssh1389972 我现在每天给自己看动画片听儿歌哄自己 😢 干什么都要提前做几个小时或者几天的心理准备 https://t.co/BCgKdDChOw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971994683485442053",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G13ut3Ab0AUA4bQ.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971994683485442053"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1971983190324900240",
+        "created_at": "2025-09-27T17:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T18:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971994695611092998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1900575453787865088",
+              "start": 0,
+              "username": "ssh1389972"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BCgKdDChOw",
+              "end": 78,
+              "expanded_url": "https://x.com/sakura2333owo/status/1971994695611092998/photo/1",
+              "media_key": "3_1971994683485442053",
+              "start": 55,
+              "url": "https://t.co/BCgKdDChOw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971994695611092998",
+        "in_reply_to_user_id": "1900575453787865088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971990037752696916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ssh1389972 我现在每天给自己看动画片听儿歌哄自己 😢 干什么都要提前做几个小时或者几天的心理准备 https://t.co/BCgKdDChOw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900575453787865088",
+        "conversation_id": "1971983190324900240",
+        "created_at": "2025-09-27T17:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T18:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971990037752696916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971990037752696916",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971983190324900240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 就连洗澡都要哄一阵子自己，拖到半夜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "我些许是累了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "主页推广真假自辩 ",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34674,
+          "following_count": 283,
+          "like_count": 7312,
+          "listed_count": 67,
+          "media_count": 1123,
+          "tweet_count": 5093
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T15:51:22.000Z",
+        "description": "绳子，喜欢摄影，约拍，约绳，骗我者全家死绝 #哈尔滨",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 22,
+                "tag": "哈尔滨"
+              }
+            ]
+          }
+        },
+        "id": "1900575453787865088",
+        "name": "观山则止s",
+        "pinned_tweet_id": "1970152562553942514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904615960448802817/7ukPhJUf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 88,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 32
+        },
+        "username": "ssh1389972",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1795134066058199043"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1795134076434710807",
+    "created_at": "2024-05-27T16:44:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-27T17:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1795134076434710807"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/KA53I6uWQY",
+          "end": 32,
+          "expanded_url": "https://twitter.com/sakura2333owo/status/1795134076434710807/photo/1",
+          "media_key": "3_1795134066058199043",
+          "start": 9,
+          "url": "https://t.co/KA53I6uWQY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795134076434710807",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我只是一个小鼻噶 https://t.co/KA53I6uWQY"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1795134076434710807].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1795134076434710807",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1795134076434710807"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 100,
+        "media_key": "3_1795134066058199043",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOmY7AuaAAMfPOS.jpg",
+        "width": 100
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "悲伤十字街",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1793075462631248039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787419388439900160/lBWZ8WuN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16016,
+          "following_count": 241,
+          "like_count": 5655,
+          "listed_count": 33,
+          "tweet_count": 2985
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

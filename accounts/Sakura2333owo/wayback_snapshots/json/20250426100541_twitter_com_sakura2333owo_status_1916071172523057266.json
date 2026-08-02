@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1915778274418123233",
+    "created_at": "2025-04-26T10:05:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T11:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916071172523057266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1675133488524328961",
+          "start": 0,
+          "username": "Kietter387803"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916071172523057266",
+    "in_reply_to_user_id": "1508447794537070595",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916070766581584045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kietter387803 长按 点编辑调一下自定义就好了⸝⸝ ᳐ʚ̴̶̷̷ ‧̫ ʚ̴̶̷̷ ᳐⸝⸝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916070754615246848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpdAMxVbQAAnMTy.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1915778274418123233",
+        "created_at": "2025-04-26T10:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T11:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916071172523057266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1675133488524328961",
+              "start": 0,
+              "username": "Kietter387803"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916071172523057266",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916070766581584045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kietter387803 长按 点编辑调一下自定义就好了⸝⸝ ᳐ʚ̴̶̷̷ ‧̫ ʚ̴̶̷̷ ᳐⸝⸝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916070754615246848"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1915778274418123233",
+        "created_at": "2025-04-26T10:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T11:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916070766581584045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1675133488524328961",
+              "start": 0,
+              "username": "Kietter387803"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ONzJozZ4Rh",
+              "end": 67,
+              "expanded_url": "https://x.com/sakura2333owo/status/1916070766581584045/photo/1",
+              "media_key": "3_1916070754615246848",
+              "start": 44,
+              "url": "https://t.co/ONzJozZ4Rh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916070766581584045",
+        "in_reply_to_user_id": "1675133488524328961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915778274418123233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kietter387803 只是把图标状态给改了  没有出问题 可以随便设置的⦁𖥦⦁ https://t.co/ONzJozZ4Rh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "我在这里养了一只果然翁冂( ＞﹏＜˵) ソーナンス~☆自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31870,
+          "following_count": 269,
+          "like_count": 7201,
+          "listed_count": 53,
+          "media_count": 1039,
+          "tweet_count": 4781
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T13:25:30.000Z",
+        "description": "很喜欢你们，如果能多多看我就更喜欢了。不可替代的@fuyumonya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "fuyumonya"
+              }
+            ]
+          }
+        },
+        "id": "1675133488524328961",
+        "location": "日本104-0045 tokyo, chuo city",
+        "name": "kiehésitent",
+        "pinned_tweet_id": "1915672542842417306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892928085554827264/9Q1HEcUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6991,
+          "following_count": 1517,
+          "like_count": 24246,
+          "listed_count": 17,
+          "media_count": 2884,
+          "tweet_count": 19189
+        },
+        "username": "Kietter387803",
+        "verified": false
+      }
+    ]
+  }
+}

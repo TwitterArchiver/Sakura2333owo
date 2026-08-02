@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1888910194836729976",
+    "created_at": "2025-02-10T11:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T12:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888912341057872041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1052542133519826945",
+          "start": 0,
+          "username": "matsuri_kksk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888912341057872041",
+    "in_reply_to_user_id": "1052542133519826945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888910194836729976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@matsuri_kksk 这个颜色帅"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1888910194836729976].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1888910194836729976",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1888910194836729976"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1888910194836729976",
+        "created_at": "2025-02-10T11:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T12:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888912341057872041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1052542133519826945",
+              "start": 0,
+              "username": "matsuri_kksk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888912341057872041",
+        "in_reply_to_user_id": "1052542133519826945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888910194836729976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@matsuri_kksk 这个颜色帅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27944,
+          "following_count": 277,
+          "like_count": 6830,
+          "listed_count": 41,
+          "media_count": 984,
+          "tweet_count": 4467
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-17T12:49:34.000Z",
+        "description": "你好幽默",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sigure.jp",
+                "end": 23,
+                "expanded_url": "http://www.sigure.jp",
+                "start": 0,
+                "url": "https://t.co/8QYmkByieN"
+              }
+            ]
+          }
+        },
+        "id": "1052542133519826945",
+        "name": "🏮夏色まつり ガチ恋勢🏮",
+        "pinned_tweet_id": "1883919249573568846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883918394967351298/HJ6MP8Y2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1437,
+          "following_count": 905,
+          "like_count": 73216,
+          "listed_count": 8,
+          "media_count": 1432,
+          "tweet_count": 34713
+        },
+        "url": "https://t.co/8QYmkByieN",
+        "username": "matsuri_kksk",
+        "verified": false
+      }
+    ]
+  }
+}

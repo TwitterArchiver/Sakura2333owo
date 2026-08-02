@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1852632208449933312"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1852627892406235146",
+    "created_at": "2024-11-02T08:41:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T09:41:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852632230721700272"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3yMcoBJKDq",
+          "end": 28,
+          "expanded_url": "https://x.com/sakura2333owo/status/1852632230721700272/photo/1",
+          "media_key": "16_1852632208449933312",
+          "start": 5,
+          "url": "https://t.co/3yMcoBJKDq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852632230721700272",
+    "in_reply_to_user_id": "1508447794537070595",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852627892406235146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最新进度 https://t.co/3yMcoBJKDq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_1852632208449933312",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GbXfLYwbEAA1BwL.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GbXfLYwbEAA1BwL.mp4"
+          }
+        ],
+        "width": 358
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1852632208449933312"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1852627892406235146",
+        "created_at": "2024-11-02T08:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T09:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852632230721700272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3yMcoBJKDq",
+              "end": 28,
+              "expanded_url": "https://x.com/sakura2333owo/status/1852632230721700272/photo/1",
+              "media_key": "16_1852632208449933312",
+              "start": 5,
+              "url": "https://t.co/3yMcoBJKDq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852632230721700272",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852627892406235146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最新进度 https://t.co/3yMcoBJKDq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852627882084069376"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1852627892406235146",
+        "created_at": "2024-11-02T08:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T09:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852627892406235146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O3FYSKPmCa",
+              "end": 34,
+              "expanded_url": "https://x.com/sakura2333owo/status/1852627892406235146/photo/1",
+              "media_key": "3_1852627882084069376",
+              "start": 11,
+              "url": "https://t.co/O3FYSKPmCa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852627892406235146",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女朋友被窝埋了ˆㅅˆ https://t.co/O3FYSKPmCa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22516,
+          "following_count": 261,
+          "like_count": 6263,
+          "listed_count": 36,
+          "tweet_count": 3749
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

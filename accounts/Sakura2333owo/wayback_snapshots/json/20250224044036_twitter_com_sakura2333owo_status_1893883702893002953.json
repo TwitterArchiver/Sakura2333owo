@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1893883702893002953",
+    "created_at": "2025-02-24T04:40:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T05:40:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893883702893002953"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/matsuri_kksk/s…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/matsuri_kksk/status/1893875516257558802",
+          "start": 16,
+          "url": "https://t.co/hdaLbfQAaX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893883702893002953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893875516257558802",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "保证给小女友养到500斤🐁💕💕 https://t.co/hdaLbfQAaX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_1893875503888760832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkhlvJIagAAOCzT.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1893875503880450048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkhlvJGbsAAvYxx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1893883702893002953",
+        "created_at": "2025-02-24T04:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T05:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893883702893002953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/matsuri_kksk/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/matsuri_kksk/status/1893875516257558802",
+              "start": 16,
+              "url": "https://t.co/hdaLbfQAaX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893883702893002953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893875516257558802",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "保证给小女友养到500斤🐁💕💕 https://t.co/hdaLbfQAaX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893875503888760832",
+            "3_1893875503880450048"
+          ]
+        },
+        "author_id": "1052542133519826945",
+        "conversation_id": "1893875516257558802",
+        "created_at": "2025-02-24T04:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T05:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893875516257558802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kAHrxYMJ9p",
+              "end": 34,
+              "expanded_url": "https://x.com/matsuri_kksk/status/1893875516257558802/photo/1",
+              "media_key": "3_1893875503888760832",
+              "start": 11,
+              "url": "https://t.co/kAHrxYMJ9p"
+            },
+            {
+              "display_url": "pic.x.com/kAHrxYMJ9p",
+              "end": 34,
+              "expanded_url": "https://x.com/matsuri_kksk/status/1893875516257558802/photo/1",
+              "media_key": "3_1893875503880450048",
+              "start": 11,
+              "url": "https://t.co/kAHrxYMJ9p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893875516257558802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢小女友陪我过生日 https://t.co/kAHrxYMJ9p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31631,
+          "following_count": 262,
+          "like_count": 7062,
+          "listed_count": 53,
+          "media_count": 1000,
+          "tweet_count": 4579
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-17T12:49:34.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sigure.jp",
+                "end": 23,
+                "expanded_url": "http://www.sigure.jp",
+                "start": 0,
+                "url": "https://t.co/f7iyZxc29U"
+              }
+            ]
+          }
+        },
+        "id": "1052542133519826945",
+        "name": "🏮夏色まつり ガチ恋勢🏮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891836793240289283/LwsibQ9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 907,
+          "like_count": 73518,
+          "listed_count": 8,
+          "media_count": 1442,
+          "tweet_count": 34959
+        },
+        "url": "https://t.co/f7iyZxc29U",
+        "username": "matsuri_kksk",
+        "verified": false
+      }
+    ]
+  }
+}

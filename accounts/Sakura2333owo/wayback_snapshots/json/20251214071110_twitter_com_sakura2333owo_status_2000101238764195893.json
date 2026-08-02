@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1999817279169867849",
+    "created_at": "2025-12-14T07:11:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T08:11:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000101238764195893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1460429454719676416",
+          "start": 0,
+          "username": "oOoOo0o0oOoO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000101238764195893",
+    "in_reply_to_user_id": "1460429454719676416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999817279169867849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oOoOo0o0oOoO 很难( ´ㅁ` ; ) 大店给钱捂嘴0差评刷好评 小店偷大店图好评 原创店找我们博主合作 会要求用我们拍的图刷好评 不过有个办法…宝宝你可以看那些博主接的衣服过很久能自留没挂二手的 或者她们自己买的衣服（非推广）一般都是质量或者版型设计还不错的 质量差的或者效果不好的早就塞原袋挂闲鱼了🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1999817279169867849",
+        "created_at": "2025-12-14T07:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T08:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000101238764195893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1460429454719676416",
+              "start": 0,
+              "username": "oOoOo0o0oOoO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000101238764195893",
+        "in_reply_to_user_id": "1460429454719676416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999817279169867849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oOoOo0o0oOoO 很难( ´ㅁ` ; ) 大店给钱捂嘴0差评刷好评 小店偷大店图好评 原创店找我们博主合作 会要求用我们拍的图刷好评 不过有个办法…宝宝你可以看那些博主接的衣服过很久能自留没挂二手的 或者她们自己买的衣服（非推广）一般都是质量或者版型设计还不错的 质量差的或者效果不好的早就塞原袋挂闲鱼了🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1460429454719676416",
+        "conversation_id": "1999817279169867849",
+        "created_at": "2025-12-13T12:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T13:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999817279169867849"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999817279169867849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9981,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "淘宝买家秀还他妈有真人不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37082,
+          "following_count": 286,
+          "like_count": 7534,
+          "listed_count": 77,
+          "media_count": 1159,
+          "tweet_count": 5275
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-16T02:08:22.000Z",
+        "description": "",
+        "id": "1460429454719676416",
+        "name": "小骨",
+        "pinned_tweet_id": "1999098278772982006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999278313790144512/C724Aa_Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 59,
+          "like_count": 780,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 637
+        },
+        "username": "oOoOo0o0oOoO",
+        "verified": false
+      }
+    ]
+  }
+}

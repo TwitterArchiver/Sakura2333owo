@@ -1,0 +1,183 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1793168811539169280"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1792942710233628942",
+    "created_at": "2024-05-22T06:35:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T07:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793168822020817020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1329392526172721153",
+          "start": 0,
+          "username": "f07jZH6tq792b34"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/qz0Wmegr30",
+          "end": 43,
+          "expanded_url": "https://twitter.com/sakura2333owo/status/1793168822020817020/photo/1",
+          "media_key": "3_1793168811539169280",
+          "start": 20,
+          "url": "https://t.co/qz0Wmegr30"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793168822020817020",
+    "in_reply_to_user_id": "1329392526172721153",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793132050746388893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@f07jZH6tq792b34 近景 https://t.co/qz0Wmegr30"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1793168822020817020].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1793168822020817020",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1793168822020817020"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 834,
+        "media_key": "3_1793168811539169280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOKdiJIaAAACfqE.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1329392526172721153",
+        "conversation_id": "1792942710233628942",
+        "created_at": "2024-05-22T04:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T05:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793132050746388893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793132050746388893",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792942710233628942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 什么样子的布娃娃，让我看看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "悲伤十字街",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787419388439900160/lBWZ8WuN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16123,
+          "following_count": 246,
+          "like_count": 5659,
+          "listed_count": 33,
+          "tweet_count": 2985
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-19T11:54:24.000Z",
+        "description": "23厘米",
+        "id": "1329392526172721153",
+        "name": "把鱼养满整个世界",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1329393603999744001/5_cQEOTE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 587,
+          "like_count": 729,
+          "listed_count": 3,
+          "tweet_count": 1567
+        },
+        "username": "f07jZH6tq792b34",
+        "verified": false
+      }
+    ]
+  }
+}

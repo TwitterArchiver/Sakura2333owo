@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1676746772255850496",
+          "name": "Threads (Meta)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453808088054525953",
+          "name": "Meta"
+        }
+      }
+    ],
+    "conversation_id": "1996292333546123493",
+    "created_at": "2025-12-04T09:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T10:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996518001835962523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1297748138191491077",
+          "start": 0,
+          "username": "Azusa040921"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996518001835962523",
+    "in_reply_to_user_id": "1297748138191491077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996292333546123493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Azusa040921 ui更新的真的特别难受…！而且感觉私信功能收比以前延迟了… 还全是threads的广告……(՞ •̥㉦•̥՞)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "1996292333546123493",
+        "created_at": "2025-12-04T09:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T10:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996518001835962523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1297748138191491077",
+              "start": 0,
+              "username": "Azusa040921"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996518001835962523",
+        "in_reply_to_user_id": "1297748138191491077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996292333546123493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Azusa040921 ui更新的真的特别难受…！而且感觉私信功能收比以前延迟了… 还全是threads的广告……(՞ •̥㉦•̥՞)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1297748138191491077",
+        "conversation_id": "1996292333546123493",
+        "created_at": "2025-12-03T18:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T19:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996292333546123493"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996292333546123493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7118,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这个instagram的ui已经更新的六亲不认了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36995,
+          "following_count": 284,
+          "like_count": 7495,
+          "listed_count": 74,
+          "media_count": 1148,
+          "tweet_count": 5233
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-24T04:10:57.000Z",
+        "description": "𐕣 insta:shewo0921",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/shewo040921",
+                "end": 23,
+                "expanded_url": "https://lit.link/shewo040921",
+                "start": 0,
+                "url": "https://t.co/lz4v5xQ2LH"
+              }
+            ]
+          }
+        },
+        "id": "1297748138191491077",
+        "name": "蝸",
+        "pinned_tweet_id": "1806645642736881898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941735193628508162/O0bgup4X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181743,
+          "following_count": 35,
+          "like_count": 1299,
+          "listed_count": 450,
+          "media_count": 112,
+          "tweet_count": 973
+        },
+        "url": "https://t.co/lz4v5xQ2LH",
+        "username": "Azusa040921",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,533 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051364742",
+          "name": "Just Because!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1819081785059467755",
+    "created_at": "2024-08-03T02:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T03:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819554231315222597"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 176,
+          "normalized_text": "ACG",
+          "probability": 0.7369,
+          "start": 174,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1602551693463404545",
+          "start": 0,
+          "username": "haruharu_niikun"
+        },
+        {
+          "end": 24,
+          "id": "1706491994053206017",
+          "start": 17,
+          "username": "2uelia"
+        },
+        {
+          "end": 36,
+          "id": "1573483908762574872",
+          "start": 25,
+          "username": "loveryteks"
+        },
+        {
+          "end": 47,
+          "id": "1315758533271384064",
+          "start": 37,
+          "username": "usadapeko"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Search over 170481 new & used cars for sale! Find new cars for sale, car prices, car reviews, auto news & more at Carlist.my - Malaysia's No.1 Car Site.",
+          "display_url": "others.My",
+          "end": 97,
+          "expanded_url": "http://others.My",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1818252521502306304/XyPiHsFT?format=png&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1818252521502306304/XyPiHsFT?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 74,
+          "status": 200,
+          "title": "Find new & used cars for sale in Malaysia - Carlist.my",
+          "unwound_url": "http://www.carlist.my/",
+          "url": "https://t.co/CCzq1qDoK9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819554231315222597",
+    "in_reply_to_user_id": "1602551693463404545",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819457204006932574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haruharu_niikun @2uelia @loveryteks @usadapeko Don't apply your ideas to https://t.co/CCzq1qDoK9 room is dressed up like this just because I like these anime characters and ACG .It makes me happy to be surrounded by posters of my favorite characters.All my rooms are like this. Do I have to find a blank place to take pictures?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051364742",
+              "name": "Just Because!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1819081785059467755",
+        "created_at": "2024-08-03T02:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T03:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819554231315222597"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 176,
+              "normalized_text": "ACG",
+              "probability": 0.7369,
+              "start": 174,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1602551693463404545",
+              "start": 0,
+              "username": "haruharu_niikun"
+            },
+            {
+              "end": 24,
+              "id": "1706491994053206017",
+              "start": 17,
+              "username": "2uelia"
+            },
+            {
+              "end": 36,
+              "id": "1573483908762574872",
+              "start": 25,
+              "username": "loveryteks"
+            },
+            {
+              "end": 47,
+              "id": "1315758533271384064",
+              "start": 37,
+              "username": "usadapeko"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Search over 170481 new & used cars for sale! Find new cars for sale, car prices, car reviews, auto news & more at Carlist.my - Malaysia's No.1 Car Site.",
+              "display_url": "others.My",
+              "end": 97,
+              "expanded_url": "http://others.My",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1818252521502306304/XyPiHsFT?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1818252521502306304/XyPiHsFT?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 74,
+              "status": 200,
+              "title": "Find new & used cars for sale in Malaysia - Carlist.my",
+              "unwound_url": "http://www.carlist.my/",
+              "url": "https://t.co/CCzq1qDoK9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819554231315222597",
+        "in_reply_to_user_id": "1602551693463404545",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819457204006932574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haruharu_niikun @2uelia @loveryteks @usadapeko Don't apply your ideas to https://t.co/CCzq1qDoK9 room is dressed up like this just because I like these anime characters and ACG .It makes me happy to be surrounded by posters of my favorite characters.All my rooms are like this. Do I have to find a blank place to take pictures?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1602551693463404545",
+        "conversation_id": "1819081785059467755",
+        "created_at": "2024-08-02T19:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T20:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819457204006932574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1706491994053206017",
+              "start": 0,
+              "username": "2uelia"
+            },
+            {
+              "end": 19,
+              "id": "1573483908762574872",
+              "start": 8,
+              "username": "loveryteks"
+            },
+            {
+              "end": 30,
+              "id": "1315758533271384064",
+              "start": 20,
+              "username": "usadapeko"
+            },
+            {
+              "end": 209,
+              "id": "1508447794537070595",
+              "start": 195,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819457204006932574",
+        "in_reply_to_user_id": "1706491994053206017",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819442475175407842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2uelia @loveryteks @usadapeko That's what I mean by inspo. Obviously, most people without a job can't afford stuff like this unless they are living off welfare, but still. Look at accounts like @sakura2333owo and others, these type of rooms are literally their inspo for the content they post all the time."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18445,
+          "following_count": 248,
+          "like_count": 6068,
+          "listed_count": 35,
+          "tweet_count": 3331
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-13T06:31:30.000Z",
+        "description": "World's most powerful loser\n•|•|•\nCoolest moid on the block. Why? Because I said so 😎.\n\nNewJeans Akgae/EDTWT",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "curiouscat.live/hype_boy_akgae",
+                "end": 23,
+                "expanded_url": "https://curiouscat.live/hype_boy_akgae",
+                "start": 0,
+                "url": "https://t.co/293rQM7pcj"
+              }
+            ]
+          }
+        },
+        "id": "1602551693463404545",
+        "location": "24-7 | 17 | ugw: 55kg",
+        "name": "D",
+        "pinned_tweet_id": "1756892199650799627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789180986325872640/O4APVLkB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 86,
+          "like_count": 3443,
+          "listed_count": 0,
+          "tweet_count": 676
+        },
+        "url": "https://t.co/293rQM7pcj",
+        "username": "haruharu_niikun",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-26T02:12:58.000Z",
+        "description": "DO NOT REPOST\n\nshostakovich's first disciple🧀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/yuelia",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/yuelia",
+                "start": 0,
+                "url": "https://t.co/khWpLonx7x"
+              }
+            ]
+          }
+        },
+        "id": "1706491994053206017",
+        "name": "yuelia",
+        "pinned_tweet_id": "1819224816169164876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726857533808091136/BVXgPZQl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 67,
+          "like_count": 2964,
+          "listed_count": 2,
+          "tweet_count": 567
+        },
+        "url": "https://t.co/khWpLonx7x",
+        "username": "2uelia",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T01:26:20.000Z",
+        "description": "🇸🇪\nyou must live happily!",
+        "id": "1573483908762574872",
+        "name": "Alicia",
+        "pinned_tweet_id": "1806087438529606116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819507482521153536/EMYllFYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 669,
+          "like_count": 19830,
+          "listed_count": 3,
+          "tweet_count": 882
+        },
+        "username": "loveryteks",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-12T20:57:41.000Z",
+        "description": "nyanyanyaにゃにゃにゃ^ᴗ.ᴗ^♡ mainly on ig",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mycheririn",
+                "end": 23,
+                "expanded_url": "http://instagram.com/mycheririn",
+                "start": 0,
+                "url": "https://t.co/oVJFSgktUm"
+              }
+            ]
+          }
+        },
+        "id": "1315758533271384064",
+        "location": "🐈‍⬛🐈🎶",
+        "name": "鬱たん",
+        "pinned_tweet_id": "1815406795286073388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772291694412910592/PQXRay7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2497,
+          "following_count": 584,
+          "like_count": 21678,
+          "listed_count": 9,
+          "tweet_count": 9676
+        },
+        "url": "https://t.co/oVJFSgktUm",
+        "username": "usadapeko",
+        "verified": false
+      }
+    ]
+  }
+}

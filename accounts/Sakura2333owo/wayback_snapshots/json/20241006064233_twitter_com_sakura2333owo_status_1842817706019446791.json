@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1842774585437233424",
+    "created_at": "2024-10-06T06:42:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-06T07:42:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842817706019446791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1400025435539271681",
+          "start": 0,
+          "username": "ZhengWeiSSR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842817706019446791",
+    "in_reply_to_user_id": "1400025435539271681",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842798690911834305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhengWeiSSR 实在是太难吃吃的不饿了实在没事干就开始写字了  餐厅挺清闲的 走后服务员围着研究了一会倒掉了(='_'=)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1842774585437233424",
+        "created_at": "2024-10-06T06:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T07:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842817706019446791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1400025435539271681",
+              "start": 0,
+              "username": "ZhengWeiSSR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842817706019446791",
+        "in_reply_to_user_id": "1400025435539271681",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842798690911834305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhengWeiSSR 实在是太难吃吃的不饿了实在没事干就开始写字了  餐厅挺清闲的 走后服务员围着研究了一会倒掉了(='_'=)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1400025435539271681",
+        "conversation_id": "1842774585437233424",
+        "created_at": "2024-10-06T05:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T06:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842798690911834305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842798690911834305",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842774585437233424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 过去干过服务员。高峰期收餐，收一桌又多出来两桌，旁边站着的顾客还嫌我慢。根本没精力注意前桌食客拿泔水在桌面上涂了什么花活…\n注意到了也懒得管，实际上对服务员来说，餐馆生意越差越好…就算倒闭了，服务员的活也满街都是，不差这一家…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22515,
+          "following_count": 256,
+          "like_count": 6273,
+          "listed_count": 39,
+          "tweet_count": 3693
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-02T09:44:31.000Z",
+        "description": "蝈男|很喜欢中推圈的氛围。CHI/ENG/JPN|8964|三年日结，重新上岸",
+        "id": "1400025435539271681",
+        "location": "Lion's Arch, Tyria ",
+        "name": "ZhengWeiSR",
+        "pinned_tweet_id": "1827880642115416419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612980256293670912/TCRwiD6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 2071,
+          "like_count": 109713,
+          "listed_count": 24,
+          "tweet_count": 39022
+        },
+        "username": "ZhengWeiSSR",
+        "verified": false
+      }
+    ]
+  }
+}

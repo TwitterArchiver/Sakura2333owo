@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1823633856727277761",
+    "created_at": "2024-08-14T08:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T09:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1823633856727277761"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sakura2333owo/…",
+          "end": 139,
+          "expanded_url": "https://twitter.com/sakura2333owo/status/1818549422944665629",
+          "start": 116,
+          "url": "https://t.co/otp4GV7IZh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823633856727277761",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818549422944665629",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好紧张好焦虑好崩溃啊 我当线下嘉宾万一被人嘲笑超绝丑脸超烂身材这也能当嘉宾给投测了怎么办啊 我好焦虑啊啊啊  和别的嘉宾一对比发现我就是一个扭曲普女脸 集邮一看嘉宾比路人大叔还丑🙀🙀我嘞个爹啊我不活了我能不能整容啊我好焦虑啊啊啊啊 https://t.co/otp4GV7IZh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1823633856727277761",
+        "created_at": "2024-08-14T08:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T09:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823633856727277761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sakura2333owo/…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/sakura2333owo/status/1818549422944665629",
+              "start": 116,
+              "url": "https://t.co/otp4GV7IZh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823633856727277761",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818549422944665629",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好紧张好焦虑好崩溃啊 我当线下嘉宾万一被人嘲笑超绝丑脸超烂身材这也能当嘉宾给投测了怎么办啊 我好焦虑啊啊啊  和别的嘉宾一对比发现我就是一个扭曲普女脸 集邮一看嘉宾比路人大叔还丑🙀🙀我嘞个爹啊我不活了我能不能整容啊我好焦虑啊啊啊啊 https://t.co/otp4GV7IZh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1818549422944665629",
+        "created_at": "2024-07-31T07:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T08:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818549422944665629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1818549422944665629",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11073,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "十月份可能去当漫展嘉宾   于是现在开始纠结出什么角色……(='_'=)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18864,
+          "following_count": 249,
+          "like_count": 6179,
+          "listed_count": 35,
+          "tweet_count": 3430
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

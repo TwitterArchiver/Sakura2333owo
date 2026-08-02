@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1885910623151870010",
+    "created_at": "2025-02-02T14:24:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T15:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886058081416872129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1855957873538523136",
+          "start": 0,
+          "username": "serika1213_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886058081416872129",
+    "in_reply_to_user_id": "1855957873538523136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885910623151870010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@serika1213_ 穷不可怕  可怕的是俺们这种穷还想漂亮的妹子们  头发都是拼嘟嘟买的小染膏自己漂的💪美甲室友做的 衣服买的拼嘟嘟十几块钱外贸  库库兼职打工赚点钱先pdd0元下单一箱速食品确保死不了 剩钱买点小东西逗自己乐呵了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1885910623151870010",
+        "created_at": "2025-02-02T14:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T15:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886058081416872129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1855957873538523136",
+              "start": 0,
+              "username": "serika1213_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886058081416872129",
+        "in_reply_to_user_id": "1855957873538523136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885910623151870010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@serika1213_ 穷不可怕  可怕的是俺们这种穷还想漂亮的妹子们  头发都是拼嘟嘟买的小染膏自己漂的💪美甲室友做的 衣服买的拼嘟嘟十几块钱外贸  库库兼职打工赚点钱先pdd0元下单一箱速食品确保死不了 剩钱买点小东西逗自己乐呵了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855957873538523136",
+        "conversation_id": "1885910623151870010",
+        "created_at": "2025-02-02T04:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T05:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885910623151870010"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885910623151870010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4780,
+          "like_count": 133,
+          "quote_count": 6,
+          "reply_count": 9,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "推上的賣慘妹：\n要沒錢吃飯了😭（穿很貴的蕾服、染頭髮、做美甲、喝酒、抽菸、買其他喜歡的東西！）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25522,
+          "following_count": 274,
+          "like_count": 6764,
+          "listed_count": 41,
+          "media_count": 972,
+          "tweet_count": 4403
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-11T12:57:09.000Z",
+        "description": "+886 07低浮上 #shtwt 喜歡我的可以給我打賞\n接受私信但請註明來意₍՞ ̳ ̫ ̳ ՞₎不接線下",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 11,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1855957873538523136",
+        "location": "🚪300",
+        "name": "りあ三号机",
+        "pinned_tweet_id": "1881727831018975305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885711310480093184/CtMH6iUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 292,
+          "like_count": 4165,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 284
+        },
+        "username": "serika1213_",
+        "verified": false
+      }
+    ]
+  }
+}

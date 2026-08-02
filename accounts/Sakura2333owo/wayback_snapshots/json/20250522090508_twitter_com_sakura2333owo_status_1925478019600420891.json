@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1925477945365471234"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1925478019600420891",
+    "created_at": "2025-05-22T09:05:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T10:05:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925478019600420891"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0gLnaOOffh",
+          "end": 65,
+          "expanded_url": "https://x.com/sakura2333owo/status/1925478019600420891/video/1",
+          "media_key": "13_1925477945365471234",
+          "start": 42,
+          "url": "https://t.co/0gLnaOOffh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925478019600420891",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这几天眼睛受伤了ꉂ૮ o̴̶̷᷄ ·̫ᕳᕲა可以光明正大的中二戴眼罩了☆DAZE☆ https://t.co/0gLnaOOffh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9466,
+        "height": 1280,
+        "media_key": "13_1925477945365471234",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1925477945365471234/img/UlCPS4YPbbhmAi5Y.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1925477945365471234/vid/avc1/320x568/hxwORRBFhR7CmyRa.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1925477945365471234/vid/avc1/480x852/QYItWq5Wnnum_pdg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1925477945365471234/vid/avc1/720x1280/eRhTYB1LVDSweqRB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1925477945365471234/pl/4gpIKKomfSTHBwOt.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1925477945365471234"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1925478019600420891",
+        "created_at": "2025-05-22T09:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T10:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925478019600420891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0gLnaOOffh",
+              "end": 65,
+              "expanded_url": "https://x.com/sakura2333owo/status/1925478019600420891/video/1",
+              "media_key": "13_1925477945365471234",
+              "start": 42,
+              "url": "https://t.co/0gLnaOOffh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925478019600420891",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这几天眼睛受伤了ꉂ૮ o̴̶̷᷄ ·̫ᕳᕲა可以光明正大的中二戴眼罩了☆DAZE☆ https://t.co/0gLnaOOffh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆自撮り/雑垢/絵/東方project/les ★老鼠预警⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31900,
+          "following_count": 273,
+          "like_count": 7204,
+          "listed_count": 51,
+          "media_count": 1058,
+          "tweet_count": 4840
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

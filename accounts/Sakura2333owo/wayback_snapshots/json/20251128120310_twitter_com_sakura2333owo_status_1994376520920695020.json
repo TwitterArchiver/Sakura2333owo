@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1993528399869137014",
+    "created_at": "2025-11-28T12:03:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T13:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994376520920695020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994376520920695020",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993528399869137014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 宝宝白三本是谁家的 喜欢这种宽的襟线(৹ᵒ̴̶̷᷄ ᴗ ᵒ̴̶̷᷅৹)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1590,
+        "media_key": "3_1993528392029990912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6pvgqiacAAxzk_.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1993528399869137014",
+        "created_at": "2025-11-28T12:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T13:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994376520920695020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994376520920695020",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993528399869137014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 宝宝白三本是谁家的 喜欢这种宽的襟线(৹ᵒ̴̶̷᷄ ᴗ ᵒ̴̶̷᷅৹)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993528392029990912"
+          ]
+        },
+        "author_id": "1499709348616241155",
+        "conversation_id": "1993528399869137014",
+        "created_at": "2025-11-26T03:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T04:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993528399869137014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Aupj7LnRSd",
+              "end": 28,
+              "expanded_url": "https://x.com/caomeiweimaomao/status/1993528399869137014/photo/1",
+              "media_key": "3_1993528392029990912",
+              "start": 5,
+              "url": "https://t.co/Aupj7LnRSd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993528399869137014",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1555,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "今日穿搭 https://t.co/Aupj7LnRSd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36842,
+          "following_count": 283,
+          "like_count": 7434,
+          "listed_count": 74,
+          "media_count": 1148,
+          "tweet_count": 5209
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "🎀写故事的 丨🦜嘤鹉：@SENDOH214丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "SENDOH214"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "天国",
+        "name": "爱礼",
+        "pinned_tweet_id": "1929894091644645497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40111,
+          "following_count": 1072,
+          "like_count": 23952,
+          "listed_count": 48,
+          "media_count": 2899,
+          "tweet_count": 31850
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

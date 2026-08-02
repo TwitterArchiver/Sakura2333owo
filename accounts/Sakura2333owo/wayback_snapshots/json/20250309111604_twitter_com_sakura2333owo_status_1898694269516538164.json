@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1898694245961420800"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1898694269516538164",
+    "created_at": "2025-03-09T11:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T12:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898694269516538164"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/88KBLFsuKD",
+          "end": 72,
+          "expanded_url": "https://x.com/sakura2333owo/status/1898694269516538164/photo/1",
+          "media_key": "3_1898694245961420800",
+          "start": 49,
+          "url": "https://t.co/88KBLFsuKD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898694269516538164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "女朋友刚才买的…我第一次吃健达奇趣蛋……小时候经常在电视上看到(ˆ  ̳, ̫ , ̳ˆ)\"…… https://t.co/88KBLFsuKD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1898694245961420800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlmEW2Ob0AAecDG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898694245961420800"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1898694269516538164",
+        "created_at": "2025-03-09T11:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T12:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898694269516538164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/88KBLFsuKD",
+              "end": 72,
+              "expanded_url": "https://x.com/sakura2333owo/status/1898694269516538164/photo/1",
+              "media_key": "3_1898694245961420800",
+              "start": 49,
+              "url": "https://t.co/88KBLFsuKD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898694269516538164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女朋友刚才买的…我第一次吃健达奇趣蛋……小时候经常在电视上看到(ˆ  ̳, ̫ , ̳ˆ)\"…… https://t.co/88KBLFsuKD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31669,
+          "following_count": 267,
+          "like_count": 7080,
+          "listed_count": 54,
+          "media_count": 1009,
+          "tweet_count": 4620
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

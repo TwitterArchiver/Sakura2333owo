@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1821407559699628389",
+    "created_at": "2024-08-08T06:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-08T07:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821427635828015347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1780968002193903616",
+          "start": 0,
+          "username": "CHUSHANNNAFENG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821427635828015347",
+    "in_reply_to_user_id": "1780968002193903616",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821411030083543381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CHUSHANNNAFENG 老式理发店 还会找一些初中没毕业的做学徒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1821407559699628389",
+        "created_at": "2024-08-08T06:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T07:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821427635828015347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1780968002193903616",
+              "start": 0,
+              "username": "CHUSHANNNAFENG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821427635828015347",
+        "in_reply_to_user_id": "1780968002193903616",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821411030083543381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CHUSHANNNAFENG 老式理发店 还会找一些初中没毕业的做学徒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780968002193903616",
+        "conversation_id": "1821407559699628389",
+        "created_at": "2024-08-08T05:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T06:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821411030083543381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821411030083543381",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821407559699628389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 小妹发廊什么地方？我们这都没发廊了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18509,
+          "following_count": 249,
+          "like_count": 6128,
+          "listed_count": 35,
+          "tweet_count": 3371
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T14:34:09.000Z",
+        "description": "一个正在备考的山西大学生，无聊可以找我聊天",
+        "id": "1780968002193903616",
+        "location": "山西太原",
+        "name": "yu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818843742935433218/9yA-HjUL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 14,
+          "listed_count": 0,
+          "tweet_count": 54
+        },
+        "username": "CHUSHANNNAFENG",
+        "verified": false
+      }
+    ]
+  }
+}

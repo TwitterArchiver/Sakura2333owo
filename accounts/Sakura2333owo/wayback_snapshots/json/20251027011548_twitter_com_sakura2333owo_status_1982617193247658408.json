@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982617181528399872"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1982617193247658408",
+    "created_at": "2025-10-27T01:15:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T02:15:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982617193247658408"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8u9v5wnMQY",
+          "end": 44,
+          "expanded_url": "https://x.com/sakura2333owo/status/1982617193247658408/photo/1",
+          "media_key": "3_1982617181528399872",
+          "start": 21,
+          "url": "https://t.co/8u9v5wnMQY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982617193247658408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "(ᐡ-  ̫ - ꜀ ᐡ)自分の髪cos https://t.co/8u9v5wnMQY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1982617181528399872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Or0n6WIAA8-F6.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982617181528399872"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1982617193247658408",
+        "created_at": "2025-10-27T01:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T02:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982617193247658408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8u9v5wnMQY",
+              "end": 44,
+              "expanded_url": "https://x.com/sakura2333owo/status/1982617193247658408/photo/1",
+              "media_key": "3_1982617181528399872",
+              "start": 21,
+              "url": "https://t.co/8u9v5wnMQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982617193247658408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "(ᐡ-  ̫ - ꜀ ᐡ)自分の髪cos https://t.co/8u9v5wnMQY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉—貓貓國",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34654,
+          "following_count": 284,
+          "like_count": 7301,
+          "listed_count": 68,
+          "media_count": 1141,
+          "tweet_count": 5170
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1958144327022223511",
+    "created_at": "2025-08-21T04:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T05:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958385055082094913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1893321456458870784",
+          "start": 0,
+          "username": "c5ntol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958385055082094913",
+    "in_reply_to_user_id": "1893321456458870784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958144327022223511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c5ntol 漢字は確かに勉強が難しい！(৹ᵒ̴̶̷᷄ ᴗ ᵒ̴̶̷᷅৹)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1958144327022223511",
+        "created_at": "2025-08-21T04:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T05:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958385055082094913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1893321456458870784",
+              "start": 0,
+              "username": "c5ntol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958385055082094913",
+        "in_reply_to_user_id": "1893321456458870784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958144327022223511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c5ntol 漢字は確かに勉強が難しい！(৹ᵒ̴̶̷᷄ ᴗ ᵒ̴̶̷᷅৹)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893321456458870784",
+        "conversation_id": "1958144327022223511",
+        "created_at": "2025-08-20T12:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T13:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958144327022223511"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958144327022223511",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "漢字読めないの忘れてたごめん"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆自撮り/雑垢/絵/東方project/les ★鼠类预警⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34736,
+          "following_count": 278,
+          "like_count": 7287,
+          "listed_count": 62,
+          "media_count": 1107,
+          "tweet_count": 5002
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T15:26:34.000Z",
+        "description": "🗝@ynlc5q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 1,
+                "username": "ynlc5q"
+              }
+            ]
+          }
+        },
+        "id": "1893321456458870784",
+        "location": "アニメとヵ",
+        "name": "飢餓歴史絵巻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929856188881231872/britpPBM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 359,
+          "like_count": 9547,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 4163
+        },
+        "username": "c5ntol",
+        "verified": false
+      }
+    ]
+  }
+}

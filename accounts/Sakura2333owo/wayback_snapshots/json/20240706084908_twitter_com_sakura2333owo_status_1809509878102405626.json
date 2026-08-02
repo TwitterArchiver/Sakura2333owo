@@ -1,0 +1,104 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1809509831440818176"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1809509878102405626",
+    "created_at": "2024-07-06T08:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-06T09:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1809509878102405626"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/qgsuPEYqIK",
+          "end": 170,
+          "expanded_url": "https://twitter.com/sakura2333owo/status/1809509878102405626/photo/1",
+          "media_key": "3_1809509831440818176",
+          "start": 147,
+          "url": "https://t.co/qgsuPEYqIK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809509878102405626",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在车站不知道喝什么于是点了蜜雪的美式( ˘ω˘ )…其实我虽然超级爱喝雪王的果茶但是一直觉得蜜雪的咖啡可能会是那种超级甜不太好喝就没尝试过（？私密马赛\n不过喝起来居然意想不到的不错（可能是因为我很喜欢那股烟熏火燎的味道（？  感觉当咖啡喝有点怪但是当做咖啡味的饮料夏天喝非常不错！！！✌️😼🥤 https://t.co/qgsuPEYqIK"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1809509878102405626].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1809509878102405626",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1809509878102405626"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1809509831440818176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRyrmsCbYAA5Px5.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "刮风这天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796586719439155200/QWB8hbfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15777,
+          "following_count": 245,
+          "like_count": 5772,
+          "listed_count": 33,
+          "tweet_count": 3075
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

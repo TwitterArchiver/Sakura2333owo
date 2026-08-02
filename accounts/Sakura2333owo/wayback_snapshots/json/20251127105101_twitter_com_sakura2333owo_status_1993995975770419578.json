@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993995965406302208",
+        "3_1993995965406351360"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1993995975770419578",
+    "created_at": "2025-11-27T10:51:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T11:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993995975770419578"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VjIvbulcE8",
+          "end": 115,
+          "expanded_url": "https://x.com/sakura2333owo/status/1993995975770419578/photo/1",
+          "media_key": "3_1993995965406302208",
+          "start": 92,
+          "url": "https://t.co/VjIvbulcE8"
+        },
+        {
+          "display_url": "pic.x.com/VjIvbulcE8",
+          "end": 115,
+          "expanded_url": "https://x.com/sakura2333owo/status/1993995975770419578/photo/1",
+          "media_key": "3_1993995965406351360",
+          "start": 92,
+          "url": "https://t.co/VjIvbulcE8"
+        },
+        {
+          "display_url": "x.com/ixopodtan/stat…",
+          "end": 139,
+          "expanded_url": "https://twitter.com/ixopodtan/status/1993704210727395507",
+          "start": 116,
+          "url": "https://t.co/IMO3dhOPXN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993995975770419578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993704210727395507",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（我出这个终于等到这一天了( ⸝⸝⸝ʚ̴̶̷̆ωʚ̴̶̷̆⸝⸝)\n\nCosplay                   Vs.                       Daily https://t.co/VjIvbulcE8 https://t.co/IMO3dhOPXN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 432,
+        "media_key": "3_1993995965406302208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wYxBGa0AA2GuU.jpg",
+        "width": 680
+      },
+      {
+        "height": 768,
+        "media_key": "3_1993995965406351360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wYxBGbkAAaSLG.jpg",
+        "width": 1024
+      },
+      {
+        "height": 835,
+        "media_key": "3_1993704202598764545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6sPaL8aUAEyI2I.jpg",
+        "width": 1024
+      },
+      {
+        "height": 873,
+        "media_key": "3_1993704202569453568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6sPaL1bEAAjgIb.jpg",
+        "width": 821
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993995965406302208",
+            "3_1993995965406351360"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1993995975770419578",
+        "created_at": "2025-11-27T10:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T11:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993995975770419578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VjIvbulcE8",
+              "end": 115,
+              "expanded_url": "https://x.com/sakura2333owo/status/1993995975770419578/photo/1",
+              "media_key": "3_1993995965406302208",
+              "start": 92,
+              "url": "https://t.co/VjIvbulcE8"
+            },
+            {
+              "display_url": "pic.x.com/VjIvbulcE8",
+              "end": 115,
+              "expanded_url": "https://x.com/sakura2333owo/status/1993995975770419578/photo/1",
+              "media_key": "3_1993995965406351360",
+              "start": 92,
+              "url": "https://t.co/VjIvbulcE8"
+            },
+            {
+              "display_url": "x.com/ixopodtan/stat…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/ixopodtan/status/1993704210727395507",
+              "start": 116,
+              "url": "https://t.co/IMO3dhOPXN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993995975770419578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993704210727395507",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（我出这个终于等到这一天了( ⸝⸝⸝ʚ̴̶̷̆ωʚ̴̶̷̆⸝⸝)\n\nCosplay                   Vs.                       Daily https://t.co/VjIvbulcE8 https://t.co/IMO3dhOPXN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993704202598764545",
+            "3_1993704202569453568"
+          ]
+        },
+        "author_id": "1819469716806946817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1993704210727395507",
+        "created_at": "2025-11-26T15:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T16:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993704210727395507"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "Cosplay                   Vs                    Daily",
+              "probability": 0.8363,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rqfyUU2u0o",
+              "end": 77,
+              "expanded_url": "https://x.com/ixopodtan/status/1993704210727395507/photo/1",
+              "media_key": "3_1993704202598764545",
+              "start": 54,
+              "url": "https://t.co/rqfyUU2u0o"
+            },
+            {
+              "display_url": "pic.x.com/rqfyUU2u0o",
+              "end": 77,
+              "expanded_url": "https://x.com/ixopodtan/status/1993704210727395507/photo/1",
+              "media_key": "3_1993704202569453568",
+              "start": 54,
+              "url": "https://t.co/rqfyUU2u0o"
+            },
+            {
+              "display_url": "x.com/jamibbi/status…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/jamibbi/status/1993108486410899679",
+              "start": 78,
+              "url": "https://t.co/lkjXA7bAyd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993704210727395507",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 16873,
+          "like_count": 1462,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993108486410899679",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Cosplay                   Vs                    Daily https://t.co/rqfyUU2u0o https://t.co/lkjXA7bAyd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36384,
+          "following_count": 283,
+          "like_count": 7424,
+          "listed_count": 74,
+          "media_count": 1146,
+          "tweet_count": 5196
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-02T20:26:08.000Z",
+        "description": "online isopod girl || Main: @ixopod",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ixopod"
+              }
+            ]
+          }
+        },
+        "id": "1819469716806946817",
+        "location": "i:1lwaly h:kurohkujou",
+        "name": "ixo-tan 🔞",
+        "pinned_tweet_id": "1891181141589197147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878486159191617536/ibjk1omJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25416,
+          "following_count": 1,
+          "like_count": 3099,
+          "listed_count": 28,
+          "media_count": 165,
+          "tweet_count": 973
+        },
+        "username": "ixopodtan",
+        "verified": false
+      }
+    ]
+  }
+}

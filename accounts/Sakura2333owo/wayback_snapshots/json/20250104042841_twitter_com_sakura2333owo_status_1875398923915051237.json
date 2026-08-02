@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1875398923915051237",
+    "created_at": "2025-01-04T04:28:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T05:28:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1875398923915051237"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Exa-powered AI analyzes your Twitter profile and gives you your 2024 recap!",
+          "display_url": "twitterwrapped.exa.ai/sakura2333owo?…",
+          "end": 79,
+          "expanded_url": "https://twitterwrapped.exa.ai/sakura2333owo?share",
+          "images": [
+            {
+              "height": 1104,
+              "url": "https://pbs.twimg.com/news_img/1875398929199853572/IBruK1jl?format=jpg&name=orig",
+              "width": 2216
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1875398929199853572/IBruK1jl?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 56,
+          "status": 200,
+          "title": "Twitter Wrapped",
+          "unwound_url": "https://twitterwrapped.exa.ai/sakura2333owo?share",
+          "url": "https://t.co/mE0nYMa7QY"
+        },
+        {
+          "display_url": "x.com/ExaAILabs/stat…",
+          "end": 104,
+          "expanded_url": "https://x.com/ExaAILabs/status/1872380347574636777",
+          "start": 81,
+          "url": "https://t.co/UDN2fiav4U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875398923915051237",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872380347574636777",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊啊啊好好笑……(ˆ ̳.  ̫ . ̳ˆ)\nHere's my 2024 Twitter Wrapped!\n\nhttps://t.co/mE0nYMa7QY\n\nhttps://t.co/UDN2fiav4U"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1875398923915051237",
+        "created_at": "2025-01-04T04:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T05:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875398923915051237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Exa-powered AI analyzes your Twitter profile and gives you your 2024 recap!",
+              "display_url": "twitterwrapped.exa.ai/sakura2333owo?…",
+              "end": 79,
+              "expanded_url": "https://twitterwrapped.exa.ai/sakura2333owo?share",
+              "images": [
+                {
+                  "height": 1104,
+                  "url": "https://pbs.twimg.com/news_img/1875398929199853572/IBruK1jl?format=jpg&name=orig",
+                  "width": 2216
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1875398929199853572/IBruK1jl?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 56,
+              "status": 200,
+              "title": "Twitter Wrapped",
+              "unwound_url": "https://twitterwrapped.exa.ai/sakura2333owo?share",
+              "url": "https://t.co/mE0nYMa7QY"
+            },
+            {
+              "display_url": "x.com/ExaAILabs/stat…",
+              "end": 104,
+              "expanded_url": "https://x.com/ExaAILabs/status/1872380347574636777",
+              "start": 81,
+              "url": "https://t.co/UDN2fiav4U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875398923915051237",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872380347574636777",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊啊好好笑……(ˆ ̳.  ̫ . ̳ˆ)\nHere's my 2024 Twitter Wrapped!\n\nhttps://t.co/mE0nYMa7QY\n\nhttps://t.co/UDN2fiav4U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1872380136818892800"
+          ]
+        },
+        "author_id": "1423733191005724672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1872380347574636777",
+        "created_at": "2024-12-26T20:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T21:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872380347574636777"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Twitter",
+              "probability": 0.978,
+              "start": 14,
+              "type": "Other"
+            },
+            {
+              "end": 45,
+              "normalized_text": "AI",
+              "probability": 0.5956,
+              "start": 44,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Exa-powered AI analyzes your Twitter profile and gives you your 2024 recap!",
+              "display_url": "twitterwrapped.exa.ai",
+              "end": 172,
+              "expanded_url": "http://twitterwrapped.exa.ai",
+              "images": [
+                {
+                  "height": 1104,
+                  "url": "https://pbs.twimg.com/news_img/1874917401286057986/FNVjuOSm?format=jpg&name=orig",
+                  "width": 2216
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1874917401286057986/FNVjuOSm?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 149,
+              "status": 200,
+              "title": "Twitter Wrapped",
+              "unwound_url": "https://twitterwrapped.exa.ai/",
+              "url": "https://t.co/TXGaRcdTA8"
+            },
+            {
+              "display_url": "pic.x.com/ETNBt5U2iK",
+              "end": 196,
+              "expanded_url": "https://x.com/ExaAILabs/status/1872380347574636777/video/1",
+              "media_key": "7_1872380136818892800",
+              "start": 173,
+              "url": "https://t.co/ETNBt5U2iK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872380347574636777",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28747,
+          "impression_count": 15458333,
+          "like_count": 13897,
+          "quote_count": 59496,
+          "reply_count": 979,
+          "retweet_count": 3567
+        },
+        "reply_settings": "everyone",
+        "text": "See your 2024 Twitter Wrapped!\n\nExa-powered AI finds your favorite topics, top tweets, and even whether you’ve been naughty/nice 😈\n\nGet yours here - https://t.co/TXGaRcdTA8 https://t.co/ETNBt5U2iK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24544,
+          "following_count": 269,
+          "like_count": 6530,
+          "listed_count": 40,
+          "media_count": 915,
+          "tweet_count": 4160
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-06T19:51:07.000Z",
+        "description": "Organizing the world's data with embeddings search\n\nAPI → https://t.co/M5QuIA5D2A\nwebsets → https://t.co/uHn3Ra5yJ2\ndiscord → https://t.co/tzBhQZ1h4K",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "exa.ai",
+                "end": 81,
+                "expanded_url": "https://exa.ai",
+                "start": 58,
+                "url": "https://t.co/M5QuIA5D2A"
+              },
+              {
+                "display_url": "exa.ai/websets",
+                "end": 115,
+                "expanded_url": "https://exa.ai/websets",
+                "start": 92,
+                "url": "https://t.co/uHn3Ra5yJ2"
+              },
+              {
+                "display_url": "exa.ai/discord",
+                "end": 149,
+                "expanded_url": "https://exa.ai/discord",
+                "start": 126,
+                "url": "https://t.co/tzBhQZ1h4K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "exa.ai",
+                "end": 23,
+                "expanded_url": "https://exa.ai",
+                "start": 0,
+                "url": "https://t.co/M5QuIA5D2A"
+              }
+            ]
+          }
+        },
+        "id": "1423733191005724672",
+        "location": "SF",
+        "name": "Exa",
+        "pinned_tweet_id": "1864013080944062567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813012869296103428/CTCb6uHz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32587,
+          "following_count": 12,
+          "like_count": 712,
+          "listed_count": 290,
+          "media_count": 116,
+          "tweet_count": 339
+        },
+        "url": "https://t.co/M5QuIA5D2A",
+        "username": "ExaAILabs",
+        "verified": true
+      }
+    ]
+  }
+}

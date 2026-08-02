@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2005254814830374912"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "2001143566249472091",
+    "created_at": "2025-12-28T12:30:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T13:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005254992236851457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1963605793577865217",
+          "start": 0,
+          "username": "kami2234523"
+        },
+        {
+          "end": 26,
+          "id": "1052542133519826945",
+          "start": 13,
+          "username": "matsuri_kksk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TRohpKqLwX",
+          "end": 72,
+          "expanded_url": "https://x.com/sakura2333owo/status/2005254992236851457/video/1",
+          "media_key": "13_2005254814830374912",
+          "start": 49,
+          "url": "https://t.co/TRohpKqLwX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005254992236851457",
+    "in_reply_to_user_id": "1963605793577865217",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004963750521307157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kami2234523 @matsuri_kksk 我笑不行了 我之前摘假发套也有屁崩发型…… https://t.co/TRohpKqLwX"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2004963750521307157].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2004963750521307157",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2004963750521307157"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7666,
+        "height": 1280,
+        "media_key": "13_2005254814830374912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2005254814830374912/img/lKXA635D0QM8WZrK.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005254814830374912/vid/avc1/320x690/Xd9AY7qdRW_Z7ese.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005254814830374912/vid/avc1/480x1036/AfSvsVS4P80jfSmm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005254814830374912/vid/avc1/592x1280/uANFCOb9y0PHRMtQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2005254814830374912/pl/Kvx-040viqE9MtLY.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2005254814830374912"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "2001143566249472091",
+        "created_at": "2025-12-28T12:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T13:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005254992236851457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1963605793577865217",
+              "start": 0,
+              "username": "kami2234523"
+            },
+            {
+              "end": 26,
+              "id": "1052542133519826945",
+              "start": 13,
+              "username": "matsuri_kksk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TRohpKqLwX",
+              "end": 72,
+              "expanded_url": "https://x.com/sakura2333owo/status/2005254992236851457/video/1",
+              "media_key": "13_2005254814830374912",
+              "start": 49,
+              "url": "https://t.co/TRohpKqLwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005254992236851457",
+        "in_reply_to_user_id": "1963605793577865217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004963750521307157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami2234523 @matsuri_kksk 我笑不行了 我之前摘假发套也有屁崩发型…… https://t.co/TRohpKqLwX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36963,
+          "following_count": 287,
+          "like_count": 7631,
+          "listed_count": 78,
+          "media_count": 1170,
+          "tweet_count": 5326
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-04T14:11:25.000Z",
+        "description": "非人類\n大賬號@kami07322",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "kami07322"
+              }
+            ]
+          }
+        },
+        "id": "1963605793577865217",
+        "location": "虛幻裡世界",
+        "name": "不眠日",
+        "pinned_tweet_id": "1979569615044059382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996056918134263808/fSlcl4E3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 25,
+          "like_count": 1014,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 765
+        },
+        "username": "kami2234523",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-17T12:49:34.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Daniu",
+                "end": 23,
+                "expanded_url": "https://lit.link/Daniu",
+                "start": 0,
+                "url": "https://t.co/Av8dsYusws"
+              }
+            ]
+          }
+        },
+        "id": "1052542133519826945",
+        "name": "🏮夏色まつり ガチ恋勢🏮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002429612618571776/T5RT6SDv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1453,
+          "following_count": 920,
+          "like_count": 74897,
+          "listed_count": 7,
+          "media_count": 1702,
+          "tweet_count": 37351
+        },
+        "url": "https://t.co/Av8dsYusws",
+        "username": "matsuri_kksk",
+        "verified": false
+      }
+    ]
+  }
+}

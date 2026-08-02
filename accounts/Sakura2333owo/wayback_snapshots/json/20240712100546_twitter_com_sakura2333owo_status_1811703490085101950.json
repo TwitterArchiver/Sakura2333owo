@@ -1,0 +1,194 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1811689774023082341",
+    "created_at": "2024-07-12T10:05:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-12T11:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811703490085101950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1325090086656987140",
+          "start": 0,
+          "username": "0LeFgDfFc0RaMNO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811703490085101950",
+    "in_reply_to_user_id": "1325090086656987140",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811702640511979586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0LeFgDfFc0RaMNO 要不是手机需要太多钱 我也会自己打工攒攒的 😿😔 还有一年了撑够毕业工作吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1811689774023082341",
+        "created_at": "2024-07-12T10:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T11:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811703490085101950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1325090086656987140",
+              "start": 0,
+              "username": "0LeFgDfFc0RaMNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811703490085101950",
+        "in_reply_to_user_id": "1325090086656987140",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811702640511979586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0LeFgDfFc0RaMNO 要不是手机需要太多钱 我也会自己打工攒攒的 😿😔 还有一年了撑够毕业工作吧"
+      },
+      {
+        "attachments": {},
+        "author_id": "1325090086656987140",
+        "conversation_id": "1811689774023082341",
+        "created_at": "2024-07-12T10:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T11:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811702640511979586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811702640511979586",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811689774023082341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 夏夏都已经是在自己打工努力减少生活费负担的成年人了，在父母眼里却还是被当小孩哄，没有一点对成年人的尊重，，唉😞\n还得靠自己，上完大学有份正式工作就能自食其力了，頑張って!🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ  浑身都是病别管我了/自撮り/雑垢/絵/les /★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810898686534373380/-xKvFUbn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15697,
+          "following_count": 244,
+          "like_count": 5795,
+          "listed_count": 33,
+          "tweet_count": 3125
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-07T14:58:02.000Z",
+        "description": "MTX | INFP | 日本東京留学中 | 社恐 | 没钱 |想永远变美 | 会随便转载一些自己喜欢的乱七八糟的东西，还有时不时的碎碎念，生活推",
+        "id": "1325090086656987140",
+        "name": "Saya",
+        "pinned_tweet_id": "1754917402373193751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1400498814163701761/HDrdcJYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 3531,
+          "like_count": 41516,
+          "listed_count": 37,
+          "tweet_count": 4627
+        },
+        "username": "0LeFgDfFc0RaMNO",
+        "verified": false
+      }
+    ]
+  }
+}

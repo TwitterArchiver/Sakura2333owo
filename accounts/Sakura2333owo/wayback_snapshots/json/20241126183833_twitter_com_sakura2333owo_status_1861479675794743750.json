@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1861479675794743750",
+    "created_at": "2024-11-26T18:38:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T19:38:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1861479675794743750"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sakura2333owo/…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/sakura2333owo/status/1861476032169288098",
+          "start": 25,
+          "url": "https://t.co/nr40EXRmxn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861479675794743750",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861476032169288098",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我女朋友让我喝雪碧了 我们复婚了😻🥰🥰🥰💕💕💕💕 https://t.co/nr40EXRmxn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1861479675794743750",
+        "created_at": "2024-11-26T18:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T19:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861479675794743750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sakura2333owo/…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/sakura2333owo/status/1861476032169288098",
+              "start": 25,
+              "url": "https://t.co/nr40EXRmxn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861479675794743750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861476032169288098",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我女朋友让我喝雪碧了 我们复婚了😻🥰🥰🥰💕💕💕💕 https://t.co/nr40EXRmxn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1861476032169288098",
+        "created_at": "2024-11-26T18:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T19:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861476032169288098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1861476032169288098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我女朋友不给我买雪碧 👿👿👿👿👿👿👿👿👿👿👿👿👿👿👿👿分手 离婚 离婚 离婚🤮🤮🤮🤮🤮😣😣😣😣😣😣😔😔😩😩😩😩😩😩😩😩😩😩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23192,
+          "following_count": 268,
+          "like_count": 6285,
+          "listed_count": 38,
+          "tweet_count": 3852
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

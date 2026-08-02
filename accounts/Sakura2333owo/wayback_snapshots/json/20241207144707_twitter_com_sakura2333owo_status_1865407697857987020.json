@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1865394562228953559",
+    "created_at": "2024-12-07T14:47:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T15:47:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865407697857987020"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "溺れ愛",
+          "probability": 0.7032,
+          "start": 21,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1392452107450474499",
+          "start": 0,
+          "username": "_infinity_xxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865407697857987020",
+    "in_reply_to_user_id": "1392452107450474499",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865394562228953559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_infinity_xxx 私は本当に『溺れ愛 』を聴くのが好きです……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1865394562228953559",
+        "created_at": "2024-12-07T14:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T15:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865407697857987020"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "溺れ愛",
+              "probability": 0.7032,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1392452107450474499",
+              "start": 0,
+              "username": "_infinity_xxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865407697857987020",
+        "in_reply_to_user_id": "1392452107450474499",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865394562228953559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_infinity_xxx 私は本当に『溺れ愛 』を聴くのが好きです……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1865394497699610624"
+          ]
+        },
+        "author_id": "1392452107450474499",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "1865394562228953559",
+        "created_at": "2024-12-07T13:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T14:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865394562228953559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dueG4LfOqS",
+              "end": 58,
+              "expanded_url": "https://x.com/_infinity_xxx/status/1865394562228953559/video/1",
+              "media_key": "13_1865394497699610624",
+              "start": 35,
+              "url": "https://t.co/dueG4LfOqS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865394562228953559",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1152,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "パキってカラオケ行くとこうなる、ちゃんと最後メジコンウインクしてるの https://t.co/dueG4LfOqS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23624,
+          "following_count": 269,
+          "like_count": 6380,
+          "listed_count": 37,
+          "media_count": 846,
+          "tweet_count": 3958
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-12T12:10:45.000Z",
+        "description": "鍵垢@_Infinity_ooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "_Infinity_ooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aomaru319",
+                "end": 23,
+                "expanded_url": "https://lit.link/aomaru319",
+                "start": 0,
+                "url": "https://t.co/qKE42KNqt3"
+              }
+            ]
+          }
+        },
+        "id": "1392452107450474499",
+        "location": "💤💤💤",
+        "name": "あおまる",
+        "pinned_tweet_id": "1779810848036516333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848307505883148288/o5T7CD9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14159,
+          "following_count": 311,
+          "like_count": 2940,
+          "listed_count": 29,
+          "media_count": 5169,
+          "tweet_count": 22376
+        },
+        "url": "https://t.co/qKE42KNqt3",
+        "username": "_infinity_xxx",
+        "verified": true
+      }
+    ]
+  }
+}

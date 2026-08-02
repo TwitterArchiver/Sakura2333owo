@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1819551521216123145",
+    "created_at": "2024-08-03T01:51:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T02:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1819551521216123145"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dddontcareyou/…",
+          "end": 152,
+          "expanded_url": "https://twitter.com/dddontcareyou/status/1819482600794476550",
+          "start": 129,
+          "url": "https://t.co/6o2zfZ3RFu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819551521216123145",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819482600794476550",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "非常能共情到小底…我b站评论区也有这样怪人、、评论一句“你在推特不是这样的”还带个【滑稽】不是我在推特什么样子呢 你是在引导路人以为我是反差网黄吗😽还是显得你会翻墙好厉害好酷酷哦 可素我在推特就是碎碎念欸  难道是你对着我那些废话高潮了吗🐀 那你好可怜哦😔 https://t.co/6o2zfZ3RFu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1819551521216123145",
+        "created_at": "2024-08-03T01:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T02:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819551521216123145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dddontcareyou/…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/dddontcareyou/status/1819482600794476550",
+              "start": 129,
+              "url": "https://t.co/6o2zfZ3RFu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819551521216123145",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819482600794476550",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "非常能共情到小底…我b站评论区也有这样怪人、、评论一句“你在推特不是这样的”还带个【滑稽】不是我在推特什么样子呢 你是在引导路人以为我是反差网黄吗😽还是显得你会翻墙好厉害好酷酷哦 可素我在推特就是碎碎念欸  难道是你对着我那些废话高潮了吗🐀 那你好可怜哦😔 https://t.co/6o2zfZ3RFu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819482595048280065"
+          ]
+        },
+        "author_id": "943686773187604481",
+        "conversation_id": "1819482600794476550",
+        "created_at": "2024-08-02T21:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T22:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819482600794476550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/eNbbKLFKUA",
+              "end": 90,
+              "expanded_url": "https://twitter.com/dddontcareyou/status/1819482600794476550/photo/1",
+              "media_key": "3_1819482595048280065",
+              "start": 67,
+              "url": "https://t.co/eNbbKLFKUA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819482600794476550",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2477,
+          "like_count": 46,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "谁最爱的引如导🤞🏻想让路人觉得本女子非常反差有推特且干那种坏坏的事素吗、、可惜你什么也找不出来，本人只把这当单向草稿箱而已、、😌🤞🏻 https://t.co/eNbbKLFKUA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18445,
+          "following_count": 248,
+          "like_count": 6066,
+          "listed_count": 35,
+          "tweet_count": 3330
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-21T03:37:14.000Z",
+        "description": "",
+        "id": "943686773187604481",
+        "location": "地底",
+        "name": "狂雪",
+        "pinned_tweet_id": "1778146430605271065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768697390230351872/LZKOAT0c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44521,
+          "following_count": 32,
+          "like_count": 207,
+          "listed_count": 97,
+          "tweet_count": 1220
+        },
+        "username": "dddontcareyou",
+        "verified": false
+      }
+    ]
+  }
+}

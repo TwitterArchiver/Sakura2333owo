@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977404360830402560"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1977404371156832687",
+    "created_at": "2025-10-12T16:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T17:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977404371156832687"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8txTzQxyXd",
+          "end": 28,
+          "expanded_url": "https://x.com/sakura2333owo/status/1977404371156832687/photo/1",
+          "media_key": "3_1977404360830402560",
+          "start": 5,
+          "url": "https://t.co/8txTzQxyXd"
+        },
+        {
+          "display_url": "x.com/final_det/stat…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/final_det/status/1974774133251883332",
+          "start": 29,
+          "url": "https://t.co/tlhQ66GRdQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977404371156832687",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974774133251883332",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是这样的 https://t.co/8txTzQxyXd https://t.co/tlhQ66GRdQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977404360830402560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3EmyhiawAA0VgL.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977404360830402560"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1977404371156832687",
+        "created_at": "2025-10-12T16:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T17:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977404371156832687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8txTzQxyXd",
+              "end": 28,
+              "expanded_url": "https://x.com/sakura2333owo/status/1977404371156832687/photo/1",
+              "media_key": "3_1977404360830402560",
+              "start": 5,
+              "url": "https://t.co/8txTzQxyXd"
+            },
+            {
+              "display_url": "x.com/final_det/stat…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/final_det/status/1974774133251883332",
+              "start": 29,
+              "url": "https://t.co/tlhQ66GRdQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977404371156832687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974774133251883332",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是这样的 https://t.co/8txTzQxyXd https://t.co/tlhQ66GRdQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861734894151622656",
+        "conversation_id": "1974774133251883332",
+        "created_at": "2025-10-05T09:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T10:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974774133251883332"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974774133251883332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 162315,
+          "like_count": 943,
+          "quote_count": 8,
+          "reply_count": 40,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "总觉得那个性压抑测试其实测的是性保守程度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི雑垢/自撮り/絵/どうでもいい/𝒜𝓃𝒾𝓂ℯ𝒸ℴ𝓇ℯ𓊇ྀི",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉—貓貓國",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34507,
+          "following_count": 283,
+          "like_count": 7300,
+          "listed_count": 67,
+          "media_count": 1129,
+          "tweet_count": 5130
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-27T11:33:02.000Z",
+        "description": "THU/🌈/音游/furry/柴/粥铁双修\n希望能和大家做朋友\nLover: @minzhen2005",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "minzhen2005"
+              }
+            ]
+          }
+        },
+        "id": "1861734894151622656",
+        "name": "苍尘Azure",
+        "pinned_tweet_id": "1955222893606133798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947238621150674944/WL6Ahemb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 346,
+          "like_count": 1024,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 324
+        },
+        "username": "Final_det",
+        "verified": false
+      }
+    ]
+  }
+}

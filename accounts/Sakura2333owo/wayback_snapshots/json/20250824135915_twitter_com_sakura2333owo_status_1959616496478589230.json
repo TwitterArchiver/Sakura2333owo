@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1959616496478589230",
+    "created_at": "2025-08-24T13:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T14:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959616496478589230"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sakura2333owo/…",
+          "end": 135,
+          "expanded_url": "https://twitter.com/sakura2333owo/status/1959615110387048494",
+          "start": 112,
+          "url": "https://t.co/efTvFRiWOF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959616496478589230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959615110387048494",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最近学会涨价了 我都够便宜了还砍我价 还有听完报价就不回复的 气死我了  我要用阳寿发疯的拍视频 我现在赚钱只有一个目标:趁我本科刚毕业三年内免存款去日本狠狠玩一圈… 赚不够钱三年后给我卖了我都凑不够十万存款( ˘ㅅ˘ ) https://t.co/efTvFRiWOF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1959616496478589230",
+        "created_at": "2025-08-24T13:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T14:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959616496478589230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sakura2333owo/…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/sakura2333owo/status/1959615110387048494",
+              "start": 112,
+              "url": "https://t.co/efTvFRiWOF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959616496478589230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959615110387048494",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最近学会涨价了 我都够便宜了还砍我价 还有听完报价就不回复的 气死我了  我要用阳寿发疯的拍视频 我现在赚钱只有一个目标:趁我本科刚毕业三年内免存款去日本狠狠玩一圈… 赚不够钱三年后给我卖了我都凑不够十万存款( ˘ㅅ˘ ) https://t.co/efTvFRiWOF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1959615110387048494",
+        "created_at": "2025-08-24T13:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T14:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959615110387048494"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959615110387048494",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我最恨的就是什么账号垂直度  不垂直就报不上价 可是我真的不想发千篇一律复制粘贴一样的东西 我总是今天发一下手办明天发一下自拍后天发个老鼠 主页乱七八糟的 定位也没有 一问就说我没有垂直度 要是内容统一肯定报价高 再这样我要焦虑的创个小号发稀碎的东西了 ( ˘ω˘ )つ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆自撮り/雑垢/絵/東方project/les ★鼠类预警⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34706,
+          "following_count": 278,
+          "like_count": 7292,
+          "listed_count": 62,
+          "media_count": 1109,
+          "tweet_count": 5011
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

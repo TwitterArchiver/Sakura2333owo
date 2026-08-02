@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1911979328948298168",
+    "created_at": "2025-04-15T19:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T20:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912228276191543514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1447513784650633219",
+          "start": 0,
+          "username": "KFCQZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912228276191543514",
+    "in_reply_to_user_id": "1447513784650633219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911979328948298168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KFCQZ 虽然最后还是得需要人工撸建模走老流程才能更加严谨灵活   但是用于前期和客户商讨风格当场出意向图真是非常方便口牙——！ദ്ദിᐢ- ̫-ᐢ₎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1911973991813726208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoiyNynXwAAS_g-.jpg",
+        "width": 832
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1911976952270921728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Goi06HLXoAAxdVK.jpg",
+        "width": 1094
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1911979328948298168",
+        "created_at": "2025-04-15T19:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T20:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912228276191543514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1447513784650633219",
+              "start": 0,
+              "username": "KFCQZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912228276191543514",
+        "in_reply_to_user_id": "1447513784650633219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911979328948298168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KFCQZ 虽然最后还是得需要人工撸建模走老流程才能更加严谨灵活   但是用于前期和客户商讨风格当场出意向图真是非常方便口牙——！ദ്ദിᐢ- ̫-ᐢ₎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911973991813726208",
+            "3_1911976952270921728"
+          ]
+        },
+        "author_id": "1447513784650633219",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "1911979328948298168",
+        "created_at": "2025-04-15T03:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T04:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911979328948298168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GISfH8VPjS",
+              "end": 121,
+              "expanded_url": "https://x.com/KFCQZ/status/1911979328948298168/photo/1",
+              "media_key": "3_1911973991813726208",
+              "start": 98,
+              "url": "https://t.co/GISfH8VPjS"
+            },
+            {
+              "display_url": "pic.x.com/GISfH8VPjS",
+              "end": 121,
+              "expanded_url": "https://x.com/KFCQZ/status/1911979328948298168/photo/1",
+              "media_key": "3_1911976952270921728",
+              "start": 98,
+              "url": "https://t.co/GISfH8VPjS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911979328948298168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1077,
+          "impression_count": 528038,
+          "like_count": 1802,
+          "quote_count": 8,
+          "reply_count": 97,
+          "retweet_count": 223
+        },
+        "reply_settings": "everyone",
+        "text": "请教了装修的朋友，专业3Dmax渲染1张装修效果图，需2至6小时；设计师手绘图需1小时左右；Comfy UI工作流半小时。\n而现在，ChatGPT-4o只需5分钟，一台手机就能现场演示给业主看。 https://t.co/GISfH8VPjS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31770,
+          "following_count": 267,
+          "like_count": 7202,
+          "listed_count": 53,
+          "media_count": 1031,
+          "tweet_count": 4748
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-11T10:46:11.000Z",
+        "description": "Time will tell",
+        "id": "1447513784650633219",
+        "name": "K总",
+        "pinned_tweet_id": "1828407996734669055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820376767493783552/pnm0yKNL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13401,
+          "following_count": 758,
+          "like_count": 96547,
+          "listed_count": 102,
+          "media_count": 1159,
+          "tweet_count": 6177
+        },
+        "username": "KFCQZ",
+        "verified": false
+      }
+    ]
+  }
+}

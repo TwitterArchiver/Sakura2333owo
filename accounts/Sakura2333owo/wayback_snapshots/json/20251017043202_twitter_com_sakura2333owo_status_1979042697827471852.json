@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1979042299851005952",
+        "13_1979042299737780224",
+        "13_1979010262712655872"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1979042697827471852",
+    "created_at": "2025-10-17T04:32:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T05:32:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979042697827471852"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vDJqTyVaum",
+          "end": 49,
+          "expanded_url": "https://x.com/sakura2333owo/status/1979042697827471852/video/1",
+          "media_key": "13_1979042299851005952",
+          "start": 26,
+          "url": "https://t.co/vDJqTyVaum"
+        },
+        {
+          "display_url": "pic.x.com/vDJqTyVaum",
+          "end": 49,
+          "expanded_url": "https://x.com/sakura2333owo/status/1979042697827471852/video/1",
+          "media_key": "13_1979042299737780224",
+          "start": 26,
+          "url": "https://t.co/vDJqTyVaum"
+        },
+        {
+          "display_url": "pic.x.com/vDJqTyVaum",
+          "end": 49,
+          "expanded_url": "https://x.com/sakura2333owo/status/1979042697827471852/video/1",
+          "media_key": "13_1979010262712655872",
+          "start": 26,
+          "url": "https://t.co/vDJqTyVaum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979042697827471852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我脑子就是看这个看傻的 继郭子之后让我追直播第二人 https://t.co/vDJqTyVaum"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 86586,
+        "height": 1280,
+        "media_key": "13_1979042299851005952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1979042299851005952/img/E59W3ma4_Wu4eQA4.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979042299851005952/vid/avc1/320x694/rjHCB-Nckz6QyEXf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979042299851005952/vid/avc1/480x1040/fCMjel7YM9pbOYK3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979042299851005952/vid/avc1/590x1280/jA-8bWpYkJzQg5w_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1979042299851005952/pl/z6C4gpMKSPcK0ALd.m3u8"
+          }
+        ],
+        "width": 590
+      },
+      {
+        "duration_ms": 98121,
+        "height": 1280,
+        "media_key": "13_1979042299737780224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1979042299737780224/img/8rTlIQWvCQGYKD0E.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979042299737780224/vid/avc1/320x694/B8A2fgrTT5XYc8lm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979042299737780224/vid/avc1/480x1040/V--51QaDqwOqy6Bz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979042299737780224/vid/avc1/590x1280/MNxUA1koN0AQspL6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1979042299737780224/pl/Qr5Wra8MsaWYnHHK.m3u8"
+          }
+        ],
+        "width": 590
+      },
+      {
+        "duration_ms": 10996,
+        "height": 1280,
+        "media_key": "13_1979010262712655872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1979010262712655872/img/U8YyhRQlw6kfopLj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979010262712655872/vid/avc1/320x694/3fobW2Fa4WYlzXFx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979010262712655872/vid/avc1/480x1040/Aqi8VKzQX-SqGAFr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979010262712655872/vid/avc1/590x1280/k_eiu9XFM965z519.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1979010262712655872/pl/dgjBSy28aWulFP08.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1979042299851005952",
+            "13_1979042299737780224",
+            "13_1979010262712655872"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1979042697827471852",
+        "created_at": "2025-10-17T04:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T05:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979042697827471852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vDJqTyVaum",
+              "end": 49,
+              "expanded_url": "https://x.com/sakura2333owo/status/1979042697827471852/video/1",
+              "media_key": "13_1979042299851005952",
+              "start": 26,
+              "url": "https://t.co/vDJqTyVaum"
+            },
+            {
+              "display_url": "pic.x.com/vDJqTyVaum",
+              "end": 49,
+              "expanded_url": "https://x.com/sakura2333owo/status/1979042697827471852/video/1",
+              "media_key": "13_1979042299737780224",
+              "start": 26,
+              "url": "https://t.co/vDJqTyVaum"
+            },
+            {
+              "display_url": "pic.x.com/vDJqTyVaum",
+              "end": 49,
+              "expanded_url": "https://x.com/sakura2333owo/status/1979042697827471852/video/1",
+              "media_key": "13_1979010262712655872",
+              "start": 26,
+              "url": "https://t.co/vDJqTyVaum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979042697827471852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我脑子就是看这个看傻的 继郭子之后让我追直播第二人 https://t.co/vDJqTyVaum"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི雑垢/自撮り/絵/𝒜𝓃𝒾𝓂ℯ𝒸ℴ𝓇ℯ𓊇ྀི",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉—貓貓國",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34496,
+          "following_count": 282,
+          "like_count": 7308,
+          "listed_count": 67,
+          "media_count": 1132,
+          "tweet_count": 5143
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

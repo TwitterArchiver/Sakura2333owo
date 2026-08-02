@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1817122762663788754",
+    "created_at": "2024-07-27T09:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-27T10:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817124011484070078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "465247684",
+          "start": 0,
+          "username": "shiratamacaron"
+        },
+        {
+          "end": 50,
+          "id": "1811812787058016257",
+          "start": 35,
+          "username": "kanakosama0223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817124011484070078",
+    "in_reply_to_user_id": "465247684",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817122762663788754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiratamacaron (´o̴̶̷̤ㅂo̴̶̷̤`)萌萌啊…@kanakosama0223"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1817122762663788754",
+        "created_at": "2024-07-27T09:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T10:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817124011484070078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "465247684",
+              "start": 0,
+              "username": "shiratamacaron"
+            },
+            {
+              "end": 50,
+              "id": "1811812787058016257",
+              "start": 35,
+              "username": "kanakosama0223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817124011484070078",
+        "in_reply_to_user_id": "465247684",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817122762663788754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiratamacaron (´o̴̶̷̤ㅂo̴̶̷̤`)萌萌啊…@kanakosama0223"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1816495009983758336"
+          ]
+        },
+        "author_id": "465247684",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "1817122762663788754",
+        "created_at": "2024-07-27T09:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817122762663788754"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "チノちゃん",
+              "probability": 0.3354,
+              "start": 4,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/eWoTN9wTJN",
+              "end": 35,
+              "expanded_url": "https://twitter.com/shiratamacaron/status/1817122762663788754/photo/1",
+              "media_key": "3_1816495009983758336",
+              "start": 12,
+              "url": "https://t.co/eWoTN9wTJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817122762663788754",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 1663,
+          "like_count": 256,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "魔法少女チノちゃん🪄🤍 https://t.co/eWoTN9wTJN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les /★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812714143595569152/EWUbT6nt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16999,
+          "following_count": 244,
+          "like_count": 5965,
+          "listed_count": 34,
+          "tweet_count": 3242
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-16T04:14:07.000Z",
+        "description": "イラストレーター・ゲーム原画家です❄️🍡\nにじさんじ えま★おうがすと/双葉シャロ/恋花苺みるは/アズールレーン 文月・長月\n【お仕事】https://t.co/V3xF5lCw1p \n【FANBOX】https://t.co/Je7ULFhKkM \n【星空鉄道とシロの旅】https://t.co/SkFpwGFtQU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/lpmO7",
+                "end": 91,
+                "expanded_url": "http://x.gd/lpmO7",
+                "start": 68,
+                "url": "https://t.co/V3xF5lCw1p"
+              },
+              {
+                "display_url": "shiratamaco.fanbox.cc",
+                "end": 124,
+                "expanded_url": "http://shiratamaco.fanbox.cc",
+                "start": 101,
+                "url": "https://t.co/Je7ULFhKkM"
+              },
+              {
+                "display_url": "shiratamaco.com",
+                "end": 160,
+                "expanded_url": "http://shiratamaco.com",
+                "start": 137,
+                "url": "https://t.co/SkFpwGFtQU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCF3Y1…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCF3Y12X8s0nAJHb4eJfxfqw/featured",
+                "start": 0,
+                "url": "https://t.co/NTAeZYsRdg"
+              }
+            ]
+          }
+        },
+        "id": "465247684",
+        "location": "講談社ラノベ文庫『ちいさな君と、こえを遠くに』①②③発売中！",
+        "name": "しらたま❄️C104 2日目 東ス-45ab",
+        "pinned_tweet_id": "1811686947380953283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1440258619912585220/KiYN-52Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282246,
+          "following_count": 2030,
+          "like_count": 76036,
+          "listed_count": 3467,
+          "tweet_count": 35996
+        },
+        "url": "https://t.co/NTAeZYsRdg",
+        "username": "shiratamacaron",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T17:20:27.000Z",
+        "description": "07餐券女 kanako的六代目",
+        "id": "1811812787058016257",
+        "name": "草莓水烟枪🍓",
+        "pinned_tweet_id": "1816834137841631514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814990106912337920/qBISn7w6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 41,
+          "like_count": 561,
+          "listed_count": 0,
+          "tweet_count": 312
+        },
+        "username": "kanakosama0223",
+        "verified": false
+      }
+    ]
+  }
+}

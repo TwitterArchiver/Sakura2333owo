@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1923015476046618796",
+    "created_at": "2025-05-28T14:04:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T15:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927727690536087746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1265046543738028032",
+          "start": 0,
+          "username": "LukaLukaLeonkun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927727690536087746",
+    "in_reply_to_user_id": "1265046543738028032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927710096517210189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LukaLukaLeonkun 吃到嘴里欧依稀 味道真是五蚂蚁૮꒰ྀི &gt; . &lt; ꒱ྀིა"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1923015476046618796",
+        "created_at": "2025-05-28T14:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T15:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927727690536087746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1265046543738028032",
+              "start": 0,
+              "username": "LukaLukaLeonkun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927727690536087746",
+        "in_reply_to_user_id": "1265046543738028032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927710096517210189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LukaLukaLeonkun 吃到嘴里欧依稀 味道真是五蚂蚁૮꒰ྀི &gt; . &lt; ꒱ྀིა"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1265046543738028032",
+        "conversation_id": "1923015476046618796",
+        "created_at": "2025-05-28T12:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T13:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927710096517210189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927710096517210189",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923015476046618796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 鼠鼠卡哇伊\n摸在手机kimoji\n手感daisiki"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆自撮り/雑垢/絵/東方project/les ★老鼠预警⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31933,
+          "following_count": 274,
+          "like_count": 7199,
+          "listed_count": 51,
+          "media_count": 1059,
+          "tweet_count": 4841
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-25T22:26:22.000Z",
+        "description": "平平无奇一男的，爱好抽象，上推特就是为了阴暗的爬行",
+        "id": "1265046543738028032",
+        "name": "LukaLeon",
+        "pinned_tweet_id": "1715922360061010414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1432755561301516289/IMSHhIxS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 1054,
+          "like_count": 919,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1980
+        },
+        "username": "LukaLukaLeonkun",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "2010683659511071213",
+    "created_at": "2026-01-12T12:16:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T13:16:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010687328029708556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1788885900287741952",
+          "start": 0,
+          "username": "waiiii27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010687328029708556",
+    "in_reply_to_user_id": "1788885900287741952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010685793967231103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@waiiii27 ははは、全然OK！ ˰̮⛻̴⃠︣⸝⸝̼⸝֪⛻̴⃠︣𛰨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "2010683659511071213",
+        "created_at": "2026-01-12T12:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T13:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010687328029708556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1788885900287741952",
+              "start": 0,
+              "username": "waiiii27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010687328029708556",
+        "in_reply_to_user_id": "1788885900287741952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010685793967231103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@waiiii27 ははは、全然OK！ ˰̮⛻̴⃠︣⸝⸝̼⸝֪⛻̴⃠︣𛰨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788885900287741952",
+        "conversation_id": "2010683659511071213",
+        "created_at": "2026-01-12T12:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T13:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010685793967231103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010685793967231103",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010683659511071213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 我太羨慕你的房間了！我可以跟你換一下嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37756,
+          "following_count": 297,
+          "like_count": 7744,
+          "listed_count": 81,
+          "media_count": 1175,
+          "tweet_count": 5342
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-10T10:57:08.000Z",
+        "description": "あ",
+        "id": "1788885900287741952",
+        "name": "あ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003037298158694400/PLjmSya4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 13,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 36
+        },
+        "username": "waiiii27",
+        "verified": false
+      }
+    ]
+  }
+}

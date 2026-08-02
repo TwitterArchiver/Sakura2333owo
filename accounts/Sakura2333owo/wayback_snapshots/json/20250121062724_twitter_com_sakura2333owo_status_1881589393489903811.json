@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1881398168925143373",
+    "created_at": "2025-01-21T06:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T07:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881589393489903811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620792340897054720",
+          "start": 0,
+          "username": "Orange007Orange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881589393489903811",
+    "in_reply_to_user_id": "1620792340897054720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881472221727912146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Orange007Orange 超级乖……直接萌化了……՞ ̳o̴̶̷̤  ̫ o̴̶̷̤ ̳՞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1881398168925143373",
+        "created_at": "2025-01-21T06:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T07:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881589393489903811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620792340897054720",
+              "start": 0,
+              "username": "Orange007Orange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881589393489903811",
+        "in_reply_to_user_id": "1620792340897054720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881472221727912146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange007Orange 超级乖……直接萌化了……՞ ̳o̴̶̷̤  ̫ o̴̶̷̤ ̳՞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620792340897054720",
+        "conversation_id": "1881398168925143373",
+        "created_at": "2025-01-20T22:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T23:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881472221727912146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881472221727912146",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881398168925143373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 天呢天使宝宝这个睡相太可爱了啊啊啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25001,
+          "following_count": 273,
+          "like_count": 6635,
+          "listed_count": 41,
+          "media_count": 955,
+          "tweet_count": 4295
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T14:33:23.000Z",
+        "description": "请问你今天要来一个🍊吗｜日常均为家里两只小宝🍊只是饲养员w",
+        "id": "1620792340897054720",
+        "name": "melatonin🍊",
+        "pinned_tweet_id": "1878563337262317639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746475119562657793/xlrFRBsm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 318,
+          "like_count": 23105,
+          "listed_count": 2,
+          "media_count": 239,
+          "tweet_count": 6289
+        },
+        "username": "Orange007Orange",
+        "verified": false
+      }
+    ]
+  }
+}

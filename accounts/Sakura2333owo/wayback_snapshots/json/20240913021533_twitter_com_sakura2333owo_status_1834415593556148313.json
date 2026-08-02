@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1833963191648624819",
+    "created_at": "2024-09-13T02:15:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T03:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834415593556148313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "954180304343715840",
+          "start": 0,
+          "username": "llennchan2003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834415593556148313",
+    "in_reply_to_user_id": "954180304343715840",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833963191648624819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@llennchan2003 干嘛啊 几岁小孩问的低龄引战问题 像小区楼下小孩因为文理谁更厉害互掐🙀🙀不管是文科理科音乐美术还是肘击白袜沉淀顶峰相见体育生到现实中应用都是文理都是不分家啊🙀咋真有人因为这个吵起来辨别一个谁高谁低"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1833963191648624819",
+        "created_at": "2024-09-13T02:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T03:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834415593556148313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "954180304343715840",
+              "start": 0,
+              "username": "llennchan2003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834415593556148313",
+        "in_reply_to_user_id": "954180304343715840",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833963191648624819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@llennchan2003 干嘛啊 几岁小孩问的低龄引战问题 像小区楼下小孩因为文理谁更厉害互掐🙀🙀不管是文科理科音乐美术还是肘击白袜沉淀顶峰相见体育生到现实中应用都是文理都是不分家啊🙀咋真有人因为这个吵起来辨别一个谁高谁低"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "954180304343715840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1833963191648624819",
+        "created_at": "2024-09-11T20:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T21:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833963191648624819"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1833963191648624819",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 144538,
+          "like_count": 841,
+          "quote_count": 37,
+          "reply_count": 187,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "天天嘲讽文科生，没有文科生做的音乐，电影和动漫，理科中的败犬要怎么得到治愈呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21167,
+          "following_count": 253,
+          "like_count": 6270,
+          "listed_count": 38,
+          "tweet_count": 3586
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-19T02:34:47.000Z",
+        "description": "Backend/Infrastructure engineer.\n\nLet's make AI even cooler.",
+        "id": "954180304343715840",
+        "name": "奈奈 - e/acc",
+        "pinned_tweet_id": "1825720951780290815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1182317342887305216/BFVLlBvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9757,
+          "following_count": 1015,
+          "like_count": 381,
+          "listed_count": 52,
+          "tweet_count": 973
+        },
+        "username": "llennchan2003",
+        "verified": true
+      }
+    ]
+  }
+}

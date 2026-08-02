@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "2024139437618221339",
+    "created_at": "2026-02-19T01:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T02:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024293253122839022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1219517231765258240",
+          "start": 0,
+          "username": "EeasonX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024293253122839022",
+    "in_reply_to_user_id": "1219517231765258240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024173559535518053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EeasonX 我开过了  因为充后没啥好处就不续了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "2024139437618221339",
+        "created_at": "2026-02-19T01:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T02:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024293253122839022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1219517231765258240",
+              "start": 0,
+              "username": "EeasonX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024293253122839022",
+        "in_reply_to_user_id": "1219517231765258240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024173559535518053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EeasonX 我开过了  因为充后没啥好处就不续了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1219517231765258240",
+        "conversation_id": "2024139437618221339",
+        "created_at": "2026-02-18T17:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T18:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024173559535518053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "Sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024173559535518053",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 427,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024139437618221339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura2333owo 因为你没开蓝标（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི 🩵☁️💤All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38585,
+          "following_count": 301,
+          "like_count": 8047,
+          "listed_count": 82,
+          "media_count": 1188,
+          "tweet_count": 5436
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "Sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-21T07:09:11.000Z",
+        "description": "Not-so-weird ENTP｜科研狗｜簡繁中文、English🇬🇧、français🇫🇷｜自由之風永遠吹拂｜",
+        "id": "1219517231765258240",
+        "name": "Eason",
+        "pinned_tweet_id": "2024212136856342929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818341239747645440/PPIW_aYK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 602,
+          "like_count": 1212,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 207
+        },
+        "username": "EeasonX",
+        "verified": true
+      }
+    ]
+  }
+}

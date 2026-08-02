@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876508313170677760"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1876507746201469045",
+    "created_at": "2025-01-07T05:57:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T06:57:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876508327284506843"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fJXhenCNOu",
+          "end": 89,
+          "expanded_url": "https://x.com/sakura2333owo/status/1876508327284506843/photo/1",
+          "media_key": "3_1876508313170677760",
+          "start": 66,
+          "url": "https://t.co/fJXhenCNOu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876508327284506843",
+    "in_reply_to_user_id": "1508447794537070595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876507746201469045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我可怜的工资 不太好意思发出来 怕大家笑话 但是自证还是发一下 学校旁边的兼职都嫌弃我们一天有课一天没课的 所以小时工压的钱特别少 https://t.co/fJXhenCNOu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1876508313170677760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgqyXmCbEAAsOgK.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876508313170677760"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1876507746201469045",
+        "created_at": "2025-01-07T05:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T06:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876508327284506843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fJXhenCNOu",
+              "end": 89,
+              "expanded_url": "https://x.com/sakura2333owo/status/1876508327284506843/photo/1",
+              "media_key": "3_1876508313170677760",
+              "start": 66,
+              "url": "https://t.co/fJXhenCNOu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876508327284506843",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876507746201469045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我可怜的工资 不太好意思发出来 怕大家笑话 但是自证还是发一下 学校旁边的兼职都嫌弃我们一天有课一天没课的 所以小时工压的钱特别少 https://t.co/fJXhenCNOu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876507685560172545",
+            "3_1876507685560205312",
+            "3_1876507685564350464",
+            "3_1876507685581123584"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1876507746201469045",
+        "created_at": "2025-01-07T05:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T06:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876507746201469045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fiTMdNVO3A",
+              "end": 171,
+              "expanded_url": "https://x.com/sakura2333owo/status/1876507746201469045/photo/1",
+              "media_key": "3_1876507685560172545",
+              "start": 148,
+              "url": "https://t.co/fiTMdNVO3A"
+            },
+            {
+              "display_url": "pic.x.com/fiTMdNVO3A",
+              "end": 171,
+              "expanded_url": "https://x.com/sakura2333owo/status/1876507746201469045/photo/1",
+              "media_key": "3_1876507685560205312",
+              "start": 148,
+              "url": "https://t.co/fiTMdNVO3A"
+            },
+            {
+              "display_url": "pic.x.com/fiTMdNVO3A",
+              "end": 171,
+              "expanded_url": "https://x.com/sakura2333owo/status/1876507746201469045/photo/1",
+              "media_key": "3_1876507685564350464",
+              "start": 148,
+              "url": "https://t.co/fiTMdNVO3A"
+            },
+            {
+              "display_url": "pic.x.com/fiTMdNVO3A",
+              "end": 171,
+              "expanded_url": "https://x.com/sakura2333owo/status/1876507746201469045/photo/1",
+              "media_key": "3_1876507685581123584",
+              "start": 148,
+              "url": "https://t.co/fiTMdNVO3A"
+            },
+            {
+              "display_url": "x.com/di44438767/sta…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/di44438767/status/1876501137580535820",
+              "start": 172,
+              "url": "https://t.co/lGkfJjuE3j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876507746201469045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876501137580535820",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我当时签约公司拖欠三个月的工资不结  最后竟私下偷偷和我解约 至今未结款 由于没钱就居家办公给设计公司做设计 老板白嫖了设计图后不结款 后来去了医院看胃病和精神病 兜里钱直接清空了  就去学校旁边的花店打工赚钱 时薪八块钱 \n我一路经历都发过推特 大家都有目共睹 我从来都能自己解决的就自己干。 https://t.co/fiTMdNVO3A https://t.co/lGkfJjuE3j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24589,
+          "following_count": 270,
+          "like_count": 6543,
+          "listed_count": 40,
+          "media_count": 920,
+          "tweet_count": 4176
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

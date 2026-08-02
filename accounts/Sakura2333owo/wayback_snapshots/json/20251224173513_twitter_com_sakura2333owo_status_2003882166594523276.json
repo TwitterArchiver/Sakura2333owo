@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "2003747250548441477",
+    "created_at": "2025-12-24T17:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T18:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003882166594523276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1738929208825704448",
+          "start": 0,
+          "username": "F0getdubidudubi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003882166594523276",
+    "in_reply_to_user_id": "1738929208825704448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003781808228626462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@F0getdubidudubi 感谢安利！我也要试试这个！！˰̮⛻̴⃠︣⸝⸝̼⸝֪⛻̴⃠︣𛰨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "2003747250548441477",
+        "created_at": "2025-12-24T17:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T18:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003882166594523276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738929208825704448",
+              "start": 0,
+              "username": "F0getdubidudubi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003882166594523276",
+        "in_reply_to_user_id": "1738929208825704448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003781808228626462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@F0getdubidudubi 感谢安利！我也要试试这个！！˰̮⛻̴⃠︣⸝⸝̼⸝֪⛻̴⃠︣𛰨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738929208825704448",
+        "conversation_id": "2003747250548441477",
+        "created_at": "2025-12-24T10:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T11:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003781808228626462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003781808228626462",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003747250548441477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 谢谢分享  我也推荐一个薯片 云南的当地品牌“子弟”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37027,
+          "following_count": 285,
+          "like_count": 7582,
+          "listed_count": 77,
+          "media_count": 1172,
+          "tweet_count": 5324
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-24T14:27:04.000Z",
+        "description": "游手好闲",
+        "id": "1738929208825704448",
+        "name": "张三的玻璃珠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815304454603964416/eln-LRbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 597,
+          "like_count": 12173,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 488
+        },
+        "username": "F0getdubidudubi",
+        "verified": false
+      }
+    ]
+  }
+}

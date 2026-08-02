@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1835166655493681494",
+    "created_at": "2024-09-15T15:29:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T16:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835340293538771403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1243945571796295681",
+          "start": 0,
+          "username": "yqua_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835340293538771403",
+    "in_reply_to_user_id": "1243945571796295681",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835166655493681494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yqua_ 标注一下人家原画师谢谢哈(='_'=)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1835166655493681494",
+        "created_at": "2024-09-15T15:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T16:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835340293538771403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1243945571796295681",
+              "start": 0,
+              "username": "yqua_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835340293538771403",
+        "in_reply_to_user_id": "1243945571796295681",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835166655493681494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yqua_ 标注一下人家原画师谢谢哈(='_'=)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835095053922189316"
+          ]
+        },
+        "author_id": "1243945571796295681",
+        "conversation_id": "1835166655493681494",
+        "created_at": "2024-09-15T04:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T05:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835166655493681494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ygoslftw2",
+              "end": 31,
+              "expanded_url": "https://twitter.com/yqua_/status/1835166655493681494/photo/1",
+              "media_key": "3_1835095053922189316",
+              "start": 8,
+              "url": "https://t.co/3YGoSLFTW2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835166655493681494",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 140359,
+          "like_count": 3839,
+          "quote_count": 19,
+          "reply_count": 44,
+          "retweet_count": 309
+        },
+        "reply_settings": "everyone",
+        "text": "我去 初音史前 https://t.co/3YGoSLFTW2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21421,
+          "following_count": 253,
+          "like_count": 6271,
+          "listed_count": 39,
+          "tweet_count": 3598
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "铨｜我家大人❤️@520Uki｜天残党MtX🏳️‍⚧️｜日常：@RU9SH|互fo请DM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 8,
+                "username": "520Uki"
+              },
+              {
+                "end": 37,
+                "start": 31,
+                "username": "RU9SH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/6W3mmCUM0f"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "陈塘庄",
+        "name": "𝓠𝓾𝓪𝓷. ᡣ𐭩",
+        "pinned_tweet_id": "1765934211918397447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10721,
+          "following_count": 3899,
+          "like_count": 152368,
+          "listed_count": 47,
+          "tweet_count": 16797
+        },
+        "url": "https://t.co/6W3mmCUM0f",
+        "username": "yqua_",
+        "verified": true
+      }
+    ]
+  }
+}

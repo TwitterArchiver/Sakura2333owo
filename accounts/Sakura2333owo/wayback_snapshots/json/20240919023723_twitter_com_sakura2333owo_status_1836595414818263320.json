@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Behavior around Fashion",
+          "id": "1006277139233103872",
+          "name": "Behavior around fashion"
+        }
+      }
+    ],
+    "conversation_id": "1836022381548368033",
+    "created_at": "2024-09-19T02:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T03:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836595414818263320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1580833687360397312",
+          "start": 0,
+          "username": "FuckedSin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "clothes.My",
+          "end": 128,
+          "expanded_url": "http://clothes.My",
+          "start": 105,
+          "unwound_url": "http://clothes.My",
+          "url": "https://t.co/u5ENF8YiHX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836595414818263320",
+    "in_reply_to_user_id": "1580833687360397312",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836388758121300017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FuckedSin I like to wear cute clothes, and I'm a model for a clothing store.I usually wear this kind of https://t.co/u5ENF8YiHX height is only 153, I can't be as mature as a mature woman🙀It's not for me.There are a lot of people wearing this here, so don't make a fuss."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Behavior around Fashion",
+              "id": "1006277139233103872",
+              "name": "Behavior around fashion"
+            }
+          }
+        ],
+        "conversation_id": "1836022381548368033",
+        "created_at": "2024-09-19T02:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T03:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836595414818263320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1580833687360397312",
+              "start": 0,
+              "username": "FuckedSin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "clothes.My",
+              "end": 128,
+              "expanded_url": "http://clothes.My",
+              "start": 105,
+              "unwound_url": "http://clothes.My",
+              "url": "https://t.co/u5ENF8YiHX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836595414818263320",
+        "in_reply_to_user_id": "1580833687360397312",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836388758121300017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FuckedSin I like to wear cute clothes, and I'm a model for a clothing store.I usually wear this kind of https://t.co/u5ENF8YiHX height is only 153, I can't be as mature as a mature woman🙀It's not for me.There are a lot of people wearing this here, so don't make a fuss."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580833687360397312",
+        "conversation_id": "1836022381548368033",
+        "created_at": "2024-09-18T12:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T13:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836388758121300017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836388758121300017",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836022381548368033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo Dressing or acting like a child should be a form of pedophilia you’re a fucking grown woman"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22344,
+          "following_count": 253,
+          "like_count": 6293,
+          "listed_count": 39,
+          "tweet_count": 3609
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T08:11:57.000Z",
+        "description": "I’m mentally handicapped",
+        "id": "1580833687360397312",
+        "name": "Fuckedsin",
+        "pinned_tweet_id": "1643532634578997249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836484331734192129/JkD7xP8N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 7,
+          "like_count": 148,
+          "listed_count": 0,
+          "tweet_count": 123
+        },
+        "username": "FuckedSin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1875543256781726181",
+    "created_at": "2025-01-04T14:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T15:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875547998161400320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1711396168658497536",
+          "start": 0,
+          "username": "Panda13138"
+        },
+        {
+          "end": 23,
+          "id": "1817573438334341120",
+          "start": 12,
+          "username": "teachaerli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875547998161400320",
+    "in_reply_to_user_id": "1711396168658497536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875545680460312871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Panda13138 @teachaerli 没有冥婚不是很认可⏑ ㅅ ⏑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1875543256781726181",
+        "created_at": "2025-01-04T14:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T15:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875547998161400320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1711396168658497536",
+              "start": 0,
+              "username": "Panda13138"
+            },
+            {
+              "end": 23,
+              "id": "1817573438334341120",
+              "start": 12,
+              "username": "teachaerli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875547998161400320",
+        "in_reply_to_user_id": "1711396168658497536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875545680460312871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Panda13138 @teachaerli 没有冥婚不是很认可⏑ ㅅ ⏑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711396168658497536",
+        "conversation_id": "1875543256781726181",
+        "created_at": "2025-01-04T14:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T15:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875545680460312871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817573438334341120",
+              "start": 0,
+              "username": "teachaerli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875545680460312871",
+        "in_reply_to_user_id": "1817573438334341120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875543256781726181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teachaerli 几千W+掏空内脏风光大葬的好兄弟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24536,
+          "following_count": 269,
+          "like_count": 6536,
+          "listed_count": 40,
+          "media_count": 915,
+          "tweet_count": 4162
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T15:00:31.000Z",
+        "description": "爱聊天的话唠 除了聊天啥也不会",
+        "id": "1711396168658497536",
+        "location": "普陀山",
+        "name": "熊貓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858130513682464768/bmMBjhtm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 87,
+          "like_count": 4506,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 2933
+        },
+        "username": "Panda13138",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T14:51:15.000Z",
+        "description": "墙外天才鉴定师，没病走两步！",
+        "id": "1817573438334341120",
+        "name": "我是你的李院长",
+        "pinned_tweet_id": "1856962667845751296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817578026479370240/ENddSCbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2448,
+          "following_count": 95,
+          "like_count": 29,
+          "listed_count": 7,
+          "media_count": 195,
+          "tweet_count": 212
+        },
+        "username": "teachaerli",
+        "verified": true
+      }
+    ]
+  }
+}

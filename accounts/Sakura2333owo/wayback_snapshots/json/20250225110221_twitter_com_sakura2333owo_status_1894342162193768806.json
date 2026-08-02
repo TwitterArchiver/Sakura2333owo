@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1894328396941058484",
+    "created_at": "2025-02-25T11:02:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T12:02:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894342162193768806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1426441673454850051",
+          "start": 0,
+          "username": "SUI20BIUBIU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894342162193768806",
+    "in_reply_to_user_id": "1426441673454850051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894340990603071513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SUI20BIUBIU 我保存了几年的的各种拍照姿势……结果止于尴尬和没有拍照搭子  最后只能乖乖在房间里拍照(='_'=)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1894328396941058484",
+        "created_at": "2025-02-25T11:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T12:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894342162193768806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1426441673454850051",
+              "start": 0,
+              "username": "SUI20BIUBIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894342162193768806",
+        "in_reply_to_user_id": "1426441673454850051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894340990603071513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SUI20BIUBIU 我保存了几年的的各种拍照姿势……结果止于尴尬和没有拍照搭子  最后只能乖乖在房间里拍照(='_'=)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426441673454850051",
+        "conversation_id": "1894328396941058484",
+        "created_at": "2025-02-25T10:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T11:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894340990603071513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894340990603071513",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894328396941058484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 同问，在别人店拍照真的感到很尴尬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31632,
+          "following_count": 263,
+          "like_count": 7069,
+          "listed_count": 54,
+          "media_count": 1003,
+          "tweet_count": 4594
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-14T07:13:05.000Z",
+        "description": "这里sui 堆废话号 不定时掉落照片和摸鱼(淡推中...放一个匿名提问https://t.co/4RgmAsu8ut 问坐标10r 聊天先过🚪",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sui20biubiu",
+                "end": 58,
+                "expanded_url": "https://ngl.link/sui20biubiu",
+                "start": 35,
+                "url": "https://t.co/4RgmAsu8ut"
+              }
+            ]
+          }
+        },
+        "id": "1426441673454850051",
+        "name": "不敢换昵称了",
+        "pinned_tweet_id": "1767183359925776472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782714880266731522/OsyYGqWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3736,
+          "following_count": 583,
+          "like_count": 20634,
+          "listed_count": 9,
+          "media_count": 228,
+          "tweet_count": 3467
+        },
+        "username": "SUI20BIUBIU",
+        "verified": false
+      }
+    ]
+  }
+}

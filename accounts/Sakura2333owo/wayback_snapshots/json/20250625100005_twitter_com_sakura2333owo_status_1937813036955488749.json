@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937813018244763649"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1937813036955488749",
+    "created_at": "2025-06-25T10:00:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T11:00:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937813036955488749"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xKJNzdK4FZ",
+          "end": 52,
+          "expanded_url": "https://x.com/sakura2333owo/status/1937813036955488749/photo/1",
+          "media_key": "3_1937813018244763649",
+          "start": 29,
+          "url": "https://t.co/xKJNzdK4FZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937813036955488749",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "次菌子去惹 希望不会看到小人(´&gt;∀&lt;｀)ゝ https://t.co/xKJNzdK4FZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1937813018244763649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuR-rFGbUAEUaAk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937813018244763649"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1937813036955488749",
+        "created_at": "2025-06-25T10:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T11:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937813036955488749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xKJNzdK4FZ",
+              "end": 52,
+              "expanded_url": "https://x.com/sakura2333owo/status/1937813036955488749/photo/1",
+              "media_key": "3_1937813018244763649",
+              "start": 29,
+              "url": "https://t.co/xKJNzdK4FZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937813036955488749",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "次菌子去惹 希望不会看到小人(´&gt;∀&lt;｀)ゝ https://t.co/xKJNzdK4FZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆自撮り/雑垢/絵/東方project/les ★老鼠预警⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32309,
+          "following_count": 274,
+          "like_count": 7175,
+          "listed_count": 50,
+          "media_count": 1073,
+          "tweet_count": 4867
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

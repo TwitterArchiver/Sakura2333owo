@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1879784911357554689"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1879784919972634895",
+    "created_at": "2025-01-16T06:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T07:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1879784919972634895"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KAzZmZpxHv",
+          "end": 23,
+          "expanded_url": "https://x.com/sakura2333owo/status/1879784919972634895/photo/1",
+          "media_key": "3_1879784911357554689",
+          "start": 0,
+          "url": "https://t.co/KAzZmZpxHv"
+        },
+        {
+          "display_url": "x.com/kawaisoumenher…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/kawaisoumenhera/status/1879780776444846361",
+          "start": 24,
+          "url": "https://t.co/05hPjXi1Ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879784919972634895",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879780776444846361",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/KAzZmZpxHv https://t.co/05hPjXi1Ai"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 884,
+        "media_key": "3_1879784911357554689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhZWatebMAEHYoP.jpg",
+        "width": 1040
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879784911357554689"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1879784919972634895",
+        "created_at": "2025-01-16T06:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T07:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879784919972634895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KAzZmZpxHv",
+              "end": 23,
+              "expanded_url": "https://x.com/sakura2333owo/status/1879784919972634895/photo/1",
+              "media_key": "3_1879784911357554689",
+              "start": 0,
+              "url": "https://t.co/KAzZmZpxHv"
+            },
+            {
+              "display_url": "x.com/kawaisoumenher…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/kawaisoumenhera/status/1879780776444846361",
+              "start": 24,
+              "url": "https://t.co/05hPjXi1Ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879784919972634895",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879780776444846361",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/KAzZmZpxHv https://t.co/05hPjXi1Ai"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879780767863320576",
+            "3_1879780767854977024"
+          ]
+        },
+        "author_id": "1879448573999452160",
+        "conversation_id": "1879780776444846361",
+        "created_at": "2025-01-16T06:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T07:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879780776444846361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eSlc2tZpcr",
+              "end": 41,
+              "expanded_url": "https://x.com/KawaisouMenhera/status/1879780776444846361/photo/1",
+              "media_key": "3_1879780767863320576",
+              "start": 18,
+              "url": "https://t.co/eSlc2tZpcr"
+            },
+            {
+              "display_url": "pic.x.com/eSlc2tZpcr",
+              "end": 41,
+              "expanded_url": "https://x.com/KawaisouMenhera/status/1879780776444846361/photo/1",
+              "media_key": "3_1879780767854977024",
+              "start": 18,
+              "url": "https://t.co/eSlc2tZpcr"
+            },
+            {
+              "display_url": "x.com/sakura2333owo/…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/sakura2333owo/status/1879772704997601419",
+              "start": 42,
+              "url": "https://t.co/kndPwzivy7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879780776444846361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879772704997601419",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小星星你說得對因為你根本賺不到錢🤣 https://t.co/eSlc2tZpcr https://t.co/kndPwzivy7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24900,
+          "following_count": 270,
+          "like_count": 6584,
+          "listed_count": 41,
+          "media_count": 939,
+          "tweet_count": 4240
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T08:40:42.000Z",
+        "description": "",
+        "id": "1879448573999452160",
+        "name": "重生之我用朋友的賣身錢出去玩",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 8
+        },
+        "username": "KawaisouMenhera",
+        "verified": false
+      }
+    ]
+  }
+}

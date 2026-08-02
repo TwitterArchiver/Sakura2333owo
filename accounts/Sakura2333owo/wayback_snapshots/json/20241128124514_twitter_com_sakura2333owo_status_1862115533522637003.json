@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1862115496117645312"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1862115533522637003",
+    "created_at": "2024-11-28T12:45:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T13:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1862115533522637003"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 27,
+          "tag": "東方project"
+        },
+        {
+          "end": 50,
+          "start": 38,
+          "tag": "レミリア・スカーレット"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e3A7Mf4ySE",
+          "end": 74,
+          "expanded_url": "https://x.com/sakura2333owo/status/1862115533522637003/video/1",
+          "media_key": "7_1862115496117645312",
+          "start": 51,
+          "url": "https://t.co/e3A7Mf4ySE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862115533522637003",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "初雪    ❄️𝕽𝖊𝖒𝖎𝖑𝖎𝖆 𝕾𝖈𝖆𝖗𝖑𝖊𝖙.🦇\n\n#東方project\n#レミリア・スカーレット https://t.co/e3A7Mf4ySE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23918,
+        "height": 1280,
+        "media_key": "7_1862115496117645312",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1862115496117645312/pu/img/6XrjRXl_us70e19P.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1862115496117645312/pu/vid/avc1/320x568/Wkj9Jtdx43VwuiOX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1862115496117645312/pu/vid/avc1/480x852/RHgKCY0gyw0CKnO0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1862115496117645312/pu/vid/avc1/720x1280/oKHHCPalMMJT0dVi.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1862115496117645312/pu/pl/zY1WypUhdb26QCV5.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1862115496117645312"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1862115533522637003",
+        "created_at": "2024-11-28T12:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T13:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862115533522637003"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 27,
+              "tag": "東方project"
+            },
+            {
+              "end": 50,
+              "start": 38,
+              "tag": "レミリア・スカーレット"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e3A7Mf4ySE",
+              "end": 74,
+              "expanded_url": "https://x.com/sakura2333owo/status/1862115533522637003/video/1",
+              "media_key": "7_1862115496117645312",
+              "start": 51,
+              "url": "https://t.co/e3A7Mf4ySE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862115533522637003",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "初雪    ❄️𝕽𝖊𝖒𝖎𝖑𝖎𝖆 𝕾𝖈𝖆𝖗𝖑𝖊𝖙.🦇\n\n#東方project\n#レミリア・スカーレット https://t.co/e3A7Mf4ySE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23255,
+          "following_count": 268,
+          "like_count": 6298,
+          "listed_count": 38,
+          "media_count": 826,
+          "tweet_count": 3865
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

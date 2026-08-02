@@ -1,0 +1,140 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1795407487522557952"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1795407496460595398",
+    "created_at": "2024-05-28T10:51:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-28T11:51:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1795407496460595398"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/bGfopfTboq",
+          "end": 41,
+          "expanded_url": "https://twitter.com/sakura2333owo/status/1795407496460595398/photo/1",
+          "media_key": "3_1795407487522557952",
+          "start": 18,
+          "url": "https://t.co/bGfopfTboq"
+        },
+        {
+          "display_url": "x.com/sakura2333owo/…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/sakura2333owo/status/1794755520597033360",
+          "start": 42,
+          "url": "https://t.co/5LFG2FpNa8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795407496460595398",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794755520597033360",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第五只白猫诞生！&gt;ㅁ&lt; https://t.co/bGfopfTboq https://t.co/5LFG2FpNa8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1795407496460595398].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1795407496460595398",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1795407496460595398"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1794755520597033360].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1794755520597033360",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1794755520597033360"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1795407487522557952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOqRmPDb0AAIu6p.jpg",
+        "width": 946
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "悲伤十字街",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1793075462631248039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787419388439900160/lBWZ8WuN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15972,
+          "following_count": 241,
+          "like_count": 5655,
+          "listed_count": 33,
+          "tweet_count": 2988
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

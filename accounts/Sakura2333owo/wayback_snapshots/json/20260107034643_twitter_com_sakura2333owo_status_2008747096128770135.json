@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "2008545202164953220",
+    "created_at": "2026-01-07T03:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T04:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008747096128770135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1666657380216586240",
+          "start": 0,
+          "username": "de3dsoul"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008747096128770135",
+    "in_reply_to_user_id": "1666657380216586240",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008545202164953220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@de3dsoul This is a video I filmed. First of all, thank you for liking it, but I hope you can credit me as the original creator. Thank you.♡( ˘ω˘ )"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8566,
+        "height": 720,
+        "media_key": "13_2008545146254626816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2008545146254626816/img/ldSII314qMRyGeoY.jpg",
+        "public_metrics": {
+          "view_count": 27875
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008545146254626816/vid/avc1/360x270/G2n4POLNYpkagZZx.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008545146254626816/vid/avc1/480x360/7MPxCu-xrHKSZq6m.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008545146254626816/vid/avc1/960x720/DOJNO641l4DXOjx8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2008545146254626816/pl/iILU3ygVZgFu3cYf.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "2008545202164953220",
+        "created_at": "2026-01-07T03:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T04:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008747096128770135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1666657380216586240",
+              "start": 0,
+              "username": "de3dsoul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008747096128770135",
+        "in_reply_to_user_id": "1666657380216586240",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008545202164953220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@de3dsoul This is a video I filmed. First of all, thank you for liking it, but I hope you can credit me as the original creator. Thank you.♡( ˘ω˘ )"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008545146254626816"
+          ]
+        },
+        "author_id": "1666657380216586240",
+        "conversation_id": "2008545202164953220",
+        "created_at": "2026-01-06T14:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T15:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008545202164953220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wo8lPM3Ac3",
+              "end": 23,
+              "expanded_url": "https://x.com/de3dsoul/status/2008545202164953220/video/1",
+              "media_key": "13_2008545146254626816",
+              "start": 0,
+              "url": "https://t.co/wo8lPM3Ac3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008545202164953220",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1074,
+          "impression_count": 81019,
+          "like_count": 7441,
+          "quote_count": 25,
+          "reply_count": 11,
+          "retweet_count": 1015
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wo8lPM3Ac3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37302,
+          "following_count": 296,
+          "like_count": 7696,
+          "listed_count": 81,
+          "media_count": 1172,
+          "tweet_count": 5319
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-08T04:05:16.000Z",
+        "description": "r a d i o",
+        "id": "1666657380216586240",
+        "location": "him",
+        "name": "定",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985202503927975936/6l3Sj-yw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96202,
+          "following_count": 47,
+          "like_count": 7196,
+          "listed_count": 146,
+          "media_count": 1737,
+          "tweet_count": 1957
+        },
+        "username": "de3dsoul",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1947275877689258042",
+    "created_at": "2025-07-21T16:05:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T17:05:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947327061603102880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1392452107450474499",
+          "start": 0,
+          "username": "_infinity_xxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947327061603102880",
+    "in_reply_to_user_id": "1392452107450474499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947275877689258042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_infinity_xxx 楊国福麻辣烫？！🙀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1947275870122684416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwYdFjZaMAAJb_b.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1947275877689258042",
+        "created_at": "2025-07-21T16:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T17:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947327061603102880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1392452107450474499",
+              "start": 0,
+              "username": "_infinity_xxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947327061603102880",
+        "in_reply_to_user_id": "1392452107450474499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947275877689258042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_infinity_xxx 楊国福麻辣烫？！🙀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947275870122684416"
+          ]
+        },
+        "author_id": "1392452107450474499",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1947275877689258042",
+        "created_at": "2025-07-21T12:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T13:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947275877689258042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2zt3gxXric",
+              "end": 39,
+              "expanded_url": "https://x.com/_infinity_xxx/status/1947275877689258042/photo/1",
+              "media_key": "3_1947275870122684416",
+              "start": 16,
+              "url": "https://t.co/2zt3gxXric"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947275877689258042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2978,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "麻辣湯（麺抜き）（ドアホ注文） https://t.co/2zt3gxXric"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆自撮り/雑垢/絵/東方project/les ★鼠类预警⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34171,
+          "following_count": 278,
+          "like_count": 7246,
+          "listed_count": 60,
+          "media_count": 1082,
+          "tweet_count": 4915
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-12T12:10:45.000Z",
+        "description": "@LTC_421",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "LTC_421"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aomaru319",
+                "end": 23,
+                "expanded_url": "https://lit.link/aomaru319",
+                "start": 0,
+                "url": "https://t.co/qKE42KNqt3"
+              }
+            ]
+          }
+        },
+        "id": "1392452107450474499",
+        "location": "💤💤💤",
+        "name": "あおまる",
+        "pinned_tweet_id": "1779810848036516333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919494588013944832/0t5-TcIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16421,
+          "following_count": 291,
+          "like_count": 3232,
+          "listed_count": 27,
+          "media_count": 6150,
+          "tweet_count": 24961
+        },
+        "url": "https://t.co/qKE42KNqt3",
+        "username": "_infinity_xxx",
+        "verified": true
+      }
+    ]
+  }
+}

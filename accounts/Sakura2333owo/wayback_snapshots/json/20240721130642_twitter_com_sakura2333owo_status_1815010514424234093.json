@@ -1,0 +1,211 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1814983341973655606",
+    "created_at": "2024-07-21T13:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-21T14:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815010514424234093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1002877605719126022",
+          "start": 0,
+          "username": "nyaanemui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815010514424234093",
+    "in_reply_to_user_id": "1002877605719126022",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814983341973655606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyaanemui 理解しています！私も箸が使えないから！ ᴛㅅᴛ箸を使うのは本当に難しい！！私はペンを握るように箸しか使えません…૮( ᵕ̩̩ - ᵕ̩̩ c)ა"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1814983341973655606",
+        "created_at": "2024-07-21T13:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-21T14:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815010514424234093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1002877605719126022",
+              "start": 0,
+              "username": "nyaanemui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815010514424234093",
+        "in_reply_to_user_id": "1002877605719126022",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814983341973655606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaanemui 理解しています！私も箸が使えないから！ ᴛㅅᴛ箸を使うのは本当に難しい！！私はペンを握るように箸しか使えません…૮( ᵕ̩̩ - ᵕ̩̩ c)ა"
+      },
+      {
+        "attachments": {},
+        "author_id": "1002877605719126022",
+        "conversation_id": "1814983341973655606",
+        "created_at": "2024-07-21T11:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-21T12:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1814983341973655606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1814983341973655606",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13505,
+          "like_count": 281,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "でも載せてない写真だなんてものしぬほどあるのでがんばって載せていきたいすごく消去してしまうのでᐡ߹ - ߹ᐡ\nあと箸の持ち方とてもきもくてごめんなさい。ほんとうにわかるたぶん人じゃない"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les /★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812714143595569152/EWUbT6nt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15785,
+          "following_count": 244,
+          "like_count": 5817,
+          "listed_count": 34,
+          "tweet_count": 3196
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-02T11:40:28.000Z",
+        "description": "https://t.co/9vqYcdEVWO じぶんやれますやらせて頂きます @miumio_info",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "miumio_info"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tiget.net/events/331201",
+                "end": 23,
+                "expanded_url": "https://tiget.net/events/331201",
+                "start": 0,
+                "url": "https://t.co/9vqYcdEVWO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/uo_ou24",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/uo_ou24",
+                "start": 0,
+                "url": "https://t.co/9asaXo5eWX"
+              }
+            ]
+          }
+        },
+        "id": "1002877605719126022",
+        "location": "８月１９日♡ZeppNAGOYA♡みうみおワンマン",
+        "name": "砂糖 みう",
+        "pinned_tweet_id": "1813949579177627664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760329786088697856/EDY8juJ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35931,
+          "following_count": 59,
+          "like_count": 108040,
+          "listed_count": 222,
+          "tweet_count": 2962
+        },
+        "url": "https://t.co/9asaXo5eWX",
+        "username": "nyaanemui",
+        "verified": false
+      }
+    ]
+  }
+}

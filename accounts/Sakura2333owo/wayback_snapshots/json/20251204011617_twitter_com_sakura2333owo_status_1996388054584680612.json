@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1996162157097230707",
+    "created_at": "2025-12-04T01:16:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T02:16:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996388054584680612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1842716966399930368",
+          "start": 0,
+          "username": "mokimoPP"
+        },
+        {
+          "end": 16,
+          "id": "1744961946863247360",
+          "start": 10,
+          "username": "9sNcy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996388054584680612",
+    "in_reply_to_user_id": "1842716966399930368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996387673582514198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mokimoPP @9sNcy 我上推第一条就是这个……简直要崩溃了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1996162157097230707",
+        "created_at": "2025-12-04T01:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T02:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996388054584680612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842716966399930368",
+              "start": 0,
+              "username": "mokimoPP"
+            },
+            {
+              "end": 16,
+              "id": "1744961946863247360",
+              "start": 10,
+              "username": "9sNcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996388054584680612",
+        "in_reply_to_user_id": "1842716966399930368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996387673582514198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mokimoPP @9sNcy 我上推第一条就是这个……简直要崩溃了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842716966399930368",
+        "conversation_id": "1996162157097230707",
+        "created_at": "2025-12-04T01:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T02:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996387673582514198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            },
+            {
+              "end": 21,
+              "id": "1744961946863247360",
+              "start": 15,
+              "username": "9sNcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996387673582514198",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996379170017087510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo @9sNcy 时间线出没，牙白👋😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37006,
+          "following_count": 284,
+          "like_count": 7494,
+          "listed_count": 74,
+          "media_count": 1148,
+          "tweet_count": 5230
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-06T00:02:42.000Z",
+        "description": "猫猫只是对世界充满好奇罢了。",
+        "id": "1842716966399930368",
+        "name": "没脑袋猫咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868842463039033344/gYO75Fzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 5,
+          "like_count": 1064,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1851
+        },
+        "username": "mokimoPP",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-10T05:58:58.000Z",
+        "description": "很懒UuuU",
+        "id": "1744961946863247360",
+        "location": "⁺✞ʚ睡觉重度依赖ɞ✟₊",
+        "name": "Kiu",
+        "pinned_tweet_id": "1951921388362842242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992254476145876992/W6bF2VLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 106,
+          "like_count": 2728,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 556
+        },
+        "username": "9sNcy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "2011115807921836101",
+    "created_at": "2026-01-13T16:39:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T17:39:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011115807921836101"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2011115807921836101",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {},
+      "text": "其实我是季经…感受就是会省很多钱、三个月痛苦一次吧(っ ̫ ; ˘)但是一次至少持续七天起并且超大出血好像把三个月的血都流干了一样…( ߹꒳​߹ )\n从大学稳定后就发现每年经期差不多都是:\n开学→放暑假→开学→放寒假 最后才知道自己是季经。以至于很方便从来没记过经期。。但是也有不准的时候 有几次突然连着两个月来月经 我还以为我恢复正常了！(´•ω•̥`)结果下一次又是三个月。。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我是季经…感受就是会省很多钱、三个月痛苦一次吧(っ ̫ ; ˘)但是一次至少持续七天起并且超大出血好像把三个月的血都流干了一样…( ߹꒳​߹ )\n从大学稳定后就发现每年经期差不多都是:\n开学→放暑假→开学→放寒假 最后才知道自己是季经。以至于很方便从来没记过经期。。但是也有不准的时候"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "2011115807921836101",
+        "created_at": "2026-01-13T16:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T17:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011115807921836101"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2011115807921836101",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实我是季经…感受就是会省很多钱、三个月痛苦一次吧(っ ̫ ; ˘)但是一次至少持续七天起并且超大出血好像把三个月的血都流干了一样…( ߹꒳​߹ )\n从大学稳定后就发现每年经期差不多都是:\n开学→放暑假→开学→放寒假 最后才知道自己是季经。以至于很方便从来没记过经期。。但是也有不准的时候 有几次突然连着两个月来月经 我还以为我恢复正常了！(´•ω•̥`)结果下一次又是三个月。。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我是季经…感受就是会省很多钱、三个月痛苦一次吧(っ ̫ ; ˘)但是一次至少持续七天起并且超大出血好像把三个月的血都流干了一样…( ߹꒳​߹ )\n从大学稳定后就发现每年经期差不多都是:\n开学→放暑假→开学→放寒假 最后才知道自己是季经。以至于很方便从来没记过经期。。但是也有不准的时候"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37856,
+          "following_count": 297,
+          "like_count": 7771,
+          "listed_count": 81,
+          "media_count": 1176,
+          "tweet_count": 5358
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945876120857083904"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1945876135251935245",
+    "created_at": "2025-07-17T15:59:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T16:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945876135251935245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 110,
+          "id": "1392452107450474499",
+          "start": 96,
+          "username": "_infinity_xxx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TOYQNY3NL7",
+          "end": 166,
+          "expanded_url": "https://x.com/sakura2333owo/status/1945876135251935245/photo/1",
+          "media_key": "3_1945876120857083904",
+          "start": 143,
+          "url": "https://t.co/TOYQNY3NL7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945876135251935245",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "☆　+\n　+　   .＿　　☆\n☆   へ ./～ヽへ+\n+ノ从`(｡・-・)从丶\nﾉ从从( つ(お誕生日おめでとう)丶\n“””””ﾉ ﾉ ﾉ＼／”””\n+　☆し”Ｊ　+　☆\n　+　　☆　　+@_infinity_xxx \n「あなたが幸せでありますように！🩵🪽ずっと友達でいたい……」 https://t.co/TOYQNY3NL7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1945876120857083904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwEkBbCaAAAJrkQ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945876120857083904"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1945876135251935245",
+        "created_at": "2025-07-17T15:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T16:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945876135251935245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 110,
+              "id": "1392452107450474499",
+              "start": 96,
+              "username": "_infinity_xxx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TOYQNY3NL7",
+              "end": 166,
+              "expanded_url": "https://x.com/sakura2333owo/status/1945876135251935245/photo/1",
+              "media_key": "3_1945876120857083904",
+              "start": 143,
+              "url": "https://t.co/TOYQNY3NL7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945876135251935245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "☆　+\n　+　   .＿　　☆\n☆   へ ./～ヽへ+\n+ノ从`(｡・-・)从丶\nﾉ从从( つ(お誕生日おめでとう)丶\n“””””ﾉ ﾉ ﾉ＼／”””\n+　☆し”Ｊ　+　☆\n　+　　☆　　+@_infinity_xxx \n「あなたが幸せでありますように！🩵🪽ずっと友達でいたい……」 https://t.co/TOYQNY3NL7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆自撮り/雑垢/絵/東方project/les ★鼠类预警⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34122,
+          "following_count": 278,
+          "like_count": 7228,
+          "listed_count": 59,
+          "media_count": 1081,
+          "tweet_count": 4894
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-12T12:10:45.000Z",
+        "description": "@LTC_421",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "LTC_421"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aomaru319",
+                "end": 23,
+                "expanded_url": "https://lit.link/aomaru319",
+                "start": 0,
+                "url": "https://t.co/qKE42KNqt3"
+              }
+            ]
+          }
+        },
+        "id": "1392452107450474499",
+        "location": "💤💤💤",
+        "name": "あおまる",
+        "pinned_tweet_id": "1779810848036516333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919494588013944832/0t5-TcIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16396,
+          "following_count": 292,
+          "like_count": 3210,
+          "listed_count": 28,
+          "media_count": 6132,
+          "tweet_count": 24918
+        },
+        "url": "https://t.co/qKE42KNqt3",
+        "username": "_infinity_xxx",
+        "verified": true
+      }
+    ]
+  }
+}

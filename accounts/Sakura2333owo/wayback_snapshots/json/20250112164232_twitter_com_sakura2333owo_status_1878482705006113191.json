@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1878482674505138176"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1878482705006113191",
+    "created_at": "2025-01-12T16:42:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T17:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1878482705006113191"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C3mkkeFPRh",
+          "end": 73,
+          "expanded_url": "https://x.com/sakura2333owo/status/1878482705006113191/video/1",
+          "media_key": "7_1878482674505138176",
+          "start": 50,
+          "url": "https://t.co/C3mkkeFPRh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878482705006113191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我家老鼠天天往我嘴里钻舔我牙舔我嘴里 我整个口腔被它检查个个遍  谁给我解释一下这是什么意思我服了 https://t.co/C3mkkeFPRh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9131,
+        "height": 1280,
+        "media_key": "7_1878482674505138176",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1878482674505138176/pu/img/dLJ_surMXCmqUrDR.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1878482674505138176/pu/vid/avc1/320x568/9j6TaiW_lPbwD_y5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1878482674505138176/pu/vid/avc1/480x852/W_wIDofbAUrGNMqs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1878482674505138176/pu/vid/avc1/720x1280/iqMlrdtI3oHUEm9H.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1878482674505138176/pu/pl/W2nwDxepQwFmkmTY.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1878482674505138176"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1878482705006113191",
+        "created_at": "2025-01-12T16:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T17:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878482705006113191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C3mkkeFPRh",
+              "end": 73,
+              "expanded_url": "https://x.com/sakura2333owo/status/1878482705006113191/video/1",
+              "media_key": "7_1878482674505138176",
+              "start": 50,
+              "url": "https://t.co/C3mkkeFPRh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878482705006113191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我家老鼠天天往我嘴里钻舔我牙舔我嘴里 我整个口腔被它检查个个遍  谁给我解释一下这是什么意思我服了 https://t.co/C3mkkeFPRh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24638,
+          "following_count": 269,
+          "like_count": 6567,
+          "listed_count": 41,
+          "media_count": 932,
+          "tweet_count": 4213
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

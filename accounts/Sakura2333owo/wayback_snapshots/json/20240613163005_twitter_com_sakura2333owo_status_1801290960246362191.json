@@ -1,0 +1,175 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1801284460950008025",
+    "created_at": "2024-06-13T16:30:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T17:30:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801290960246362191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1052542133519826945",
+          "start": 0,
+          "username": "matsuri_kksk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801290960246362191",
+    "in_reply_to_user_id": "1052542133519826945",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801284460950008025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@matsuri_kksk 🫂"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1801284460950008025].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1801284460950008025",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1801284460950008025"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1801284460950008025",
+        "created_at": "2024-06-13T16:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T17:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801290960246362191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1052542133519826945",
+              "start": 0,
+              "username": "matsuri_kksk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801290960246362191",
+        "in_reply_to_user_id": "1052542133519826945",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801284460950008025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@matsuri_kksk 🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "悲伤十字街",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1793075462631248039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796586719439155200/QWB8hbfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15907,
+          "following_count": 243,
+          "like_count": 5722,
+          "listed_count": 33,
+          "tweet_count": 3010
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-17T12:49:34.000Z",
+        "description": "JD/ギター🎸/silly cat fan/搓澡把自己皮肤搓破了，现在搓破的地方很粗糙应该涂什么",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sigure.jp",
+                "end": 23,
+                "expanded_url": "http://www.sigure.jp",
+                "start": 0,
+                "url": "https://t.co/f7iyZxc29U"
+              }
+            ]
+          }
+        },
+        "id": "1052542133519826945",
+        "name": "🏮夏色まつり ガチ恋勢🏮",
+        "pinned_tweet_id": "1794331579059429437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800569549416468480/6FjL3kFV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1383,
+          "following_count": 906,
+          "like_count": 69708,
+          "listed_count": 8,
+          "tweet_count": 30556
+        },
+        "url": "https://t.co/f7iyZxc29U",
+        "username": "matsuri_kksk",
+        "verified": false
+      }
+    ]
+  }
+}

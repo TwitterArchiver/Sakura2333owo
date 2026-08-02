@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980793106866839552"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1980789851248292204",
+    "created_at": "2025-10-22T00:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T01:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980793122444718337"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mC5juS4Xew",
+          "end": 53,
+          "expanded_url": "https://x.com/sakura2333owo/status/1980793122444718337/photo/1",
+          "media_key": "3_1980793106866839552",
+          "start": 30,
+          "url": "https://t.co/mC5juS4Xew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980793122444718337",
+    "in_reply_to_user_id": "1508447794537070595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980789851248292204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今日搭配饮品是水舀子接的早上凉飕飕饮用水和饭后甜点达利园派 https://t.co/mC5juS4Xew"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980793106866839552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G30w1gRXIAACoWs.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980789831513894912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G30t22oXcAAJFmT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980793106866839552"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1980789851248292204",
+        "created_at": "2025-10-22T00:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T01:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980793122444718337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mC5juS4Xew",
+              "end": 53,
+              "expanded_url": "https://x.com/sakura2333owo/status/1980793122444718337/photo/1",
+              "media_key": "3_1980793106866839552",
+              "start": 30,
+              "url": "https://t.co/mC5juS4Xew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980793122444718337",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980789851248292204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今日搭配饮品是水舀子接的早上凉飕飕饮用水和饭后甜点达利园派 https://t.co/mC5juS4Xew"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980789831513894912"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1980789851248292204",
+        "created_at": "2025-10-22T00:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T01:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980789851248292204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eurUK3jJBC",
+              "end": 68,
+              "expanded_url": "https://x.com/sakura2333owo/status/1980789851248292204/photo/1",
+              "media_key": "3_1980789831513894912",
+              "start": 45,
+              "url": "https://t.co/eurUK3jJBC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980789851248292204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "隔夜饭蛋炒饭+隔夜蒜苔+新榨的辣椒油+萝卜咸菜+铁勺  谁敢想象这有多香？( ˘ω˘ ) https://t.co/eurUK3jJBC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽𝒜𝓃𝒾𝓂ℯ𝒸ℴ𝓇ℯ❤︎𓊇ྀི",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉—貓貓國",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34598,
+          "following_count": 284,
+          "like_count": 7303,
+          "listed_count": 68,
+          "media_count": 1138,
+          "tweet_count": 5156
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

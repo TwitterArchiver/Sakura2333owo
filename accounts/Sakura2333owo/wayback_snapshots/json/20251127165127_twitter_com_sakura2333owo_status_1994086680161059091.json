@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994086656681627651",
+        "3_1994086656681582592"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent focused on selling multiple brands such as supermarkets, stores, resellers, delivery apps",
+          "id": "1557697218248773632",
+          "name": "Retail Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1838998617064878080",
+          "name": "developers"
+        }
+      }
+    ],
+    "conversation_id": "1993694035668558236",
+    "created_at": "2025-11-27T16:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T17:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994086680161059091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1774419326629560320",
+          "start": 0,
+          "username": "kiyoterunipples"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HyHjKvyfw2",
+          "end": 174,
+          "expanded_url": "https://x.com/sakura2333owo/status/1994086680161059091/photo/1",
+          "media_key": "3_1994086656681627651",
+          "start": 151,
+          "url": "https://t.co/HyHjKvyfw2"
+        },
+        {
+          "display_url": "pic.x.com/HyHjKvyfw2",
+          "end": 174,
+          "expanded_url": "https://x.com/sakura2333owo/status/1994086680161059091/photo/1",
+          "media_key": "3_1994086656681582592",
+          "start": 151,
+          "url": "https://t.co/HyHjKvyfw2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994086680161059091",
+    "in_reply_to_user_id": "1774419326629560320",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994032964456357938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiyoterunipples Mobile phone toughened film with decorative patterns is sold on the Internet.General online shopping software will be sold!(・ω&lt; )★ https://t.co/HyHjKvyfw2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994086656681627651",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xrP8ba0AMOlQw.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994086656681582592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xrP8baIAAB8RD.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994086656681627651",
+            "3_1994086656681582592"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent focused on selling multiple brands such as supermarkets, stores, resellers, delivery apps",
+              "id": "1557697218248773632",
+              "name": "Retail Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "1993694035668558236",
+        "created_at": "2025-11-27T16:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T17:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994086680161059091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1774419326629560320",
+              "start": 0,
+              "username": "kiyoterunipples"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HyHjKvyfw2",
+              "end": 174,
+              "expanded_url": "https://x.com/sakura2333owo/status/1994086680161059091/photo/1",
+              "media_key": "3_1994086656681627651",
+              "start": 151,
+              "url": "https://t.co/HyHjKvyfw2"
+            },
+            {
+              "display_url": "pic.x.com/HyHjKvyfw2",
+              "end": 174,
+              "expanded_url": "https://x.com/sakura2333owo/status/1994086680161059091/photo/1",
+              "media_key": "3_1994086656681582592",
+              "start": 151,
+              "url": "https://t.co/HyHjKvyfw2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994086680161059091",
+        "in_reply_to_user_id": "1774419326629560320",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994032964456357938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiyoterunipples Mobile phone toughened film with decorative patterns is sold on the Internet.General online shopping software will be sold!(・ω&lt; )★ https://t.co/HyHjKvyfw2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774419326629560320",
+        "conversation_id": "1993694035668558236",
+        "created_at": "2025-11-27T13:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T14:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994032964456357938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994032964456357938",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993915112034615544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo sorryi have just last question. how did you vhange the phone's external interface? (Is it a sticker or smth like that?)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36486,
+          "following_count": 283,
+          "like_count": 7426,
+          "listed_count": 74,
+          "media_count": 1148,
+          "tweet_count": 5201
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T12:52:00.000Z",
+        "description": "(๑╹∀╹๑)\n\n priv: ♡（@yuuyaboobies）\n vent acc\n\nshed (partial rec)  fujo/hime/yumejoshi\nand profiction\n\n-15/dni",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "yuuyaboobies"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sasakutaro.straw.page",
+                "end": 23,
+                "expanded_url": "https://sasakutaro.straw.page",
+                "start": 0,
+                "url": "https://t.co/ax31yGr4zn"
+              }
+            ]
+          }
+        },
+        "id": "1774419326629560320",
+        "location": "she/he ",
+        "name": "lalaloide #shotamaxxed #ikemenpilled #lolicel",
+        "pinned_tweet_id": "1991612992035909787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989785962298150913/Gv1SAtL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1961,
+          "following_count": 3834,
+          "like_count": 44201,
+          "listed_count": 13,
+          "media_count": 4805,
+          "tweet_count": 49227
+        },
+        "url": "https://t.co/ax31yGr4zn",
+        "username": "kiyoterunipples",
+        "verified": false
+      }
+    ]
+  }
+}

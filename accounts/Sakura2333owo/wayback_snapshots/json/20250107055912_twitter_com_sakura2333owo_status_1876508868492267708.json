@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1876501587155353980",
+    "created_at": "2025-01-07T05:59:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T06:59:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876508868492267708"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1876508868492267708",
+    "in_reply_to_user_id": "1508447794537070595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876501587155353980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我回应的是转发消息里面对面人说的话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1876501587155353980",
+        "created_at": "2025-01-07T05:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T06:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876508868492267708"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1876508868492267708",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876501587155353980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我回应的是转发消息里面对面人说的话"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876501576657072128",
+            "3_1876501576652849152"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1876501587155353980",
+        "created_at": "2025-01-07T05:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T06:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876501587155353980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f6YKpfdfBK",
+              "end": 153,
+              "expanded_url": "https://x.com/sakura2333owo/status/1876501587155353980/photo/1",
+              "media_key": "3_1876501576657072128",
+              "start": 130,
+              "url": "https://t.co/f6YKpfdfBK"
+            },
+            {
+              "display_url": "pic.x.com/f6YKpfdfBK",
+              "end": 153,
+              "expanded_url": "https://x.com/sakura2333owo/status/1876501587155353980/photo/1",
+              "media_key": "3_1876501576652849152",
+              "start": 130,
+              "url": "https://t.co/f6YKpfdfBK"
+            },
+            {
+              "display_url": "x.com/8964ll/status/…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/8964ll/status/1876422174460027205",
+              "start": 154,
+              "url": "https://t.co/LNRHlu0Nkz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876501587155353980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1279,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876422174460027205",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去找knk玩都是knk掏的钱 她给我买的高铁车票 也送了我很多礼物😞 我和knk认识快三年了 她是南方的 去年二月份她突然来到了北方 我们两个都特别激动于是临时的赶紧面基  其中吃饭车票都是knk掏的钱 我全程都特别不好意思 \n请您了解一下再分享您所谓的瓜 https://t.co/f6YKpfdfBK https://t.co/LNRHlu0Nkz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24590,
+          "following_count": 270,
+          "like_count": 6543,
+          "listed_count": 40,
+          "media_count": 920,
+          "tweet_count": 4178
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

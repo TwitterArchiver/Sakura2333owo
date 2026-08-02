@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1993949910715208128",
+    "created_at": "2025-11-28T11:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T12:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994365130646368419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1967887882384965632",
+          "start": 0,
+          "username": "111q_a54867"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994365130646368419",
+    "in_reply_to_user_id": "1967887882384965632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993949910715208128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@111q_a54867 喔喔 好久没看到活死人娃娃了 …！(ᵒ̴̶̷̥́-ᵒ̴̶̷̣̥̀)六七年前在快手上看其他博主好多活死人娃娃和市松人偶的视频看的不亦乐乎……宝宝你这只实在是好萌喔！( ⸝⸝⸝ʚ̴̶̷̆ωʚ̴̶̷̆⸝⸝)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993949905203941378",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6vu39ea0AI3Lxm.jpg",
+        "width": 1066
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1993949910715208128",
+        "created_at": "2025-11-28T11:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T12:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994365130646368419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994365130646368419",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993949910715208128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 喔喔 好久没看到活死人娃娃了 …！(ᵒ̴̶̷̥́-ᵒ̴̶̷̣̥̀)六七年前在快手上看其他博主好多活死人娃娃和市松人偶的视频看的不亦乐乎……宝宝你这只实在是好萌喔！( ⸝⸝⸝ʚ̴̶̷̆ωʚ̴̶̷̆⸝⸝)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993949905203941378"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1993949910715208128",
+        "created_at": "2025-11-27T07:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T08:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993949910715208128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4RA1DlT9GI",
+              "end": 83,
+              "expanded_url": "https://x.com/111q_a54867/status/1993949910715208128/photo/1",
+              "media_key": "3_1993949905203941378",
+              "start": 60,
+              "url": "https://t.co/4RA1DlT9GI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993949910715208128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4741,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和我之前买的这个活死人娃娃有点细思极恐了。我现在真得了带状疱疹神经痛，明天住院去了，你们才吸毒呢我吃普瑞是真的神经痛😭 https://t.co/4RA1DlT9GI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36835,
+          "following_count": 283,
+          "like_count": 7433,
+          "listed_count": 74,
+          "media_count": 1148,
+          "tweet_count": 5208
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 1054,
+          "like_count": 3460,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 473
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

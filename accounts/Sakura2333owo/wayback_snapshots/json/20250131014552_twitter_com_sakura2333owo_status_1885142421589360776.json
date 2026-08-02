@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1885064391504330972",
+    "created_at": "2025-01-31T01:45:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T02:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885142421589360776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2596381225",
+          "start": 0,
+          "username": "vir_coconut"
+        },
+        {
+          "end": 23,
+          "id": "1836276354041495553",
+          "start": 13,
+          "username": "CABR_Lies"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885142421589360776",
+    "in_reply_to_user_id": "2596381225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885065564017877263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vir_coconut @CABR_Lies 我要笑晕……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1885064391504330972",
+        "created_at": "2025-01-31T01:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T02:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885142421589360776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2596381225",
+              "start": 0,
+              "username": "vir_coconut"
+            },
+            {
+              "end": 23,
+              "id": "1836276354041495553",
+              "start": 13,
+              "username": "CABR_Lies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885142421589360776",
+        "in_reply_to_user_id": "2596381225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885065564017877263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vir_coconut @CABR_Lies 我要笑晕……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2596381225",
+        "conversation_id": "1885064391504330972",
+        "created_at": "2025-01-30T20:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T21:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885065564017877263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1836276354041495553",
+              "start": 0,
+              "username": "CABR_Lies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885065564017877263",
+        "in_reply_to_user_id": "1836276354041495553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885064391504330972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CABR_Lies 有本地的哥哥吗，加个好友，合适做情侣，可约会~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25518,
+          "following_count": 274,
+          "like_count": 6757,
+          "listed_count": 41,
+          "media_count": 970,
+          "tweet_count": 4378
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-30T13:25:34.000Z",
+        "description": "男/mtx🚪188",
+        "id": "2596381225",
+        "name": "瘦不回七十斤就自杀立刻死马上死保证去死",
+        "pinned_tweet_id": "1883767054433731005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883757640133844992/L32f6krc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5480,
+          "following_count": 155,
+          "like_count": 1775,
+          "listed_count": 14,
+          "media_count": 135,
+          "tweet_count": 1277
+        },
+        "username": "vir_coconut",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T05:29:42.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低智商低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt  我是DizzyRichter可以叫我毒枭 ｜爱蛇TV｜𝑊𝑜𝑛'𝑡 𝑌𝑜𝑢 𝑃𝑙𝑒𝑎𝑠𝑒 𝑇𝑎𝑘𝑒 𝑀𝑒 𝐻𝑜𝑚𝑒?",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "shtwt"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1836276354041495553",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "1869201059912282381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882137260415475712/e0tTeXCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 96,
+          "like_count": 12091,
+          "listed_count": 1,
+          "media_count": 346,
+          "tweet_count": 5213
+        },
+        "username": "CABR_Lies",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1803801738622963894",
+    "created_at": "2024-06-20T15:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-20T16:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803819000389849328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1444464454704324610",
+          "start": 0,
+          "username": "UBLS_WOLF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803819000389849328",
+    "in_reply_to_user_id": "1444464454704324610",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803806257910050863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UBLS_WOLF 谢谢你՞ ̳o̴̶̷̤  ̫ o̴̶̷̤ ̳՞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1803801738622963894",
+        "created_at": "2024-06-20T15:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T16:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803819000389849328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1444464454704324610",
+              "start": 0,
+              "username": "UBLS_WOLF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803819000389849328",
+        "in_reply_to_user_id": "1444464454704324610",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803806257910050863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UBLS_WOLF 谢谢你՞ ̳o̴̶̷̤  ̫ o̴̶̷̤ ̳՞"
+      },
+      {
+        "attachments": {},
+        "author_id": "1444464454704324610",
+        "conversation_id": "1803801738622963894",
+        "created_at": "2024-06-20T15:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T16:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803806257910050863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803806257910050863",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803801738622963894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 夏夏发色很可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "不顺眼的人我不会当面骂你  我会在心里偷偷恨你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796586719439155200/QWB8hbfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15890,
+          "following_count": 245,
+          "like_count": 5737,
+          "listed_count": 33,
+          "tweet_count": 3046
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T00:49:08.000Z",
+        "description": "喜欢躺平吃美食",
+        "id": "1444464454704324610",
+        "name": "哲狼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1444464899367714816/DHrItwkO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 322,
+          "like_count": 2151,
+          "listed_count": 22,
+          "tweet_count": 2006
+        },
+        "username": "UBLS_WOLF",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1943739753272135871",
+    "created_at": "2025-07-11T19:03:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T20:03:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943747995889254643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1495662254544789506",
+          "start": 0,
+          "username": "Aloevce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943747995889254643",
+    "in_reply_to_user_id": "1495662254544789506",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943739753272135871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aloevce 🫳🤡🃏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1943739709634523136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvmM97CWMAAL4rz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 800,
+        "media_key": "3_1943739714822946817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvmM-OXXQAEbbtu.jpg",
+        "width": 800
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1943739733013577730",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvmM_SIWQAIp5zE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1943739748025008128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvmNAKDWgAApelk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1943739753272135871",
+        "created_at": "2025-07-11T19:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T20:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943747995889254643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943747995889254643",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943739753272135871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 🫳🤡🃏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943739709634523136",
+            "3_1943739714822946817",
+            "3_1943739733013577730",
+            "3_1943739748025008128"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1943739753272135871",
+        "created_at": "2025-07-11T18:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T19:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943739753272135871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ftVvLDQM7X",
+              "end": 46,
+              "expanded_url": "https://x.com/Aloevce/status/1943739753272135871/photo/1",
+              "media_key": "3_1943739709634523136",
+              "start": 23,
+              "url": "https://t.co/ftVvLDQM7X"
+            },
+            {
+              "display_url": "pic.x.com/ftVvLDQM7X",
+              "end": 46,
+              "expanded_url": "https://x.com/Aloevce/status/1943739753272135871/photo/1",
+              "media_key": "3_1943739714822946817",
+              "start": 23,
+              "url": "https://t.co/ftVvLDQM7X"
+            },
+            {
+              "display_url": "pic.x.com/ftVvLDQM7X",
+              "end": 46,
+              "expanded_url": "https://x.com/Aloevce/status/1943739753272135871/photo/1",
+              "media_key": "3_1943739733013577730",
+              "start": 23,
+              "url": "https://t.co/ftVvLDQM7X"
+            },
+            {
+              "display_url": "pic.x.com/ftVvLDQM7X",
+              "end": 46,
+              "expanded_url": "https://x.com/Aloevce/status/1943739753272135871/photo/1",
+              "media_key": "3_1943739748025008128",
+              "start": 23,
+              "url": "https://t.co/ftVvLDQM7X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943739753272135871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来点steam游戏推荐，不要星露谷饥荒等大众 https://t.co/ftVvLDQM7X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆自撮り/雑垢/絵/東方project/les ★鼠类预警⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34114,
+          "following_count": 276,
+          "like_count": 7215,
+          "listed_count": 57,
+          "media_count": 1078,
+          "tweet_count": 4887
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "伪人",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1942344432830873884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19144,
+          "following_count": 2405,
+          "like_count": 55678,
+          "listed_count": 21,
+          "media_count": 6162,
+          "tweet_count": 21561
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

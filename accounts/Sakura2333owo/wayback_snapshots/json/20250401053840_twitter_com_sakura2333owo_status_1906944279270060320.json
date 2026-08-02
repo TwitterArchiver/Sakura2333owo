@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1906749420806479899",
+    "created_at": "2025-04-01T05:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T06:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906944279270060320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1593158397372792833",
+          "start": 0,
+          "username": "chenzhen9624"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906944279270060320",
+    "in_reply_to_user_id": "1593158397372792833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906764761079132406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenzhen9624 谢谢你喜欢！但是现在还是比较粗糙的草稿！我成图后可以临摹！！（因为我也不确定会不会改点什么www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1906749420806479899",
+        "created_at": "2025-04-01T05:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T06:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906944279270060320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1593158397372792833",
+              "start": 0,
+              "username": "chenzhen9624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906944279270060320",
+        "in_reply_to_user_id": "1593158397372792833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906764761079132406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenzhen9624 谢谢你喜欢！但是现在还是比较粗糙的草稿！我成图后可以临摹！！（因为我也不确定会不会改点什么www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593158397372792833",
+        "conversation_id": "1906749420806479899",
+        "created_at": "2025-03-31T17:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T18:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906764761079132406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906764761079132406",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906749420806479899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 夏夏 可以临摹吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31890,
+          "following_count": 269,
+          "like_count": 7109,
+          "listed_count": 54,
+          "media_count": 1018,
+          "tweet_count": 4666
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-17T08:26:00.000Z",
+        "description": "俄语学生兼数学老师/小透明/萌新/不到180/体重120 爱锻炼 /理工男的脸/躺平ism",
+        "id": "1593158397372792833",
+        "location": "长春某个大学里",
+        "name": "维克多啦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760344006100492288/VgE4MX45_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 73,
+          "like_count": 325,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 331
+        },
+        "username": "chenzhen9624",
+        "verified": false
+      }
+    ]
+  }
+}

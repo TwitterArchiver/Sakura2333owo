@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1971873645371998606",
+    "created_at": "2025-09-27T09:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T10:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971873645371998606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cldeop/status/…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/cldeop/status/1971746218142564714",
+          "start": 58,
+          "url": "https://t.co/VN3WgC7zfv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971873645371998606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971746218142564714",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就是我  房间经常从『史诗级猪圈垃圾老鼠尿上睡觉』→『干干净净一尘不染完美收纳样板间级别』反复横跳( ˘ω˘ ) https://t.co/VN3WgC7zfv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1417,
+        "media_key": "3_1971746200383901697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G10MuPUb0AEGOsp.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1971873645371998606",
+        "created_at": "2025-09-27T09:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T10:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971873645371998606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cldeop/status/…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/cldeop/status/1971746218142564714",
+              "start": 58,
+              "url": "https://t.co/VN3WgC7zfv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971873645371998606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971746218142564714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是我  房间经常从『史诗级猪圈垃圾老鼠尿上睡觉』→『干干净净一尘不染完美收纳样板间级别』反复横跳( ˘ω˘ ) https://t.co/VN3WgC7zfv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971746200383901697"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1971746218142564714",
+        "created_at": "2025-09-27T01:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T02:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971746218142564714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ob17QF9HmB",
+              "end": 23,
+              "expanded_url": "https://x.com/Cldeop/status/1971746218142564714/photo/1",
+              "media_key": "3_1971746200383901697",
+              "start": 0,
+              "url": "https://t.co/Ob17QF9HmB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971746218142564714",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 109515,
+          "like_count": 1928,
+          "quote_count": 10,
+          "reply_count": 18,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ob17QF9HmB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "我些许是累了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "主页推广真假自辩 ",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34668,
+          "following_count": 283,
+          "like_count": 7312,
+          "listed_count": 67,
+          "media_count": 1123,
+          "tweet_count": 5089
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80683,
+          "following_count": 640,
+          "like_count": 30631,
+          "listed_count": 255,
+          "media_count": 12434,
+          "tweet_count": 17614
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

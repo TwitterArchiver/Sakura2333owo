@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068643928841265152",
+        "3_2068643928862244864"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068643942552518972",
+    "created_at": "2026-06-21T10:35:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T11:35:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068643942552518972"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SXeL1XZvDu",
+          "end": 45,
+          "expanded_url": "https://x.com/Sakura2333owo/status/2068643942552518972/photo/1",
+          "media_key": "3_2068643928841265152",
+          "start": 22,
+          "url": "https://t.co/SXeL1XZvDu"
+        },
+        {
+          "display_url": "pic.x.com/SXeL1XZvDu",
+          "end": 45,
+          "expanded_url": "https://x.com/Sakura2333owo/status/2068643942552518972/photo/1",
+          "media_key": "3_2068643928862244864",
+          "start": 22,
+          "url": "https://t.co/SXeL1XZvDu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068643942552518972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "verified",
+    "text": "我的新手机壳喔 旁边是退休的旧手机壳^ω^ https://t.co/SXeL1XZvDu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2068643928841265152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVMsXFaIAAD8-R.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2068643928862244864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVMsXKaQAAE0W2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068643928841265152",
+            "3_2068643928862244864"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068643942552518972",
+        "created_at": "2026-06-21T10:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068643942552518972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SXeL1XZvDu",
+              "end": 45,
+              "expanded_url": "https://x.com/Sakura2333owo/status/2068643942552518972/photo/1",
+              "media_key": "3_2068643928841265152",
+              "start": 22,
+              "url": "https://t.co/SXeL1XZvDu"
+            },
+            {
+              "display_url": "pic.x.com/SXeL1XZvDu",
+              "end": 45,
+              "expanded_url": "https://x.com/Sakura2333owo/status/2068643942552518972/photo/1",
+              "media_key": "3_2068643928862244864",
+              "start": 22,
+              "url": "https://t.co/SXeL1XZvDu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068643942552518972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "verified",
+        "text": "我的新手机壳喔 旁边是退休的旧手机壳^ω^ https://t.co/SXeL1XZvDu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི 🩵☁️💤All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37455,
+          "following_count": 298,
+          "like_count": 7979,
+          "listed_count": 80,
+          "media_count": 1202,
+          "tweet_count": 5510
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "Sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

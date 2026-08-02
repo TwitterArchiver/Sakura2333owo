@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970157282781712384",
+        "3_1970157282739757057",
+        "3_1970157282769211392"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1970157340042334210",
+    "created_at": "2025-09-22T16:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T17:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970157340042334210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CUe2DUbTVg",
+          "end": 84,
+          "expanded_url": "https://x.com/sakura2333owo/status/1970157340042334210/photo/1",
+          "media_key": "3_1970157282781712384",
+          "start": 61,
+          "url": "https://t.co/CUe2DUbTVg"
+        },
+        {
+          "display_url": "pic.x.com/CUe2DUbTVg",
+          "end": 84,
+          "expanded_url": "https://x.com/sakura2333owo/status/1970157340042334210/photo/1",
+          "media_key": "3_1970157282739757057",
+          "start": 61,
+          "url": "https://t.co/CUe2DUbTVg"
+        },
+        {
+          "display_url": "pic.x.com/CUe2DUbTVg",
+          "end": 84,
+          "expanded_url": "https://x.com/sakura2333owo/status/1970157340042334210/photo/1",
+          "media_key": "3_1970157282769211392",
+          "start": 61,
+          "url": "https://t.co/CUe2DUbTVg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970157340042334210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上周和群友面基噜……(´o̴̶̷̤ㅂo̴̶̷̤`)原相机后摄返图让我停止容貌焦虑五分钟……和这个宝宝好幸福、、好想念TT https://t.co/CUe2DUbTVg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1970157282781712384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1dnnD_aUAAn8NE.jpg",
+        "width": 945
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1970157282739757057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1dnnD1aIAEpPae.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1970157282769211392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1dnnD8bkAAnp6m.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970157282781712384",
+            "3_1970157282739757057",
+            "3_1970157282769211392"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1970157340042334210",
+        "created_at": "2025-09-22T16:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T17:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970157340042334210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CUe2DUbTVg",
+              "end": 84,
+              "expanded_url": "https://x.com/sakura2333owo/status/1970157340042334210/photo/1",
+              "media_key": "3_1970157282781712384",
+              "start": 61,
+              "url": "https://t.co/CUe2DUbTVg"
+            },
+            {
+              "display_url": "pic.x.com/CUe2DUbTVg",
+              "end": 84,
+              "expanded_url": "https://x.com/sakura2333owo/status/1970157340042334210/photo/1",
+              "media_key": "3_1970157282739757057",
+              "start": 61,
+              "url": "https://t.co/CUe2DUbTVg"
+            },
+            {
+              "display_url": "pic.x.com/CUe2DUbTVg",
+              "end": 84,
+              "expanded_url": "https://x.com/sakura2333owo/status/1970157340042334210/photo/1",
+              "media_key": "3_1970157282769211392",
+              "start": 61,
+              "url": "https://t.co/CUe2DUbTVg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970157340042334210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上周和群友面基噜……(´o̴̶̷̤ㅂo̴̶̷̤`)原相机后摄返图让我停止容貌焦虑五分钟……和这个宝宝好幸福、、好想念TT https://t.co/CUe2DUbTVg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "我些许是累了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "主页推广真假自辩 ",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34690,
+          "following_count": 283,
+          "like_count": 7311,
+          "listed_count": 67,
+          "media_count": 1120,
+          "tweet_count": 5082
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

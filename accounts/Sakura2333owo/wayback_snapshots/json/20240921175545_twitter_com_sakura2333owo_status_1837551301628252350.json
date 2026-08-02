@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1837541112736895484",
+    "created_at": "2024-09-21T17:55:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T18:55:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837551301628252350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1475341462732931073",
+          "start": 0,
+          "username": "wangyuh05945263"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837551301628252350",
+    "in_reply_to_user_id": "1475341462732931073",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837544752490991938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangyuh05945263 习思想😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1837541112736895484",
+        "created_at": "2024-09-21T17:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T18:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837551301628252350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1475341462732931073",
+              "start": 0,
+              "username": "wangyuh05945263"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837551301628252350",
+        "in_reply_to_user_id": "1475341462732931073",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837544752490991938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangyuh05945263 习思想😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1475341462732931073",
+        "conversation_id": "1837541112736895484",
+        "created_at": "2024-09-21T17:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T18:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837544752490991938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837544752490991938",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837541112736895484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 科一？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22436,
+          "following_count": 255,
+          "like_count": 6299,
+          "listed_count": 39,
+          "tweet_count": 3652
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-27T05:44:01.000Z",
+        "description": "来自中国🇨🇳\n趣味：野球，機動戦士ガンダム，ツインターボ（ウマ娘）\n2003年生（平成15年）\n廣東\n中国🇨🇳黑竜江出身\n夜露死苦",
+        "id": "1475341462732931073",
+        "location": "御台場小学校",
+        "name": "岡志go",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836132901160914946/zWB8A5eZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 251,
+          "like_count": 5545,
+          "listed_count": 24,
+          "tweet_count": 604
+        },
+        "username": "wangyuh05945263",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1880556591742849367",
+    "created_at": "2025-01-18T12:40:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T13:40:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880596245515059609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1775197851301371904",
+          "start": 0,
+          "username": "nqn7m114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880596245515059609",
+    "in_reply_to_user_id": "1775197851301371904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880569494038556745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nqn7m114514 我也是小学门口超市卖这些！配上炸串和转来转去的香肠机 还有很多小时候卖的小玩具~~(⸝⸝⸝ ╸▵╺⸝⸝⸝)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1880556591742849367",
+        "created_at": "2025-01-18T12:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T13:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880596245515059609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1775197851301371904",
+              "start": 0,
+              "username": "nqn7m114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880596245515059609",
+        "in_reply_to_user_id": "1775197851301371904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880569494038556745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nqn7m114514 我也是小学门口超市卖这些！配上炸串和转来转去的香肠机 还有很多小时候卖的小玩具~~(⸝⸝⸝ ╸▵╺⸝⸝⸝)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775197851301371904",
+        "conversation_id": "1880556591742849367",
+        "created_at": "2025-01-18T10:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T11:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880569494038556745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880569494038556745",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880556591742849367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 印象里是以前上小学的时候，学校外面买炸串的小吃店会卖各种口味各种颜色的冲粉奶茶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24970,
+          "following_count": 273,
+          "like_count": 6620,
+          "listed_count": 41,
+          "media_count": 949,
+          "tweet_count": 4274
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-02T16:25:37.000Z",
+        "description": "a true man，a sensitive poet，a casual photographer，a precise tobacco taster\n欣赏任何美丽的事物\n会品鉴我常抽的和我感兴趣的烟，欢迎留言补充，逐渐完善我的烟草图鉴\n目前所有作品收纳入《黑水集》",
+        "id": "1775197851301371904",
+        "location": "hangzhou",
+        "name": "迷霧詩人",
+        "pinned_tweet_id": "1850073770360438991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854538075248193536/xqrthFB9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 1514,
+          "like_count": 14127,
+          "listed_count": 0,
+          "media_count": 329,
+          "tweet_count": 2411
+        },
+        "username": "nqn7m114514",
+        "verified": false
+      }
+    ]
+  }
+}

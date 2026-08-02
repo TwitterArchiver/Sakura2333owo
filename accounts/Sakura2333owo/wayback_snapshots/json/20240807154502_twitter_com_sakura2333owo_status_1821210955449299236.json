@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1820977961610453317",
+    "created_at": "2024-08-07T15:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-07T16:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821210955449299236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1269932593748688899",
+          "start": 0,
+          "username": "xxxbunbunbun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821210955449299236",
+    "in_reply_to_user_id": "1269932593748688899",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820977961610453317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxbunbunbun 啊啊啊啊啊啊笑晕了啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1820977961610453317",
+        "created_at": "2024-08-07T15:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T16:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821210955449299236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1269932593748688899",
+              "start": 0,
+              "username": "xxxbunbunbun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821210955449299236",
+        "in_reply_to_user_id": "1269932593748688899",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820977961610453317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxbunbunbun 啊啊啊啊啊啊笑晕了啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820977958598868992"
+          ]
+        },
+        "author_id": "1269932593748688899",
+        "conversation_id": "1820977961610453317",
+        "created_at": "2024-08-07T00:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T01:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820977961610453317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Fg7WlgLLwa",
+              "end": 26,
+              "expanded_url": "https://twitter.com/xxxbunbunbun/status/1820977961610453317/photo/1",
+              "media_key": "3_1820977958598868992",
+              "start": 3,
+              "url": "https://t.co/Fg7WlgLLwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820977961610453317",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 61197,
+          "like_count": 1202,
+          "quote_count": 9,
+          "reply_count": 12,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "早安 https://t.co/Fg7WlgLLwa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18515,
+          "following_count": 249,
+          "like_count": 6128,
+          "listed_count": 36,
+          "tweet_count": 3368
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-08T10:01:48.000Z",
+        "description": "台北地底人 沙灘 座標 舢舨  這麼好喔 丸 還沒死透",
+        "id": "1269932593748688899",
+        "name": "海豚轟炸機",
+        "pinned_tweet_id": "1771462658388037996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663136954467385346/boRib3TA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 761,
+          "like_count": 16275,
+          "listed_count": 0,
+          "tweet_count": 10637
+        },
+        "username": "xxxbunbunbun",
+        "verified": false
+      }
+    ]
+  }
+}

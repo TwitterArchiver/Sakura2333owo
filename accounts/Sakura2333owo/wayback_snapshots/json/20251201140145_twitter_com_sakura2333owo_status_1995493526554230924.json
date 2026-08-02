@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1995491675532328960"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1995493526554230924",
+    "created_at": "2025-12-01T14:01:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T15:01:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995493526554230924"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5NcI7WtV9M",
+          "end": 93,
+          "expanded_url": "https://x.com/sakura2333owo/status/1995493526554230924/video/1",
+          "media_key": "13_1995491675532328960",
+          "start": 70,
+          "url": "https://t.co/5NcI7WtV9M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995493526554230924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我每哭一次猫就过来踩奶蹭我  每听到我哭它就算睡觉也瞬间醒来踩奶蹭我 反复这样十几次 我没办法不相信它真的懂人类的情绪  我就哭的更厉害了 https://t.co/5NcI7WtV9M"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33696,
+        "height": 426,
+        "media_key": "13_1995491675532328960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1995491675532328960/img/fG9yp0oJ3IlaYBkl.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995491675532328960/vid/avc1/438x270/8Sl8Gjwv8sHeNjjZ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995491675532328960/vid/avc1/692x426/vlpHTNPgSv63jI-K.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1995491675532328960/pl/0RJlfvKzPOjiX5t6.m3u8"
+          }
+        ],
+        "width": 692
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1995491675532328960"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1995493526554230924",
+        "created_at": "2025-12-01T14:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T15:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995493526554230924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5NcI7WtV9M",
+              "end": 93,
+              "expanded_url": "https://x.com/sakura2333owo/status/1995493526554230924/video/1",
+              "media_key": "13_1995491675532328960",
+              "start": 70,
+              "url": "https://t.co/5NcI7WtV9M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995493526554230924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每哭一次猫就过来踩奶蹭我  每听到我哭它就算睡觉也瞬间醒来踩奶蹭我 反复这样十几次 我没办法不相信它真的懂人类的情绪  我就哭的更厉害了 https://t.co/5NcI7WtV9M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36953,
+          "following_count": 283,
+          "like_count": 7485,
+          "listed_count": 74,
+          "media_count": 1148,
+          "tweet_count": 5225
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": true
+      }
+    ]
+  }
+}

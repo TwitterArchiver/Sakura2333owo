@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1888619551312715947",
+    "created_at": "2025-02-10T11:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T12:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888912250741658019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1145371354071306241",
+          "start": 0,
+          "username": "u3u__00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888912250741658019",
+    "in_reply_to_user_id": "1145371354071306241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888619551312715947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@u3u__00 谢谢您……(  ˃_˂ഃ )天啊我太荣幸了…您画的非常可爱……感谢您！★辛苦了TT♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1888619551312715947",
+        "created_at": "2025-02-10T11:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T12:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888912250741658019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1145371354071306241",
+              "start": 0,
+              "username": "u3u__00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888912250741658019",
+        "in_reply_to_user_id": "1145371354071306241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888619551312715947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u3u__00 谢谢您……(  ˃_˂ഃ )天啊我太荣幸了…您画的非常可爱……感谢您！★辛苦了TT♡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888619188388016128"
+          ]
+        },
+        "author_id": "1145371354071306241",
+        "conversation_id": "1888619551312715947",
+        "created_at": "2025-02-09T16:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T17:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888619551312715947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/afJmTzUJSq",
+              "end": 45,
+              "expanded_url": "https://x.com/u3u__00/status/1888619551312715947/photo/1",
+              "media_key": "3_1888619188388016128",
+              "start": 22,
+              "url": "https://t.co/afJmTzUJSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888619551312715947",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2644,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "^ ̳ට ̫ ට ̳^     (♡ヮ♡) https://t.co/afJmTzUJSq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27944,
+          "following_count": 277,
+          "like_count": 6829,
+          "listed_count": 41,
+          "media_count": 984,
+          "tweet_count": 4466
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-30T16:39:45.000Z",
+        "description": "미피 ミピ / AFF / ⓒarkong_@naver.com / @u3u__cm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "u3u__cm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/u3u00",
+                "end": 23,
+                "expanded_url": "https://lit.link/u3u00",
+                "start": 0,
+                "url": "https://t.co/VdLdsfsCre"
+              }
+            ]
+          }
+        },
+        "id": "1145371354071306241",
+        "location": "i-여름🌸, h-キチコ🍀 ",
+        "name": "MIFFY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838969715428823040/0hJazAx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28359,
+          "following_count": 682,
+          "like_count": 3376,
+          "listed_count": 141,
+          "media_count": 378,
+          "tweet_count": 5244
+        },
+        "url": "https://t.co/VdLdsfsCre",
+        "username": "u3u__00",
+        "verified": false
+      }
+    ]
+  }
+}

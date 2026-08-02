@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1893923602988482560"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1893919299732955555",
+    "created_at": "2025-02-24T07:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T08:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893923633724096992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1842716966399930368",
+          "start": 0,
+          "username": "mokimoPP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tXUYCqMSOC",
+          "end": 68,
+          "expanded_url": "https://x.com/sakura2333owo/status/1893923633724096992/video/1",
+          "media_key": "7_1893923602988482560",
+          "start": 45,
+          "url": "https://t.co/tXUYCqMSOC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893923633724096992",
+    "in_reply_to_user_id": "1842716966399930368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893922916221227433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mokimoPP 我已经给她找到了新的鼠标🖱️՞ ̳o̴̶̷̤  ̫ o̴̶̷̤ ̳՞ https://t.co/tXUYCqMSOC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5998,
+        "height": 1280,
+        "media_key": "7_1893923602988482560",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1893923602988482560/pu/img/m5PHJxeOjSd4Z7Gi.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1893923602988482560/pu/vid/avc1/320x694/TtfnNqF7-bLYFTeP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1893923602988482560/pu/vid/avc1/480x1040/kIJGoGrAaZhDswcV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1893923602988482560/pu/vid/avc1/590x1280/15SqXZt9F38nI84E.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1893923602988482560/pu/pl/jI5TH2YNoTj7LJz6.m3u8?tag=12"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1893923602988482560"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1893919299732955555",
+        "created_at": "2025-02-24T07:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T08:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893923633724096992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842716966399930368",
+              "start": 0,
+              "username": "mokimoPP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tXUYCqMSOC",
+              "end": 68,
+              "expanded_url": "https://x.com/sakura2333owo/status/1893923633724096992/video/1",
+              "media_key": "7_1893923602988482560",
+              "start": 45,
+              "url": "https://t.co/tXUYCqMSOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893923633724096992",
+        "in_reply_to_user_id": "1842716966399930368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893922916221227433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mokimoPP 我已经给她找到了新的鼠标🖱️՞ ̳o̴̶̷̤  ̫ o̴̶̷̤ ̳՞ https://t.co/tXUYCqMSOC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842716966399930368",
+        "conversation_id": "1893919299732955555",
+        "created_at": "2025-02-24T07:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T08:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893922916221227433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893922916221227433",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893921747889516682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 233你们可以玩玩其他联机小游戏会有趣一点，不过整体看起来真棒(｡&gt;∀&lt;｡)!你们天天开心੭ ᐕ)੭*⁾⁾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31632,
+          "following_count": 262,
+          "like_count": 7066,
+          "listed_count": 53,
+          "media_count": 1002,
+          "tweet_count": 4589
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-06T00:02:42.000Z",
+        "description": "看:日常和瑟瑟。\n宅:电动、游戏、音乐和番剧。",
+        "id": "1842716966399930368",
+        "name": "没脑袋猫咪",
+        "pinned_tweet_id": "1868576090308112812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868842463039033344/gYO75Fzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 8,
+          "like_count": 505,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 836
+        },
+        "username": "mokimoPP",
+        "verified": false
+      }
+    ]
+  }
+}

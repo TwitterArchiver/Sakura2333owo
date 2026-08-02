@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1994974577244729443",
+    "created_at": "2025-11-30T04:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T05:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994983702875836816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1717365314894127104",
+          "start": 0,
+          "username": "RJYbaby"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994983702875836816",
+    "in_reply_to_user_id": "1717365314894127104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994976549741985847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RJYbaby 感觉一直交友关系里都缺少一个类似闺蜜 非常好的朋友的这样的角色…… 要么就是阶段性朋友 所以说能如果做多年的知己好闺闺真是一件幸福幸运的事啊！……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1994974577244729443",
+        "created_at": "2025-11-30T04:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T05:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994983702875836816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1717365314894127104",
+              "start": 0,
+              "username": "RJYbaby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994983702875836816",
+        "in_reply_to_user_id": "1717365314894127104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994976549741985847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RJYbaby 感觉一直交友关系里都缺少一个类似闺蜜 非常好的朋友的这样的角色…… 要么就是阶段性朋友 所以说能如果做多年的知己好闺闺真是一件幸福幸运的事啊！……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717365314894127104",
+        "conversation_id": "1994974577244729443",
+        "created_at": "2025-11-30T03:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T04:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994976549741985847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994976549741985847",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994974577244729443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 确实是这样 平时和同学说说笑笑 但是真的没有能真正说的来的朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36965,
+          "following_count": 284,
+          "like_count": 7473,
+          "listed_count": 74,
+          "media_count": 1148,
+          "tweet_count": 5221
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T02:19:49.000Z",
+        "description": "这里小鸢~｜07高三｜来找我聊天🥹",
+        "id": "1717365314894127104",
+        "location": "❤️",
+        "name": "阿鸢鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769176630680018944/hA6ks6es_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 92,
+          "like_count": 1648,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 211
+        },
+        "username": "RJYbaby",
+        "verified": false
+      }
+    ]
+  }
+}

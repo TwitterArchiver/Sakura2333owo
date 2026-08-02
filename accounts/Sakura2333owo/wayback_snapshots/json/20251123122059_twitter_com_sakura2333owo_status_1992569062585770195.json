@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1992406925682913462",
+    "created_at": "2025-11-23T12:20:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T13:20:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992569062585770195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1521487559855124480",
+          "start": 0,
+          "username": "almocar_sos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992569062585770195",
+    "in_reply_to_user_id": "1521487559855124480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992406925682913462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@almocar_sos え…私はこのソフトを持っています…でももう使えないようです｡ﾟ(ﾟ∩´﹏`∩ﾟ)ﾟ｡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992406911476703232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Zzh56aIAAlrzD.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1992406925682913462",
+        "created_at": "2025-11-23T12:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T13:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992569062585770195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1521487559855124480",
+              "start": 0,
+              "username": "almocar_sos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992569062585770195",
+        "in_reply_to_user_id": "1521487559855124480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992406925682913462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@almocar_sos え…私はこのソフトを持っています…でももう使えないようです｡ﾟ(ﾟ∩´﹏`∩ﾟ)ﾟ｡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992406911476703232"
+          ]
+        },
+        "author_id": "1521487559855124480",
+        "conversation_id": "1992406925682913462",
+        "created_at": "2025-11-23T01:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T02:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992406925682913462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aRjT7U27sE",
+              "end": 29,
+              "expanded_url": "https://x.com/almocar_sos/status/1992406925682913462/photo/1",
+              "media_key": "3_1992406911476703232",
+              "start": 6,
+              "url": "https://t.co/aRjT7U27sE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992406925682913462",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 11610,
+          "like_count": 217,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "なに？？？ https://t.co/aRjT7U27sE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35899,
+          "following_count": 282,
+          "like_count": 7379,
+          "listed_count": 70,
+          "media_count": 1143,
+          "tweet_count": 5171
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T13:51:55.000Z",
+        "description": "最近は文芸部が舞台の作品にお熱になってます",
+        "id": "1521487559855124480",
+        "location": "関東北部",
+        "name": "あうもさーる",
+        "pinned_tweet_id": "1886705624928673908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867943987237326848/Rk10QDZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 395,
+          "like_count": 11873,
+          "listed_count": 2,
+          "media_count": 684,
+          "tweet_count": 4006
+        },
+        "username": "almocar_sos",
+        "verified": false
+      }
+    ]
+  }
+}

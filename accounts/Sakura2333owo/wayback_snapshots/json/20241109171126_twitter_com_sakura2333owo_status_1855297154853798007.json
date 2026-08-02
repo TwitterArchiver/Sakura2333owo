@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1854993653397414168",
+    "created_at": "2024-11-09T17:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T18:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855297154853798007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1554834196220108803",
+          "start": 0,
+          "username": "bernkas32443694"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855297154853798007",
+    "in_reply_to_user_id": "1554834196220108803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855159685453697178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bernkas32443694 女朋友的 可能是觉得这样别有一番风味(ˆ ̳.  ̫ . ̳ˆ)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1854993653397414168",
+        "created_at": "2024-11-09T17:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T18:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855297154853798007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1554834196220108803",
+              "start": 0,
+              "username": "bernkas32443694"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855297154853798007",
+        "in_reply_to_user_id": "1554834196220108803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855159685453697178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bernkas32443694 女朋友的 可能是觉得这样别有一番风味(ˆ ̳.  ̫ . ̳ˆ)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554834196220108803",
+        "conversation_id": "1854993653397414168",
+        "created_at": "2024-11-09T08:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T09:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855159685453697178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855159685453697178",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854993653397414168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 这弦绑的什么玩意，能不能剪一剪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22694,
+          "following_count": 261,
+          "like_count": 6289,
+          "listed_count": 37,
+          "tweet_count": 3807
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T14:19:03.000Z",
+        "description": "",
+        "id": "1554834196220108803",
+        "name": "chiester410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853099393253359616/gqx70uey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 53,
+          "like_count": 7,
+          "listed_count": 0,
+          "tweet_count": 110
+        },
+        "username": "bernkas32443694",
+        "verified": false
+      }
+    ]
+  }
+}

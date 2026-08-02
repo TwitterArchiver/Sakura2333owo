@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1982089647502279018",
+    "created_at": "2025-10-25T14:19:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T15:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982089647502279018"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sakura2333owo/…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/sakura2333owo/status/1982085064436633854",
+          "start": 21,
+          "url": "https://t.co/C1QYbQEVNK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982089647502279018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982085064436633854",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爽到我可能连着发十多条( ˘ω˘ )…… https://t.co/C1QYbQEVNK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1982089647502279018",
+        "created_at": "2025-10-25T14:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T15:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982089647502279018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sakura2333owo/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/sakura2333owo/status/1982085064436633854",
+              "start": 21,
+              "url": "https://t.co/C1QYbQEVNK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982089647502279018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982085064436633854",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爽到我可能连着发十多条( ˘ω˘ )…… https://t.co/C1QYbQEVNK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1982085064436633854",
+        "created_at": "2025-10-25T14:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T15:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982085064436633854"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982085064436633854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又拍了一组特别爽的图……( ˘ω˘ )"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉—貓貓國",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34661,
+          "following_count": 284,
+          "like_count": 7308,
+          "listed_count": 68,
+          "media_count": 1139,
+          "tweet_count": 5164
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

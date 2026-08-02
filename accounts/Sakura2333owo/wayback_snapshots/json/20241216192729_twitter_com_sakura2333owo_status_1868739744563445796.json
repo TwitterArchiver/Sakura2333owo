@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1868739744563445796",
+    "created_at": "2024-12-16T19:27:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T20:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1868739744563445796"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/sakura2333owo",
+          "end": 41,
+          "expanded_url": "https://ngl.link/sakura2333owo",
+          "start": 18,
+          "status": 200,
+          "title": "@sakura2333owo: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/sakura2333owo",
+          "url": "https://t.co/yGvI1tkIGz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868739744563445796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "(=^𖥦^=)请给夏夏发送匿名消息！https://t.co/yGvI1tkIGz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1868739744563445796",
+        "created_at": "2024-12-16T19:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T20:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868739744563445796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/sakura2333owo",
+              "end": 41,
+              "expanded_url": "https://ngl.link/sakura2333owo",
+              "start": 18,
+              "status": 200,
+              "title": "@sakura2333owo: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/sakura2333owo",
+              "url": "https://t.co/yGvI1tkIGz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868739744563445796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "(=^𖥦^=)请给夏夏发送匿名消息！https://t.co/yGvI1tkIGz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23956,
+          "following_count": 268,
+          "like_count": 6473,
+          "listed_count": 39,
+          "media_count": 863,
+          "tweet_count": 4042
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

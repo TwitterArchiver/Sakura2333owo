@@ -1,0 +1,142 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1789969158865600808",
+    "created_at": "2024-05-13T10:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-13T11:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789973546627748123"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1789973546627748123",
+    "in_reply_to_user_id": "1508447794537070595",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789969158865600808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我崩溃了 我说我去拉屎 \n她：快点回来 我还有问题。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1789969158865600808",
+        "created_at": "2024-05-13T10:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T11:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789973546627748123"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1789973546627748123",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789969158865600808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我崩溃了 我说我去拉屎 \n她：快点回来 我还有问题。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1789969158865600808",
+        "created_at": "2024-05-13T10:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T11:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789969158865600808"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1789969158865600808",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我湿疣玩星露谷不懂也不查攻略就是一直在问我一堆问题 跟小孩一样一个问题接一个问题 我一边和我女友语音联机更新进度一边还要回复她的问题 就这么玩了一下午  我服了问她:为什么不自己去查攻略啊？她说直接问我更方便 可是为什么回复完了为了还有更多莫名其妙的问题啊……？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "悲伤十字街",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787419388439900160/lBWZ8WuN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16142,
+          "following_count": 247,
+          "like_count": 5662,
+          "listed_count": 33,
+          "tweet_count": 2961
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

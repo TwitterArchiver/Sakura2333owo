@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1829483442050097241",
+    "created_at": "2024-08-30T11:36:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T12:36:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1829483442050097241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sakura2333owo/…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/sakura2333owo/status/1829463926201037209",
+          "start": 43,
+          "url": "https://t.co/Hcrq7NlplP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829483442050097241",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829463926201037209",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我哩个 我说的气话啊我不是圆角妹我不约泡我也没金主啊我哩个爹啊  我是夸张说的气话啊 https://t.co/Hcrq7NlplP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1829483442050097241",
+        "created_at": "2024-08-30T11:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T12:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829483442050097241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sakura2333owo/…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/sakura2333owo/status/1829463926201037209",
+              "start": 43,
+              "url": "https://t.co/Hcrq7NlplP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829483442050097241",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829463926201037209",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我哩个 我说的气话啊我不是圆角妹我不约泡我也没金主啊我哩个爹啊  我是夸张说的气话啊 https://t.co/Hcrq7NlplP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1829463900145999873",
+            "3_1829463900146094080",
+            "3_1829463900292542465"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1829463926201037209",
+        "created_at": "2024-08-30T10:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T11:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829463926201037209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/deykyhmjzf",
+              "end": 41,
+              "expanded_url": "https://twitter.com/sakura2333owo/status/1829463926201037209/photo/1",
+              "media_key": "3_1829463900145999873",
+              "start": 18,
+              "url": "https://t.co/deyKYhMJzf"
+            },
+            {
+              "display_url": "pic.x.com/deykyhmjzf",
+              "end": 41,
+              "expanded_url": "https://twitter.com/sakura2333owo/status/1829463926201037209/photo/1",
+              "media_key": "3_1829463900146094080",
+              "start": 18,
+              "url": "https://t.co/deyKYhMJzf"
+            },
+            {
+              "display_url": "pic.x.com/deykyhmjzf",
+              "end": 41,
+              "expanded_url": "https://twitter.com/sakura2333owo/status/1829463926201037209/photo/1",
+              "media_key": "3_1829463900292542465",
+              "start": 18,
+              "url": "https://t.co/deyKYhMJzf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829463926201037209",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1063,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "燥彵冯我真的特别不喜欢我女朋友这样 https://t.co/deyKYhMJzf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20186,
+          "following_count": 250,
+          "like_count": 6246,
+          "listed_count": 37,
+          "tweet_count": 3514
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1841375313999323136"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1841375339781804517",
+    "created_at": "2024-10-02T07:11:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-02T08:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1841375339781804517"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/haG6mMab6W",
+          "end": 76,
+          "expanded_url": "https://x.com/sakura2333owo/status/1841375339781804517/video/1",
+          "media_key": "7_1841375313999323136",
+          "start": 53,
+          "url": "https://t.co/haG6mMab6W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841375339781804517",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "女朋友小宝宝送给我的小八帽子₍^ ̀o̴̶̷̤  ̫̭ o̴̶̷̤ ́^₎ 好可爱哇哇哇&gt;&lt; https://t.co/haG6mMab6W"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4138,
+        "height": 1280,
+        "media_key": "7_1841375313999323136",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1841375313999323136/pu/img/AyVRQ86_0dfGX080.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1841375313999323136/pu/vid/avc1/320x568/0vGfnvDWVao7NbUM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1841375313999323136/pu/vid/avc1/480x852/qXr3l_J0cWuTYR1e.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1841375313999323136/pu/vid/avc1/720x1280/DGjyDcpm4J_lq0jc.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1841375313999323136/pu/pl/gbceNvb7hgxrquOg.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1841375313999323136"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1841375339781804517",
+        "created_at": "2024-10-02T07:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T08:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841375339781804517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/haG6mMab6W",
+              "end": 76,
+              "expanded_url": "https://x.com/sakura2333owo/status/1841375339781804517/video/1",
+              "media_key": "7_1841375313999323136",
+              "start": 53,
+              "url": "https://t.co/haG6mMab6W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841375339781804517",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "女朋友小宝宝送给我的小八帽子₍^ ̀o̴̶̷̤  ̫̭ o̴̶̷̤ ́^₎ 好可爱哇哇哇&gt;&lt; https://t.co/haG6mMab6W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22550,
+          "following_count": 256,
+          "like_count": 6271,
+          "listed_count": 39,
+          "tweet_count": 3686
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

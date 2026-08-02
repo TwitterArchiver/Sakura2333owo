@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10040165566",
+          "name": "ご注文はうさぎですか??"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1294476284609720320",
+          "name": "Is the Order a Rabbit?"
+        }
+      }
+    ],
+    "conversation_id": "1843667674821255465",
+    "created_at": "2024-10-10T02:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-10T03:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1844201528028225866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2179819292",
+          "start": 0,
+          "username": "usagi_anime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1844201528028225866",
+    "in_reply_to_user_id": "2179819292",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843667674821255465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@usagi_anime 理世被夺舍了吗 完全不像……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10040165566",
+              "name": "ご注文はうさぎですか??"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1294476284609720320",
+              "name": "Is the Order a Rabbit?"
+            }
+          }
+        ],
+        "conversation_id": "1843667674821255465",
+        "created_at": "2024-10-10T02:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-10T03:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1844201528028225866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2179819292",
+              "start": 0,
+              "username": "usagi_anime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1844201528028225866",
+        "in_reply_to_user_id": "2179819292",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843667674821255465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@usagi_anime 理世被夺舍了吗 完全不像……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843567649026084865",
+            "3_1843567649080651776"
+          ]
+        },
+        "author_id": "2179819292",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1148328095914479616",
+              "name": "Blu-ray"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          }
+        ],
+        "conversation_id": "1843667674821255465",
+        "created_at": "2024-10-08T15:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T16:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843667674821255465"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "Koi先生",
+              "probability": 0.452,
+              "start": 47,
+              "type": "Person"
+            },
+            {
+              "end": 116,
+              "normalized_text": "Daydream café and dream!",
+              "probability": 0.7568,
+              "start": 93,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 197,
+              "start": 188,
+              "tag": "gochiusa"
+            }
+          ],
+          "urls": [
+            {
+              "description": "喫茶ラビットハウスにやってきたココア。実は、そこが彼女が住み込むことになっていた喫茶店で…。お店で出会う女の子たちも、クールでちっちゃいチノ、軍人気質なリゼ、おっとり和風な千夜、気品あふれる庶民派シャロと全方位からかわいさと笑いが炸裂！",
+              "display_url": "bit.ly/3ZWIAdo",
+              "end": 186,
+              "expanded_url": "https://bit.ly/3ZWIAdo",
+              "images": [
+                {
+                  "height": 775,
+                  "url": "https://pbs.twimg.com/news_img/1843667719230513152/zfBQNV0M?format=jpg&name=orig",
+                  "width": 566
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1843667719230513152/zfBQNV0M?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 163,
+              "status": 200,
+              "title": "『ご注文はうさぎですか？』Blu-ray BOX ～TV Animation 10th Anniversary～＜初回限定生産＞",
+              "unwound_url": "https://gochiusa.com/series_bd_dvd/10th-box.html?utm_source=x&utm_medium=post&utm_campaign=10thbox",
+              "url": "https://t.co/u7KPD9y4pr"
+            },
+            {
+              "display_url": "pic.x.com/rPD7y7SkcM",
+              "end": 221,
+              "expanded_url": "https://x.com/usagi_anime/status/1843667674821255465/photo/1",
+              "media_key": "3_1843567649026084865",
+              "start": 198,
+              "url": "https://t.co/rPD7y7SkcM"
+            },
+            {
+              "display_url": "pic.x.com/rPD7y7SkcM",
+              "end": 221,
+              "expanded_url": "https://x.com/usagi_anime/status/1843667674821255465/photo/1",
+              "media_key": "3_1843567649080651776",
+              "start": 198,
+              "url": "https://t.co/rPD7y7SkcM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843667674821255465",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 805,
+          "impression_count": 337867,
+          "like_count": 8895,
+          "quote_count": 317,
+          "reply_count": 33,
+          "retweet_count": 2568
+        },
+        "reply_settings": "everyone",
+        "text": "すべてが、かわいい♪\nTVアニメ放送10周年記念Blu-ray BOX 12月25日発売✨\n\nKoi先生描き下ろし三方背ケースが目印🐰\n\n特典CD\nPetit Rabbit's 新曲「Daydream café and dream!」\n映像特典\n撮りおろしキャストインタビュー120分超え☕️\n\n各法人特典など詳細はコチラ♪\nhttps://t.co/u7KPD9y4pr\n\n#gochiusa https://t.co/rPD7y7SkcM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22493,
+          "following_count": 256,
+          "like_count": 6276,
+          "listed_count": 39,
+          "tweet_count": 3700
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-07T10:29:29.000Z",
+        "description": "『ご注文はうさぎですか？』公式アカウントです #gochiusa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 23,
+                "tag": "gochiusa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gochiusa.com",
+                "end": 23,
+                "expanded_url": "https://gochiusa.com/",
+                "start": 0,
+                "url": "https://t.co/KsuupHj4cH"
+              }
+            ]
+          }
+        },
+        "id": "2179819292",
+        "location": "Rabbit House",
+        "name": "TVアニメ『ご注文はうさぎですか？』",
+        "pinned_tweet_id": "1843667674821255465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836782322110353408/8E7zIcx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436152,
+          "following_count": 29,
+          "like_count": 5,
+          "listed_count": 3966,
+          "tweet_count": 8421
+        },
+        "url": "https://t.co/KsuupHj4cH",
+        "username": "usagi_anime",
+        "verified": true
+      }
+    ]
+  }
+}

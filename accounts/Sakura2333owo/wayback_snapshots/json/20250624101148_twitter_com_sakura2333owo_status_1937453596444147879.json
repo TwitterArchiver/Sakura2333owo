@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1937453511056457730"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1937453596444147879",
+    "created_at": "2025-06-24T10:11:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T11:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937453596444147879"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qOQOQFDeo6",
+          "end": 48,
+          "expanded_url": "https://x.com/sakura2333owo/status/1937453596444147879/video/1",
+          "media_key": "13_1937453511056457730",
+          "start": 25,
+          "url": "https://t.co/qOQOQFDeo6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937453596444147879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "北风呼呼往嘴里来 它又呼呼往嘴里去( ˘ω˘ ) https://t.co/qOQOQFDeo6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13183,
+        "height": 1126,
+        "media_key": "13_1937453511056457730",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1937453511056457730/img/OGJ_masG5MFca1de.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937453511056457730/vid/avc1/320x600/RX8VLJIGd-Y5KdSV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937453511056457730/vid/avc1/480x900/OlX4VMr8C7fgBFYA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937453511056457730/vid/avc1/600x1126/fCy0G_voajJfZFRF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1937453511056457730/pl/sOSu1zwGE2LaPD3-.m3u8"
+          }
+        ],
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1937453511056457730"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1937453596444147879",
+        "created_at": "2025-06-24T10:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T11:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937453596444147879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qOQOQFDeo6",
+              "end": 48,
+              "expanded_url": "https://x.com/sakura2333owo/status/1937453596444147879/video/1",
+              "media_key": "13_1937453511056457730",
+              "start": 25,
+              "url": "https://t.co/qOQOQFDeo6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937453596444147879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "北风呼呼往嘴里来 它又呼呼往嘴里去( ˘ω˘ ) https://t.co/qOQOQFDeo6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆自撮り/雑垢/絵/東方project/les ★老鼠预警⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32281,
+          "following_count": 273,
+          "like_count": 7175,
+          "listed_count": 50,
+          "media_count": 1074,
+          "tweet_count": 4871
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "2000519761936163226",
+    "created_at": "2025-12-16T09:13:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T10:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000856839253319792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1606289378527313920",
+          "start": 0,
+          "username": "ZzUnUz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000856839253319792",
+    "in_reply_to_user_id": "1606289378527313920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000519761936163226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZzUnUz ᴛㅅᴛ我只会和别人说我靠你知道我在拼多多淘了多少件几块钱的衣服吗🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "2000519761936163226",
+        "created_at": "2025-12-16T09:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T10:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000856839253319792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1606289378527313920",
+              "start": 0,
+              "username": "ZzUnUz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000856839253319792",
+        "in_reply_to_user_id": "1606289378527313920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000519761936163226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZzUnUz ᴛㅅᴛ我只会和别人说我靠你知道我在拼多多淘了多少件几块钱的衣服吗🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1606289378527313920",
+        "conversation_id": "2000519761936163226",
+        "created_at": "2025-12-15T10:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T11:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000519761936163226"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000519761936163226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4824,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我连装逼都不知道装哪个方面，奢侈品不认识车不认识国家不认识几个连国内都有哪些城市都记不全，我只能抱着我的三丽鸥bjd弱弱的跟别人说我这很贵你有吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37060,
+          "following_count": 286,
+          "like_count": 7531,
+          "listed_count": 76,
+          "media_count": 1161,
+          "tweet_count": 5280
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-23T14:04:06.000Z",
+        "description": "",
+        "id": "1606289378527313920",
+        "name": "宅又萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997576209413410817/XVjvlPHU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50972,
+          "following_count": 24,
+          "like_count": 13,
+          "listed_count": 115,
+          "media_count": 200,
+          "tweet_count": 1655
+        },
+        "username": "ZzUnUz",
+        "verified": false
+      }
+    ]
+  }
+}

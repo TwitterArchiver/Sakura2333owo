@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876739510790438912"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1876736387447210217",
+    "created_at": "2025-01-07T21:15:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T22:15:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876739521070395455"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 55,
+          "tag": "ര"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1392452107450474499",
+          "start": 0,
+          "username": "_infinity_xxx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3LyqMBaJGA",
+          "end": 146,
+          "expanded_url": "https://x.com/sakura2333owo/status/1876739521070395455/photo/1",
+          "media_key": "3_1876739510790438912",
+          "start": 123,
+          "url": "https://t.co/3LyqMBaJGA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876739521070395455",
+    "in_reply_to_user_id": "1392452107450474499",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876736387447210217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_infinity_xxx 私は「Balatro」で遊んでいて…(｡_｡)うっかり徹夜してしまいました——(＃ര‸ര)……このゲームは中毒になるほど楽しい、、、おすすめです(=;ω;=)私はもう2日も寝ていない……ずっとこのゲームをしています https://t.co/3LyqMBaJGA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_1876739510790438912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GguEpESawAAfn8-.jpg",
+        "width": 1919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876739510790438912"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1876736387447210217",
+        "created_at": "2025-01-07T21:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T22:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876739521070395455"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 55,
+              "tag": "ര"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1392452107450474499",
+              "start": 0,
+              "username": "_infinity_xxx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3LyqMBaJGA",
+              "end": 146,
+              "expanded_url": "https://x.com/sakura2333owo/status/1876739521070395455/photo/1",
+              "media_key": "3_1876739510790438912",
+              "start": 123,
+              "url": "https://t.co/3LyqMBaJGA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876739521070395455",
+        "in_reply_to_user_id": "1392452107450474499",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876736387447210217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_infinity_xxx 私は「Balatro」で遊んでいて…(｡_｡)うっかり徹夜してしまいました——(＃ര‸ര)……このゲームは中毒になるほど楽しい、、、おすすめです(=;ω;=)私はもう2日も寝ていない……ずっとこのゲームをしています https://t.co/3LyqMBaJGA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1392452107450474499",
+        "conversation_id": "1876736387447210217",
+        "created_at": "2025-01-07T21:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T22:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876736387447210217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1876736387447210217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "眠剤で眠いのに寝れない"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24612,
+          "following_count": 270,
+          "like_count": 6556,
+          "listed_count": 40,
+          "media_count": 924,
+          "tweet_count": 4190
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-12T12:10:45.000Z",
+        "description": "@_Infinity_zzz ⸜ ♡ ⸝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "_Infinity_zzz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aomaru319",
+                "end": 23,
+                "expanded_url": "https://lit.link/aomaru319",
+                "start": 0,
+                "url": "https://t.co/qKE42KNqt3"
+              }
+            ]
+          }
+        },
+        "id": "1392452107450474499",
+        "location": "💤💤💤",
+        "name": "あおまる",
+        "pinned_tweet_id": "1779810848036516333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848307505883148288/o5T7CD9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15168,
+          "following_count": 316,
+          "like_count": 3048,
+          "listed_count": 28,
+          "media_count": 5341,
+          "tweet_count": 23111
+        },
+        "url": "https://t.co/qKE42KNqt3",
+        "username": "_infinity_xxx",
+        "verified": true
+      }
+    ]
+  }
+}

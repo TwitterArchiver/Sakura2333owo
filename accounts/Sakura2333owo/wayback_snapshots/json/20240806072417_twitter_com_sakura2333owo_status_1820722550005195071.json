@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1820355724133667108",
+    "created_at": "2024-08-06T07:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-06T08:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820722550005195071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1166387941",
+          "start": 0,
+          "username": "whotfisjovana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820722550005195071",
+    "in_reply_to_user_id": "1166387941",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820355724133667108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whotfisjovana 我和我女友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1820355724133667108",
+        "created_at": "2024-08-06T07:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T08:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820722550005195071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1166387941",
+              "start": 0,
+              "username": "whotfisjovana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820722550005195071",
+        "in_reply_to_user_id": "1166387941",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820355724133667108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whotfisjovana 我和我女友"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820355719893315584"
+          ]
+        },
+        "author_id": "1166387941",
+        "conversation_id": "1820355724133667108",
+        "created_at": "2024-08-05T07:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T08:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820355724133667108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/n0ZkjT7S9B",
+              "end": 25,
+              "expanded_url": "https://twitter.com/whotfisjovana/status/1820355724133667108/photo/1",
+              "media_key": "3_1820355719893315584",
+              "start": 2,
+              "url": "https://t.co/n0ZkjT7S9B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820355724133667108",
+        "lang": "ko",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1336,
+          "impression_count": 653227,
+          "like_count": 23258,
+          "quote_count": 466,
+          "reply_count": 216,
+          "retweet_count": 2481
+        },
+        "reply_settings": "everyone",
+        "text": "ㅤ https://t.co/n0ZkjT7S9B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1628603463830757377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18486,
+          "following_count": 248,
+          "like_count": 6121,
+          "listed_count": 35,
+          "tweet_count": 3356
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-10T16:38:39.000Z",
+        "description": "20X+ Viral Tweeter, Artist/Musician/Meme Queen/Content Creator/Tarot Reader/Ramen lover 🤎🐈 tips appreciated for coffee ! ☕️💤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/thenotoriousjov",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/thenotoriousjov",
+                "start": 0,
+                "url": "https://t.co/fXs4teKk52"
+              }
+            ]
+          }
+        },
+        "id": "1166387941",
+        "location": "Ms. Worldwide ✈️ She/Her",
+        "name": "The Notorious J.O.V.",
+        "pinned_tweet_id": "1746956252473708581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1442270608109232129/NrIOEyYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351898,
+          "following_count": 7438,
+          "like_count": 121745,
+          "listed_count": 586,
+          "tweet_count": 128601
+        },
+        "url": "https://t.co/fXs4teKk52",
+        "username": "whotfisjovana",
+        "verified": true
+      }
+    ]
+  }
+}

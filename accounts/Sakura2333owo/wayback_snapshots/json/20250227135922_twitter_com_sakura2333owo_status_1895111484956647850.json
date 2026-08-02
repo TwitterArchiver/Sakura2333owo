@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1895078058878738934",
+    "created_at": "2025-02-27T13:59:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T14:59:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895111484956647850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1741880208431763456",
+          "start": 0,
+          "username": "hww86434"
+        },
+        {
+          "end": 23,
+          "id": "1052542133519826945",
+          "start": 10,
+          "username": "matsuri_kksk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895111484956647850",
+    "in_reply_to_user_id": "1741880208431763456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895083557779062906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hww86434 @matsuri_kksk 只有我女朋友可以喝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1895078058878738934",
+        "created_at": "2025-02-27T13:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T14:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895111484956647850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1741880208431763456",
+              "start": 0,
+              "username": "hww86434"
+            },
+            {
+              "end": 23,
+              "id": "1052542133519826945",
+              "start": 10,
+              "username": "matsuri_kksk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895111484956647850",
+        "in_reply_to_user_id": "1741880208431763456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895083557779062906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hww86434 @matsuri_kksk 只有我女朋友可以喝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741880208431763456",
+        "conversation_id": "1895078058878738934",
+        "created_at": "2025-02-27T12:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T13:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895083557779062906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            },
+            {
+              "end": 28,
+              "id": "1052542133519826945",
+              "start": 15,
+              "username": "matsuri_kksk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895083557779062906",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895078058878738934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo @matsuri_kksk 我要喝😺😺国王的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31616,
+          "following_count": 263,
+          "like_count": 7079,
+          "listed_count": 54,
+          "media_count": 1006,
+          "tweet_count": 4610
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T17:53:51.000Z",
+        "description": "不知写什么，就先喵呜～",
+        "id": "1741880208431763456",
+        "location": "果克星球",
+        "name": "伊蕾娜不是一药娘🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883117323353255936/AWlKKJSF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 118,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 417
+        },
+        "username": "hww86434",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-17T12:49:34.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sigure.jp",
+                "end": 23,
+                "expanded_url": "http://www.sigure.jp",
+                "start": 0,
+                "url": "https://t.co/f7iyZxc29U"
+              }
+            ]
+          }
+        },
+        "id": "1052542133519826945",
+        "name": "🏮夏色まつり ガチ恋勢🏮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891836793240289283/LwsibQ9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1437,
+          "following_count": 907,
+          "like_count": 73579,
+          "listed_count": 8,
+          "media_count": 1442,
+          "tweet_count": 35001
+        },
+        "url": "https://t.co/f7iyZxc29U",
+        "username": "matsuri_kksk",
+        "verified": false
+      }
+    ]
+  }
+}

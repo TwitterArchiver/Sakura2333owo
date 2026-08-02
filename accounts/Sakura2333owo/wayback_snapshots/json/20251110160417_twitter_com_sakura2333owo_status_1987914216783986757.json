@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1987914012181585920"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "1987914216783986757",
+    "created_at": "2025-11-10T16:04:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T17:04:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987914216783986757"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xbo8oilAbw",
+          "end": 35,
+          "expanded_url": "https://x.com/sakura2333owo/status/1987914216783986757/video/1",
+          "media_key": "13_1987914012181585920",
+          "start": 12,
+          "url": "https://t.co/xbo8oilAbw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987914216783986757",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "☆_(-ω-_[▓▓] https://t.co/xbo8oilAbw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16055,
+        "height": 720,
+        "media_key": "13_1987914012181585920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1987914012181585920/img/1x96tkBXc5llLhxV.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987914012181585920/vid/avc1/420x270/VlpWecVEF3HlK_s6.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987914012181585920/vid/avc1/560x360/nyKGprLOH5OFac1Y.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987914012181585920/vid/avc1/1120x720/v2akO2n3R0xEywt5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1987914012181585920/pl/GI6a81TPJDZiXD4O.m3u8"
+          }
+        ],
+        "width": 1120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1987914012181585920"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1987914216783986757",
+        "created_at": "2025-11-10T16:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T17:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987914216783986757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xbo8oilAbw",
+              "end": 35,
+              "expanded_url": "https://x.com/sakura2333owo/status/1987914216783986757/video/1",
+              "media_key": "13_1987914012181585920",
+              "start": 12,
+              "url": "https://t.co/xbo8oilAbw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987914216783986757",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "☆_(-ω-_[▓▓] https://t.co/xbo8oilAbw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉—貓貓國",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1984186644141158737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35870,
+          "following_count": 281,
+          "like_count": 7365,
+          "listed_count": 68,
+          "media_count": 1142,
+          "tweet_count": 5170
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

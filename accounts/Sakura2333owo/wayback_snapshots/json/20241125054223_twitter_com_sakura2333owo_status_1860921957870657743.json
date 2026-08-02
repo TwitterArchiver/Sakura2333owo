@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1860528033922449753",
+    "created_at": "2024-11-25T05:42:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T06:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860921957870657743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499991101301616642",
+          "start": 0,
+          "username": "huash1yy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860921957870657743",
+    "in_reply_to_user_id": "1499991101301616642",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860528033922449753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huash1yy 刷推咋也能看到勇弟笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1860528033922449753",
+        "created_at": "2024-11-25T05:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T06:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860921957870657743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499991101301616642",
+              "start": 0,
+              "username": "huash1yy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860921957870657743",
+        "in_reply_to_user_id": "1499991101301616642",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860528033922449753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huash1yy 刷推咋也能看到勇弟笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860528027417092096"
+          ]
+        },
+        "author_id": "1499991101301616642",
+        "conversation_id": "1860528033922449753",
+        "created_at": "2024-11-24T03:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T04:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860528033922449753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eQvkXreIqS",
+              "end": 32,
+              "expanded_url": "https://x.com/huash1yy/status/1860528033922449753/photo/1",
+              "media_key": "3_1860528027417092096",
+              "start": 9,
+              "url": "https://t.co/eQvkXreIqS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860528033922449753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 56821,
+          "like_count": 499,
+          "quote_count": 9,
+          "reply_count": 77,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "你们的大奶男妈妈 https://t.co/eQvkXreIqS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818244351623131136/gKmJ53de_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23176,
+          "following_count": 268,
+          "like_count": 6274,
+          "listed_count": 38,
+          "tweet_count": 3843
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-05T06:12:14.000Z",
+        "description": "一小部分我｜不线下｜黄推&🐱推\n                                   小号 @654321zeo🚪88（没过门不要申请）             匿名提问https://t.co/hQccQAVa1R",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "654321zeo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/huash1yy",
+                "end": 116,
+                "expanded_url": "https://ngl.link/huash1yy",
+                "start": 93,
+                "url": "https://t.co/hQccQAVa1R"
+              }
+            ]
+          }
+        },
+        "id": "1499991101301616642",
+        "name": "我爱吃饭Y.Y",
+        "pinned_tweet_id": "1833835131867697545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859500949129277440/Kj43i-ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9103,
+          "following_count": 260,
+          "like_count": 4209,
+          "listed_count": 61,
+          "tweet_count": 1414
+        },
+        "username": "huash1yy",
+        "verified": false
+      }
+    ]
+  }
+}

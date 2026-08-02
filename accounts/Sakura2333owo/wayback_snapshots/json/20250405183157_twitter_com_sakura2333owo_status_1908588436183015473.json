@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1908179366342979816",
+    "created_at": "2025-04-05T18:31:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T19:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908588436183015473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850566498412318720",
+          "start": 0,
+          "username": "luobo4444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908588436183015473",
+    "in_reply_to_user_id": "1850566498412318720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908179366342979816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luobo4444 （听说烧黄纸或者金元宝是有用的！ㅇㅅㅇ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1908179348123000832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gns3AdSboAAAb6M.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1908179348118716416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gns3AdRaQAAoixO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1908179366342979816",
+        "created_at": "2025-04-05T18:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T19:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908588436183015473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1850566498412318720",
+              "start": 0,
+              "username": "luobo4444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908588436183015473",
+        "in_reply_to_user_id": "1850566498412318720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908179366342979816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luobo4444 （听说烧黄纸或者金元宝是有用的！ㅇㅅㅇ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908179348123000832",
+            "3_1908179348118716416"
+          ]
+        },
+        "author_id": "1850566498412318720",
+        "conversation_id": "1908179366342979816",
+        "created_at": "2025-04-04T15:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T16:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908179366342979816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nyj4iuMFKH",
+              "end": 70,
+              "expanded_url": "https://x.com/luobo4444/status/1908179366342979816/photo/1",
+              "media_key": "3_1908179348123000832",
+              "start": 47,
+              "url": "https://t.co/Nyj4iuMFKH"
+            },
+            {
+              "display_url": "pic.x.com/Nyj4iuMFKH",
+              "end": 70,
+              "expanded_url": "https://x.com/luobo4444/status/1908179366342979816/photo/1",
+              "media_key": "3_1908179348118716416",
+              "start": 47,
+              "url": "https://t.co/Nyj4iuMFKH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908179366342979816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 18272,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "yuki下辈子当个健全人吧，希望你不需要靠药物和酒精麻痹自己，平平安安的长大，顺顺利利的变老 https://t.co/Nyj4iuMFKH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31903,
+          "following_count": 269,
+          "like_count": 7171,
+          "listed_count": 54,
+          "media_count": 1024,
+          "tweet_count": 4711
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T15:54:25.000Z",
+        "description": "ig： yanyan_kawa1｜空蝉原｜06｜INFP｜ 高中生｜不互关互转｜日本語学习中｜随缘fo｜是的我是萝卜哥",
+        "id": "1850566498412318720",
+        "location": "空蝉如此世，幻灭若朝霞",
+        "name": "hara🥕",
+        "pinned_tweet_id": "1850571520382521422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902213129842642944/arvYOjXR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5634,
+          "following_count": 239,
+          "like_count": 1629,
+          "listed_count": 7,
+          "media_count": 208,
+          "tweet_count": 1109
+        },
+        "username": "luobo4444",
+        "verified": false
+      }
+    ]
+  }
+}

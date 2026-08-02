@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1863957891260309819",
+    "created_at": "2024-12-03T14:46:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T15:46:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1863957891260309819"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1863957891260309819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "我不会再去医院补药了即使我有的时候犯病了很崩溃即使我躯体化要受不了我也不想去开药了 开药太贵了我受不了我也接受不了发胖的副作用  所有有副作用的药我都没开封 所以发病我只会忍着 我甚至有的时候意识不到我已经又发病了 永远不会再去开药 我还不如攒钱 好了就这样吧下次再聊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1863957891260309819",
+        "created_at": "2024-12-03T14:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T15:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863957891260309819"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1863957891260309819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "我不会再去医院补药了即使我有的时候犯病了很崩溃即使我躯体化要受不了我也不想去开药了 开药太贵了我受不了我也接受不了发胖的副作用  所有有副作用的药我都没开封 所以发病我只会忍着 我甚至有的时候意识不到我已经又发病了 永远不会再去开药 我还不如攒钱 好了就这样吧下次再聊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23446,
+          "following_count": 269,
+          "like_count": 6316,
+          "listed_count": 36,
+          "media_count": 833,
+          "tweet_count": 3907
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1129067985451118593",
+          "name": "Physical Education"
+        }
+      }
+    ],
+    "conversation_id": "1999454657815728558",
+    "created_at": "2025-12-14T06:54:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T07:54:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000097155659485573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1241718056084074496",
+          "start": 0,
+          "username": "Innzer1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000097155659485573",
+    "in_reply_to_user_id": "1241718056084074496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999670179903734189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Innzer1 背景的意思是家长的话 家长都劝孩子别学艺术 好好走文化课  学校为了升学率当然支持音乐美术传媒体育特长生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1999454657815728558",
+        "created_at": "2025-12-14T06:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T07:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000097155659485573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1241718056084074496",
+              "start": 0,
+              "username": "Innzer1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000097155659485573",
+        "in_reply_to_user_id": "1241718056084074496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999670179903734189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Innzer1 背景的意思是家长的话 家长都劝孩子别学艺术 好好走文化课  学校为了升学率当然支持音乐美术传媒体育特长生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1241718056084074496",
+        "conversation_id": "1999454657815728558",
+        "created_at": "2025-12-13T02:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T03:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999670179903734189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999670179903734189",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3266,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999454657815728558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 不，一般而言只会有劝学习不行的转艺术生的，没有劝艺术生转文化的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37082,
+          "following_count": 286,
+          "like_count": 7534,
+          "listed_count": 77,
+          "media_count": 1159,
+          "tweet_count": 5274
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-22T13:27:18.000Z",
+        "description": "喜欢猫猫狗狗\n如果永远都是黑夜就好了",
+        "id": "1241718056084074496",
+        "location": "China",
+        "name": "Innzer",
+        "pinned_tweet_id": "1494016627989368835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1441726951433990145/WMmtJ16S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 1011,
+          "like_count": 17023,
+          "listed_count": 5,
+          "media_count": 134,
+          "tweet_count": 7126
+        },
+        "username": "Innzer1",
+        "verified": false
+      }
+    ]
+  }
+}

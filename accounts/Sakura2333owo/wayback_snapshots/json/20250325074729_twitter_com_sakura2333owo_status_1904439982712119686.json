@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1904413034317332952",
+    "created_at": "2025-03-25T07:47:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T08:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904439982712119686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1761106331896033283",
+          "start": 0,
+          "username": "nemurikamisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904439982712119686",
+    "in_reply_to_user_id": "1761106331896033283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904413034317332952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nemurikamisama 谢谢你 我只是很普通说实话还有些懦弱自私的人 ，对大家温柔或者耐心一些可以让别人觉得友善，如果有矛盾也可以畅快解决。主要也有一部分是我性格所成 只是希望在我与他人交流里 尽我所能让别人舒服( ˘ω˘ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1904413034317332952",
+        "created_at": "2025-03-25T07:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T08:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904439982712119686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1761106331896033283",
+              "start": 0,
+              "username": "nemurikamisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904439982712119686",
+        "in_reply_to_user_id": "1761106331896033283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904413034317332952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nemurikamisama 谢谢你 我只是很普通说实话还有些懦弱自私的人 ，对大家温柔或者耐心一些可以让别人觉得友善，如果有矛盾也可以畅快解决。主要也有一部分是我性格所成 只是希望在我与他人交流里 尽我所能让别人舒服( ˘ω˘ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761106331896033283",
+        "conversation_id": "1904413034317332952",
+        "created_at": "2025-03-25T06:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T07:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904413034317332952"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904413034317332952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 296,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我覺得一切的善意都是謊言 為了利益\n我不能接受純粹的善意 說實話雖然我不了解夏夏但是她真的讓我感覺很溫柔\n我的世界觀真的有點崩裂 夏夏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31620,
+          "following_count": 266,
+          "like_count": 7097,
+          "listed_count": 54,
+          "media_count": 1017,
+          "tweet_count": 4655
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T19:10:51.000Z",
+        "description": "永い眠りにつく\n性別是神\n發言如讓您感到不適我很榮幸",
+        "id": "1761106331896033283",
+        "location": "表世界",
+        "name": "海眠大人🪦⑨",
+        "pinned_tweet_id": "1878098084397478005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902341275199926274/wrqhb4Zz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11182,
+          "following_count": 25,
+          "like_count": 5489,
+          "listed_count": 16,
+          "media_count": 294,
+          "tweet_count": 2656
+        },
+        "username": "nemurikamisama",
+        "verified": false
+      }
+    ]
+  }
+}

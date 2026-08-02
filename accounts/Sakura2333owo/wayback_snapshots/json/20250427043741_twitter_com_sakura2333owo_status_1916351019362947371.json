@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1915778274418123233",
+    "created_at": "2025-04-27T04:37:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T05:37:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916351019362947371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1522837739313508352",
+          "start": 0,
+          "username": "liyia18"
+        },
+        {
+          "end": 23,
+          "id": "1675133488524328961",
+          "start": 9,
+          "username": "Kietter387803"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916351019362947371",
+    "in_reply_to_user_id": "1522837739313508352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916149378382786955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liyia18 @Kietter387803 宝宝这个苹果快捷方式自己就可以设置的！不用下其他软件~ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1915778274418123233",
+        "created_at": "2025-04-27T04:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T05:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916351019362947371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1522837739313508352",
+              "start": 0,
+              "username": "liyia18"
+            },
+            {
+              "end": 23,
+              "id": "1675133488524328961",
+              "start": 9,
+              "username": "Kietter387803"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916351019362947371",
+        "in_reply_to_user_id": "1522837739313508352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916149378382786955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liyia18 @Kietter387803 宝宝这个苹果快捷方式自己就可以设置的！不用下其他软件~ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522837739313508352",
+        "conversation_id": "1915778274418123233",
+        "created_at": "2025-04-26T15:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T16:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916149378382786955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            },
+            {
+              "end": 29,
+              "id": "1675133488524328961",
+              "start": 15,
+              "username": "Kietter387803"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916149378382786955",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916070766581584045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo @Kietter387803 你的苹果怎么和我的不一样，这河里吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "我在这里养了一只果然翁冂( ＞﹏＜˵) ソーナンス~☆自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31854,
+          "following_count": 270,
+          "like_count": 7203,
+          "listed_count": 53,
+          "media_count": 1039,
+          "tweet_count": 4782
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-07T07:16:43.000Z",
+        "description": "重度抑郁，中度焦虑，偶尔发病，大部分时间是个人。无证含糖。hrt：2025.3.6",
+        "id": "1522837739313508352",
+        "location": "梦里",
+        "name": "mapafng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822238785213526017/vKxMs1U1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 52,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 619
+        },
+        "username": "liyia18",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T13:25:30.000Z",
+        "description": "很喜欢你们，如果能多多看我就更喜欢了。不可替代的@fuyumonya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "fuyumonya"
+              }
+            ]
+          }
+        },
+        "id": "1675133488524328961",
+        "location": "日本104-0045 tokyo, chuo city",
+        "name": "kiehésitent",
+        "pinned_tweet_id": "1915672542842417306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892928085554827264/9Q1HEcUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6996,
+          "following_count": 1517,
+          "like_count": 24264,
+          "listed_count": 17,
+          "media_count": 2890,
+          "tweet_count": 19210
+        },
+        "username": "Kietter387803",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1993914355461857635",
+    "created_at": "2025-11-28T05:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T06:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994282832227914088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1939788304104251392",
+          "start": 0,
+          "username": "digitaldoghalo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994282832227914088",
+    "in_reply_to_user_id": "1939788304104251392",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994182092003983568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@digitaldoghalo The numb of messages is not display,It's just a custom icon.˰̮⛻̴⃠︣⸝⸝̼⸝֪⛻̴⃠︣𛰨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1993914355461857635",
+        "created_at": "2025-11-28T05:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T06:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994282832227914088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1939788304104251392",
+              "start": 0,
+              "username": "digitaldoghalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994282832227914088",
+        "in_reply_to_user_id": "1939788304104251392",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994182092003983568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@digitaldoghalo The numb of messages is not display,It's just a custom icon.˰̮⛻̴⃠︣⸝⸝̼⸝֪⛻̴⃠︣𛰨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939788304104251392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "1993914355461857635",
+        "created_at": "2025-11-27T23:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T00:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994182092003983568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994182092003983568",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993914355461857635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 对不起，我的中文是臭，但这样设置后通知会显示在主屏幕上吗？上次我这样设置时，主屏幕上没有显示通知数量，不过那是在这个功能刚推出时。或许在iOS 26系统中有所改变？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36753,
+          "following_count": 283,
+          "like_count": 7431,
+          "listed_count": 74,
+          "media_count": 1148,
+          "tweet_count": 5206
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T20:49:13.000Z",
+        "description": "she/they💛darkship💛menhera demigirl puppyangel💛learning 日本語/中文💛neo universe yume💛antis will be blocked💛bigots go away💛daddy/owner: @SagaSakura_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 130,
+                "username": "SagaSakura_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "digitaldoghalo.straw.page",
+                "end": 23,
+                "expanded_url": "https://digitaldoghalo.straw.page",
+                "start": 0,
+                "url": "https://t.co/qbERwvHIOW"
+              }
+            ]
+          }
+        },
+        "id": "1939788304104251392",
+        "location": "22 💛 minors dnf",
+        "name": "Gabupup ⋆⭒˚.⋆ 💛 Neo-chan’s Puppygirl 🦴",
+        "pinned_tweet_id": "1964106831447409055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981420323120590848/OJdZXGSY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 1414,
+          "like_count": 24883,
+          "listed_count": 6,
+          "media_count": 406,
+          "tweet_count": 7232
+        },
+        "url": "https://t.co/qbERwvHIOW",
+        "username": "digitaldoghalo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "1902427823840883201",
+    "created_at": "2025-03-19T18:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T19:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902430320370254078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1793709700485136384",
+          "start": 0,
+          "username": "kanako0223ff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902430320370254078",
+    "in_reply_to_user_id": "1793709700485136384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902429995009753468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanako0223ff 我要哭了 我女朋友非要我开语音空间 T_T……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "1902427823840883201",
+        "created_at": "2025-03-19T18:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T19:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902430320370254078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1793709700485136384",
+              "start": 0,
+              "username": "kanako0223ff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902430320370254078",
+        "in_reply_to_user_id": "1793709700485136384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902429995009753468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanako0223ff 我要哭了 我女朋友非要我开语音空间 T_T……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793709700485136384",
+        "conversation_id": "1902427823840883201",
+        "created_at": "2025-03-19T18:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T19:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902429995009753468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902429995009753468",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902427823840883201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 他话好多啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31671,
+          "following_count": 266,
+          "like_count": 7097,
+          "listed_count": 54,
+          "media_count": 1014,
+          "tweet_count": 4647
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T18:25:03.000Z",
+        "description": "发布我以前的照片 大号：@kanakosama0223",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "kanakosama0223"
+              }
+            ]
+          }
+        },
+        "id": "1793709700485136384",
+        "location": "22年",
+        "name": "kanako",
+        "pinned_tweet_id": "1794966332171247785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886111157595041792/LxeA930u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1376,
+          "following_count": 11,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 101
+        },
+        "username": "kanako0223ff",
+        "verified": false
+      }
+    ]
+  }
+}
