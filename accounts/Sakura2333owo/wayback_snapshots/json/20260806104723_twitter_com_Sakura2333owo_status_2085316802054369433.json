@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085316766851612672",
+        "3_2085316766864191488"
+      ]
+    },
+    "author_id": "1508447794537070595",
+    "conversation_id": "2085316802054369433",
+    "created_at": "2026-08-06T10:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T11:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085316802054369433"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2hAjbPTkks",
+          "end": 66,
+          "expanded_url": "https://x.com/Sakura2333owo/status/2085316802054369433/photo/1",
+          "media_key": "3_2085316766851612672",
+          "start": 43,
+          "url": "https://t.co/2hAjbPTkks"
+        },
+        {
+          "display_url": "pic.x.com/2hAjbPTkks",
+          "end": 66,
+          "expanded_url": "https://x.com/Sakura2333owo/status/2085316802054369433/photo/1",
+          "media_key": "3_2085316766864191488",
+          "start": 43,
+          "url": "https://t.co/2hAjbPTkks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085316802054369433",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "全场五折 半价  博主寄拍仅试穿 喜欢的宝宝可以私信我！ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ https://t.co/2hAjbPTkks"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085316766851612672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCIjQxbQAAOD9o.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085316766864191488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCIjQ0bMAATYfM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085316766851612672",
+            "3_2085316766864191488"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "2085316802054369433",
+        "created_at": "2026-08-06T10:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T11:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085316802054369433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2hAjbPTkks",
+              "end": 66,
+              "expanded_url": "https://x.com/Sakura2333owo/status/2085316802054369433/photo/1",
+              "media_key": "3_2085316766851612672",
+              "start": 43,
+              "url": "https://t.co/2hAjbPTkks"
+            },
+            {
+              "display_url": "pic.x.com/2hAjbPTkks",
+              "end": 66,
+              "expanded_url": "https://x.com/Sakura2333owo/status/2085316802054369433/photo/1",
+              "media_key": "3_2085316766864191488",
+              "start": 43,
+              "url": "https://t.co/2hAjbPTkks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085316802054369433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全场五折 半价  博主寄拍仅试穿 喜欢的宝宝可以私信我！ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ https://t.co/2hAjbPTkks"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི 🩵☁️💤All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想鄉-貓貓国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37130,
+          "following_count": 297,
+          "like_count": 7925,
+          "listed_count": 78,
+          "media_count": 1205,
+          "tweet_count": 5520
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "Sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}
