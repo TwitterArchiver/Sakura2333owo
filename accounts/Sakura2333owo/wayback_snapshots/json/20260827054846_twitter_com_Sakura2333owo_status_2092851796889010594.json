@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1508447794537070595",
+    "conversation_id": "2077239504675676504",
+    "created_at": "2026-08-27T05:48:46.000Z",
+    "display_text_range": [
+      14,
+      100
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T06:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092851796889010594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1571743591650963461",
+          "start": 0,
+          "username": "tomatopsyaca"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "xhslink.cn/o/45nS5MdgkXc",
+          "end": 69,
+          "expanded_url": "https://xhslink.cn/o/45nS5MdgkXc",
+          "start": 46,
+          "unwound_url": "https://www.xiaohongshu.com/discovery/item/6a239951000000002200a8d8?app_platform=ios&app_version=9.44.1&share_from_user_hidden=true&xsec_source=app_share&type=video&xsec_token=CBr8VJyU6ZqxqPG4VaDlG5hRL-zUlZhRAGtrTT34TbGuY=&author_share=1&xhsshare=CopyLink&shareRedId=N0pGRjw2Rjs2NzUyOTgwNjY0OTc8PjtN&apptime=1787809706&share_id=70720a728e694877bdcd286d51312245",
+          "url": "https://t.co/NnrjeuRbMy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092851796889010594",
+    "in_reply_to_user_id": "1571743591650963461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092796710418559267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tomatopsyaca ( ˘ω˘ )全球83亿人都在蹲的卷发教程来了 崩溃了力... https://t.co/NnrjeuRbMy 复制好文字，去【小红书】解锁完整内容~ \n\n宝宝我录过教程！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508447794537070595",
+        "conversation_id": "2077239504675676504",
+        "created_at": "2026-08-27T05:48:46.000Z",
+        "display_text_range": [
+          14,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T06:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092851796889010594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1571743591650963461",
+              "start": 0,
+              "username": "tomatopsyaca"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "xhslink.cn/o/45nS5MdgkXc",
+              "end": 69,
+              "expanded_url": "https://xhslink.cn/o/45nS5MdgkXc",
+              "start": 46,
+              "unwound_url": "https://www.xiaohongshu.com/discovery/item/6a239951000000002200a8d8?app_platform=ios&app_version=9.44.1&share_from_user_hidden=true&xsec_source=app_share&type=video&xsec_token=CBr8VJyU6ZqxqPG4VaDlG5hRL-zUlZhRAGtrTT34TbGuY=&author_share=1&xhsshare=CopyLink&shareRedId=N0pGRjw2Rjs2NzUyOTgwNjY0OTc8PjtN&apptime=1787809706&share_id=70720a728e694877bdcd286d51312245",
+              "url": "https://t.co/NnrjeuRbMy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092851796889010594",
+        "in_reply_to_user_id": "1571743591650963461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092796710418559267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tomatopsyaca ( ˘ω˘ )全球83亿人都在蹲的卷发教程来了 崩溃了力... https://t.co/NnrjeuRbMy 复制好文字，去【小红书】解锁完整内容~ \n\n宝宝我录过教程！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571743591650963461",
+        "conversation_id": "2077239504675676504",
+        "created_at": "2026-08-27T02:09:52.000Z",
+        "display_text_range": [
+          15,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T03:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092796710418559267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "Sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092796710418559267",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077239504675676504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura2333owo 太萌了大蛋卷！怎么做到的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 𓊆ྀི☆雑垢┆͓̽自撮┆͓̽絵┆͓̽アキバ系┆͓̽𝕙𝕚𝕜𝕚𝕜𝕠𝕞𝕠𝕣𝕚❤︎𓊇ྀི 🩵☁️💤All my social media accounts☞🔗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SibY8S"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "is_identity_verified": false,
+        "location": "幻想鄉-貓貓国",
+        "most_recent_tweet_id": "2092851796889010594",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "2003386674555027508",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1508447794537070595/1744903565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980834681206472704/UM9p3GjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37148,
+          "following_count": 297,
+          "like_count": 7929,
+          "listed_count": 79,
+          "media_count": 1209,
+          "tweet_count": 5535
+        },
+        "url": "https://t.co/2M16SibY8S",
+        "username": "Sakura2333owo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-19T06:11:13.000Z",
+        "description": "",
+        "id": "1571743591650963461",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092796710418559267",
+        "name": "優雅女子湯罐",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643499293955985410/wSWp2HY4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 12,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "tomatopsyaca",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
